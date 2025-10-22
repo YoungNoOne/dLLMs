@@ -1,0 +1,8 @@
+token_id,token_str,token_norm,count,unique_runs,dir_pos,dir_neg,dir_zero,categories
+198,Ċ,Ċ,4,2,0,0,0,special_token
+13,.,.,2,1,0,0,0,punctuation;sentence_boundary
+296,Ġin,in,1,1,0,0,0,content_heavy
+3260,ĠHowever,However,1,1,0,0,0,content_heavy;contrast_marker
+6301,Now,Now,1,1,0,0,0,other
+1380,Ġevery,every,1,1,0,0,0,content_heavy
+46674,Ġambition,ambition,1,1,0,0,0,content_heavy
