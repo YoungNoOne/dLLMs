@@ -1,0 +1,58 @@
+[
+  {
+    "category": "special_token",
+    "triggers": 321,
+    "samples": 321,
+    "mean_impact": 0.22649933295062175,
+    "mean_prompt_shift": -0.07763269233998282
+  },
+  {
+    "category": "content_heavy",
+    "triggers": 144,
+    "samples": 144,
+    "mean_impact": 0.09144433351357611,
+    "mean_prompt_shift": -0.06793166422627119
+  },
+  {
+    "category": "punctuation",
+    "triggers": 56,
+    "samples": 56,
+    "mean_impact": 0.13792124536837033,
+    "mean_prompt_shift": 0.03419422231868775
+  },
+  {
+    "category": "other",
+    "triggers": 56,
+    "samples": 56,
+    "mean_impact": 0.13306647627726673,
+    "mean_prompt_shift": 0.05924012942278645
+  },
+  {
+    "category": "sentence_boundary",
+    "triggers": 54,
+    "samples": 54,
+    "mean_impact": 0.1416526776712906,
+    "mean_prompt_shift": 0.03677107356049144
+  },
+  {
+    "category": "contrast_marker",
+    "triggers": 4,
+    "samples": 4,
+    "mean_impact": 0.03353040434923969,
+    "mean_prompt_shift": -0.01705126971297702
+  },
+  {
+    "category": "clause_boundary",
+    "triggers": 2,
+    "samples": 2,
+    "mean_impact": 0.03717257318952234,
+    "mean_prompt_shift": -0.03538076121001177
+  },
+  {
+    "category": "cause_marker",
+    "triggers": 1,
+    "samples": 1,
+    "mean_impact": 0.028965212264150945,
+    "mean_prompt_shift": -0.026728194881201928
+  }
+]

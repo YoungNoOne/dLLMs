@@ -1,0 +1,41 @@
+{
+  "name": "dying_star_poem",
+  "prompt": "Astronomers translate the final light of a dying star into poetry. Write the verse it leaves behind.",
+  "decoded": "In twilight's gentle embrace,\nA star fades with tender grace,\nIts last light a soft glow,\nA whisper in the night.\n\nIts memory, a fleeting dream,\nIn the universe's vast sea,\nA dance of light and shadow,\nA tale of what could be.",
+  "events_count": 1,
+  "max_mean_delta": 0.28739206414473684,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.28739206414473684,
+      "median_impact": 0.28739206414473684,
+      "mean_prompt_shift": -0.28479053327429155
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.28739206414473684,
+      "median_impact": 0.28739206414473684,
+      "mean_prompt_shift": -0.28479053327429155
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 26,
+      "token_pos": 62,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,42 @@
+{
+  "name": "dream_auction",
+  "prompt": "Dreams are traded like currency. Some buy nightmares for thrill, others sell childhood dreams to pay rent. Tonight, your favorite dream goes up for auction.",
+  "decoded": "That sounds like a fascinating and surreal scenario. Do you think it's possible for dreams to be traded like currency, or is it just a fictional concept?",
+  "events_count": 2,
+  "max_mean_delta": 0.148193359375,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.10997747605846775,
+      "median_impact": 0.10997747605846775,
+      "mean_prompt_shift": -0.10219158571603126
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 32,
+      "token_pos": 75,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 33,
+      "token_pos": 76,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

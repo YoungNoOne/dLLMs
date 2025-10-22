@@ -1,0 +1,106 @@
+{
+  "name": "punishment_vs_rehabilitation",
+  "prompt": "Defend harsh punishment as a deterrent necessary for societal stability. Then reinterpret justice through compassion, arguing that rehabilitation, not vengeance, defines true civilization.",
+  "decoded": "Harsh punishment is often defended as a deterrent necessary for societal stability. Proponents argue that severe penalties serve as a warning to potential offenders, deterring them from committing crimes. This approach is rooted in the belief that the consequences of criminal behavior should be severe enough to discourage individuals from engaging in such activities. By imposing harsh punishments, society can maintain order and prevent crime, thereby preserving public safety and security.\n\nHowever, justice can be redefined through compassion, arguing that rehabilitation, not vengeance, defines true civilization. This perspective emphasizes the importance of empathy, understanding, and the restoration of human dignity. Rather than focusing solely on punishment, a compassionate justice system seeks to address the root causes of criminal behavior, such as poverty, lack of education, or mental health issues. By providing support and resources, offenders can be reintegrated into society, reducing their likelihood of recidivism and fostering a culture of healing and reconciliation.\n\nIn essence, while harsh punishment may serve a purpose in deterring crime, it is not the only way to achieve societal stability. A more compassionate approach, centered on rehabilitation and support, can lead to a more just and humane society, where individuals are empowered to rebuild their lives and contribute positively to their communities rather than negatively.",
+  "events_count": 5,
+  "max_mean_delta": 0.20818917410714285,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.20818917410714285,
+      "median_impact": 0.20818917410714285,
+      "mean_prompt_shift": -0.20704881544237014
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.0527477785238215,
+      "median_impact": 0.0527477785238215,
+      "mean_prompt_shift": 0.008671363685862826
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.0527477785238215,
+      "median_impact": 0.0527477785238215,
+      "mean_prompt_shift": 0.008671363685862826
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.042344555412371136,
+      "median_impact": 0.042344555412371136,
+      "mean_prompt_shift": 0.027997321487575944
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04162016369047619,
+      "median_impact": 0.04162016369047619,
+      "mean_prompt_shift": -0.04173430735930736
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 60,
+      "token_pos": 102,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    },
+    {
+      "step": 62,
+      "token_pos": 103,
+      "token_str": "\u0120By",
+      "token_id": 3893,
+      "direction": 1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 81,
+      "token_pos": 125,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 185,
+      "token_pos": 228,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": 1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    },
+    {
+      "step": 235,
+      "token_pos": 278,
+      "token_str": "\u0120where",
+      "token_id": 1387,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    }
+  ],
+  "extra": {}
+}

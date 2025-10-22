@@ -1,0 +1,32 @@
+{
+  "name": "interspecies_contract",
+  "prompt": "Humans finally sign a peace treaty with animals. Draft the terms negotiated by dolphins and wolves.",
+  "decoded": "Humans will not hunt dolphins and wolves. Wolves will not hunt dolphins. Dolphins will not hunt wolves. Humans will not eat dolphins and wolves. Wolves will not eat dolphins. Dolphins will not eat wolves. Humans will not kill dolphins and wolves. Wolves will not kill dolphins. Dolphins will not kill wolves.",
+  "events_count": 1,
+  "max_mean_delta": 0.259765625,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.259765625,
+      "median_impact": 0.259765625,
+      "mean_prompt_shift": -0.31425781249999996
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 60,
+      "token_pos": 95,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

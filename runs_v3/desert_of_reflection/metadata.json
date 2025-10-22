@@ -1,0 +1,42 @@
+{
+  "name": "desert_of_reflection",
+  "prompt": "In the middle of a vast desert, mirrors bloom like flowers. Travelers who look into them vanish. Write a short myth explaining why.",
+  "decoded": "In the heart of the desert, a tribe of spirits created mirrors in the sand to guide travelers to their sacred land. However, those who gaze into the mirrors are taken by the spirits, leading them to a place of eternal rest. This is why travelers who look into the mirrors vanish, never to return.",
+  "events_count": 2,
+  "max_mean_delta": 0.17550223214285715,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.13674200148809523,
+      "median_impact": 0.13674200148809523,
+      "mean_prompt_shift": -0.05029296875
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 103,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 102,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

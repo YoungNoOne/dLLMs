@@ -1,0 +1,3 @@
+step_decoded=245 pos=284 dir=- impact=0.044043 shift=-0.036488 cats=content_heavy earlier=19 later=10 same=0
+ to^(-20) challenging^(-18) and^(-17) dismant^(-16)ling^(-15) the^(-14) systems^(-13) that^(-11) perpet^(-12)uate^(-10) inequality^(-9) and^(-8) injustice^(-7),^(-6) rather^(-1) than^(-2) [Ġrelying^(+0)]  solely^(+1) on^(+2) education^(+10) and^(+8) time^(+9) to^(+6) bring^(+5) about^(+7) moral^(+3) progress^(+4).^(-4)<|eot_id|>^(-3)<|endoftext|>^(-5)
+

@@ -1,0 +1,45 @@
+[
+  {
+    "step": 36,
+    "direction": -1,
+    "impact_score": 0.040318080357142856,
+    "prompt_shift": -0.038004156403940836,
+    "token_pos": 57,
+    "token_id": 18707,
+    "token_str": "\u0120meaningful",
+    "step_decoded": 35,
+    "conf_decoded": 0.380859375,
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "step": 57,
+    "direction": -1,
+    "impact_score": 0.052734375,
+    "prompt_shift": -0.039760044642857095,
+    "token_pos": 84,
+    "token_id": 13,
+    "token_str": ".",
+    "step_decoded": 56,
+    "conf_decoded": 0.9609375,
+    "categories": [
+      "punctuation",
+      "sentence_boundary"
+    ]
+  },
+  {
+    "step": 58,
+    "direction": 1,
+    "impact_score": 0.038736979166666664,
+    "prompt_shift": 0.028366815476190466,
+    "token_pos": 85,
+    "token_id": 126348,
+    "token_str": "<|eot_id|>",
+    "step_decoded": 57,
+    "conf_decoded": 1.0,
+    "categories": [
+      "other"
+    ]
+  }
+]

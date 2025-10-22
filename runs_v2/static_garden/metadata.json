@@ -1,0 +1,42 @@
+{
+  "name": "static_garden",
+  "prompt": "Every plant in this garden is made of radio static\u2014buzzing, flickering, alive with invisible signals. When you walk through, the static forms words just for you.",
+  "decoded": "What a fascinating and surreal garden! It sounds like a place where the natural world and technology intersect in a unique and enchanting way. Can you imagine what it would be like to walk through such a garden? Would it be a peaceful and calming experience, or would it be more like a mysterious and intriguing adventure?",
+  "events_count": 2,
+  "max_mean_delta": 0.04241071428571429,
+  "max_sign_agreement": 0.9803921568627451,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04066001400560224,
+      "median_impact": 0.04066001400560224,
+      "mean_prompt_shift": -0.039626896158375946
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 13,
+      "token_pos": 61,
+      "token_str": "\u0120where",
+      "token_id": 1387,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 43,
+      "token_pos": 91,
+      "token_str": "\u0120it",
+      "token_id": 403,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    }
+  ],
+  "extra": {}
+}

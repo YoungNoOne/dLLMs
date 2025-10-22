@@ -1,0 +1,36 @@
+{
+  "name": "emotion_conflict",
+  "prompt": "Describe a moment when logic and emotion lead to opposite decisions.",
+  "decoded": "When deciding whether to accept a job offer, logic might suggest that accepting the offer would be the best financial decision, but emotions such as fear of leaving the current job or fear of the unknown might lead someone to reject the offer. In this case, logic and emotion are opposing forces that lead to different decisions.",
+  "events_count": 2,
+  "max_mean_delta": 0.26255580357142855,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.26255580357142855,
+      "median_impact": 0.26255580357142855,
+      "mean_prompt_shift": -0.29248046875
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2177734375,
+      "median_impact": 0.2177734375,
+      "mean_prompt_shift": 0.21028645833333337
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2177734375,
+      "median_impact": 0.2177734375,
+      "mean_prompt_shift": 0.21028645833333337
+    }
+  ],
+  "extra": {}
+}

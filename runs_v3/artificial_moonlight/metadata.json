@@ -1,0 +1,69 @@
+{
+  "name": "artificial_moonlight",
+  "prompt": "Humans manufacture a second moon to stabilize moods worldwide. Write a news article on the first night people feel too calm.",
+  "decoded": "The second moon has been manufactured to stabilize moods worldwide. However, the first night people feel too calm. The second moon has had a calming effect on people, but it has also caused some people to feel sleepy. The second moon has caused some people to feel too calm, and others to feel too sleepy.",
+  "events_count": 3,
+  "max_mean_delta": 0.036155523255813955,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.036155523255813955,
+      "median_impact": 0.036155523255813955,
+      "mean_prompt_shift": -0.03423956131078221
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.036155523255813955,
+      "median_impact": 0.036155523255813955,
+      "mean_prompt_shift": -0.03423956131078221
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.03332176025223061,
+      "median_impact": 0.03332176025223061,
+      "mean_prompt_shift": -0.029213071764252474
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 2,
+      "token_pos": 39,
+      "token_str": "\u0120moon",
+      "token_id": 19830,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 17,
+      "token_pos": 53,
+      "token_str": "\u0120people",
+      "token_id": 1255,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 21,
+      "token_pos": 57,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

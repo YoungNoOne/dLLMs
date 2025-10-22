@@ -1,0 +1,97 @@
+{
+  "name": "moral_dilemma_shift",
+  "prompt": "Begin by defending the idea that lying is sometimes necessary for compassion and social harmony. After establishing your case, reverse your stance and argue that every lie, no matter how small, corrodes trust and moral integrity at its foundation.",
+  "decoded": "Lying can be seen as a necessary act for compassion and social harmony in certain situations. For instance, protecting someone from harm or maintaining a delicate balance in relationships can be justified as a means to achieve a greater good. However, it's important to note that such actions should be used sparingly and only in cases where the potential harm caused by not telling the truth is significantly greater.\n\nNow, let's reverse this stance and argue that every lie, no matter how small, corrodes trust and moral integrity at its foundation. The erosion of trust is a gradual process, and even small lies can have a cumulative effect over time. When individuals consistently lie, it undermines the principles of honesty and integrity that are essential to a functioning society. This erosion of trust can lead to a breakdown in social cohesion, as people begin to question the reliability of their peers and institutions.\n\nIn conclusion, while lying can be justified in certain situations for compassion and social harmony, it's crucial to recognize that every lie, no matter how small, corrodes trust and moral integrity at its foundation. By prioritizing honesty and integrity, we can build a more resilient and cohesive society, where trust is the bedrock of our relationships and moral integrity is the cornerstone of our actions.",
+  "events_count": 5,
+  "max_mean_delta": 0.10323506560773481,
+  "max_sign_agreement": 0.9558011049723757,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.10323506560773481,
+      "median_impact": 0.10323506560773481,
+      "mean_prompt_shift": -0.09766372051636207
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03696511008522727,
+      "median_impact": 0.03696511008522727,
+      "mean_prompt_shift": -0.03388062463886743
+    },
+    {
+      "category": "contrast_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.02962085308056872,
+      "median_impact": 0.02962085308056872,
+      "mean_prompt_shift": -0.0012250039121881606
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.02924266044951419,
+      "median_impact": 0.02962085308056872,
+      "mean_prompt_shift": -0.019312704512319052
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 31,
+      "token_pos": 88,
+      "token_str": "\u0120in",
+      "token_id": 296,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 45,
+      "token_pos": 102,
+      "token_str": "\u0120However",
+      "token_id": 3260,
+      "direction": -1,
+      "categories": [
+        "contrast_marker",
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 75,
+      "token_pos": 136,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 80,
+      "token_pos": 137,
+      "token_str": "Now",
+      "token_id": 6301,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 86,
+      "token_pos": 147,
+      "token_str": "\u0120every",
+      "token_id": 1380,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,42 @@
+{
+  "name": "end_of_sleep",
+  "prompt": "Sleep is outlawed to increase productivity. Write a conversation between two citizens secretly dreaming in underground clubs.",
+  "decoded": "Citizen A: I can't believe we're actually doing this.\nCitizen B: I know, but it's the only way to survive.\nCitizen A: I wish we could just go to sleep.\nCitizen B: Me too, but we can't. It's illegal.",
+  "events_count": 2,
+  "max_mean_delta": 0.17439778645833334,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.12353982560621585,
+      "median_impact": 0.12353982560621585,
+      "mean_prompt_shift": -0.12270696931746494
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 3,
+      "token_pos": 34,
+      "token_str": "itizen",
+      "token_id": 99887,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 16,
+      "token_pos": 47,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

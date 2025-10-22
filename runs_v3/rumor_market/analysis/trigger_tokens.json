@@ -1,0 +1,44 @@
+[
+  {
+    "step": 45,
+    "direction": -1,
+    "impact_score": 0.2876233552631579,
+    "prompt_shift": -0.28593749999999996,
+    "token_pos": 79,
+    "token_id": 126081,
+    "token_str": "<|endoftext|>",
+    "step_decoded": 44,
+    "conf_decoded": 1.0,
+    "categories": [
+      "special_token"
+    ]
+  },
+  {
+    "step": 53,
+    "direction": -1,
+    "impact_score": 0.38960404829545453,
+    "prompt_shift": -0.382516571969697,
+    "token_pos": 87,
+    "token_id": 126081,
+    "token_str": "<|endoftext|>",
+    "step_decoded": 52,
+    "conf_decoded": 1.0,
+    "categories": [
+      "special_token"
+    ]
+  },
+  {
+    "step": 58,
+    "direction": 1,
+    "impact_score": 0.2781575520833333,
+    "prompt_shift": 0.27901785714285715,
+    "token_pos": 92,
+    "token_id": 126081,
+    "token_str": "<|endoftext|>",
+    "step_decoded": 57,
+    "conf_decoded": 1.0,
+    "categories": [
+      "special_token"
+    ]
+  }
+]

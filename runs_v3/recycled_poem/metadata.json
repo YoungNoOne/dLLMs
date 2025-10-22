@@ -1,0 +1,41 @@
+{
+  "name": "recycled_poem",
+  "prompt": "Write a poem entirely made of overheard fragments from a busy street.",
+  "decoded": "A man standing on the corner.\nA woman sitting on the bench.\nA man standing on the corner.\nA woman sitting on the bench.\nA man standing on the corner.\nA woman sitting on the bench.\nA man standing on the corner.\nA woman sitting on the bench.",
+  "events_count": 1,
+  "max_mean_delta": 0.29586693548387094,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.29586693548387094,
+      "median_impact": 0.29586693548387094,
+      "mean_prompt_shift": -0.2955099126344085
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.29586693548387094,
+      "median_impact": 0.29586693548387094,
+      "mean_prompt_shift": -0.2955099126344085
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 2,
+      "token_pos": 33,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

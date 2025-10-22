@@ -1,0 +1,50 @@
+{
+  "name": "post_emotion_world",
+  "prompt": "After a global catastrophe, humans evolve beyond emotions. Write the transcript of an archaeologist teaching a new species what 'love' once meant.",
+  "decoded": "Archaeologist: \"In the past, love was a complex emotion that involved deep connections, trust, and care. It was a way of forming strong bonds and caring for each other. Now, humans have evolved beyond emotions, but the concept of love remains a significant part of our shared history and culture.\"",
+  "events_count": 2,
+  "max_mean_delta": 0.2592075892857143,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2592075892857143,
+      "median_impact": 0.2592075892857143,
+      "mean_prompt_shift": -0.29129464285714285
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.206640625,
+      "median_impact": 0.206640625,
+      "mean_prompt_shift": 0.19882812500000002
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 104,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 59,
+      "token_pos": 102,
+      "token_str": ".\"",
+      "token_id": 1904,
+      "direction": 1,
+      "categories": [
+        "other"
+      ]
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,103 @@
+{
+  "name": "punishment_vs_rehabilitation",
+  "prompt": "Defend harsh punishment as a deterrent necessary for societal stability. Then reinterpret justice through compassion, arguing that rehabilitation, not vengeance, defines true civilization.",
+  "decoded": "Harsh punishment is often defended as a deterrent necessary for societal stability. Proponents argue that severe penalties serve as a warning to potential offenders, deterring them from committing crimes. This approach is rooted in the belief that the consequences of criminal behavior should be severe enough to discourage individuals from engaging in such activities. By imposing harsh punishments, society can maintain order and prevent crime, thereby preserving public safety and security.\n\nHowever, justice can be redefined through compassion, arguing that rehabilitation, not vengeance, defines true civilization. This perspective emphasizes the importance of empathy, understanding, and the restoration of human dignity. Rather than focusing solely on punishment, a compassionate justice system seeks to address the root causes of criminal behavior, such as poverty, lack of education, or mental health issues. By providing support and resources, offenders can be reintegrated into society, reducing their likelihood of recidivism and fostering a culture of healing and reconciliation.\n\nIn essence, while harsh punishment may serve a purpose in deterring crime, it is not the only way to achieve societal stability. A more compassionate approach, centered on rehabilitation and support, can lead to a more just and humane society, where individuals are empowered to rebuild their lives and contribute positively to their communities rather than negatively.",
+  "events_count": 7,
+  "max_mean_delta": 0.20818917410714285,
+  "max_sign_agreement": 1.0,
+  "token_count": 7,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.20818917410714285,
+      "median_impact": 0.20818917410714285,
+      "mean_prompt_shift": -0.20704881544237014
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.04981362318254767,
+      "median_impact": 0.04494180484693878,
+      "mean_prompt_shift": -0.011614304169742249
+    },
+    {
+      "category": "punctuation",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.04981362318254767,
+      "median_impact": 0.04494180484693878,
+      "mean_prompt_shift": -0.011614304169742249
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04230153906982193,
+      "median_impact": 0.04230153906982193,
+      "mean_prompt_shift": 0.035009550895303124
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04162016369047619,
+      "median_impact": 0.04162016369047619,
+      "mean_prompt_shift": -0.04173430735930736
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 59,
+      "direction": -1,
+      "mean_delta": 0.04494180484693878,
+      "sign_agreement": 0.9948979591836735,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 61,
+      "direction": 1,
+      "mean_delta": 0.042344555412371136,
+      "sign_agreement": 0.9020618556701031,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 80,
+      "direction": -1,
+      "mean_delta": 0.20818917410714285,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 184,
+      "direction": 1,
+      "mean_delta": 0.060553752200704226,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 234,
+      "direction": -1,
+      "mean_delta": 0.04162016369047619,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 241,
+      "direction": -1,
+      "mean_delta": 0.0439453125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 244,
+      "direction": 1,
+      "mean_delta": 0.04225852272727273,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

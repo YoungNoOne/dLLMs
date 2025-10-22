@@ -1,0 +1,931 @@
+[
+  {
+    "token_id": 126081,
+    "token_str": "<|endoftext|>",
+    "token_norm": "<|endoftext|>",
+    "count": 46,
+    "runs": [
+      "algorithmic_religion",
+      "artificial_grief",
+      "candle_internet",
+      "child_of_algorithms",
+      "city_after_rain",
+      "dream_auction",
+      "echo_city",
+      "eclipse_market",
+      "endless_staircase",
+      "endless_winter",
+      "forgotten_clock",
+      "forgotten_god",
+      "future_museum",
+      "glass_ocean",
+      "gravity_reversed",
+      "hunger_of_light",
+      "insomnia_market",
+      "last_library",
+      "last_photograph",
+      "library_of_endings",
+      "magnetic_silence",
+      "mirror_oracle",
+      "moon_signature",
+      "museum_of_smells",
+      "nostalgia_virus",
+      "orchestra_of_wind",
+      "painted_rain",
+      "paper_moon",
+      "philosopher_machine",
+      "posthuman_poet",
+      "quantum_confession",
+      "shadows_hunger",
+      "silent_rebellion",
+      "symphony_of_data",
+      "synthetic_soul",
+      "whispering_archives"
+    ],
+    "occurrences": [
+      {
+        "run": "forgotten_clock",
+        "step": 57
+      },
+      {
+        "run": "glass_ocean",
+        "step": 57
+      },
+      {
+        "run": "whispering_archives",
+        "step": 57
+      },
+      {
+        "run": "city_after_rain",
+        "step": 59
+      },
+      {
+        "run": "child_of_algorithms",
+        "step": 57
+      },
+      {
+        "run": "magnetic_silence",
+        "step": 57
+      },
+      {
+        "run": "museum_of_smells",
+        "step": 57
+      },
+      {
+        "run": "endless_staircase",
+        "step": 58
+      },
+      {
+        "run": "paper_moon",
+        "step": 57
+      },
+      {
+        "run": "hunger_of_light",
+        "step": 58
+      },
+      {
+        "run": "orchestra_of_wind",
+        "step": 57
+      },
+      {
+        "run": "philosopher_machine",
+        "step": 35
+      },
+      {
+        "run": "philosopher_machine",
+        "step": 37
+      },
+      {
+        "run": "last_library",
+        "step": 57
+      },
+      {
+        "run": "mirror_oracle",
+        "step": 54
+      },
+      {
+        "run": "mirror_oracle",
+        "step": 57
+      },
+      {
+        "run": "algorithmic_religion",
+        "step": 57
+      },
+      {
+        "run": "painted_rain",
+        "step": 57
+      },
+      {
+        "run": "insomnia_market",
+        "step": 57
+      },
+      {
+        "run": "forgotten_god",
+        "step": 37
+      },
+      {
+        "run": "gravity_reversed",
+        "step": 57
+      },
+      {
+        "run": "endless_winter",
+        "step": 55
+      },
+      {
+        "run": "endless_winter",
+        "step": 56
+      },
+      {
+        "run": "endless_winter",
+        "step": 59
+      },
+      {
+        "run": "endless_winter",
+        "step": 60
+      },
+      {
+        "run": "synthetic_soul",
+        "step": 42
+      },
+      {
+        "run": "library_of_endings",
+        "step": 57
+      },
+      {
+        "run": "shadows_hunger",
+        "step": 57
+      },
+      {
+        "run": "silent_rebellion",
+        "step": 57
+      },
+      {
+        "run": "posthuman_poet",
+        "step": 57
+      },
+      {
+        "run": "candle_internet",
+        "step": 57
+      },
+      {
+        "run": "future_museum",
+        "step": 38
+      },
+      {
+        "run": "dream_auction",
+        "step": 33
+      },
+      {
+        "run": "moon_signature",
+        "step": 57
+      },
+      {
+        "run": "nostalgia_virus",
+        "step": 57
+      },
+      {
+        "run": "symphony_of_data",
+        "step": 57
+      },
+      {
+        "run": "quantum_confession",
+        "step": 60
+      },
+      {
+        "run": "echo_city",
+        "step": 57
+      },
+      {
+        "run": "artificial_grief",
+        "step": 13
+      },
+      {
+        "run": "artificial_grief",
+        "step": 16
+      },
+      {
+        "run": "eclipse_market",
+        "step": 13
+      },
+      {
+        "run": "eclipse_market",
+        "step": 58
+      },
+      {
+        "run": "eclipse_market",
+        "step": 59
+      },
+      {
+        "run": "eclipse_market",
+        "step": 60
+      },
+      {
+        "run": "last_photograph",
+        "step": 25
+      },
+      {
+        "run": "last_photograph",
+        "step": 56
+      }
+    ],
+    "categories": [
+      "special_token"
+    ]
+  },
+  {
+    "token_id": 126348,
+    "token_str": "<|eot_id|>",
+    "token_norm": "<|eot_id|>",
+    "count": 23,
+    "runs": [
+      "candle_internet",
+      "city_after_rain",
+      "dream_auction",
+      "echo_city",
+      "endless_staircase",
+      "forgotten_clock",
+      "glass_ocean",
+      "gravity_reversed",
+      "last_library",
+      "magnetic_silence",
+      "museum_of_smells",
+      "nostalgia_virus",
+      "orchestra_of_wind",
+      "painted_rain",
+      "paper_moon",
+      "philosopher_machine",
+      "posthuman_poet",
+      "quiet_disaster",
+      "shadows_hunger",
+      "silent_rebellion",
+      "storm_memory",
+      "symphony_of_data",
+      "whispering_archives"
+    ],
+    "occurrences": [
+      {
+        "run": "forgotten_clock",
+        "step": 58
+      },
+      {
+        "run": "glass_ocean",
+        "step": 58
+      },
+      {
+        "run": "whispering_archives",
+        "step": 59
+      },
+      {
+        "run": "city_after_rain",
+        "step": 60
+      },
+      {
+        "run": "magnetic_silence",
+        "step": 60
+      },
+      {
+        "run": "museum_of_smells",
+        "step": 58
+      },
+      {
+        "run": "endless_staircase",
+        "step": 55
+      },
+      {
+        "run": "paper_moon",
+        "step": 58
+      },
+      {
+        "run": "orchestra_of_wind",
+        "step": 58
+      },
+      {
+        "run": "philosopher_machine",
+        "step": 36
+      },
+      {
+        "run": "last_library",
+        "step": 59
+      },
+      {
+        "run": "painted_rain",
+        "step": 59
+      },
+      {
+        "run": "gravity_reversed",
+        "step": 58
+      },
+      {
+        "run": "shadows_hunger",
+        "step": 58
+      },
+      {
+        "run": "silent_rebellion",
+        "step": 58
+      },
+      {
+        "run": "posthuman_poet",
+        "step": 58
+      },
+      {
+        "run": "storm_memory",
+        "step": 29
+      },
+      {
+        "run": "candle_internet",
+        "step": 58
+      },
+      {
+        "run": "dream_auction",
+        "step": 32
+      },
+      {
+        "run": "quiet_disaster",
+        "step": 58
+      },
+      {
+        "run": "nostalgia_virus",
+        "step": 58
+      },
+      {
+        "run": "symphony_of_data",
+        "step": 58
+      },
+      {
+        "run": "echo_city",
+        "step": 58
+      }
+    ],
+    "categories": [
+      "special_token"
+    ]
+  },
+  {
+    "token_id": 13,
+    "token_str": ".",
+    "token_norm": ".",
+    "count": 11,
+    "runs": [
+      "algorithmic_religion",
+      "child_of_algorithms",
+      "hunger_of_light",
+      "insomnia_market",
+      "magnetic_silence",
+      "moon_signature",
+      "ocean_of_voices",
+      "painted_rain",
+      "quiet_disaster",
+      "rewound_day",
+      "synthetic_soul"
+    ],
+    "occurrences": [
+      {
+        "run": "child_of_algorithms",
+        "step": 58
+      },
+      {
+        "run": "magnetic_silence",
+        "step": 59
+      },
+      {
+        "run": "hunger_of_light",
+        "step": 59
+      },
+      {
+        "run": "algorithmic_religion",
+        "step": 58
+      },
+      {
+        "run": "painted_rain",
+        "step": 58
+      },
+      {
+        "run": "insomnia_market",
+        "step": 58
+      },
+      {
+        "run": "ocean_of_voices",
+        "step": 9
+      },
+      {
+        "run": "synthetic_soul",
+        "step": 23
+      },
+      {
+        "run": "quiet_disaster",
+        "step": 57
+      },
+      {
+        "run": "moon_signature",
+        "step": 58
+      },
+      {
+        "run": "rewound_day",
+        "step": 49
+      }
+    ],
+    "categories": [
+      "punctuation",
+      "sentence_boundary"
+    ]
+  },
+  {
+    "token_id": 1387,
+    "token_str": "\u0120where",
+    "token_norm": "where",
+    "count": 2,
+    "runs": [
+      "carbon_echo",
+      "static_garden"
+    ],
+    "occurrences": [
+      {
+        "run": "static_garden",
+        "step": 13
+      },
+      {
+        "run": "carbon_echo",
+        "step": 11
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 10277,
+    "token_str": "\u0120sounds",
+    "token_norm": "sounds",
+    "count": 2,
+    "runs": [
+      "carbon_echo",
+      "invisible_painting"
+    ],
+    "occurrences": [
+      {
+        "run": "invisible_painting",
+        "step": 1
+      },
+      {
+        "run": "carbon_echo",
+        "step": 2
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 198,
+    "token_str": "\u010a",
+    "token_norm": "\u010a",
+    "count": 1,
+    "runs": [
+      "cosmic_postman"
+    ],
+    "occurrences": [
+      {
+        "run": "cosmic_postman",
+        "step": 24
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 2228,
+    "token_str": "man",
+    "token_norm": "man",
+    "count": 1,
+    "runs": [
+      "cosmic_postman"
+    ],
+    "occurrences": [
+      {
+        "run": "cosmic_postman",
+        "step": 25
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 477,
+    "token_str": "\u0120\"",
+    "token_norm": "\"",
+    "count": 1,
+    "runs": [
+      "cosmic_postman"
+    ],
+    "occurrences": [
+      {
+        "run": "cosmic_postman",
+        "step": 36
+      }
+    ],
+    "categories": [
+      "bracket",
+      "punctuation"
+    ]
+  },
+  {
+    "token_id": 403,
+    "token_str": "\u0120it",
+    "token_norm": "it",
+    "count": 1,
+    "runs": [
+      "static_garden"
+    ],
+    "occurrences": [
+      {
+        "run": "static_garden",
+        "step": 43
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 678,
+    "token_str": "The",
+    "token_norm": "The",
+    "count": 1,
+    "runs": [
+      "broken_constellations"
+    ],
+    "occurrences": [
+      {
+        "run": "broken_constellations",
+        "step": 1
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 1255,
+    "token_str": "\u0120people",
+    "token_norm": "people",
+    "count": 1,
+    "runs": [
+      "broken_constellations"
+    ],
+    "occurrences": [
+      {
+        "run": "broken_constellations",
+        "step": 11
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 14250,
+    "token_str": "\u0120sky",
+    "token_norm": "sky",
+    "count": 1,
+    "runs": [
+      "broken_constellations"
+    ],
+    "occurrences": [
+      {
+        "run": "broken_constellations",
+        "step": 25
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 942,
+    "token_str": "ink",
+    "token_norm": "ink",
+    "count": 1,
+    "runs": [
+      "broken_constellations"
+    ],
+    "occurrences": [
+      {
+        "run": "broken_constellations",
+        "step": 36
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 22558,
+    "token_str": "\u0120compassion",
+    "token_norm": "compassion",
+    "count": 1,
+    "runs": [
+      "empathy_code"
+    ],
+    "occurrences": [
+      {
+        "run": "empathy_code",
+        "step": 7
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 18769,
+    "token_str": "\u0120happiness",
+    "token_norm": "happiness",
+    "count": 1,
+    "runs": [
+      "memory_tax"
+    ],
+    "occurrences": [
+      {
+        "run": "memory_tax",
+        "step": 16
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 963,
+    "token_str": "\u0120It",
+    "token_norm": "It",
+    "count": 1,
+    "runs": [
+      "memory_tax"
+    ],
+    "occurrences": [
+      {
+        "run": "memory_tax",
+        "step": 47
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 894,
+    "token_str": "ors",
+    "token_norm": "ors",
+    "count": 1,
+    "runs": [
+      "ocean_of_voices"
+    ],
+    "occurrences": [
+      {
+        "run": "ocean_of_voices",
+        "step": 28
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 11021,
+    "token_str": "\u0120Have",
+    "token_norm": "Have",
+    "count": 1,
+    "runs": [
+      "ink_dreams"
+    ],
+    "occurrences": [
+      {
+        "run": "ink_dreams",
+        "step": 39
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 36133,
+    "token_str": "\u0120tattoo",
+    "token_norm": "tattoo",
+    "count": 1,
+    "runs": [
+      "ink_dreams"
+    ],
+    "occurrences": [
+      {
+        "run": "ink_dreams",
+        "step": 43
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 30,
+    "token_str": "?",
+    "token_norm": "?",
+    "count": 1,
+    "runs": [
+      "library_of_endings"
+    ],
+    "occurrences": [
+      {
+        "run": "library_of_endings",
+        "step": 59
+      }
+    ],
+    "categories": [
+      "punctuation",
+      "sentence_boundary"
+    ]
+  },
+  {
+    "token_id": 1040,
+    "token_str": "\u0120than",
+    "token_norm": "than",
+    "count": 1,
+    "runs": [
+      "garden_of_errors"
+    ],
+    "occurrences": [
+      {
+        "run": "garden_of_errors",
+        "step": 54
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 16211,
+    "token_str": "\u0120scenario",
+    "token_norm": "scenario",
+    "count": 1,
+    "runs": [
+      "invisible_painting"
+    ],
+    "occurrences": [
+      {
+        "run": "invisible_painting",
+        "step": 8
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 11797,
+    "token_str": "\u0120hidden",
+    "token_norm": "hidden",
+    "count": 1,
+    "runs": [
+      "invisible_painting"
+    ],
+    "occurrences": [
+      {
+        "run": "invisible_painting",
+        "step": 48
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 1053,
+    "token_str": "\u0120what",
+    "token_norm": "what",
+    "count": 1,
+    "runs": [
+      "invisible_painting"
+    ],
+    "occurrences": [
+      {
+        "run": "invisible_painting",
+        "step": 60
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 1029,
+    "token_str": "\u0120like",
+    "token_norm": "like",
+    "count": 1,
+    "runs": [
+      "rewound_day"
+    ],
+    "occurrences": [
+      {
+        "run": "rewound_day",
+        "step": 51
+      }
+    ],
+    "categories": [
+      "content_heavy",
+      "filler_marker"
+    ]
+  },
+  {
+    "token_id": 501,
+    "token_str": "\u0120this",
+    "token_norm": "this",
+    "count": 1,
+    "runs": [
+      "rewound_day"
+    ],
+    "occurrences": [
+      {
+        "run": "rewound_day",
+        "step": 55
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 1077,
+    "token_str": "\u0120This",
+    "token_norm": "This",
+    "count": 1,
+    "runs": [
+      "carbon_echo"
+    ],
+    "occurrences": [
+      {
+        "run": "carbon_echo",
+        "step": 34
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 1775,
+    "token_str": "\u0120being",
+    "token_norm": "being",
+    "count": 1,
+    "runs": [
+      "carbon_echo"
+    ],
+    "occurrences": [
+      {
+        "run": "carbon_echo",
+        "step": 54
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 362,
+    "token_str": "\u0120you",
+    "token_norm": "you",
+    "count": 1,
+    "runs": [
+      "sleeping_universe"
+    ],
+    "occurrences": [
+      {
+        "run": "sleeping_universe",
+        "step": 43
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 9070,
+    "token_str": "\u0120explore",
+    "token_norm": "explore",
+    "count": 1,
+    "runs": [
+      "sleeping_universe"
+    ],
+    "occurrences": [
+      {
+        "run": "sleeping_universe",
+        "step": 47
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  }
+]

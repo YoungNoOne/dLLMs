@@ -1,0 +1,42 @@
+{
+  "name": "auction_of_names",
+  "prompt": "Names are no longer assigned at birth but sold at auction. Write an auctioneer\u2019s speech as they present a name everyone wants.",
+  "decoded": "Ladies and gentlemen, I am thrilled to present to you a name that has captured the hearts of many. This name is not just a title, but a legacy, a story, and a dream. Please bid, and let's see who will be the first to claim this precious name. Let's begin!",
+  "events_count": 2,
+  "max_mean_delta": 0.21540178571428573,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.19344308035714286,
+      "median_impact": 0.19344308035714286,
+      "mean_prompt_shift": -0.05516996837797619
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 102,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 59,
+      "token_pos": 101,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

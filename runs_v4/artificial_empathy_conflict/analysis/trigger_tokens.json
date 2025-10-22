@@ -1,0 +1,90 @@
+[
+  {
+    "step": 22,
+    "direction": -1,
+    "impact_score": 0.06338474893162394,
+    "prompt_shift": -0.06294482519549005,
+    "token_pos": 87,
+    "token_id": 13,
+    "token_str": ".",
+    "step_decoded": 21,
+    "conf_decoded": 0.82421875,
+    "categories": [
+      "punctuation",
+      "sentence_boundary"
+    ]
+  },
+  {
+    "step": 23,
+    "direction": 1,
+    "impact_score": 0.04710971030042919,
+    "prompt_shift": 0.045085154845750264,
+    "token_pos": 89,
+    "token_id": 60600,
+    "token_str": "\u0120advancements",
+    "step_decoded": 22,
+    "conf_decoded": 0.251953125,
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "step": 43,
+    "direction": -1,
+    "impact_score": 0.11503264377934272,
+    "prompt_shift": -0.11462104010354957,
+    "token_pos": 110,
+    "token_id": 13,
+    "token_str": ".",
+    "step_decoded": 42,
+    "conf_decoded": 0.91015625,
+    "categories": [
+      "punctuation",
+      "sentence_boundary"
+    ]
+  },
+  {
+    "step": 45,
+    "direction": 1,
+    "impact_score": 0.1419347970971564,
+    "prompt_shift": 0.14321047170509926,
+    "token_pos": 111,
+    "token_id": 3237,
+    "token_str": "\u0120These",
+    "step_decoded": 44,
+    "conf_decoded": 0.67578125,
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "step": 60,
+    "direction": -1,
+    "impact_score": 0.1573760363520408,
+    "prompt_shift": -0.15695599206529065,
+    "token_pos": 126,
+    "token_id": 13,
+    "token_str": ".",
+    "step_decoded": 59,
+    "conf_decoded": 0.46875,
+    "categories": [
+      "punctuation",
+      "sentence_boundary"
+    ]
+  },
+  {
+    "step": 64,
+    "direction": -1,
+    "impact_score": 0.06744384765625,
+    "prompt_shift": -0.043846380731190626,
+    "token_pos": 129,
+    "token_id": 10248,
+    "token_str": "However",
+    "step_decoded": 63,
+    "conf_decoded": 0.419921875,
+    "categories": [
+      "contrast_marker",
+      "content_heavy"
+    ]
+  }
+]

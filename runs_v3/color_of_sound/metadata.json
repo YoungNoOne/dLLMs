@@ -1,0 +1,50 @@
+{
+  "name": "color_of_sound",
+  "prompt": "In this world, every sound has a visible color. A musician accidentally plays a forbidden note. Describe the scene through sight, not hearing.",
+  "decoded": "The musician's fingers dance across the keys, and the sound of the forbidden note manifests as a swirling, swirling vortex of vibrant, unnatural colors. The air is filled with an otherworldly energy, and the colors seem to pulse and shift, creating a mesmerizing display that draws the attention of the audience.",
+  "events_count": 2,
+  "max_mean_delta": 0.03759765625,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03759765625,
+      "median_impact": 0.03759765625,
+      "mean_prompt_shift": 0.009667968749999978
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.031625600961538464,
+      "median_impact": 0.031625600961538464,
+      "mean_prompt_shift": -0.02879512880986934
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 12,
+      "token_pos": 52,
+      "token_str": "\u0120sound",
+      "token_id": 5470,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 60,
+      "token_pos": 100,
+      "token_str": "\u0120the",
+      "token_id": 268,
+      "direction": 1,
+      "categories": [
+        "other"
+      ]
+    }
+  ],
+  "extra": {}
+}

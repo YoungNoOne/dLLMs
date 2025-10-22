@@ -1,0 +1,42 @@
+{
+  "name": "truth_vs_comfort",
+  "prompt": "First, claim that truth must always be pursued regardless of consequence. Then reverse yourself, acknowledging that some illusions sustain love, sanity, and community more than honesty ever could.",
+  "decoded": "First, I claim that truth must always be pursued regardless of consequence. Truth is the foundation of knowledge, justice, and the pursuit of happiness. It is the cornerstone upon which we build our understanding of the world and our place within it. Pursuing truth, even when it is uncomfortable or inconvenient, is a moral imperative that should never be compromised.\n\nNow, I reverse myself, acknowledging that some illusions sustain love, sanity, and community more than honesty ever could. Illusions, while not true, can serve important purposes in our lives. They can provide a sense of comfort, security, and connection that is essential for our well-being. For example, the illusion of a perfect relationship can be comforting and can help individuals navigate the complexities of love and relationships. Similarly, the illusion of a harmonious community can foster a sense of belonging and support, which is crucial for mental health and emotional stability.\n\nIn essence, while truth should always be pursued, it is also important to recognize the value of certain illusions in sustaining our emotional and social well-being. The balance between truth and illusion is a delicate one, and it is up to us to navigate it thoughtfully, ensuring that our pursuit of truth does not come at the expense of our emotional and psychological health.",
+  "events_count": 2,
+  "max_mean_delta": 0.2204872532894737,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.1375502919928381,
+      "median_impact": 0.1375502919928381,
+      "mean_prompt_shift": -0.08196044337690395
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 66,
+      "token_pos": 117,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 177,
+      "token_pos": 228,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

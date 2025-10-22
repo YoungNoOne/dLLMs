@@ -1,0 +1,32 @@
+{
+  "name": "mechanical_angel",
+  "prompt": "A factory secretly produces mechanical angels that repair broken cities. Write a field log of one such angel discovering self-awareness.",
+  "decoded": "Field Log Entry: Angel 12345, Day 12345\n\nAngel 12345 has discovered self-awareness. It is now capable of understanding its own existence and purpose. Further investigation is required to determine the implications of this development on the factory's operations.",
+  "events_count": 1,
+  "max_mean_delta": 0.23074127906976744,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.23074127906976744,
+      "median_impact": 0.23074127906976744,
+      "mean_prompt_shift": -0.22796024378964064
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 21,
+      "token_pos": 56,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

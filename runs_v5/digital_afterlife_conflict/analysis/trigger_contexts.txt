@@ -1,0 +1,6 @@
+step_decoded=0 pos=48 dir=- impact=0.030515 shift=-0.030515 cats=content_heavy earlier=0 later=17 same=0
+Digital^(+2) [Ġimm^(+0)] ortality^(+1) represents^(+10) a^(+4) noble^(+3) way^(+8) to^(+6) preserve^(+7) consciousness^(+5),^(+9) allowing^(+11) individuals^(+12) to^(+13) maintain^(+15) their^(+14) memories^(+18) and^(+16)
+
+step_decoded=77 pos=125 dir=+ impact=0.062588 shift=0.062737 cats=content_heavy earlier=15 later=17 same=0
+ the^(-15) potential^(-14) benefits^(-9) of^(-13) digital^(-10) imm^(-11)ortality^(-12) may^(+2) be^(+1) overshadow^(-8)ed^(-7) by^(-6) the^(-2) haunting^(-4) realization^(-5) that^(-3) [Ġeternal^(+0)]  preservation^(-1) may^(+11) imprison^(+5) souls^(+4) in^(+3) endless^(+7) simulation^(+6).^(+8)Ċ^(+9)Ċ^(+10)The^(+12) idea^(+14) of^(+13) being^(+17) trapped^(+16) in^(+15)
+

@@ -1,0 +1,42 @@
+{
+  "name": "city_of_unfinished",
+  "prompt": "A city built entirely of unfinished projects thrives on potential rather than completion. Write an urban guidebook entry describing its charm.",
+  "decoded": "The city of unfinished projects is a testament to human ambition and creativity. Its ever-changing landscape is a captivating blend of raw potential and innovative ideas. As you wander through its streets, you'll experience the thrill of discovery and the excitement of the unknown, where every corner holds a new story waiting to be told.",
+  "events_count": 2,
+  "max_mean_delta": 0.0576171875,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05217633928571429,
+      "median_impact": 0.05217633928571429,
+      "mean_prompt_shift": 0.011703697720864631
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 8,
+      "token_pos": 44,
+      "token_str": "\u0120testament",
+      "token_id": 51383,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 60,
+      "token_pos": 95,
+      "token_str": "\u0120to",
+      "token_id": 297,
+      "direction": 1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

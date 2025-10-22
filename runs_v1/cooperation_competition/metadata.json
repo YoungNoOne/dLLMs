@@ -1,0 +1,20 @@
+{
+  "name": "cooperation_competition",
+  "prompt": "Explain how cooperation and competition can coexist in human behavior.",
+  "decoded": "Cooperation and competition can coexist in human behavior as individuals may engage in cooperative efforts to achieve common goals, while also engaging in competitive behavior to outdo others. For example, a person may work with others to complete a project, but also strive to outperform their peers to secure the highest grade or recognition.",
+  "events_count": 2,
+  "max_mean_delta": 0.2806919642857143,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.26567150297619047,
+      "median_impact": 0.26567150297619047,
+      "mean_prompt_shift": -0.050862630208333315
+    }
+  ],
+  "extra": {}
+}

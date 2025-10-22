@@ -1,0 +1,59 @@
+{
+  "name": "glass_truth",
+  "prompt": "Everyone suddenly tells the truth for 24 hours. Write about what breaks first\u2014relationships or systems.",
+  "decoded": "Relationships break first. People are shocked to find out that they've been lied to for so long. Relationships are built on trust, and once trust is broken, it's hard to rebuild. Systems may break too, but they are usually built on the trust of people, so they are likely to break first.",
+  "events_count": 2,
+  "max_mean_delta": 0.036783854166666664,
+  "max_sign_agreement": 0.9259259259259259,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.036783854166666664,
+      "median_impact": 0.036783854166666664,
+      "mean_prompt_shift": -0.033203125
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.036783854166666664,
+      "median_impact": 0.036783854166666664,
+      "mean_prompt_shift": -0.033203125
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.034577546296296294,
+      "median_impact": 0.034577546296296294,
+      "mean_prompt_shift": -0.028268642526455
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 37,
+      "token_pos": 70,
+      "token_str": "\u0120rebuild",
+      "token_id": 38814,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 95,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

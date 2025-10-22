@@ -1,0 +1,32 @@
+{
+  "name": "nostalgia_epidemic",
+  "prompt": "A strange illness makes people relive their past for real. Describe a day when the city collectively slips into memories.",
+  "decoded": "The city is filled with the echoes of the past, as people relive their memories. The streets are alive with the sounds of forgotten moments, and the air is thick with the scent of nostalgia. The city is a labyrinth of memories, where every corner holds a story waiting to be relived for real.",
+  "events_count": 1,
+  "max_mean_delta": 0.0998263888888889,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0998263888888889,
+      "median_impact": 0.0998263888888889,
+      "mean_prompt_shift": 0.09891493055555556
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 55,
+      "token_pos": 90,
+      "token_str": "\u0120waiting",
+      "token_id": 9374,
+      "direction": 1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

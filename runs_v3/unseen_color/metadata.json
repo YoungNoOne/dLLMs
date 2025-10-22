@@ -1,0 +1,52 @@
+{
+  "name": "unseen_color",
+  "prompt": "Scientists discover a new color that only appears when you\u2019re alone. Describe its effects.",
+  "decoded": "The new color, named 'Solitude,' emits a soft, calming glow that brings a sense of peace and tranquility. It seems to amplify the feeling of solitude, allowing individuals to connect with their inner selves and find solace in their thoughts. Its presence creates a serene atmosphere, fostering self-reflection and personal growth.",
+  "events_count": 3,
+  "max_mean_delta": 0.04653825431034483,
+  "max_sign_agreement": 0.9827586206896551,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.04096376291021156,
+      "median_impact": 0.04153645833333333,
+      "mean_prompt_shift": -0.013383375373654785
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 6,
+      "token_pos": 36,
+      "token_str": "Sol",
+      "token_id": 45318,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 18,
+      "token_pos": 48,
+      "token_str": "\u0120sense",
+      "token_id": 5209,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 49,
+      "token_pos": 78,
+      "token_str": "\u0120Its",
+      "token_id": 10796,
+      "direction": 1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

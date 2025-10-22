@@ -1,0 +1,20 @@
+{
+  "name": "trust_machine",
+  "prompt": "Discuss why people tend to trust or distrust machines differently from humans.",
+  "decoded": "People tend to trust or distrust machines differently from humans because they are programmed to follow rules and instructions, whereas humans are subject to emotions, biases, and imperfections. Additionally, machines are often seen as more reliable and consistent, while humans are viewed as more unpredictable and prone to errors.",
+  "events_count": 2,
+  "max_mean_delta": 0.2682291666666667,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.21175130208333334,
+      "median_impact": 0.21175130208333334,
+      "mean_prompt_shift": -0.14300944010416666
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,70 @@
+{
+  "name": "posthuman_child",
+  "prompt": "A child born with AI-enhanced cognition begins teaching philosophy at age five. Write an interview excerpt from a skeptical journalist.",
+  "decoded": "\"Can you tell me how you came to be a philosopher at the age of five?\"\n\n\"I was born with AI-enhanced cognition. I was able to learn philosophy at a young age because of my advanced cognitive abilities. I was able to understand complex ideas and explain them to others at a young age.\"",
+  "events_count": 4,
+  "max_mean_delta": 0.046875,
+  "max_sign_agreement": 0.9767441860465116,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04384765625,
+      "median_impact": 0.04384765625,
+      "mean_prompt_shift": -0.026975752667682873
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04206259084302326,
+      "median_impact": 0.04206259084302326,
+      "mean_prompt_shift": 0.006491766318710346
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 21,
+      "token_pos": 56,
+      "token_str": "\"I",
+      "token_id": 11405,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 24,
+      "token_pos": 59,
+      "token_str": "\u0120with",
+      "token_id": 391,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 54,
+      "token_pos": 90,
+      "token_str": "\u0120them",
+      "token_id": 989,
+      "direction": 1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 60,
+      "token_pos": 92,
+      "token_str": "\u0120others",
+      "token_id": 3507,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

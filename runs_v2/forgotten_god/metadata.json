@@ -1,0 +1,32 @@
+{
+  "name": "forgotten_god",
+  "prompt": "A forgotten god wakes after centuries, finding that humanity has outgrown prayer but not longing. It decides to reinvent itself as something mortals cannot ignore.",
+  "decoded": "That sounds like a fascinating concept! How does the god decide to reinvent itself? Does it create a new form of worship or does it become a part of something more tangible?",
+  "events_count": 1,
+  "max_mean_delta": 0.20167824074074073,
+  "max_sign_agreement": 0.8888888888888888,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.20167824074074073,
+      "median_impact": 0.20167824074074073,
+      "mean_prompt_shift": -0.18925161210317454
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 37,
+      "token_pos": 79,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

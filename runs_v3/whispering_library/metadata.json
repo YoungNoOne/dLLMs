@@ -1,0 +1,32 @@
+{
+  "name": "whispering_library",
+  "prompt": "Books in a library begin whispering when no one is watching. What do they say?",
+  "decoded": "The books in the library whisper, \"Quiet is golden.\"",
+  "events_count": 1,
+  "max_mean_delta": 0.11429398148148148,
+  "max_sign_agreement": 0.9259259259259259,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.11429398148148148,
+      "median_impact": 0.11429398148148148,
+      "mean_prompt_shift": -0.11198837331649836
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 10,
+      "token_pos": 45,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

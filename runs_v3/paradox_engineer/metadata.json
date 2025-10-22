@@ -1,0 +1,42 @@
+{
+  "name": "paradox_engineer",
+  "prompt": "Engineers design a machine that can generate paradoxes on command. Write the first paradox it creates that threatens to end logic itself.",
+  "decoded": "If a statement is true, it is false. If a statement is false, it is true.",
+  "events_count": 2,
+  "max_mean_delta": 0.225390625,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.21344401041666666,
+      "median_impact": 0.21344401041666666,
+      "mean_prompt_shift": -0.0771103896103896
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 54,
+      "token_pos": 92,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 96,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

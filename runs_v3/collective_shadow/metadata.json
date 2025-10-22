@@ -1,0 +1,77 @@
+{
+  "name": "collective_shadow",
+  "prompt": "Shadows detach from their owners during eclipses to form communities. Write a manifesto from the Council of Shadows.",
+  "decoded": "We, the Council of Shadows, have formed to protect the darkness of the night from the encroaching light of the sun. We will not allow the light to consume our darkness. We will fight to maintain the balance between light and darkness. We will not let the light of the sun extinguish our darkness.",
+  "events_count": 3,
+  "max_mean_delta": 0.050180288461538464,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.050180288461538464,
+      "median_impact": 0.050180288461538464,
+      "mean_prompt_shift": -0.04980218349358978
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.050180288461538464,
+      "median_impact": 0.050180288461538464,
+      "mean_prompt_shift": -0.04980218349358978
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04105718085106383,
+      "median_impact": 0.04105718085106383,
+      "mean_prompt_shift": -0.036501620678191515
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03658234126984127,
+      "median_impact": 0.03658234126984127,
+      "mean_prompt_shift": -0.03658234126984128
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 1,
+      "token_pos": 35,
+      "token_str": "We",
+      "token_id": 1672,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 17,
+      "token_pos": 51,
+      "token_str": "\u0120from",
+      "token_id": 546,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 25,
+      "token_pos": 59,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "step": 50,
+    "direction": -1,
+    "impact_score": 0.18373122724514562,
+    "prompt_shift": -0.18335802564812853,
+    "token_pos": 103,
+    "token_id": 198,
+    "token_str": "\u010a",
+    "step_decoded": 49,
+    "conf_decoded": 0.64453125,
+    "categories": [
+      "special_token"
+    ]
+  }
+]

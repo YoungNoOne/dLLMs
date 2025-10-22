@@ -1,0 +1,42 @@
+{
+  "name": "forgotten_god",
+  "prompt": "An ancient god awakens after being forgotten for a thousand years. Write their confusion as they try to understand modern civilization.",
+  "decoded": "Ah, the state of the world is quite different from what I remember. These humans have created machines and technology, and they seem to be driven by a desire for progress and innovation. But what is the purpose of this progress, and how does it relate to the balance of the world that I once governed?",
+  "events_count": 2,
+  "max_mean_delta": 0.23995535714285715,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.21747116815476192,
+      "median_impact": 0.21747116815476192,
+      "mean_prompt_shift": -0.0491943359375
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 100,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 99,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

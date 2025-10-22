@@ -1,0 +1,63 @@
+[
+  {
+    "step": 57,
+    "direction": -1,
+    "impact_score": 0.13033919597989949,
+    "prompt_shift": -0.12985680354899498,
+    "token_pos": 110,
+    "token_id": 10248,
+    "token_str": "However",
+    "step_decoded": 56,
+    "conf_decoded": 0.404296875,
+    "categories": [
+      "contrast_marker",
+      "content_heavy"
+    ]
+  },
+  {
+    "step": 123,
+    "direction": 1,
+    "impact_score": 0.02801559562969925,
+    "prompt_shift": 0.029853979193552926,
+    "token_pos": 176,
+    "token_id": 13,
+    "token_str": ".",
+    "step_decoded": 122,
+    "conf_decoded": 0.53125,
+    "categories": [
+      "punctuation",
+      "sentence_boundary"
+    ]
+  },
+  {
+    "step": 239,
+    "direction": 1,
+    "impact_score": 0.052504595588235295,
+    "prompt_shift": 0.05078763276143791,
+    "token_pos": 290,
+    "token_id": 13,
+    "token_str": ".",
+    "step_decoded": 238,
+    "conf_decoded": 0.58984375,
+    "categories": [
+      "punctuation",
+      "sentence_boundary"
+    ]
+  },
+  {
+    "step": 240,
+    "direction": 1,
+    "impact_score": 0.035888671875,
+    "prompt_shift": 0.03687241498161764,
+    "token_pos": 291,
+    "token_id": 7975,
+    "token_str": "\u0120Therefore",
+    "step_decoded": 239,
+    "conf_decoded": 0.34765625,
+    "categories": [
+      "cause_marker",
+      "summary_marker",
+      "content_heavy"
+    ]
+  }
+]

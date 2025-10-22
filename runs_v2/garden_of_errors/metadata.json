@@ -1,0 +1,32 @@
+{
+  "name": "garden_of_errors",
+  "prompt": "Every time someone makes a mistake, a flower blooms in this hidden garden. Describe the landscape of human imperfection.",
+  "decoded": "The landscape of human imperfection is a vibrant, diverse garden filled with flowers of various colors and shapes. Each flower represents a unique mistake, and the garden is a testament to the beauty and complexity of human error. It is a place where imperfections are celebrated and appreciated, rather than something to hide or avoid.",
+  "events_count": 1,
+  "max_mean_delta": 0.0572265625,
+  "max_sign_agreement": 0.9,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0572265625,
+      "median_impact": 0.0572265625,
+      "mean_prompt_shift": 0.06818181818181823
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 54,
+      "token_pos": 91,
+      "token_str": "\u0120than",
+      "token_id": 1040,
+      "direction": 1,
+      "categories": [
+        "other"
+      ]
+    }
+  ],
+  "extra": {}
+}

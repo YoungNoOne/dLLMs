@@ -1,0 +1,6 @@
+step_decoded=67 pos=109 dir=- impact=0.047478 shift=-0.046675 cats=content_heavy earlier=16 later=16 same=0
+ driving^(-17) societal^(-16) advancement^(-14) and^(-15) progress^(-8).^(-12)Ċ^(-11)Ċ^(-13)However^(-10),^(-9) it^(-5) is^(-6) essential^(-4) to^(-3) recognize^(-1) that^(-2) [Ġcollaboration^(+0)]  also^(+1) plays^(+3) a^(+2) crucial^(+12) role^(+4) in^(+5) fostering^(+11) deeper^(+6),^(+10) longer^(+8)-lasting^(+7) innovation^(+9) and^(+13) human^(+15) trust^(+14).^(+16)
+
+step_decoded=73 pos=117 dir=- impact=0.041759 shift=-0.041101 cats=content_heavy earlier=14 later=18 same=0
+However^(-16),^(-15) it^(-11) is^(-12) essential^(-10) to^(-9) recognize^(-7) that^(-8) collaboration^(-6) also^(-5) plays^(-3) a^(-4) crucial^(+6) role^(-2) in^(-1) fostering^(+5) [Ġdeeper^(+0)] ,^(+4) longer^(+2)-lasting^(+1) innovation^(+3) and^(+7) human^(+9) trust^(+8).^(+10) When^(+11) individuals^(+12) and^(+17) organizations^(+18) work^(+16) together^(+13),^(+15) they^(+14)
+

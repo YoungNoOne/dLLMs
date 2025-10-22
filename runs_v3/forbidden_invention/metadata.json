@@ -1,0 +1,77 @@
+{
+  "name": "forbidden_invention",
+  "prompt": "Describe an invention banned not because it\u2019s dangerous, but because it\u2019s too perfect.",
+  "decoded": "The typewriter was banned in the 19th century by some countries, not because it was dangerous, but because it was too perfect. Governments were concerned that the typewriter would be used to write secret messages and propaganda, and that it would be too easy to use for people to communicate covertly.",
+  "events_count": 3,
+  "max_mean_delta": 0.06457779255319149,
+  "max_sign_agreement": 0.9714285714285714,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06457779255319149,
+      "median_impact": 0.06457779255319149,
+      "mean_prompt_shift": -0.052462530474290836
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05642361111111111,
+      "median_impact": 0.05642361111111111,
+      "mean_prompt_shift": -0.04749316077441079
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04654017857142857,
+      "median_impact": 0.04654017857142857,
+      "mean_prompt_shift": -0.047715153769841256
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04654017857142857,
+      "median_impact": 0.04654017857142857,
+      "mean_prompt_shift": -0.047715153769841256
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 10,
+      "token_pos": 40,
+      "token_str": "th",
+      "token_id": 444,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 17,
+      "token_pos": 46,
+      "token_str": "\u0120not",
+      "token_id": 526,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 29,
+      "token_pos": 58,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

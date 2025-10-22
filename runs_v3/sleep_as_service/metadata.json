@@ -1,0 +1,50 @@
+{
+  "name": "sleep_as_service",
+  "prompt": "Sleep becomes a service people outsource to dream farms. Write an ad promoting premium subscription dreams.",
+  "decoded": "Experience the ultimate relaxation with our premium subscription dreams. Our dream farms are designed to provide you with the best sleep possible. With our service, you can enjoy the benefits of a good night's sleep without the hassle of finding a comfortable bed. Join us today and experience the difference a premium subscription dream can make.",
+  "events_count": 2,
+  "max_mean_delta": 0.04660560344827586,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04660560344827586,
+      "median_impact": 0.04660560344827586,
+      "mean_prompt_shift": -0.0447175445645821
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03767641129032258,
+      "median_impact": 0.03767641129032258,
+      "mean_prompt_shift": -0.03724438364055305
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 2,
+      "token_pos": 31,
+      "token_str": "Experience",
+      "token_id": 37968,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 6,
+      "token_pos": 36,
+      "token_str": "\u0120our",
+      "token_id": 869,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    }
+  ],
+  "extra": {}
+}

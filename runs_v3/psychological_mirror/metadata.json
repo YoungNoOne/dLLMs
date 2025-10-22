@@ -1,0 +1,42 @@
+{
+  "name": "psychological_mirror",
+  "prompt": "Mirrors now reveal not appearances but internal states. Write what happens when someone with a dark secret walks by one.",
+  "decoded": "As the person walks by the mirror, their eyes light up with a faint, eerie glow, revealing the depths of their inner turmoil. The mirror seems to distort, reflecting the shadows of their past, and the person feels a sudden sense of dread as they realize the weight of their secret bearing down on them.",
+  "events_count": 2,
+  "max_mean_delta": 0.28487723214285715,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.2742745535714286,
+      "median_impact": 0.2742745535714286,
+      "mean_prompt_shift": -0.036539713541666685
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 99,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 98,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

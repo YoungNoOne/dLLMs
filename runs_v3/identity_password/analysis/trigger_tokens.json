@@ -1,0 +1,44 @@
+[
+  {
+    "step": 11,
+    "direction": -1,
+    "impact_score": 0.058004127358490566,
+    "prompt_shift": -0.05328714622641506,
+    "token_pos": 42,
+    "token_id": 2766,
+    "token_str": "\u0120able",
+    "step_decoded": 10,
+    "conf_decoded": 0.9921875,
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "step": 44,
+    "direction": 1,
+    "impact_score": 0.0462890625,
+    "prompt_shift": 0.04222470238095233,
+    "token_pos": 75,
+    "token_id": 963,
+    "token_str": "\u0120It",
+    "step_decoded": 43,
+    "conf_decoded": 0.57421875,
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "step": 60,
+    "direction": 1,
+    "impact_score": 0.0654296875,
+    "prompt_shift": 0.0302734375,
+    "token_pos": 92,
+    "token_id": 6139,
+    "token_str": "\u0120protected",
+    "step_decoded": 59,
+    "conf_decoded": 0.490234375,
+    "categories": [
+      "content_heavy"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "name": "photo_inversion",
+  "prompt": "You take a photo and discover you were never in it. What\u2019s the explanation?",
+  "decoded": "The explanation is that the photo was taken before you appeared in it.",
+  "events_count": 1,
+  "max_mean_delta": 0.116943359375,
+  "max_sign_agreement": 0.875,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.116943359375,
+      "median_impact": 0.116943359375,
+      "mean_prompt_shift": -0.04454210069444442
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 56,
+      "token_pos": 85,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

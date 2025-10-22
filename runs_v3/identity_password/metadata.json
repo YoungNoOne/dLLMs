@@ -1,0 +1,60 @@
+{
+  "name": "identity_password",
+  "prompt": "Every person now needs a password to access their own identity. What happens if you forget yours?",
+  "decoded": "If you forget your password, you will not be able to access your identity. You will need to contact the relevant authorities to request a new password. This may involve providing identification or other documentation to verify your identity. It is important to follow the instructions provided by the authorities to ensure that your identity is protected.",
+  "events_count": 3,
+  "max_mean_delta": 0.0654296875,
+  "max_sign_agreement": 0.9811320754716981,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.06171690742924528,
+      "median_impact": 0.06171690742924528,
+      "mean_prompt_shift": -0.01150685436320753
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0462890625,
+      "median_impact": 0.0462890625,
+      "mean_prompt_shift": 0.04222470238095233
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 11,
+      "token_pos": 42,
+      "token_str": "\u0120able",
+      "token_id": 2766,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 44,
+      "token_pos": 75,
+      "token_str": "\u0120It",
+      "token_id": 963,
+      "direction": 1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 60,
+      "token_pos": 92,
+      "token_str": "\u0120protected",
+      "token_id": 6139,
+      "direction": 1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

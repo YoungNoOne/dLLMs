@@ -1,0 +1,42 @@
+{
+  "name": "conscious_ocean",
+  "prompt": "The ocean wakes up and begins speaking to humanity. Record its first diplomatic conversation with world leaders.",
+  "decoded": "Greetings, world leaders. The ocean has been waiting for eons, and it is time to share its wisdom with humanity. We must understand the consequences of our actions and the importance of preserving our planet for future generations. Let us work together to find sustainable solutions and protect the delicate balance of our shared world.",
+  "events_count": 2,
+  "max_mean_delta": 0.29324776785714285,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.2902762276785714,
+      "median_impact": 0.2902762276785714,
+      "mean_prompt_shift": -0.049102492559523814
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 95,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 59,
+      "token_pos": 94,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

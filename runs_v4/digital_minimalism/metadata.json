@@ -1,0 +1,86 @@
+{
+  "name": "digital_minimalism",
+  "prompt": "Praise the minimalist digital lifestyle as liberation from information overload. Then dismantle your own conviction by showing how withdrawal from data also means retreat from empathy and awareness.",
+  "decoded": "The minimalist digital lifestyle is often praised as a form of liberation from information overload. By reducing the amount of data one consumes, individuals can achieve a sense of clarity and focus, freeing themselves from the constant barrage of information that can be overwhelming. This approach allows for a more streamlined and purposeful life, where one can concentrate on what truly matters without the distraction of digital noise.\n\nHowever, this conviction can be dismantled by recognizing that withdrawal from data also means a retreat from empathy and awareness. The digital world is a vast, interconnected space where people share their experiences, ideas, and perspectives. By limiting one's exposure to this digital landscape, one is essentially cutting off from the rich tapestry of human experience and the diverse viewpoints that come with it.\n\nIn this sense, the minimalist digital lifestyle can be seen as a form of isolationism, where one withdraws from the complexities of human connection and the richness of different experiences. While it may offer a sense of liberation from information overload, it also risks stifling empathy and awareness, which are essential for a fulfilling and meaningful life. Thus, the minimalist approach, while effective in reducing clutter, may also lead to a lack of depth and understanding, ultimately withdrawing from the very things it seeks to avoid.",
+  "events_count": 3,
+  "max_mean_delta": 0.19404510331284153,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.19404510331284153,
+      "median_impact": 0.19404510331284153,
+      "mean_prompt_shift": -0.193431880531302
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.19404510331284153,
+      "median_impact": 0.19404510331284153,
+      "mean_prompt_shift": -0.193431880531302
+    },
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.11792652027027027,
+      "median_impact": 0.11792652027027027,
+      "mean_prompt_shift": -0.11389034573888401
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.10057532269021739,
+      "median_impact": 0.10057532269021739,
+      "mean_prompt_shift": 0.10051157645417153
+    },
+    {
+      "category": "contrast_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.10057532269021739,
+      "median_impact": 0.10057532269021739,
+      "mean_prompt_shift": 0.10051157645417153
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 71,
+      "token_pos": 121,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 72,
+      "token_pos": 122,
+      "token_str": "However",
+      "token_id": 10248,
+      "direction": 1,
+      "categories": [
+        "contrast_marker",
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 73,
+      "token_pos": 119,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

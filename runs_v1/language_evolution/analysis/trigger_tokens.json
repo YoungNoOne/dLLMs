@@ -1,0 +1,44 @@
+[
+  {
+    "step": 1,
+    "direction": -1,
+    "impact_score": 0.04631696428571429,
+    "prompt_shift": -0.0463169642857143,
+    "token_pos": 26,
+    "token_id": 34543,
+    "token_str": "\u0120evolve",
+    "step_decoded": 0,
+    "conf_decoded": 0.78125,
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "step": 54,
+    "direction": 1,
+    "impact_score": 0.0453125,
+    "prompt_shift": 0.05472301136363633,
+    "token_pos": 79,
+    "token_id": 2051,
+    "token_str": "\u0120lead",
+    "step_decoded": 53,
+    "conf_decoded": 0.3203125,
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "step": 57,
+    "direction": -1,
+    "impact_score": 0.040736607142857144,
+    "prompt_shift": -0.04931640625,
+    "token_pos": 88,
+    "token_id": 126081,
+    "token_str": "<|endoftext|>",
+    "step_decoded": 56,
+    "conf_decoded": 0.98046875,
+    "categories": [
+      "other"
+    ]
+  }
+]

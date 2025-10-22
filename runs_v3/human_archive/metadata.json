@@ -1,0 +1,60 @@
+{
+  "name": "human_archive",
+  "prompt": "After death, consciousness uploads into a vast library of human experiences. Write an index entry for someone who refuses to be cataloged.",
+  "decoded": "Subject: John Doe\n\nType: Unknown\n\nDescription: John Doe's consciousness has been uploaded into the library of human experiences. However, he has refused to be cataloged. His identity and experiences remain unknown.\n\nStatus: Unprocessed\n\nNote: John Doe's identity remains a mystery.",
+  "events_count": 3,
+  "max_mean_delta": 0.10296365489130435,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.10296365489130435,
+      "median_impact": 0.10296365489130435,
+      "mean_prompt_shift": 0.10768566431544857
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.09741354549632353,
+      "median_impact": 0.09741354549632353,
+      "mean_prompt_shift": -0.09459768071525632
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 13,
+      "token_pos": 52,
+      "token_str": "\u0120John",
+      "token_id": 4137,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 18,
+      "token_pos": 56,
+      "token_str": "\u0120has",
+      "token_id": 723,
+      "direction": 1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 24,
+      "token_pos": 61,
+      "token_str": "\u0120library",
+      "token_id": 8296,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

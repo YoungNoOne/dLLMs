@@ -1,0 +1,50 @@
+{
+  "name": "ink_dreams",
+  "prompt": "When people dream, ink leaks from their skin, forming symbols that reveal their deepest fears. Tattoos become diaries of the unconscious.",
+  "decoded": "That's a fascinating idea! Tattoos can be a powerful way to express and explore our subconscious thoughts and emotions. It's amazing how art can be a reflection of our inner world. Have you ever had a tattoo that resonated with you on a deep level? What did it reveal about your fears or desires?",
+  "events_count": 2,
+  "max_mean_delta": 0.04203125,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04203125,
+      "median_impact": 0.04203125,
+      "mean_prompt_shift": -0.043094951923076885
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04017857142857143,
+      "median_impact": 0.04017857142857143,
+      "mean_prompt_shift": -0.034386837121212044
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 39,
+      "token_pos": 76,
+      "token_str": "\u0120Have",
+      "token_id": 11021,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 43,
+      "token_pos": 81,
+      "token_str": "\u0120tattoo",
+      "token_id": 36133,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

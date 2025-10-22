@@ -1,0 +1,69 @@
+{
+  "name": "magnetic_silence",
+  "prompt": "What if silence became a physical force\u2014metallic, heavy, bending sound waves like gravity bends light? Imagine how cities, music, and conversation would change.",
+  "decoded": "If silence were a physical force, it would bend sound waves, making cities quieter and more serene. Music would be more profound, with each note resonating deeper and more impactful. Conversations would be more intense, as people would need to speak louder and more clearly to be heard over the heavy force of silence.",
+  "events_count": 3,
+  "max_mean_delta": 0.27762276785714285,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.19545200892857142,
+      "median_impact": 0.19545200892857142,
+      "mean_prompt_shift": -0.10943080357142856
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.115234375,
+      "median_impact": 0.115234375,
+      "mean_prompt_shift": 0.11236979166666666
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.115234375,
+      "median_impact": 0.115234375,
+      "mean_prompt_shift": 0.11236979166666666
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 108,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 59,
+      "token_pos": 106,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": 1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    },
+    {
+      "step": 60,
+      "token_pos": 107,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

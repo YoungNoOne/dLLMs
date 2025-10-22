@@ -1,0 +1,20 @@
+{
+  "name": "trust_paradox",
+  "prompt": "Explain why trusting others can make a person more vulnerable but also stronger.",
+  "decoded": "Trusting others can make a person more vulnerable because it involves putting faith in the actions of others, which can be emotionally challenging. However, it can also make a person stronger because it requires them to develop resilience and adaptability, as they learn to rely on others and navigate the complexities of building and maintaining relationships.",
+  "events_count": 2,
+  "max_mean_delta": 0.2642299107142857,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.21629464285714284,
+      "median_impact": 0.21629464285714284,
+      "mean_prompt_shift": -0.08155343191964287
+    }
+  ],
+  "extra": {}
+}

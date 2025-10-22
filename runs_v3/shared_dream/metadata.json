@@ -1,0 +1,69 @@
+{
+  "name": "shared_dream",
+  "prompt": "Two strangers realize they have been sharing the same dream for months.",
+  "decoded": "That sounds like a fascinating and intriguing scenario. It's possible that they have shared a common experience or memory that has been lingering in their subconscious, causing them to have the same dream. It could also be a result of a shared imagination or a recurring theme that has been present in both of their waking lives.",
+  "events_count": 3,
+  "max_mean_delta": 0.06099232456140351,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05896671516531714,
+      "median_impact": 0.05896671516531714,
+      "mean_prompt_shift": -0.05067209039445475
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05517578125,
+      "median_impact": 0.05517578125,
+      "mean_prompt_shift": -0.030957031250000044
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05517578125,
+      "median_impact": 0.05517578125,
+      "mean_prompt_shift": -0.030957031250000044
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 7,
+      "token_pos": 33,
+      "token_str": "\u0120scenario",
+      "token_id": 16211,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 12,
+      "token_pos": 37,
+      "token_str": "\u0120possible",
+      "token_id": 2917,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 60,
+      "token_pos": 87,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

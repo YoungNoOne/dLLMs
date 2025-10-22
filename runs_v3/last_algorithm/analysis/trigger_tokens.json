@@ -1,0 +1,16 @@
+[
+  {
+    "step": 10,
+    "direction": -1,
+    "impact_score": 0.048755787037037035,
+    "prompt_shift": -0.04509548611111114,
+    "token_pos": 46,
+    "token_id": 33129,
+    "token_str": "\u0120shocked",
+    "step_decoded": 9,
+    "conf_decoded": 0.1376953125,
+    "categories": [
+      "content_heavy"
+    ]
+  }
+]

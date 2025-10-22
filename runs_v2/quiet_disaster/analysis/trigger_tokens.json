@@ -1,0 +1,31 @@
+[
+  {
+    "step": 57,
+    "direction": -1,
+    "impact_score": 0.16573660714285715,
+    "prompt_shift": -0.1605050223214286,
+    "token_pos": 106,
+    "token_id": 13,
+    "token_str": ".",
+    "step_decoded": 56,
+    "conf_decoded": 0.9140625,
+    "categories": [
+      "punctuation",
+      "sentence_boundary"
+    ]
+  },
+  {
+    "step": 58,
+    "direction": 1,
+    "impact_score": 0.14192708333333334,
+    "prompt_shift": 0.12453497023809523,
+    "token_pos": 107,
+    "token_id": 126348,
+    "token_str": "<|eot_id|>",
+    "step_decoded": 57,
+    "conf_decoded": 1.0,
+    "categories": [
+      "special_token"
+    ]
+  }
+]

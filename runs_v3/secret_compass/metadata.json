@@ -1,0 +1,42 @@
+{
+  "name": "secret_compass",
+  "prompt": "A compass that always points to what you desire most. Tell the story of someone following it.",
+  "decoded": "Once there was a man who had a compass that always pointed to what he desired most. He followed it, and it led him to a place where he could fulfill his deepest desires. He found happiness, love, and fulfillment, and he knew that he had made the right choice by following his magical compass.",
+  "events_count": 2,
+  "max_mean_delta": 0.24162946428571427,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.22218191964285713,
+      "median_impact": 0.22218191964285713,
+      "mean_prompt_shift": -0.05536644345238095
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 95,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 59,
+      "token_pos": 94,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

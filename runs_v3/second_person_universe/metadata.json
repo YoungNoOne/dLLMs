@@ -1,0 +1,87 @@
+{
+  "name": "second_person_universe",
+  "prompt": "You wake up in a universe where everyone speaks in the second person. Write a day in your life as 'you'.",
+  "decoded": "You wake up in a universe where everyone speaks in the second person. You feel a sense of confusion and curiosity. As you get out of bed, you notice that the people around you are speaking to you directly. You decide to go for a walk and observe how people interact with each other in this universe.",
+  "events_count": 4,
+  "max_mean_delta": 0.05181308962264151,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.047371031746031744,
+      "median_impact": 0.047371031746031744,
+      "mean_prompt_shift": -0.047371031746031744
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04650297619047619,
+      "median_impact": 0.04650297619047619,
+      "mean_prompt_shift": -0.03952104097452935
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04650297619047619,
+      "median_impact": 0.04650297619047619,
+      "mean_prompt_shift": -0.03952104097452935
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.045477654505198306,
+      "median_impact": 0.045477654505198306,
+      "mean_prompt_shift": -0.04432412554906656
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 1,
+      "token_pos": 38,
+      "token_str": "\u0120wake",
+      "token_id": 17825,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 11,
+      "token_pos": 47,
+      "token_str": "\u0120the",
+      "token_id": 268,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 15,
+      "token_pos": 51,
+      "token_str": "\u0120You",
+      "token_id": 1400,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 22,
+      "token_pos": 59,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

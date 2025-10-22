@@ -1,0 +1,50 @@
+{
+  "name": "universal_lie",
+  "prompt": "One universal lie is believed by everyone on Earth. Write the news report on the day it\u2019s proven false.",
+  "decoded": "The Earth is flat.\n\nOn January 1st, 2021, NASA announced that the Earth is not flat. The Earth is a sphere. This is the first time in history that a universal lie has been proven false.",
+  "events_count": 2,
+  "max_mean_delta": 0.2097925646551724,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2097925646551724,
+      "median_impact": 0.2097925646551724,
+      "mean_prompt_shift": -0.20918299788135597
+    },
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.11534288194444445,
+      "median_impact": 0.11534288194444445,
+      "mean_prompt_shift": -0.014729817708333343
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 6,
+      "token_pos": 41,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 55,
+      "token_pos": 89,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

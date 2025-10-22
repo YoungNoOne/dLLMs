@@ -1,0 +1,59 @@
+{
+  "name": "candle_market",
+  "prompt": "In a world without electricity, write a one-paragraph advertisement for the most luxurious candle ever made.",
+  "decoded": "Experience the epitome of luxury with the exclusive Essence of Heaven candle, meticulously crafted from the finest materials and infused with the rare essence of celestial flowers. Its soft, golden glow will transform your space into a serene sanctuary, perfect for any special occasion or quiet moment. Order now and discover the magic of luxury.",
+  "events_count": 2,
+  "max_mean_delta": 0.043472782258064516,
+  "max_sign_agreement": 0.967741935483871,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.043472782258064516,
+      "median_impact": 0.043472782258064516,
+      "mean_prompt_shift": -0.04307075652841785
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04221754807692308,
+      "median_impact": 0.04221754807692308,
+      "mean_prompt_shift": -0.03384701236263743
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04221754807692308,
+      "median_impact": 0.04221754807692308,
+      "mean_prompt_shift": -0.03384701236263743
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 2,
+      "token_pos": 33,
+      "token_str": "Experience",
+      "token_id": 37968,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 51,
+      "token_pos": 85,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

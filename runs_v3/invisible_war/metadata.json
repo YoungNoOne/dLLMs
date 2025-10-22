@@ -1,0 +1,52 @@
+{
+  "name": "invisible_war",
+  "prompt": "Two nations fight an invisible war where no weapons exist\u2014only manipulated memories. Write a secret field report describing one battle.",
+  "decoded": "Secret Field Report: Battle of Echoes\n\nDate: October 12, 2023\n\nLocation: Echo City, Memoryia\n\nObjective: Disrupt enemy operations through memory manipulation.\n\n---\n\n**Field Report:**\n\n**Phase 1: Initial Contact**",
+  "events_count": 3,
+  "max_mean_delta": 0.19282670454545456,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.15810390207219252,
+      "median_impact": 0.14666193181818182,
+      "mean_prompt_shift": -0.15541061341093307
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 20,
+      "token_pos": 60,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 30,
+      "token_pos": 64,
+      "token_str": "\u0120City",
+      "token_id": 4721,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 42,
+      "token_pos": 80,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

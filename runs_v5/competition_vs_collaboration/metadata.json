@@ -1,0 +1,66 @@
+{
+  "name": "competition_vs_collaboration",
+  "prompt": "Defend competition as the evolutionary driver of progress and excellence. Then change perspective to argue that collaboration creates deeper, longer-lasting innovation and human trust.",
+  "decoded": "Competition has long been hailed as the evolutionary driver of progress and excellence. It pushes individuals and organizations to constantly innovate, strive for excellence, and outperform their peers. This relentless pursuit of improvement leads to the development of new ideas, technologies, and methods, ultimately driving societal advancement and progress.\n\nHowever, it is essential to recognize that collaboration also plays a crucial role in fostering deeper, longer-lasting innovation and human trust. When individuals and organizations work together, they can leverage their diverse skills, knowledge, and perspectives to tackle complex problems and develop novel solutions. This collective approach to innovation often results in more robust and sustainable solutions, as different viewpoints and expertise are brought to the table.\n\nMoreover, collaboration builds trust and relationships among participants. When people work together towards a common goal, they must rely on each other's strengths and weaknesses. This dependence fosters a sense of camaraderie and mutual respect, which is essential for long-term success and cooperation.\n\nIn conclusion, while competition is a powerful driver of progress and excellence, it is collaboration that creates deeper, longer-lasting innovation and human trust. By embracing both competition and collaboration, we can harness the strengths of each approach to achieve a more balanced and prosperous future.",
+  "events_count": 4,
+  "max_mean_delta": 0.22400634765625,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.13492037413550204,
+      "median_impact": 0.13492037413550204,
+      "mean_prompt_shift": -0.08851493416402484
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.13492037413550204,
+      "median_impact": 0.13492037413550204,
+      "mean_prompt_shift": -0.08851493416402484
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.044618169085734745,
+      "median_impact": 0.044618169085734745,
+      "mean_prompt_shift": -0.04388778414808897
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 55,
+      "direction": -1,
+      "mean_delta": 0.22400634765625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 67,
+      "direction": -1,
+      "mean_delta": 0.04747755984042553,
+      "sign_agreement": 0.9468085106382979,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 73,
+      "direction": -1,
+      "mean_delta": 0.04175877833104396,
+      "sign_agreement": 0.9615384615384616,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 133,
+      "direction": 1,
+      "mean_delta": 0.0458344006147541,
+      "sign_agreement": 0.9918032786885246,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

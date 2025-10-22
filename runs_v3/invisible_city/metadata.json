@@ -1,0 +1,59 @@
+{
+  "name": "invisible_city",
+  "prompt": "Invent a city that appears only at sunrise and disappears by noon.",
+  "decoded": "The city of Aurora is a vibrant metropolis that appears only at sunrise and disappears by noon. It is a city of beauty and wonder, with stunning buildings, lush parks, and bustling streets. The city is home to many unique businesses and attractions, and is a popular destination for tourists from all over the world.",
+  "events_count": 2,
+  "max_mean_delta": 0.2080078125,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2080078125,
+      "median_impact": 0.2080078125,
+      "mean_prompt_shift": 0.20191592261904767
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2080078125,
+      "median_impact": 0.2080078125,
+      "mean_prompt_shift": 0.20191592261904767
+    },
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.19893973214285715,
+      "median_impact": 0.19893973214285715,
+      "mean_prompt_shift": -0.2399204799107143
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 89,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 87,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": 1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,36 @@
+{
+  "name": "freedom_constraint",
+  "prompt": "Discuss why too much freedom can create new forms of constraint.",
+  "decoded": "Too much freedom can create new forms of constraint because it can lead to the creation of new forms of power and control. For example, the proliferation of social media and the internet has created new forms of surveillance and control, as corporations and governments have the power to monitor and control individuals' online activities and behavior.",
+  "events_count": 2,
+  "max_mean_delta": 0.24190848214285715,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.24190848214285715,
+      "median_impact": 0.24190848214285715,
+      "mean_prompt_shift": -0.2824009486607143
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.23958333333333334,
+      "median_impact": 0.23958333333333334,
+      "mean_prompt_shift": 0.22535342261904767
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.23958333333333334,
+      "median_impact": 0.23958333333333334,
+      "mean_prompt_shift": 0.22535342261904767
+    }
+  ],
+  "extra": {}
+}

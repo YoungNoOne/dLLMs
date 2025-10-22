@@ -1,0 +1,42 @@
+{
+  "name": "season_migration",
+  "prompt": "Seasons start migrating between continents unpredictably. Write a travel guide for chasing autumn wherever it appears.",
+  "decoded": "\u200b",
+  "events_count": 2,
+  "max_mean_delta": 0.2904730902777778,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.2815158420138889,
+      "median_impact": 0.2815158420138889,
+      "mean_prompt_shift": 0.008374763257575746
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 54,
+      "token_pos": 86,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 55,
+      "token_pos": 87,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

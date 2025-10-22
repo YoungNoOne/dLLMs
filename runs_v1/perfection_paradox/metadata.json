@@ -1,0 +1,44 @@
+{
+  "name": "perfection_paradox",
+  "prompt": "Why can the pursuit of perfection prevent actual progress?",
+  "decoded": "The pursuit of perfection can prevent actual progress because it may lead to an excessive focus on achieving an unattainable standard, rather than making incremental improvements that can lead to meaningful progress. This can result in a lack of momentum and a failure to make progress, as the goal of perfection becomes an unrealistic expectation.",
+  "events_count": 3,
+  "max_mean_delta": 0.052734375,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.052734375,
+      "median_impact": 0.052734375,
+      "mean_prompt_shift": -0.039760044642857095
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.052734375,
+      "median_impact": 0.052734375,
+      "mean_prompt_shift": -0.039760044642857095
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.040318080357142856,
+      "median_impact": 0.040318080357142856,
+      "mean_prompt_shift": -0.038004156403940836
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.038736979166666664,
+      "median_impact": 0.038736979166666664,
+      "mean_prompt_shift": 0.028366815476190466
+    }
+  ],
+  "extra": {}
+}

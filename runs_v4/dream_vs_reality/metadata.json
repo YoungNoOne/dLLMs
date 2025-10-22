@@ -1,0 +1,118 @@
+{
+  "name": "dream_vs_reality",
+  "prompt": "Write an ode praising dreamers who refuse reality in pursuit of imagination. Then correct yourself with the realist\u2019s view that unchecked dreaming leads to ruin if not anchored in the real world.",
+  "decoded": "Oh, dreamers of the mind, so wild and free,\nWhose thoughts take flight upon the boundless sea,\nYou are the poets of the unseen,\nWhose visions paint the night with light.\n\nYour minds, a canvas of endless hue,\nWhere every stroke is a new beginning,\nYou are the architects of the new,\nIn the realm of dreams, where nothing ends.\n\nYou are the explorers of the uncharted,\nVenturing into the depths of the unknown,\nYour imagination, a river so grand,\nCarving paths where none has ever been.\n\nYet, in the silence of your reverie,\nA warning echoes, a skeptic's cry,\n\"Unchecked dreaming leads to ruin,\nIf not anchored in the real world.\"\n\nFor in the shadows of your fantasy,\nLies the promise of a better tomorrow,\nBut in the depths of your imagination,\nlurks the peril of a world beyond reach.\n\nSo let us dream, dear dreamers, wild and free,\nBut let us also ground, in the concrete sea,\nFor in the balance of dreams and reality,\nLies the key to a world both wild and real.",
+  "events_count": 8,
+  "max_mean_delta": 0.20393288352272726,
+  "max_sign_agreement": 1.0,
+  "token_count": 8,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.1380004690373752,
+      "median_impact": 0.1380004690373752,
+      "mean_prompt_shift": -0.06509150122443966
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.06709593979498163,
+      "median_impact": 0.06709593979498163,
+      "mean_prompt_shift": -0.012769032787436518
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.06391805635919301,
+      "median_impact": 0.061184807854729725,
+      "mean_prompt_shift": 0.03473711396780817
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 36,
+      "token_pos": 96,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 83,
+      "token_pos": 135,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 93,
+      "token_pos": 133,
+      "token_str": "\u0120ends",
+      "token_id": 12136,
+      "direction": 1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 102,
+      "token_pos": 158,
+      "token_str": "\u0120imagination",
+      "token_id": 26201,
+      "direction": 1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 106,
+      "token_pos": 152,
+      "token_str": "\u0120of",
+      "token_id": 300,
+      "direction": 1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 108,
+      "token_pos": 154,
+      "token_str": "\u0120unknown",
+      "token_id": 12398,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 123,
+      "token_pos": 169,
+      "token_str": "\u0120where",
+      "token_id": 1387,
+      "direction": 1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 127,
+      "token_pos": 172,
+      "token_str": "\u0120ever",
+      "token_id": 3688,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    }
+  ],
+  "extra": {}
+}

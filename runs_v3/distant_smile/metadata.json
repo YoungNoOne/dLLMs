@@ -1,0 +1,50 @@
+{
+  "name": "distant_smile",
+  "prompt": "Describe a photograph that makes you nostalgic for a place you\u2019ve never been.",
+  "decoded": "The photograph depicts a quaint, picturesque village nestled in the countryside, with charming cobblestone streets, quaint wooden cottages, and a quaint town square. The warm, golden light of the setting sun casts a soft glow over the scene, evoking a sense of nostalgia and longing for a simpler, happier time.",
+  "events_count": 2,
+  "max_mean_delta": 0.056449142156862746,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.056449142156862746,
+      "median_impact": 0.056449142156862746,
+      "mean_prompt_shift": -0.05404087716817496
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.037109375,
+      "median_impact": 0.037109375,
+      "mean_prompt_shift": 0.032031249999999956
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 13,
+      "token_pos": 41,
+      "token_str": "\u0120with",
+      "token_id": 391,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 60,
+      "token_pos": 84,
+      "token_str": "\u0120a",
+      "token_id": 259,
+      "direction": 1,
+      "categories": [
+        "other"
+      ]
+    }
+  ],
+  "extra": {}
+}

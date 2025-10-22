@@ -1,0 +1,30 @@
+[
+  {
+    "step": 57,
+    "direction": -1,
+    "impact_score": 0.17131696428571427,
+    "prompt_shift": -0.21044921875,
+    "token_pos": 107,
+    "token_id": 126081,
+    "token_str": "<|endoftext|>",
+    "step_decoded": 56,
+    "conf_decoded": 0.9765625,
+    "categories": [
+      "special_token"
+    ]
+  },
+  {
+    "step": 58,
+    "direction": 1,
+    "impact_score": 0.14518229166666666,
+    "prompt_shift": 0.123046875,
+    "token_pos": 106,
+    "token_id": 126348,
+    "token_str": "<|eot_id|>",
+    "step_decoded": 57,
+    "conf_decoded": 0.8515625,
+    "categories": [
+      "special_token"
+    ]
+  }
+]

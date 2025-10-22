@@ -1,0 +1,20 @@
+{
+  "name": "fear_uncertainty",
+  "prompt": "Explain why people fear uncertainty even when it can bring opportunity.",
+  "decoded": "People fear uncertainty because it can be unsettling and unpredictable, leading to feelings of anxiety and apprehension. However, uncertainty can also bring opportunities for growth, innovation, and personal development. The fear of uncertainty can prevent individuals from embracing new experiences and taking risks, ultimately hindering their ability to progress and achieve their goals.",
+  "events_count": 2,
+  "max_mean_delta": 0.3138671875,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.30516183035714284,
+      "median_impact": 0.30516183035714284,
+      "mean_prompt_shift": -0.044783528645833334
+    }
+  ],
+  "extra": {}
+}

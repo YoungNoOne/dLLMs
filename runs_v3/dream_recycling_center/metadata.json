@@ -1,0 +1,59 @@
+{
+  "name": "dream_recycling_center",
+  "prompt": "Describe a factory where discarded dreams are recycled into something useful. What products are made, and what side effects do they cause?",
+  "decoded": "The factory transforms discarded dreams into vibrant, shimmering fabrics that capture the essence of the dreams. These fabrics are then used to create beautiful, enchanting garments that bring joy and inspiration to people. However, the side effects include a temporary increase in creativity and a lingering sense of nostalgia for the dreams that were recycled.",
+  "events_count": 2,
+  "max_mean_delta": 0.05051491477272727,
+  "max_sign_agreement": 0.8846153846153846,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05051491477272727,
+      "median_impact": 0.05051491477272727,
+      "mean_prompt_shift": -0.00946069046442688
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.042818509615384616,
+      "median_impact": 0.042818509615384616,
+      "mean_prompt_shift": -0.0405482104700855
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.042818509615384616,
+      "median_impact": 0.042818509615384616,
+      "mean_prompt_shift": -0.0405482104700855
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 38,
+      "token_pos": 75,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    },
+    {
+      "step": 42,
+      "token_pos": 79,
+      "token_str": "\u0120side",
+      "token_id": 3392,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

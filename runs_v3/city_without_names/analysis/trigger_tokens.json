@@ -1,0 +1,30 @@
+[
+  {
+    "step": 10,
+    "direction": -1,
+    "impact_score": 0.10579427083333333,
+    "prompt_shift": -0.10592053345959596,
+    "token_pos": 55,
+    "token_id": 126081,
+    "token_str": "<|endoftext|>",
+    "step_decoded": 9,
+    "conf_decoded": 0.98046875,
+    "categories": [
+      "special_token"
+    ]
+  },
+  {
+    "step": 58,
+    "direction": -1,
+    "impact_score": 0.07259114583333333,
+    "prompt_shift": -0.058640252976190466,
+    "token_pos": 98,
+    "token_id": 126081,
+    "token_str": "<|endoftext|>",
+    "step_decoded": 57,
+    "conf_decoded": 1.0,
+    "categories": [
+      "special_token"
+    ]
+  }
+]

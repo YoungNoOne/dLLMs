@@ -1,0 +1,3 @@
+category,triggers,samples,mean_impact,median_impact,mean_prompt_shift
+other,1,1,0.25,0.25,-0.2630673363095238
+content_heavy,1,1,0.09160786290322581,0.09160786290322581,-0.0908778161802356

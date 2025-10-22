@@ -1,0 +1,58 @@
+[
+  {
+    "step": 2,
+    "direction": -1,
+    "impact_score": 0.040133568548387094,
+    "prompt_shift": -0.039286514336917655,
+    "token_pos": 44,
+    "token_id": 300,
+    "token_str": "\u0120of",
+    "step_decoded": 1,
+    "conf_decoded": 0.333984375,
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "step": 4,
+    "direction": -1,
+    "impact_score": 0.032552083333333336,
+    "prompt_shift": -0.03213157445355197,
+    "token_pos": 41,
+    "token_id": 37968,
+    "token_str": "Experience",
+    "step_decoded": 3,
+    "conf_decoded": 0.55078125,
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "step": 22,
+    "direction": -1,
+    "impact_score": 0.03701636904761905,
+    "prompt_shift": -0.03259317898671088,
+    "token_pos": 63,
+    "token_id": 36350,
+    "token_str": "\u0120Listen",
+    "step_decoded": 21,
+    "conf_decoded": 0.515625,
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "step": 57,
+    "direction": -1,
+    "impact_score": 0.03180803571428571,
+    "prompt_shift": -0.042201450892857095,
+    "token_pos": 104,
+    "token_id": 126081,
+    "token_str": "<|endoftext|>",
+    "step_decoded": 56,
+    "conf_decoded": 0.99609375,
+    "categories": [
+      "special_token"
+    ]
+  }
+]

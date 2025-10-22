@@ -1,0 +1,42 @@
+{
+  "name": "digital_confession",
+  "prompt": "A social network introduces a 'Confess' feature that automatically exposes your secrets in the most poetic way possible. Write an example post.",
+  "decoded": "\"In the quiet corners of my heart, where shadows dance and whispers fade, there lies a secret as old as the moon itself. Tonight, I let it slip, a tale of dreams and shadows, a truth that once was hidden, now revealed to the stars. Let the night carry this confession away.\"",
+  "events_count": 2,
+  "max_mean_delta": 0.27706473214285715,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.2689034598214286,
+      "median_impact": 0.2689034598214286,
+      "mean_prompt_shift": -0.0447998046875
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 103,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 102,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,42 @@
+{
+  "name": "rewriting_childhood",
+  "prompt": "A new therapy lets people rewrite specific days from their childhood. Describe the emotional consequences for someone who erases the day they met their best friend.",
+  "decoded": "Erasing the day they met their best friend could lead to feelings of loss and loneliness, as the person would miss out on the shared experiences and memories that have shaped their relationship. It might also result in a sense of confusion and disconnection, as the foundation of their friendship would be removed from their past.",
+  "events_count": 2,
+  "max_mean_delta": 0.3189174107142857,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.29861886160714285,
+      "median_impact": 0.29861886160714285,
+      "mean_prompt_shift": -0.053385416666666685
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 105,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 104,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

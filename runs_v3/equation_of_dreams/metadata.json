@@ -1,0 +1,42 @@
+{
+  "name": "equation_of_dreams",
+  "prompt": "Mathematicians discover that dreams follow precise equations. Write a journal entry from a scientist who dreams of solving their own mind.",
+  "decoded": "In my dream, I attempted to unravel the mysteries of my own mind. My thoughts were like a complex equation, with variables representing my emotions and memories. I tried to find the solution, but it remained elusive. This dream reminds me that our minds are intricate and multifaceted, much like the equations we study.",
+  "events_count": 2,
+  "max_mean_delta": 0.24837239583333334,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.22360026041666667,
+      "median_impact": 0.22360026041666667,
+      "mean_prompt_shift": -0.0531529017857143
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 58,
+      "token_pos": 101,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 59,
+      "token_pos": 100,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

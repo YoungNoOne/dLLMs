@@ -1,0 +1,61 @@
+[
+  {
+    "step": 13,
+    "direction": -1,
+    "impact_score": 0.0353094362745098,
+    "prompt_shift": -0.03350802460407243,
+    "token_pos": 49,
+    "token_id": 3260,
+    "token_str": "\u0120However",
+    "step_decoded": 12,
+    "conf_decoded": 0.71484375,
+    "categories": [
+      "contrast_marker",
+      "content_heavy"
+    ]
+  },
+  {
+    "step": 16,
+    "direction": -1,
+    "impact_score": 0.040934244791666664,
+    "prompt_shift": -0.03641016953656462,
+    "token_pos": 51,
+    "token_id": 947,
+    "token_str": "\u0120there",
+    "step_decoded": 15,
+    "conf_decoded": 0.291015625,
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "step": 33,
+    "direction": -1,
+    "impact_score": 0.03918850806451613,
+    "prompt_shift": -0.02211244644657262,
+    "token_pos": 69,
+    "token_id": 13,
+    "token_str": ".",
+    "step_decoded": 32,
+    "conf_decoded": 0.498046875,
+    "categories": [
+      "punctuation",
+      "sentence_boundary"
+    ]
+  },
+  {
+    "step": 60,
+    "direction": 1,
+    "impact_score": 0.037109375,
+    "prompt_shift": 0.022363281249999978,
+    "token_pos": 92,
+    "token_id": 2111,
+    "token_str": "\u0120still",
+    "step_decoded": 59,
+    "conf_decoded": 0.22265625,
+    "categories": [
+      "contrast_marker",
+      "content_heavy"
+    ]
+  }
+]

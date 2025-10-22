@@ -1,0 +1,20 @@
+{
+  "name": "decision_regret",
+  "prompt": "Describe why people sometimes regret decisions that once made them happy.",
+  "decoded": "People sometimes regret decisions that once made them happy because they may have been based on incomplete information, impulsive emotions, or a lack of foresight. Additionally, as time passes, their values and priorities may have changed, leading them to realize that the decision they made was not the best choice in the long run.",
+  "events_count": 2,
+  "max_mean_delta": 0.25404575892857145,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.22785295758928573,
+      "median_impact": 0.22785295758928573,
+      "mean_prompt_shift": -0.06380208333333331
+    }
+  ],
+  "extra": {}
+}

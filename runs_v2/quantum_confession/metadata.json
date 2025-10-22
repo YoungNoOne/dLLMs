@@ -1,0 +1,32 @@
+{
+  "name": "quantum_confession",
+  "prompt": "Confession booths upgraded with quantum computers can now forgive across timelines. A person repents for sins they haven\u2019t committed yet.",
+  "decoded": "That sounds like a fascinating and futuristic concept. The idea of quantum computers being integrated into confession booths to allow for forgiveness across timelines is quite intriguing. It raises questions about the nature of time, morality, and the possibilities of technology. Do you have any specific questions or scenarios you'd like to explore this further?",
+  "events_count": 1,
+  "max_mean_delta": 0.263427734375,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.263427734375,
+      "median_impact": 0.263427734375,
+      "mean_prompt_shift": -0.31645507812499996
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 60,
+      "token_pos": 101,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

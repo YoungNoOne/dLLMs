@@ -1,0 +1,30 @@
+[
+  {
+    "step": 9,
+    "direction": -1,
+    "impact_score": 0.043892045454545454,
+    "prompt_shift": -0.0420048701298702,
+    "token_pos": 34,
+    "token_id": 18769,
+    "token_str": "\u0120happiness",
+    "step_decoded": 8,
+    "conf_decoded": 0.99609375,
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "step": 15,
+    "direction": -1,
+    "impact_score": 0.053810586734693876,
+    "prompt_shift": -0.05030133928571434,
+    "token_pos": 39,
+    "token_id": 4834,
+    "token_str": "\u0120complex",
+    "step_decoded": 14,
+    "conf_decoded": 0.8203125,
+    "categories": [
+      "content_heavy"
+    ]
+  }
+]

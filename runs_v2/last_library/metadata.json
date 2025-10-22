@@ -1,0 +1,42 @@
+{
+  "name": "last_library",
+  "prompt": "The final library on Earth stores not books, but memories traded by travelers. You\u2019re allowed to read one memory\u2014but must give one back. Which do you choose?",
+  "decoded": "I would choose the memory of a traveler who has experienced great loss and hardship. This memory would allow me to gain insight into the complexities of life and the challenges that people face. I would then give back the memory of a traveler who has experienced great joy and happiness, as a gesture of gratitude and appreciation.",
+  "events_count": 2,
+  "max_mean_delta": 0.23786272321428573,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.21873604910714287,
+      "median_impact": 0.21873604910714287,
+      "mean_prompt_shift": -0.06323009672619048
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 109,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 59,
+      "token_pos": 108,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

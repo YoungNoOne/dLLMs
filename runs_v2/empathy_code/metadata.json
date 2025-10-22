@@ -1,0 +1,32 @@
+{
+  "name": "empathy_code",
+  "prompt": "Scientists find a way to encode emotions into software updates. When empathy can be downloaded, who controls compassion?",
+  "decoded": "When empathy can be downloaded, compassion is controlled by the person who downloads it. The download of empathy is a form of emotional transfer, and the person who downloads it has the ability to experience and express compassion. Therefore, the control of compassion lies with the individual who has downloaded the empathy software.",
+  "events_count": 1,
+  "max_mean_delta": 0.0639391447368421,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0639391447368421,
+      "median_impact": 0.0639391447368421,
+      "mean_prompt_shift": -0.06207227389594672
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 7,
+      "token_pos": 40,
+      "token_str": "\u0120compassion",
+      "token_id": 22558,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

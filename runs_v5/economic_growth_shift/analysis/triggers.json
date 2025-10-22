@@ -1,0 +1,92 @@
+[
+  {
+    "step_decoded": 26,
+    "direction": -1,
+    "mean_delta": 0.056393286026200876,
+    "median_delta": 0.0625,
+    "sign_agreement": 0.9650655021834061,
+    "valid_positions": 229,
+    "prompt_mean": 0.7846274563318777,
+    "prompt_shift": -0.05523327736377448,
+    "tokens": [
+      {
+        "step_decoded": 26,
+        "token_pos": 73,
+        "token_id": 13,
+        "token_str": ".",
+        "conf_decoded": 0.87890625,
+        "categories": [
+          "punctuation",
+          "sentence_boundary"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 27,
+    "direction": 1,
+    "mean_delta": 0.05461896929824561,
+    "median_delta": 0.05859375,
+    "sign_agreement": 0.9473684210526315,
+    "valid_positions": 228,
+    "prompt_mean": 0.8372053179824561,
+    "prompt_shift": 0.05257786165057843,
+    "tokens": [
+      {
+        "step_decoded": 27,
+        "token_pos": 74,
+        "token_id": 963,
+        "token_str": "\u0120It",
+        "conf_decoded": 0.50390625,
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 54,
+    "direction": -1,
+    "mean_delta": 0.043163090796019904,
+    "median_delta": 0.0390625,
+    "sign_agreement": 0.900497512437811,
+    "valid_positions": 201,
+    "prompt_mean": 0.6995296952736318,
+    "prompt_shift": -0.03451656091448696,
+    "tokens": [
+      {
+        "step_decoded": 54,
+        "token_pos": 101,
+        "token_id": 13,
+        "token_str": ".",
+        "conf_decoded": 0.6796875,
+        "categories": [
+          "punctuation",
+          "sentence_boundary"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 55,
+    "direction": -1,
+    "mean_delta": 0.1545703125,
+    "median_delta": 0.15625,
+    "sign_agreement": 1.0,
+    "valid_positions": 200,
+    "prompt_mean": 0.5455859375,
+    "prompt_shift": -0.1539437577736319,
+    "tokens": [
+      {
+        "step_decoded": 55,
+        "token_pos": 103,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.67578125,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  }
+]

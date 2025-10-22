@@ -1,0 +1,52 @@
+{
+  "name": "empty_celebration",
+  "prompt": "There\u2019s a parade in town, but no one remembers what it\u2019s for. Narrate the event.",
+  "decoded": "The town is abuzz with excitement as a colorful parade takes the streets. People are cheering and waving, but no one seems to know what the parade is for. The air is filled with music and laughter, but the purpose of the event remains a mystery.",
+  "events_count": 3,
+  "max_mean_delta": 0.24431818181818182,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.1955886994949495,
+      "median_impact": 0.208984375,
+      "mean_prompt_shift": -0.01895254629629628
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 53,
+      "token_pos": 87,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 54,
+      "token_pos": 86,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 55,
+      "token_pos": 88,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

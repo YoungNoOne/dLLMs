@@ -1,0 +1,30 @@
+[
+  {
+    "step": 6,
+    "direction": -1,
+    "impact_score": 0.04337284482758621,
+    "prompt_shift": -0.04084439837814147,
+    "token_pos": 35,
+    "token_id": 268,
+    "token_str": "\u0120the",
+    "step_decoded": 5,
+    "conf_decoded": 0.98046875,
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "step": 11,
+    "direction": -1,
+    "impact_score": 0.04311615566037736,
+    "prompt_shift": -0.04169532887840666,
+    "token_pos": 39,
+    "token_id": 21465,
+    "token_str": "\u0120poverty",
+    "step_decoded": 10,
+    "conf_decoded": 0.94921875,
+    "categories": [
+      "content_heavy"
+    ]
+  }
+]

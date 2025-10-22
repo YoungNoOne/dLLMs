@@ -1,0 +1,20 @@
+{
+  "name": "tech_ethics",
+  "prompt": "Talk about an ethical dilemma created by artificial intelligence in modern society.",
+  "decoded": "One ethical dilemma created by artificial intelligence in modern society is the potential for AI to perpetuate existing biases and discrimination. For example, AI systems used in hiring or lending decisions may inadvertently discriminate against certain groups based on their race, gender, or other characteristics, leading to unfair outcomes and exacerbating existing social inequalities.",
+  "events_count": 2,
+  "max_mean_delta": 0.2654296875,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.25108816964285713,
+      "median_impact": 0.25108816964285713,
+      "mean_prompt_shift": -0.0378929501488095
+    }
+  ],
+  "extra": {}
+}

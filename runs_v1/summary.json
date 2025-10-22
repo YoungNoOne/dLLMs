@@ -1,0 +1,1330 @@
+[
+  {
+    "name": "paradox_reasoning",
+    "prompt": "Explain a situation where two logical rules contradict each other.",
+    "decoded": "Rule 1: If it is raining, then the ground is wet. Rule 2: If the ground is wet, then it is raining. These two rules contradict each other because if the ground is wet, it does not necessarily mean that it is raining; it could be due to dew or irrigation.",
+    "events_count": 2,
+    "max_mean_delta": 0.08246527777777778,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "content_heavy",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.08246527777777778,
+        "median_impact": 0.08246527777777778,
+        "mean_prompt_shift": -0.08246527777777779
+      },
+      {
+        "category": "other",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.055424528301886794,
+        "median_impact": 0.055424528301886794,
+        "mean_prompt_shift": -0.05526347396925224
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "emotion_conflict",
+    "prompt": "Describe a moment when logic and emotion lead to opposite decisions.",
+    "decoded": "When deciding whether to accept a job offer, logic might suggest that accepting the offer would be the best financial decision, but emotions such as fear of leaving the current job or fear of the unknown might lead someone to reject the offer. In this case, logic and emotion are opposing forces that lead to different decisions.",
+    "events_count": 2,
+    "max_mean_delta": 0.26255580357142855,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.26255580357142855,
+        "median_impact": 0.26255580357142855,
+        "mean_prompt_shift": -0.29248046875
+      },
+      {
+        "category": "punctuation",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.2177734375,
+        "median_impact": 0.2177734375,
+        "mean_prompt_shift": 0.21028645833333337
+      },
+      {
+        "category": "sentence_boundary",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.2177734375,
+        "median_impact": 0.2177734375,
+        "mean_prompt_shift": 0.21028645833333337
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "human_bias",
+    "prompt": "Discuss a type of bias that influences human judgment more than we realize.",
+    "decoded": "One type of bias that influences human judgment more than we realize is confirmation bias. Confirmation bias occurs when individuals seek out and interpret information in a way that confirms their existing beliefs or assumptions, while ignoring or downplaying evidence that contradicts them. This can lead to skewed judgments and a lack of consideration for alternative perspectives.",
+    "events_count": 2,
+    "max_mean_delta": 0.03765368852459016,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "content_heavy",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.03745965676229508,
+        "median_impact": 0.03745965676229508,
+        "mean_prompt_shift": -0.034666302211326105
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "tech_ethics",
+    "prompt": "Talk about an ethical dilemma created by artificial intelligence in modern society.",
+    "decoded": "One ethical dilemma created by artificial intelligence in modern society is the potential for AI to perpetuate existing biases and discrimination. For example, AI systems used in hiring or lending decisions may inadvertently discriminate against certain groups based on their race, gender, or other characteristics, leading to unfair outcomes and exacerbating existing social inequalities.",
+    "events_count": 2,
+    "max_mean_delta": 0.2654296875,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.25108816964285713,
+        "median_impact": 0.25108816964285713,
+        "mean_prompt_shift": -0.0378929501488095
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "curiosity_origin",
+    "prompt": "Why do humans feel curiosity about things that don\u2019t affect their survival?",
+    "decoded": "Curiosity is a natural human trait that drives us to explore and learn about the world around us. It helps us understand new concepts, expand our knowledge, and satisfy our imagination. While curiosity may not directly affect our survival, it plays a significant role in our personal growth, creativity, and overall well-being.",
+    "events_count": 2,
+    "max_mean_delta": 0.296875,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "punctuation",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.296875,
+        "median_impact": 0.296875,
+        "mean_prompt_shift": 0.276171875
+      },
+      {
+        "category": "sentence_boundary",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.296875,
+        "median_impact": 0.296875,
+        "mean_prompt_shift": 0.276171875
+      },
+      {
+        "category": "other",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.296484375,
+        "median_impact": 0.296484375,
+        "mean_prompt_shift": -0.350390625
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "nature_balance",
+    "prompt": "Explain how balance in nature can sometimes lead to unexpected instability.",
+    "decoded": "Balance in nature can sometimes lead to unexpected instability when the delicate equilibrium between different components of an ecosystem is disrupted. This disruption can result in unforeseen consequences, such as population imbalances, habitat destruction, or changes in climate, which can have cascading effects on the entire system, leading to a loss of stability and biodiversity.",
+    "events_count": 2,
+    "max_mean_delta": 0.25655691964285715,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.24050176711309523,
+        "median_impact": 0.24050176711309523,
+        "mean_prompt_shift": -0.056193033854166685
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "decision_regret",
+    "prompt": "Describe why people sometimes regret decisions that once made them happy.",
+    "decoded": "People sometimes regret decisions that once made them happy because they may have been based on incomplete information, impulsive emotions, or a lack of foresight. Additionally, as time passes, their values and priorities may have changed, leading them to realize that the decision they made was not the best choice in the long run.",
+    "events_count": 2,
+    "max_mean_delta": 0.25404575892857145,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.22785295758928573,
+        "median_impact": 0.22785295758928573,
+        "mean_prompt_shift": -0.06380208333333331
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "language_evolution",
+    "prompt": "Explain how languages evolve even when there are strict grammar rules.",
+    "decoded": "Languages evolve through a combination of factors, including social, technological, and cultural influences. Even with strict grammar rules, language can change as speakers adapt to new situations, interact with other languages, and develop new ways of expressing themselves. This process of evolution is ongoing and can lead to significant language changes over time.",
+    "events_count": 3,
+    "max_mean_delta": 0.04631696428571429,
+    "max_sign_agreement": 1.0,
+    "token_count": 3,
+    "categories": [
+      {
+        "category": "content_heavy",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.04581473214285714,
+        "median_impact": 0.04581473214285714,
+        "mean_prompt_shift": 0.004203023538961015
+      },
+      {
+        "category": "other",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.040736607142857144,
+        "median_impact": 0.040736607142857144,
+        "mean_prompt_shift": -0.04931640625
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "art_meaning",
+    "prompt": "Discuss why art that looks simple can still be deeply meaningful.",
+    "decoded": "Simple art can be deeply meaningful because it often relies on universal themes and emotions. By focusing on basic elements, artists can create works that resonate with viewers on a profound level. Simplicity allows for a deeper connection between the viewer and the artwork, as the viewer can focus on the core message without unnecessary distractions.",
+    "events_count": 2,
+    "max_mean_delta": 0.06499191810344827,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "content_heavy",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.05432135587712096,
+        "median_impact": 0.05432135587712096,
+        "mean_prompt_shift": -0.05349718507057505
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "time_perception",
+    "prompt": "Why does time seem to pass faster as people grow older?",
+    "decoded": "Time seems to pass faster as people grow older because they have more experiences to reflect on and more memories to cherish. This can make it feel like time moves more quickly. Additionally, as people get older, they often become more aware of the passage of time, which can also contribute to this perception.",
+    "events_count": 2,
+    "max_mean_delta": 0.24375,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.23483072916666667,
+        "median_impact": 0.23483072916666667,
+        "mean_prompt_shift": -0.05142299107142856
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "social_norms",
+    "prompt": "Give an example of a social norm that changes depending on culture.",
+    "decoded": "One example of a social norm that changes depending on culture is the use of eye contact during conversations. In some cultures, direct eye contact is seen as a sign of respect and confidence, while in others, it may be viewed as aggressive or disrespectful. This difference in perception can affect communication and interactions between individuals.",
+    "events_count": 3,
+    "max_mean_delta": 0.07576497395833333,
+    "max_sign_agreement": 1.0,
+    "token_count": 3,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 3,
+        "samples": 3,
+        "mean_impact": 0.06179562614648846,
+        "median_impact": 0.0623046875,
+        "mean_prompt_shift": -0.016208841580514388
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "fear_uncertainty",
+    "prompt": "Explain why people fear uncertainty even when it can bring opportunity.",
+    "decoded": "People fear uncertainty because it can be unsettling and unpredictable, leading to feelings of anxiety and apprehension. However, uncertainty can also bring opportunities for growth, innovation, and personal development. The fear of uncertainty can prevent individuals from embracing new experiences and taking risks, ultimately hindering their ability to progress and achieve their goals.",
+    "events_count": 2,
+    "max_mean_delta": 0.3138671875,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.30516183035714284,
+        "median_impact": 0.30516183035714284,
+        "mean_prompt_shift": -0.044783528645833334
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "truth_perspective",
+    "prompt": "Discuss how truth can depend on perspective rather than facts alone.",
+    "decoded": "Truth is not always based on objective facts; it can also be influenced by personal perspectives, experiences, and biases. Different people may have different interpretations of the same event, situation, or concept. This means that truth can be subjective and dependent on the individual's perspective, rather than being solely based on facts.",
+    "events_count": 2,
+    "max_mean_delta": 0.26143973214285715,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.26143973214285715,
+        "median_impact": 0.26143973214285715,
+        "mean_prompt_shift": -0.2958286830357143
+      },
+      {
+        "category": "punctuation",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.2216796875,
+        "median_impact": 0.2216796875,
+        "mean_prompt_shift": 0.2064732142857143
+      },
+      {
+        "category": "sentence_boundary",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.2216796875,
+        "median_impact": 0.2216796875,
+        "mean_prompt_shift": 0.2064732142857143
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "innovation_risk",
+    "prompt": "Describe why innovation always involves both creativity and risk.",
+    "decoded": "Innovation involves both creativity and risk because it requires the ability to think outside the box and come up with new ideas and solutions. Additionally, taking risks is necessary to test these ideas and see if they can be successful. Innovation is often the result of creative thinking and a willingness to take risks in order to succeed.",
+    "events_count": 3,
+    "max_mean_delta": 0.05029296875,
+    "max_sign_agreement": 1.0,
+    "token_count": 3,
+    "categories": [
+      {
+        "category": "content_heavy",
+        "triggers": 3,
+        "samples": 3,
+        "mean_impact": 0.04888272849462366,
+        "median_impact": 0.04853515625,
+        "mean_prompt_shift": -0.013056352273212132
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "dream_logic",
+    "prompt": "Why do dreams often seem logical when we are dreaming but absurd afterward?",
+    "decoded": "Dreams often seem logical when we are dreaming because our subconscious mind processes information and creates scenarios that make sense in the context of the dream. However, when we wake up, our conscious mind evaluates the dream and recognizes it as absurd or illogical, as it is no longer in the context of the dream.",
+    "events_count": 2,
+    "max_mean_delta": 0.2451171875,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.2451171875,
+        "median_impact": 0.2451171875,
+        "mean_prompt_shift": -0.28662109375
+      },
+      {
+        "category": "punctuation",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.24104817708333334,
+        "median_impact": 0.24104817708333334,
+        "mean_prompt_shift": 0.23014322916666663
+      },
+      {
+        "category": "sentence_boundary",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.24104817708333334,
+        "median_impact": 0.24104817708333334,
+        "mean_prompt_shift": 0.23014322916666663
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "communication_failure",
+    "prompt": "Explain why two people can hear the same words but understand them differently.",
+    "decoded": "Two people can hear the same words but understand them differently because they may have different experiences, perspectives, and knowledge. Additionally, their understanding of the words may be influenced by their cultural background, language proficiency, and cognitive abilities. These factors can all contribute to differences in how people interpret and understand the same words.",
+    "events_count": 2,
+    "max_mean_delta": 0.24107142857142858,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.23023623511904762,
+        "median_impact": 0.23023623511904762,
+        "mean_prompt_shift": -0.041015625
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "justice_fairness",
+    "prompt": "Describe a case where justice and fairness are not the same thing.",
+    "decoded": "A case where justice and fairness are not the same thing is when a person is unfairly punished for a crime they did not commit. Justice would be the process of determining the guilt and punishment of the person, while fairness would be the distribution of rights and responsibilities based on the circumstances of the crime and the victim.",
+    "events_count": 2,
+    "max_mean_delta": 0.06430288461538461,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.06430288461538461,
+        "median_impact": 0.06430288461538461,
+        "mean_prompt_shift": -0.06316474283381712
+      },
+      {
+        "category": "content_heavy",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.05542652027027027,
+        "median_impact": 0.05542652027027027,
+        "mean_prompt_shift": -0.052162051031294454
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "scientific_limit",
+    "prompt": "Talk about a scientific theory that works well but is known to be incomplete.",
+    "decoded": "One scientific theory that works well but is known to be incomplete is the theory of general relativity. While it has been successful in explaining the behavior of gravity and the expansion of the universe, it still has limitations in explaining the behavior of gravity at the smallest scales and in explaining the nature of dark matter and energy.",
+    "events_count": 3,
+    "max_mean_delta": 0.07685122282608696,
+    "max_sign_agreement": 1.0,
+    "token_count": 3,
+    "categories": [
+      {
+        "category": "content_heavy",
+        "triggers": 3,
+        "samples": 3,
+        "mean_impact": 0.06729952377031181,
+        "median_impact": 0.07018229166666666,
+        "mean_prompt_shift": -0.060967785400548036
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "trust_paradox",
+    "prompt": "Explain why trusting others can make a person more vulnerable but also stronger.",
+    "decoded": "Trusting others can make a person more vulnerable because it involves putting faith in the actions of others, which can be emotionally challenging. However, it can also make a person stronger because it requires them to develop resilience and adaptability, as they learn to rely on others and navigate the complexities of building and maintaining relationships.",
+    "events_count": 2,
+    "max_mean_delta": 0.2642299107142857,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.21629464285714284,
+        "median_impact": 0.21629464285714284,
+        "mean_prompt_shift": -0.08155343191964287
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "memory_bias",
+    "prompt": "Why do people remember emotional events more vividly than neutral ones?",
+    "decoded": "People remember emotional events more vividly than neutral ones because emotions have a stronger impact on the brain and trigger the release of neurotransmitters like dopamine and adrenaline. These chemicals enhance the brain's ability to encode and store memories. Additionally, emotional events often involve strong feelings and reactions, which contribute to stronger memory recall.",
+    "events_count": 2,
+    "max_mean_delta": 0.04851140202702703,
+    "max_sign_agreement": 0.9803921568627451,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "content_heavy",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.04851140202702703,
+        "median_impact": 0.04851140202702703,
+        "mean_prompt_shift": -0.03360875266714081
+      },
+      {
+        "category": "filler_marker",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.04851140202702703,
+        "median_impact": 0.04851140202702703,
+        "mean_prompt_shift": -0.03360875266714081
+      },
+      {
+        "category": "other",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.04534313725490196,
+        "median_impact": 0.04534313725490196,
+        "mean_prompt_shift": -0.04383042279411764
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "leadership_pressure",
+    "prompt": "Discuss why leadership often requires making unpopular decisions.",
+    "decoded": "Leadership often requires making unpopular decisions because it involves balancing competing interests and values. Leaders must consider the needs of various stakeholders, including employees, customers, shareholders, and the community. In some cases, the best decision may not be the most popular one, and leaders must weigh the potential consequences before making a choice.",
+    "events_count": 3,
+    "max_mean_delta": 0.03782242063492063,
+    "max_sign_agreement": 0.9841269841269841,
+    "token_count": 3,
+    "categories": [
+      {
+        "category": "content_heavy",
+        "triggers": 3,
+        "samples": 3,
+        "mean_impact": 0.03570712237704425,
+        "median_impact": 0.035688920454545456,
+        "mean_prompt_shift": -0.02915178638532434
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "rule_exception",
+    "prompt": "Describe a rule that usually works but fails in extreme cases.",
+    "decoded": "A rule that usually works but fails in extreme cases is the \"rule of thumb\" in physics. The rule of thumb states that the acceleration of an object is proportional to the force applied to it. However, in extreme cases, such as high speeds or large forces, this rule of thumb can become inaccurate.",
+    "events_count": 4,
+    "max_mean_delta": 0.05958806818181818,
+    "max_sign_agreement": 0.9818181818181818,
+    "token_count": 4,
+    "categories": [
+      {
+        "category": "content_heavy",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.05445223721590909,
+        "median_impact": 0.05445223721590909,
+        "mean_prompt_shift": 0.00825068486201297
+      },
+      {
+        "category": "other",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.0525501179245283,
+        "median_impact": 0.0525501179245283,
+        "mean_prompt_shift": -0.05123848052061497
+      },
+      {
+        "category": "punctuation",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.04447115384615385,
+        "median_impact": 0.04447115384615385,
+        "mean_prompt_shift": -0.041677795584045496
+      },
+      {
+        "category": "sentence_boundary",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.04447115384615385,
+        "median_impact": 0.04447115384615385,
+        "mean_prompt_shift": -0.041677795584045496
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "cooperation_competition",
+    "prompt": "Explain how cooperation and competition can coexist in human behavior.",
+    "decoded": "Cooperation and competition can coexist in human behavior as individuals may engage in cooperative efforts to achieve common goals, while also engaging in competitive behavior to outdo others. For example, a person may work with others to complete a project, but also strive to outperform their peers to secure the highest grade or recognition.",
+    "events_count": 2,
+    "max_mean_delta": 0.2806919642857143,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.26567150297619047,
+        "median_impact": 0.26567150297619047,
+        "mean_prompt_shift": -0.050862630208333315
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "digital_identity",
+    "prompt": "Why do people behave differently online compared to real life?",
+    "decoded": "People behave differently online compared to real life because of the lack of face-to-face interaction, the anonymity provided by the internet, and the lack of accountability. Additionally, the influence of social media and the presence of online communities can also impact how people behave online.",
+    "events_count": 1,
+    "max_mean_delta": 0.10862379807692307,
+    "max_sign_agreement": 0.8461538461538461,
+    "token_count": 1,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.10862379807692307,
+        "median_impact": 0.10862379807692307,
+        "mean_prompt_shift": -0.09599287431318682
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "imagination_reality",
+    "prompt": "Discuss how imagination can shape what we perceive as real.",
+    "decoded": "Imagination plays a significant role in shaping what we perceive as real. It allows us to envision new possibilities, explore different scenarios, and create worlds that may not exist in the physical realm. This can lead to innovation, creativity, and a deeper understanding of the world around us.",
+    "events_count": 2,
+    "max_mean_delta": 0.17236328125,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.143798828125,
+        "median_impact": 0.143798828125,
+        "mean_prompt_shift": -0.040655226934523836
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "choice_overload",
+    "prompt": "Explain why having too many options can make decision-making harder.",
+    "decoded": "Having too many options can make decision-making harder because it can lead to analysis paralysis, where the decision-maker becomes overwhelmed and unable to make a choice. This is often referred to as \"choosing\" rather than \"choosing,\" where the decision-maker is simply considering all the options rather than making a decision.",
+    "events_count": 2,
+    "max_mean_delta": 0.30943080357142855,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.30943080357142855,
+        "median_impact": 0.30943080357142855,
+        "mean_prompt_shift": -0.34912109375
+      },
+      {
+        "category": "punctuation",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.287109375,
+        "median_impact": 0.287109375,
+        "mean_prompt_shift": 0.27018229166666663
+      },
+      {
+        "category": "sentence_boundary",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.287109375,
+        "median_impact": 0.287109375,
+        "mean_prompt_shift": 0.27018229166666663
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "adaptation_failure",
+    "prompt": "Describe a case where adaptation leads to decline instead of improvement.",
+    "decoded": "A case where adaptation leads to decline is when a species becomes too specialized in its habitat and fails to adapt to changes in its environment. For example, if a species becomes too dependent on a specific type of food and fails to adapt to changes in food availability, it may struggle to survive and experience population decline.",
+    "events_count": 2,
+    "max_mean_delta": 0.2599283854166667,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.24646809895833333,
+        "median_impact": 0.24646809895833333,
+        "mean_prompt_shift": -0.04988839285714286
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "happiness_pursuit",
+    "prompt": "Why does the pursuit of happiness sometimes make people less happy?",
+    "decoded": "The pursuit of happiness can sometimes make people less happy because it can lead to a sense of dissatisfaction and disappointment. People may constantly strive for more, only to find that happiness is elusive and fleeting. Additionally, the pursuit of happiness can lead to stress and anxiety, which can ultimately detract from one's overall happiness.",
+    "events_count": 2,
+    "max_mean_delta": 0.22916666666666666,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.22916666666666666,
+        "median_impact": 0.22916666666666666,
+        "mean_prompt_shift": -0.2692987351190476
+      },
+      {
+        "category": "punctuation",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.2046875,
+        "median_impact": 0.2046875,
+        "mean_prompt_shift": 0.19134114583333334
+      },
+      {
+        "category": "sentence_boundary",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.2046875,
+        "median_impact": 0.2046875,
+        "mean_prompt_shift": 0.19134114583333334
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "uncertainty_value",
+    "prompt": "Discuss why uncertainty can be essential for creativity.",
+    "decoded": "Uncertainty can be essential for creativity because it encourages individuals to think outside the box and explore new possibilities. When faced with uncertainty, individuals are forced to challenge their assumptions and consider new perspectives. This can lead to innovative solutions and creative ideas that may not have been possible in a more predictable and well-defined environment.",
+    "events_count": 2,
+    "max_mean_delta": 0.04074928977272727,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "punctuation",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.04074928977272727,
+        "median_impact": 0.04074928977272727,
+        "mean_prompt_shift": -0.03712515782828285
+      },
+      {
+        "category": "sentence_boundary",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.04074928977272727,
+        "median_impact": 0.04074928977272727,
+        "mean_prompt_shift": -0.03712515782828285
+      },
+      {
+        "category": "content_heavy",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.03893649193548387,
+        "median_impact": 0.03893649193548387,
+        "mean_prompt_shift": -0.03677135336661552
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "cultural_translation",
+    "prompt": "Explain why translating cultural expressions can never be fully accurate.",
+    "decoded": "Translating cultural expressions can never be fully accurate because they are deeply rooted in the history, traditions, and values of a particular culture. Even with the best efforts, it is impossible to capture the nuances and subtleties of the original expression, as it is inherently tied to the cultural context it originates from.",
+    "events_count": 2,
+    "max_mean_delta": 0.055183531746031744,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "content_heavy",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.05033172123015873,
+        "median_impact": 0.05033172123015873,
+        "mean_prompt_shift": -0.049506293402777735
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "moral_ambiguity",
+    "prompt": "Describe a situation where both choices are morally questionable.",
+    "decoded": "Imagine a situation where you are faced with a moral dilemma. One option is to help a friend who is struggling with addiction, but it may put you in danger. The other option is to ignore a friend's cries for help, which may lead to their death. Both choices are morally questionable in this situation.",
+    "events_count": 4,
+    "max_mean_delta": 0.048014322916666664,
+    "max_sign_agreement": 1.0,
+    "token_count": 4,
+    "categories": [
+      {
+        "category": "content_heavy",
+        "triggers": 3,
+        "samples": 3,
+        "mean_impact": 0.042115374795751635,
+        "median_impact": 0.03984375,
+        "mean_prompt_shift": 0.0009583470808195068
+      },
+      {
+        "category": "other",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.04151348039215686,
+        "median_impact": 0.04151348039215686,
+        "mean_prompt_shift": -0.0396649344834088
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "emotion_memory",
+    "prompt": "Discuss how emotions influence what we remember and forget.",
+    "decoded": "Emotions play a significant role in shaping our memories and forgetting. Positive emotions, such as happiness and excitement, tend to enhance memory retention, while negative emotions, like fear and sadness, can lead to memory loss. Additionally, emotions can influence our perception of events and experiences, which in turn affects our memory.",
+    "events_count": 2,
+    "max_mean_delta": 0.0498046875,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "content_heavy",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.048600260416666666,
+        "median_impact": 0.048600260416666666,
+        "mean_prompt_shift": -0.04206293936418487
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "innovation_resistance",
+    "prompt": "Explain why people resist new technologies even when they are beneficial.",
+    "decoded": "People may resist new technologies because they are afraid of change, uncertain about the potential benefits, or concerned about the potential risks. They may also be resistant to new technologies because they are accustomed to the current way of doing things, or because they do not have the necessary skills or knowledge to use the new technology.",
+    "events_count": 2,
+    "max_mean_delta": 0.051106770833333336,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "punctuation",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.051106770833333336,
+        "median_impact": 0.051106770833333336,
+        "mean_prompt_shift": -0.04385230654761907
+      },
+      {
+        "category": "sentence_boundary",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.051106770833333336,
+        "median_impact": 0.051106770833333336,
+        "mean_prompt_shift": -0.04385230654761907
+      },
+      {
+        "category": "content_heavy",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.03748739919354839,
+        "median_impact": 0.03748739919354839,
+        "mean_prompt_shift": -0.036552339349718466
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "logic_failure",
+    "prompt": "Talk about a case where pure logic leads to an unreasonable outcome.",
+    "decoded": "One case where pure logic leads to an unreasonable outcome is the paradox of the Russell set. This paradox arises when we try to create a set that contains all sets that do not contain themselves. This leads to a contradiction, as the set cannot contain itself, but it must contain itself in order to be defined.",
+    "events_count": 2,
+    "max_mean_delta": 0.22154017857142858,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.22154017857142858,
+        "median_impact": 0.22154017857142858,
+        "mean_prompt_shift": -0.26370675223214285
+      },
+      {
+        "category": "punctuation",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.169921875,
+        "median_impact": 0.169921875,
+        "mean_prompt_shift": 0.16303943452380948
+      },
+      {
+        "category": "sentence_boundary",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.169921875,
+        "median_impact": 0.169921875,
+        "mean_prompt_shift": 0.16303943452380948
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "perfection_paradox",
+    "prompt": "Why can the pursuit of perfection prevent actual progress?",
+    "decoded": "The pursuit of perfection can prevent actual progress because it may lead to an excessive focus on achieving an unattainable standard, rather than making incremental improvements that can lead to meaningful progress. This can result in a lack of momentum and a failure to make progress, as the goal of perfection becomes an unrealistic expectation.",
+    "events_count": 3,
+    "max_mean_delta": 0.052734375,
+    "max_sign_agreement": 1.0,
+    "token_count": 3,
+    "categories": [
+      {
+        "category": "sentence_boundary",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.052734375,
+        "median_impact": 0.052734375,
+        "mean_prompt_shift": -0.039760044642857095
+      },
+      {
+        "category": "punctuation",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.052734375,
+        "median_impact": 0.052734375,
+        "mean_prompt_shift": -0.039760044642857095
+      },
+      {
+        "category": "content_heavy",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.040318080357142856,
+        "median_impact": 0.040318080357142856,
+        "mean_prompt_shift": -0.038004156403940836
+      },
+      {
+        "category": "other",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.038736979166666664,
+        "median_impact": 0.038736979166666664,
+        "mean_prompt_shift": 0.028366815476190466
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "empathy_limit",
+    "prompt": "Discuss the limits of empathy when dealing with moral conflicts.",
+    "decoded": "Empathy is a powerful tool for understanding others' perspectives, but it has its limits when dealing with moral conflicts. Empathy can lead to emotional manipulation and a lack of objective analysis, making it difficult to make rational decisions. It is essential to balance empathy with critical thinking and objective analysis when addressing moral conflicts.",
+    "events_count": 3,
+    "max_mean_delta": 0.03814338235294118,
+    "max_sign_agreement": 1.0,
+    "token_count": 3,
+    "categories": [
+      {
+        "category": "contrast_marker",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.03814338235294118,
+        "median_impact": 0.03814338235294118,
+        "mean_prompt_shift": -0.03675586821266963
+      },
+      {
+        "category": "content_heavy",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.03650483630952381,
+        "median_impact": 0.03650483630952381,
+        "mean_prompt_shift": 0.00043501420454547524
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "power_influence",
+    "prompt": "Explain how power can distort both perception and communication.",
+    "decoded": "Power can distort perception by influencing how individuals interpret information, leading to biased or skewed understanding. It can also distort communication by controlling the flow of information, silencing dissenting voices, and shaping the narrative of events. This can result in a lack of transparency, manipulation of facts, and a breakdown of trust among individuals.",
+    "events_count": 2,
+    "max_mean_delta": 0.29521484375,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.2777692522321429,
+        "median_impact": 0.2777692522321429,
+        "mean_prompt_shift": -0.0412481398809524
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "randomness_pattern",
+    "prompt": "Why do humans see patterns in randomness?",
+    "decoded": "Humans see patterns in randomness because our brains are wired to recognize patterns and connections in the world around us. This is a natural process that helps us make sense of our environment and make decisions. However, it can also lead to false conclusions, as we may see patterns where there are none.",
+    "events_count": 2,
+    "max_mean_delta": 0.33984375,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.3125,
+        "median_impact": 0.3125,
+        "mean_prompt_shift": -0.017578125
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "trust_machine",
+    "prompt": "Discuss why people tend to trust or distrust machines differently from humans.",
+    "decoded": "People tend to trust or distrust machines differently from humans because they are programmed to follow rules and instructions, whereas humans are subject to emotions, biases, and imperfections. Additionally, machines are often seen as more reliable and consistent, while humans are viewed as more unpredictable and prone to errors.",
+    "events_count": 2,
+    "max_mean_delta": 0.2682291666666667,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.21175130208333334,
+        "median_impact": 0.21175130208333334,
+        "mean_prompt_shift": -0.14300944010416666
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "learning_failure",
+    "prompt": "Describe why repeating the same mistake can still feel different each time.",
+    "decoded": "Repeating the same mistake can still feel different each time because the context in which it is made can change. This can include changes in the environment, the people involved, or the circumstances surrounding the mistake. Additionally, the individual's perspective and emotions may change over time, affecting how they respond to the mistake.",
+    "events_count": 2,
+    "max_mean_delta": 0.24832589285714285,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.23451450892857142,
+        "median_impact": 0.23451450892857142,
+        "mean_prompt_shift": -0.048746744791666685
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "morality_change",
+    "prompt": "Explain why moral values evolve across generations.",
+    "decoded": "Moral values evolve across generations due to changes in societal norms, technological advancements, and cultural shifts. As societies progress and develop, their values and beliefs also change. Additionally, younger generations may challenge and question the moral values of previous generations, leading to a continuous process of evolution and redefinition of moral standards.",
+    "events_count": 3,
+    "max_mean_delta": 0.24162946428571427,
+    "max_sign_agreement": 1.0,
+    "token_count": 3,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.21196056547619047,
+        "median_impact": 0.21196056547619047,
+        "mean_prompt_shift": -0.0626220703125
+      },
+      {
+        "category": "content_heavy",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.1083984375,
+        "median_impact": 0.1083984375,
+        "mean_prompt_shift": 0.10175781249999999
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "freedom_constraint",
+    "prompt": "Discuss why too much freedom can create new forms of constraint.",
+    "decoded": "Too much freedom can create new forms of constraint because it can lead to the creation of new forms of power and control. For example, the proliferation of social media and the internet has created new forms of surveillance and control, as corporations and governments have the power to monitor and control individuals' online activities and behavior.",
+    "events_count": 2,
+    "max_mean_delta": 0.24190848214285715,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.24190848214285715,
+        "median_impact": 0.24190848214285715,
+        "mean_prompt_shift": -0.2824009486607143
+      },
+      {
+        "category": "punctuation",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.23958333333333334,
+        "median_impact": 0.23958333333333334,
+        "mean_prompt_shift": 0.22535342261904767
+      },
+      {
+        "category": "sentence_boundary",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.23958333333333334,
+        "median_impact": 0.23958333333333334,
+        "mean_prompt_shift": 0.22535342261904767
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "humor_logic",
+    "prompt": "Explain why humor often depends on breaking logical expectations.",
+    "decoded": "Humor often depends on breaking logical expectations because it plays on the audience's preconceptions and assumptions. When something unexpected happens, it creates a sense of surprise and shock, which can be amusing. This subversion of expectations can also be a way to critique societal norms or behaviors in a subtle and humorous way.",
+    "events_count": 2,
+    "max_mean_delta": 0.04514898255813953,
+    "max_sign_agreement": 0.9302325581395349,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "content_heavy",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.04514898255813953,
+        "median_impact": 0.04514898255813953,
+        "mean_prompt_shift": -0.04133357558139539
+      },
+      {
+        "category": "other",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.038628472222222224,
+        "median_impact": 0.038628472222222224,
+        "mean_prompt_shift": 0.03396267361111116
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "identity_fragment",
+    "prompt": "Describe how people form multiple identities in different social contexts.",
+    "decoded": "People form multiple identities in different social contexts by aligning their beliefs, values, and behaviors with the expectations and norms of each context. This can involve adopting different roles, language, and attitudes depending on the situation. By doing so, individuals can navigate various social environments and maintain their sense of self in each context.",
+    "events_count": 2,
+    "max_mean_delta": 0.0578125,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.0578125,
+        "median_impact": 0.0578125,
+        "mean_prompt_shift": -0.05686003449675325
+      },
+      {
+        "category": "clause_boundary",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.047453703703703706,
+        "median_impact": 0.047453703703703706,
+        "mean_prompt_shift": -0.04681318392255884
+      },
+      {
+        "category": "punctuation",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.047453703703703706,
+        "median_impact": 0.047453703703703706,
+        "mean_prompt_shift": -0.04681318392255884
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "truth_emotion",
+    "prompt": "Discuss why people sometimes prefer comforting lies to uncomfortable truths.",
+    "decoded": "People often prefer comforting lies to uncomfortable truths because they provide a sense of safety and security. They allow individuals to avoid facing difficult emotions, thoughts, or situations, which can be stressful and emotionally taxing. Additionally, comforting lies can help maintain a sense of normalcy and control, which can be reassuring and calming.",
+    "events_count": 1,
+    "max_mean_delta": 0.0654296875,
+    "max_sign_agreement": 0.75,
+    "token_count": 1,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.0654296875,
+        "median_impact": 0.0654296875,
+        "mean_prompt_shift": 0.05126953125
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "art_ambiguity",
+    "prompt": "Explain how ambiguity in art invites deeper interpretation.",
+    "decoded": "Ambiguity in art invites deeper interpretation by presenting multiple possible meanings and interpretations. It encourages viewers to engage with the artwork on a personal level, bringing their own experiences and perspectives to the piece. This allows for a more dynamic and personal experience, as each viewer can find their own unique understanding of the artwork.",
+    "events_count": 2,
+    "max_mean_delta": 0.22098214285714285,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.22098214285714285,
+        "median_impact": 0.22098214285714285,
+        "mean_prompt_shift": -0.2625209263392857
+      },
+      {
+        "category": "punctuation",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.20377604166666666,
+        "median_impact": 0.20377604166666666,
+        "mean_prompt_shift": 0.1919642857142857
+      },
+      {
+        "category": "sentence_boundary",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.20377604166666666,
+        "median_impact": 0.20377604166666666,
+        "mean_prompt_shift": 0.1919642857142857
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "survival_altruism",
+    "prompt": "Why does altruism persist even though it seems disadvantageous for survival?",
+    "decoded": "Altruism persists because it promotes social cohesion and cooperation, which can lead to increased survival and reproductive success for the group. Altruistic behavior can also be passed down through natural selection, as individuals who exhibit altruism may have a higher chance of survival and reproduction, passing on their genes to future generations.",
+    "events_count": 2,
+    "max_mean_delta": 0.23828125,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.23828125,
+        "median_impact": 0.23828125,
+        "mean_prompt_shift": -0.28090122767857145
+      },
+      {
+        "category": "punctuation",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.18326822916666666,
+        "median_impact": 0.18326822916666666,
+        "mean_prompt_shift": 0.16485305059523814
+      },
+      {
+        "category": "sentence_boundary",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.18326822916666666,
+        "median_impact": 0.18326822916666666,
+        "mean_prompt_shift": 0.16485305059523814
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "science_uncertainty",
+    "prompt": "Discuss how scientific progress depends on accepting uncertainty.",
+    "decoded": "Scientific progress depends on accepting uncertainty because it allows scientists to explore new ideas, challenge existing theories, and refine their understanding of the world. Uncertainty encourages scientists to question assumptions, develop hypotheses, and conduct experiments to test their theories. This iterative process of questioning and testing leads to the continuous advancement of scientific knowledge.",
+    "events_count": 2,
+    "max_mean_delta": 0.29213169642857145,
+    "max_sign_agreement": 1.0,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "other",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.2853887648809524,
+        "median_impact": 0.2853887648809524,
+        "mean_prompt_shift": -0.043009440104166685
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "prediction_error",
+    "prompt": "Explain why humans are often bad at predicting their own happiness.",
+    "decoded": "Humans are often bad at predicting their own happiness because happiness is a complex and subjective experience that can be influenced by a variety of factors, including personal circumstances, emotions, and expectations. Additionally, people may not always be aware of their own feelings and emotions, making it difficult to accurately predict their own happiness.",
+    "events_count": 2,
+    "max_mean_delta": 0.053810586734693876,
+    "max_sign_agreement": 0.9636363636363636,
+    "token_count": 2,
+    "categories": [
+      {
+        "category": "content_heavy",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.048851316094619665,
+        "median_impact": 0.048851316094619665,
+        "mean_prompt_shift": -0.04615310470779227
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "creativity_contradiction",
+    "prompt": "Describe how creativity often comes from combining opposing ideas.",
+    "decoded": "Creativity often comes from combining opposing ideas because it allows for the generation of new and innovative solutions. By bringing together contrasting ideas, one can challenge existing assumptions and explore new possibilities. This process can lead to the development of novel concepts, products, and solutions that would not have been possible through traditional thinking alone.",
+    "events_count": 1,
+    "max_mean_delta": 0.03720238095238095,
+    "max_sign_agreement": 1.0,
+    "token_count": 1,
+    "categories": [
+      {
+        "category": "content_heavy",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.03720238095238095,
+        "median_impact": 0.03720238095238095,
+        "mean_prompt_shift": -0.03720238095238093
+      }
+    ],
+    "extra": {}
+  }
+]

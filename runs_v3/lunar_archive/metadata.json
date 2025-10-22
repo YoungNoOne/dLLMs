@@ -1,0 +1,42 @@
+{
+  "name": "lunar_archive",
+  "prompt": "The moon is revealed to be an ancient archive of Earth\u2019s forgotten histories. Write the first log entry of the astronaut who decodes it.",
+  "decoded": "March 12, 2023: Expedition 123, Day 1. Astronaut Dr. Emily Carter successfully deciphers the first segment of the lunar archive. The data appears to be a record of Earth's forgotten histories. Further analysis required to understand the significance of this discovery.",
+  "events_count": 2,
+  "max_mean_delta": 0.23018973214285715,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.21226283482142858,
+      "median_impact": 0.21226283482142858,
+      "mean_prompt_shift": -0.043172200520833315
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 104,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 103,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

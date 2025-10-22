@@ -1,0 +1,52 @@
+{
+  "name": "kindness_experiment",
+  "prompt": "A scientist tries to measure kindness in a lab. What goes unexpectedly right?",
+  "decoded": "The scientist tries to measure kindness in a lab. What goes unexpectedly right?\n\nThe scientist uses a special device to measure kindness, and it works perfectly. However, the device also measures the scientist's own kindness, which is surprisingly high, as the scientist has been practicing kindness in preparation for the experiment.",
+  "events_count": 3,
+  "max_mean_delta": 0.05446213942307692,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.04905518403088352,
+      "median_impact": 0.049327761627906974,
+      "mean_prompt_shift": -0.047463937142655656
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 16,
+      "token_pos": 43,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 21,
+      "token_pos": 47,
+      "token_str": "\u0120uses",
+      "token_id": 5349,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 38,
+      "token_pos": 65,
+      "token_str": "\u0120measures",
+      "token_id": 9497,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,6 @@
+step_decoded=160 pos=202 dir=- impact=0.037274 shift=-0.036583 cats=content_heavy earlier=16 later=16 same=0
+ find^(-16) purpose^(-15) and^(-13) direction^(-14),^(-12) leading^(-10) to^(-11) a^(-9) sense^(-8) of^(-7) emptiness^(-6) and^(-5) dis^(-2)connection^(-1).^(-4) The^(-3) [Ġfreedom^(+0)]  that^(+1) once^(+2) felt^(+3) so^(+5) liber^(+4)ating^(+6) can^(+7) become^(+8) a^(+9) burden^(+10),^(+11) as^(+12) the^(+13) absence^(+15) of^(+14) community^(+18)
+
+step_decoded=239 pos=278 dir=+ impact=0.029541 shift=0.029563 cats=content_heavy earlier=19 later=13 same=0
+ un^(-19)ful^(-18)filled^(-20).^(-17) The^(-15) independence^(-9) that^(-14) once^(-13) seemed^(-12) so^(-11) empowering^(-1) can^(-10) become^(-7) a^(-8) source^(-4) of^(-6) [Ġdespair^(+0)] ,^(-5) as^(-3) the^(-2) lack^(+5) of^(+4) social^(+11) interaction^(+15) can^(+12) er^(+14)ode^(+13) the^(+10) sense^(+6) of^(+7) meaning^(+9) and^(+8) purpose^(+16)
+

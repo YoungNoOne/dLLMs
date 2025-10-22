@@ -1,0 +1,50 @@
+{
+  "name": "reversed_gravity",
+  "prompt": "Imagine a day when gravity reverses direction for exactly ten minutes. Write what happens.",
+  "decoded": "On this day, gravity reverses direction for exactly ten minutes. During this time, objects would float upwards, and people would be able to walk upwards. This would be a strange and exciting experience for those who witness it. After the ten minutes, gravity would return to its normal direction and everything would resume.",
+  "events_count": 2,
+  "max_mean_delta": 0.044677734375,
+  "max_sign_agreement": 0.8571428571428571,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.044677734375,
+      "median_impact": 0.044677734375,
+      "mean_prompt_shift": -0.03980232007575757
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04352678571428571,
+      "median_impact": 0.04352678571428571,
+      "mean_prompt_shift": 0.04265591179653683
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 32,
+      "token_pos": 61,
+      "token_str": "\u0120This",
+      "token_id": 1077,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 43,
+      "token_pos": 72,
+      "token_str": "\u0120witness",
+      "token_id": 10982,
+      "direction": 1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

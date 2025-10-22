@@ -1,0 +1,4 @@
+category,triggers,samples,mean_impact,median_impact,mean_prompt_shift
+punctuation,1,1,0.053125,0.053125,-0.05240843141233764
+sentence_boundary,1,1,0.053125,0.053125,-0.05240843141233764
+content_heavy,1,1,0.0485301906779661,0.0485301906779661,-0.04710562323446332

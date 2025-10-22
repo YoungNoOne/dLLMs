@@ -1,0 +1,52 @@
+{
+  "name": "midnight_trade",
+  "prompt": "At midnight, people can trade memories for secrets. Write a transaction record.",
+  "decoded": "Time: Midnight\n\nParticipants:\n- Alice\n- Bob\n\nAlice:\n- Memory: The taste of fresh strawberries\n- Secret: The location of a hidden treasure map\n\nBob:\n- Memory: The sound of a distant waterfall\n- Secret: The password to a secret bank account",
+  "events_count": 3,
+  "max_mean_delta": 0.10374273255813954,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.09035948991254224,
+      "median_impact": 0.08640625,
+      "mean_prompt_shift": -0.08482238546811904
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 14,
+      "token_pos": 37,
+      "token_str": "\u0120Alice",
+      "token_id": 22744,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 21,
+      "token_pos": 47,
+      "token_str": "\u0120Memory",
+      "token_id": 22018,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 25,
+      "token_pos": 56,
+      "token_str": "\u0120Secret",
+      "token_id": 12049,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

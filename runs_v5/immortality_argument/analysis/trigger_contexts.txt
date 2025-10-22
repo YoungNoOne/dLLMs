@@ -1,0 +1,6 @@
+step_decoded=56 pos=110 dir=- impact=0.130339 shift=-0.129857 cats=contrast_marker;content_heavy earlier=14 later=18 same=0
+ to^(-16) achieve^(-13) our^(-12) dreams^(-10) and^(-11) aspirations^(-9) without^(-8) the^(-7) constraints^(-5) of^(-6) time^(-4) and^(-2) death^(-1).^(-3)Ċ^(+3)Ċ^(+1) [However^(+0)] ,^(+2) imm^(+4)ortality^(+5) technology^(+6) also^(+7) poses^(+8) significant^(+9) challenges^(+10).^(+11) With^(+14) eternal^(+13) life^(+12),^(+15) we^(+16) may^(+18) lose^(+17)
+
+step_decoded=239 pos=291 dir=+ impact=0.035889 shift=0.036872 cats=cause_marker;summary_marker;content_heavy earlier=16 later=16 same=0
+ lose^(-16) our^(-15) sense^(-13) of^(-12) urgency^(-14),^(-8) purpose^(-11),^(-10) and^(-9) the^(-6) beauty^(-5) of^(-4) imper^(-7)man^(-3)ence^(-2).^(-1) [ĠTherefore^(+0)] ,^(+1) it^(+6) is^(+7) important^(+15) to^(+5) consider^(+13) these^(+12) challenges^(+16) before^(+11) pursuing^(+14) imm^(+9)ortality^(+8) technology^(+10).^(+3)<|eot_id|>^(+4)<|endoftext|>^(+2)
+

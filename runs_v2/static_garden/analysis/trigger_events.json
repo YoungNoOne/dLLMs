@@ -1,0 +1,20 @@
+[
+  {
+    "step": 13,
+    "direction": -1,
+    "mean_delta": 0.0389093137254902,
+    "median_delta": 0.04296875,
+    "sign_agreement": 0.9803921568627451,
+    "valid_positions": 51,
+    "prompt_mean": 0.7900582107843137
+  },
+  {
+    "step": 43,
+    "direction": -1,
+    "mean_delta": 0.04241071428571429,
+    "median_delta": 0.046875,
+    "sign_agreement": 0.9047619047619048,
+    "valid_positions": 21,
+    "prompt_mean": 0.6225818452380952
+  }
+]

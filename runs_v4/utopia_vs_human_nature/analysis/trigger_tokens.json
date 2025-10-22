@@ -1,0 +1,131 @@
+[
+  {
+    "step": 35,
+    "direction": -1,
+    "impact_score": 0.059159360859728505,
+    "prompt_shift": -0.05726133196261873,
+    "token_pos": 82,
+    "token_id": 13,
+    "token_str": ".",
+    "step_decoded": 34,
+    "conf_decoded": 0.7578125,
+    "categories": [
+      "punctuation",
+      "sentence_boundary"
+    ]
+  },
+  {
+    "step": 37,
+    "direction": 1,
+    "impact_score": 0.0501212899543379,
+    "prompt_shift": 0.039011422011208,
+    "token_pos": 83,
+    "token_id": 21030,
+    "token_str": "\u0120Everyone",
+    "step_decoded": 36,
+    "conf_decoded": 0.34375,
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "step": 59,
+    "direction": -1,
+    "impact_score": 0.05183217005076142,
+    "prompt_shift": -0.050782351593344655,
+    "token_pos": 103,
+    "token_id": 23616,
+    "token_str": "\u0120pollution",
+    "step_decoded": 58,
+    "conf_decoded": 0.609375,
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "step": 60,
+    "direction": 1,
+    "impact_score": 0.049127072704081634,
+    "prompt_shift": 0.04952455680876411,
+    "token_pos": 106,
+    "token_id": 341,
+    "token_str": "\u0120is",
+    "step_decoded": 59,
+    "conf_decoded": 0.2275390625,
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "step": 70,
+    "direction": -1,
+    "impact_score": 0.13843035954301075,
+    "prompt_shift": -0.1375144987888851,
+    "token_pos": 116,
+    "token_id": 13,
+    "token_str": ".",
+    "step_decoded": 69,
+    "conf_decoded": 0.80859375,
+    "categories": [
+      "punctuation",
+      "sentence_boundary"
+    ]
+  },
+  {
+    "step": 72,
+    "direction": -1,
+    "impact_score": 0.060727326766304345,
+    "prompt_shift": -0.05818419047444179,
+    "token_pos": 118,
+    "token_id": 198,
+    "token_str": "\u010a",
+    "step_decoded": 71,
+    "conf_decoded": 0.470703125,
+    "categories": [
+      "special_token"
+    ]
+  },
+  {
+    "step": 82,
+    "direction": -1,
+    "impact_score": 0.0402411099137931,
+    "prompt_shift": -0.0399107142857143,
+    "token_pos": 128,
+    "token_id": 37244,
+    "token_str": "\u0120Imper",
+    "step_decoded": 81,
+    "conf_decoded": 0.62890625,
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "step": 153,
+    "direction": -1,
+    "impact_score": 0.039285307949029125,
+    "prompt_shift": -0.03574727452273152,
+    "token_pos": 201,
+    "token_id": 13,
+    "token_str": ".",
+    "step_decoded": 152,
+    "conf_decoded": 0.625,
+    "categories": [
+      "punctuation",
+      "sentence_boundary"
+    ]
+  },
+  {
+    "step": 234,
+    "direction": -1,
+    "impact_score": 0.038263494318181816,
+    "prompt_shift": -0.03654389513339923,
+    "token_pos": 279,
+    "token_id": 17957,
+    "token_str": "\u0120imper",
+    "step_decoded": 233,
+    "conf_decoded": 0.53125,
+    "categories": [
+      "content_heavy"
+    ]
+  }
+]

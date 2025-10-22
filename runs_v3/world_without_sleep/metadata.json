@@ -1,0 +1,42 @@
+{
+  "name": "world_without_sleep",
+  "prompt": "Imagine a world where no one needs to sleep. How does society change?",
+  "decoded": "In a world where no one needs to sleep, society would likely become more productive and efficient. People would be able to work longer hours and accomplish more tasks. However, it could also lead to issues such as sleep deprivation, fatigue, and decreased mental and physical health.",
+  "events_count": 2,
+  "max_mean_delta": 0.12276785714285714,
+  "max_sign_agreement": 0.8571428571428571,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.10532924107142858,
+      "median_impact": 0.10532924107142858,
+      "mean_prompt_shift": -0.05681733630952385
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 84,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 59,
+      "token_pos": 86,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

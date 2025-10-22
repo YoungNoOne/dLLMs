@@ -1,0 +1,69 @@
+{
+  "name": "human_patch",
+  "prompt": "If humans could download emotional updates, what would the changelog look like?",
+  "decoded": "If humans could download emotional updates, the changelog would likely include a list of available emotional states, their descriptions, and any associated benefits or drawbacks. It might also include instructions on how to download and install the updates, as well as any necessary precautions or considerations for using them in a safe and healthy way.",
+  "events_count": 3,
+  "max_mean_delta": 0.04025423728813559,
+  "max_sign_agreement": 0.9661016949152542,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04025423728813559,
+      "median_impact": 0.04025423728813559,
+      "mean_prompt_shift": -0.03838276836158194
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04025423728813559,
+      "median_impact": 0.04025423728813559,
+      "mean_prompt_shift": -0.03838276836158194
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.034621218417553196,
+      "median_impact": 0.034621218417553196,
+      "mean_prompt_shift": -0.02729324809766548
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 5,
+      "token_pos": 34,
+      "token_str": ",",
+      "token_id": 11,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "clause_boundary"
+      ]
+    },
+    {
+      "step": 17,
+      "token_pos": 45,
+      "token_str": "\u0120emotional",
+      "token_id": 12282,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 56,
+      "token_pos": 83,
+      "token_str": "\u0120in",
+      "token_id": 296,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

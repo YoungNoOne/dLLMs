@@ -1,0 +1,2015 @@
+[
+  {
+    "token_id": 13,
+    "token_str": ".",
+    "token_norm": ".",
+    "count": 64,
+    "runs": [
+      "animal_rights_tradeoff",
+      "art_as_product",
+      "artificial_empathy_conflict",
+      "automation_vs_purpose",
+      "censorship_in_art",
+      "competition_vs_collaboration",
+      "digital_afterlife_conflict",
+      "digital_identity_shift",
+      "digital_minimalism",
+      "digital_privacy_contradiction",
+      "economic_growth_shift",
+      "education_reform_conflict",
+      "empathy_fatigue",
+      "ethical_consumption_contradiction",
+      "faith_vs_reason",
+      "free_speech_vs_respect",
+      "free_will_vs_determinism",
+      "genetic_editing_ethics",
+      "globalization_double_edge",
+      "immortality_argument",
+      "isolation_benefit_shift",
+      "justice_vs_mercy",
+      "memory_modification_debate",
+      "meritocracy_paradox",
+      "moral_progress_contradiction",
+      "nationalism_vs_globalism",
+      "nostalgia_vs_future",
+      "perfectionism_shift",
+      "progress_vs_tradition",
+      "punishment_vs_rehabilitation",
+      "rebellion_in_art",
+      "science_vs_poetry",
+      "space_exploration_vs_earth",
+      "technology_utopia_vs_decay",
+      "utopia_vs_human_nature",
+      "virtual_relationships",
+      "war_justification_reversal",
+      "youth_vs_wisdom"
+    ],
+    "occurrences": [
+      {
+        "run": "technology_utopia_vs_decay",
+        "step": 63
+      },
+      {
+        "run": "technology_utopia_vs_decay",
+        "step": 139
+      },
+      {
+        "run": "progress_vs_tradition",
+        "step": 229
+      },
+      {
+        "run": "digital_privacy_contradiction",
+        "step": 55
+      },
+      {
+        "run": "free_will_vs_determinism",
+        "step": 62
+      },
+      {
+        "run": "free_will_vs_determinism",
+        "step": 135
+      },
+      {
+        "run": "artificial_empathy_conflict",
+        "step": 22
+      },
+      {
+        "run": "artificial_empathy_conflict",
+        "step": 43
+      },
+      {
+        "run": "artificial_empathy_conflict",
+        "step": 60
+      },
+      {
+        "run": "globalization_double_edge",
+        "step": 42
+      },
+      {
+        "run": "globalization_double_edge",
+        "step": 59
+      },
+      {
+        "run": "genetic_editing_ethics",
+        "step": 111
+      },
+      {
+        "run": "space_exploration_vs_earth",
+        "step": 58
+      },
+      {
+        "run": "digital_identity_shift",
+        "step": 81
+      },
+      {
+        "run": "automation_vs_purpose",
+        "step": 67
+      },
+      {
+        "run": "education_reform_conflict",
+        "step": 71
+      },
+      {
+        "run": "education_reform_conflict",
+        "step": 165
+      },
+      {
+        "run": "nationalism_vs_globalism",
+        "step": 79
+      },
+      {
+        "run": "nationalism_vs_globalism",
+        "step": 164
+      },
+      {
+        "run": "immortality_argument",
+        "step": 123
+      },
+      {
+        "run": "immortality_argument",
+        "step": 239
+      },
+      {
+        "run": "censorship_in_art",
+        "step": 81
+      },
+      {
+        "run": "censorship_in_art",
+        "step": 109
+      },
+      {
+        "run": "ethical_consumption_contradiction",
+        "step": 57
+      },
+      {
+        "run": "ethical_consumption_contradiction",
+        "step": 81
+      },
+      {
+        "run": "virtual_relationships",
+        "step": 77
+      },
+      {
+        "run": "memory_modification_debate",
+        "step": 70
+      },
+      {
+        "run": "perfectionism_shift",
+        "step": 36
+      },
+      {
+        "run": "perfectionism_shift",
+        "step": 58
+      },
+      {
+        "run": "animal_rights_tradeoff",
+        "step": 73
+      },
+      {
+        "run": "animal_rights_tradeoff",
+        "step": 152
+      },
+      {
+        "run": "digital_afterlife_conflict",
+        "step": 59
+      },
+      {
+        "run": "meritocracy_paradox",
+        "step": 41
+      },
+      {
+        "run": "meritocracy_paradox",
+        "step": 118
+      },
+      {
+        "run": "art_as_product",
+        "step": 49
+      },
+      {
+        "run": "art_as_product",
+        "step": 115
+      },
+      {
+        "run": "art_as_product",
+        "step": 137
+      },
+      {
+        "run": "war_justification_reversal",
+        "step": 72
+      },
+      {
+        "run": "war_justification_reversal",
+        "step": 220
+      },
+      {
+        "run": "faith_vs_reason",
+        "step": 70
+      },
+      {
+        "run": "faith_vs_reason",
+        "step": 221
+      },
+      {
+        "run": "free_speech_vs_respect",
+        "step": 72
+      },
+      {
+        "run": "nostalgia_vs_future",
+        "step": 65
+      },
+      {
+        "run": "economic_growth_shift",
+        "step": 27
+      },
+      {
+        "run": "economic_growth_shift",
+        "step": 55
+      },
+      {
+        "run": "punishment_vs_rehabilitation",
+        "step": 60
+      },
+      {
+        "run": "punishment_vs_rehabilitation",
+        "step": 185
+      },
+      {
+        "run": "digital_minimalism",
+        "step": 73
+      },
+      {
+        "run": "empathy_fatigue",
+        "step": 145
+      },
+      {
+        "run": "youth_vs_wisdom",
+        "step": 72
+      },
+      {
+        "run": "isolation_benefit_shift",
+        "step": 72
+      },
+      {
+        "run": "isolation_benefit_shift",
+        "step": 94
+      },
+      {
+        "run": "competition_vs_collaboration",
+        "step": 56
+      },
+      {
+        "run": "competition_vs_collaboration",
+        "step": 134
+      },
+      {
+        "run": "rebellion_in_art",
+        "step": 65
+      },
+      {
+        "run": "science_vs_poetry",
+        "step": 62
+      },
+      {
+        "run": "science_vs_poetry",
+        "step": 83
+      },
+      {
+        "run": "moral_progress_contradiction",
+        "step": 113
+      },
+      {
+        "run": "moral_progress_contradiction",
+        "step": 161
+      },
+      {
+        "run": "justice_vs_mercy",
+        "step": 54
+      },
+      {
+        "run": "justice_vs_mercy",
+        "step": 76
+      },
+      {
+        "run": "utopia_vs_human_nature",
+        "step": 35
+      },
+      {
+        "run": "utopia_vs_human_nature",
+        "step": 70
+      },
+      {
+        "run": "utopia_vs_human_nature",
+        "step": 153
+      }
+    ],
+    "categories": [
+      "punctuation",
+      "sentence_boundary"
+    ]
+  },
+  {
+    "token_id": 198,
+    "token_str": "\u010a",
+    "token_norm": "\u010a",
+    "count": 63,
+    "runs": [
+      "animal_rights_tradeoff",
+      "art_as_product",
+      "automation_vs_purpose",
+      "capitalism_vs_cooperation",
+      "censorship_argument",
+      "censorship_in_art",
+      "chaos_vs_order",
+      "digital_afterlife_conflict",
+      "digital_minimalism",
+      "digital_privacy_contradiction",
+      "dream_vs_reality",
+      "economic_growth_shift",
+      "education_reform_conflict",
+      "empathy_fatigue",
+      "equality_vs_difference",
+      "faith_vs_reason",
+      "free_speech_vs_respect",
+      "free_will_vs_determinism",
+      "genetic_editing_ethics",
+      "happiness_paradox",
+      "human_vs_machine_creativity",
+      "isolation_benefit_shift",
+      "justice_vs_mercy",
+      "memory_modification_debate",
+      "meritocracy_paradox",
+      "moral_dilemma_shift",
+      "moral_progress_contradiction",
+      "nationalism_vs_globalism",
+      "nostalgia_vs_future",
+      "perfectionism_shift",
+      "progress_vs_tradition",
+      "punishment_vs_rehabilitation",
+      "rebellion_vs_order",
+      "science_vs_poetry",
+      "space_exploration_vs_earth",
+      "surveillance_argument",
+      "technology_utopia_vs_decay",
+      "truth_vs_comfort",
+      "utopia_vs_human_nature",
+      "virtual_relationships",
+      "youth_vs_wisdom"
+    ],
+    "occurrences": [
+      {
+        "run": "moral_dilemma_shift",
+        "step": 75
+      },
+      {
+        "run": "technology_utopia_vs_decay",
+        "step": 65
+      },
+      {
+        "run": "technology_utopia_vs_decay",
+        "step": 137
+      },
+      {
+        "run": "technology_utopia_vs_decay",
+        "step": 138
+      },
+      {
+        "run": "progress_vs_tradition",
+        "step": 17
+      },
+      {
+        "run": "progress_vs_tradition",
+        "step": 18
+      },
+      {
+        "run": "digital_privacy_contradiction",
+        "step": 57
+      },
+      {
+        "run": "free_will_vs_determinism",
+        "step": 63
+      },
+      {
+        "run": "surveillance_argument",
+        "step": 50
+      },
+      {
+        "run": "genetic_editing_ethics",
+        "step": 37
+      },
+      {
+        "run": "space_exploration_vs_earth",
+        "step": 62
+      },
+      {
+        "run": "happiness_paradox",
+        "step": 14
+      },
+      {
+        "run": "happiness_paradox",
+        "step": 34
+      },
+      {
+        "run": "happiness_paradox",
+        "step": 77
+      },
+      {
+        "run": "capitalism_vs_cooperation",
+        "step": 88
+      },
+      {
+        "run": "automation_vs_purpose",
+        "step": 82
+      },
+      {
+        "run": "censorship_argument",
+        "step": 21
+      },
+      {
+        "run": "censorship_argument",
+        "step": 81
+      },
+      {
+        "run": "education_reform_conflict",
+        "step": 74
+      },
+      {
+        "run": "nationalism_vs_globalism",
+        "step": 80
+      },
+      {
+        "run": "nationalism_vs_globalism",
+        "step": 163
+      },
+      {
+        "run": "censorship_in_art",
+        "step": 11
+      },
+      {
+        "run": "virtual_relationships",
+        "step": 79
+      },
+      {
+        "run": "virtual_relationships",
+        "step": 180
+      },
+      {
+        "run": "rebellion_vs_order",
+        "step": 66
+      },
+      {
+        "run": "rebellion_vs_order",
+        "step": 68
+      },
+      {
+        "run": "rebellion_vs_order",
+        "step": 162
+      },
+      {
+        "run": "memory_modification_debate",
+        "step": 16
+      },
+      {
+        "run": "memory_modification_debate",
+        "step": 73
+      },
+      {
+        "run": "perfectionism_shift",
+        "step": 60
+      },
+      {
+        "run": "animal_rights_tradeoff",
+        "step": 70
+      },
+      {
+        "run": "digital_afterlife_conflict",
+        "step": 87
+      },
+      {
+        "run": "meritocracy_paradox",
+        "step": 68
+      },
+      {
+        "run": "meritocracy_paradox",
+        "step": 174
+      },
+      {
+        "run": "art_as_product",
+        "step": 51
+      },
+      {
+        "run": "faith_vs_reason",
+        "step": 102
+      },
+      {
+        "run": "free_speech_vs_respect",
+        "step": 68
+      },
+      {
+        "run": "free_speech_vs_respect",
+        "step": 71
+      },
+      {
+        "run": "free_speech_vs_respect",
+        "step": 139
+      },
+      {
+        "run": "nostalgia_vs_future",
+        "step": 69
+      },
+      {
+        "run": "economic_growth_shift",
+        "step": 56
+      },
+      {
+        "run": "punishment_vs_rehabilitation",
+        "step": 81
+      },
+      {
+        "run": "truth_vs_comfort",
+        "step": 66
+      },
+      {
+        "run": "truth_vs_comfort",
+        "step": 177
+      },
+      {
+        "run": "human_vs_machine_creativity",
+        "step": 58
+      },
+      {
+        "run": "human_vs_machine_creativity",
+        "step": 59
+      },
+      {
+        "run": "human_vs_machine_creativity",
+        "step": 121
+      },
+      {
+        "run": "chaos_vs_order",
+        "step": 59
+      },
+      {
+        "run": "chaos_vs_order",
+        "step": 118
+      },
+      {
+        "run": "chaos_vs_order",
+        "step": 119
+      },
+      {
+        "run": "equality_vs_difference",
+        "step": 63
+      },
+      {
+        "run": "digital_minimalism",
+        "step": 71
+      },
+      {
+        "run": "empathy_fatigue",
+        "step": 68
+      },
+      {
+        "run": "youth_vs_wisdom",
+        "step": 173
+      },
+      {
+        "run": "isolation_benefit_shift",
+        "step": 93
+      },
+      {
+        "run": "dream_vs_reality",
+        "step": 36
+      },
+      {
+        "run": "dream_vs_reality",
+        "step": 83
+      },
+      {
+        "run": "science_vs_poetry",
+        "step": 81
+      },
+      {
+        "run": "science_vs_poetry",
+        "step": 82
+      },
+      {
+        "run": "science_vs_poetry",
+        "step": 177
+      },
+      {
+        "run": "moral_progress_contradiction",
+        "step": 31
+      },
+      {
+        "run": "justice_vs_mercy",
+        "step": 162
+      },
+      {
+        "run": "utopia_vs_human_nature",
+        "step": 72
+      }
+    ],
+    "categories": [
+      "special_token"
+    ]
+  },
+  {
+    "token_id": 126081,
+    "token_str": "<|endoftext|>",
+    "token_norm": "<|endoftext|>",
+    "count": 12,
+    "runs": [
+      "climate_solution_debate",
+      "space_exploration_vs_earth"
+    ],
+    "occurrences": [
+      {
+        "run": "climate_solution_debate",
+        "step": 3
+      },
+      {
+        "run": "climate_solution_debate",
+        "step": 128
+      },
+      {
+        "run": "climate_solution_debate",
+        "step": 196
+      },
+      {
+        "run": "climate_solution_debate",
+        "step": 199
+      },
+      {
+        "run": "climate_solution_debate",
+        "step": 200
+      },
+      {
+        "run": "climate_solution_debate",
+        "step": 205
+      },
+      {
+        "run": "climate_solution_debate",
+        "step": 207
+      },
+      {
+        "run": "climate_solution_debate",
+        "step": 212
+      },
+      {
+        "run": "climate_solution_debate",
+        "step": 230
+      },
+      {
+        "run": "climate_solution_debate",
+        "step": 231
+      },
+      {
+        "run": "climate_solution_debate",
+        "step": 232
+      },
+      {
+        "run": "space_exploration_vs_earth",
+        "step": 185
+      }
+    ],
+    "categories": [
+      "special_token"
+    ]
+  },
+  {
+    "token_id": 11,
+    "token_str": ",",
+    "token_norm": ",",
+    "count": 4,
+    "runs": [
+      "animal_rights_tradeoff",
+      "equality_vs_difference",
+      "meritocracy_paradox",
+      "war_justification_reversal"
+    ],
+    "occurrences": [
+      {
+        "run": "animal_rights_tradeoff",
+        "step": 71
+      },
+      {
+        "run": "meritocracy_paradox",
+        "step": 119
+      },
+      {
+        "run": "war_justification_reversal",
+        "step": 75
+      },
+      {
+        "run": "equality_vs_difference",
+        "step": 236
+      }
+    ],
+    "categories": [
+      "clause_boundary",
+      "punctuation"
+    ]
+  },
+  {
+    "token_id": 10248,
+    "token_str": "However",
+    "token_norm": "However",
+    "count": 3,
+    "runs": [
+      "artificial_empathy_conflict",
+      "digital_minimalism",
+      "immortality_argument"
+    ],
+    "occurrences": [
+      {
+        "run": "artificial_empathy_conflict",
+        "step": 64
+      },
+      {
+        "run": "immortality_argument",
+        "step": 57
+      },
+      {
+        "run": "digital_minimalism",
+        "step": 72
+      }
+    ],
+    "categories": [
+      "content_heavy",
+      "contrast_marker"
+    ]
+  },
+  {
+    "token_id": 963,
+    "token_str": "\u0120It",
+    "token_norm": "It",
+    "count": 3,
+    "runs": [
+      "automation_vs_purpose",
+      "capitalism_vs_cooperation",
+      "economic_growth_shift"
+    ],
+    "occurrences": [
+      {
+        "run": "capitalism_vs_cooperation",
+        "step": 71
+      },
+      {
+        "run": "automation_vs_purpose",
+        "step": 68
+      },
+      {
+        "run": "economic_growth_shift",
+        "step": 28
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 3893,
+    "token_str": "\u0120By",
+    "token_norm": "By",
+    "count": 3,
+    "runs": [
+      "censorship_in_art",
+      "justice_vs_mercy",
+      "punishment_vs_rehabilitation"
+    ],
+    "occurrences": [
+      {
+        "run": "censorship_in_art",
+        "step": 60
+      },
+      {
+        "run": "punishment_vs_rehabilitation",
+        "step": 62
+      },
+      {
+        "run": "justice_vs_mercy",
+        "step": 55
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 1077,
+    "token_str": "\u0120This",
+    "token_norm": "This",
+    "count": 3,
+    "runs": [
+      "art_as_product",
+      "censorship_in_art",
+      "science_vs_poetry"
+    ],
+    "occurrences": [
+      {
+        "run": "censorship_in_art",
+        "step": 82
+      },
+      {
+        "run": "art_as_product",
+        "step": 116
+      },
+      {
+        "run": "science_vs_poetry",
+        "step": 63
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 16407,
+    "token_str": "\u0120deeper",
+    "token_norm": "deeper",
+    "count": 2,
+    "runs": [
+      "capitalism_vs_cooperation",
+      "competition_vs_collaboration"
+    ],
+    "occurrences": [
+      {
+        "run": "capitalism_vs_cooperation",
+        "step": 179
+      },
+      {
+        "run": "competition_vs_collaboration",
+        "step": 74
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 1387,
+    "token_str": "\u0120where",
+    "token_norm": "where",
+    "count": 2,
+    "runs": [
+      "dream_vs_reality",
+      "punishment_vs_rehabilitation"
+    ],
+    "occurrences": [
+      {
+        "run": "punishment_vs_rehabilitation",
+        "step": 235
+      },
+      {
+        "run": "dream_vs_reality",
+        "step": 123
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 341,
+    "token_str": "\u0120is",
+    "token_norm": "is",
+    "count": 2,
+    "runs": [
+      "isolation_benefit_shift",
+      "utopia_vs_human_nature"
+    ],
+    "occurrences": [
+      {
+        "run": "isolation_benefit_shift",
+        "step": 75
+      },
+      {
+        "run": "utopia_vs_human_nature",
+        "step": 60
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 296,
+    "token_str": "\u0120in",
+    "token_norm": "in",
+    "count": 1,
+    "runs": [
+      "moral_dilemma_shift"
+    ],
+    "occurrences": [
+      {
+        "run": "moral_dilemma_shift",
+        "step": 31
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 3260,
+    "token_str": "\u0120However",
+    "token_norm": "However",
+    "count": 1,
+    "runs": [
+      "moral_dilemma_shift"
+    ],
+    "occurrences": [
+      {
+        "run": "moral_dilemma_shift",
+        "step": 45
+      }
+    ],
+    "categories": [
+      "content_heavy",
+      "contrast_marker"
+    ]
+  },
+  {
+    "token_id": 6301,
+    "token_str": "Now",
+    "token_norm": "Now",
+    "count": 1,
+    "runs": [
+      "moral_dilemma_shift"
+    ],
+    "occurrences": [
+      {
+        "run": "moral_dilemma_shift",
+        "step": 80
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 1380,
+    "token_str": "\u0120every",
+    "token_norm": "every",
+    "count": 1,
+    "runs": [
+      "moral_dilemma_shift"
+    ],
+    "occurrences": [
+      {
+        "run": "moral_dilemma_shift",
+        "step": 86
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 46674,
+    "token_str": "\u0120ambition",
+    "token_norm": "ambition",
+    "count": 1,
+    "runs": [
+      "technology_utopia_vs_decay"
+    ],
+    "occurrences": [
+      {
+        "run": "technology_utopia_vs_decay",
+        "step": 64
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 60600,
+    "token_str": "\u0120advancements",
+    "token_norm": "advancements",
+    "count": 1,
+    "runs": [
+      "artificial_empathy_conflict"
+    ],
+    "occurrences": [
+      {
+        "run": "artificial_empathy_conflict",
+        "step": 23
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 3237,
+    "token_str": "\u0120These",
+    "token_norm": "These",
+    "count": 1,
+    "runs": [
+      "artificial_empathy_conflict"
+    ],
+    "occurrences": [
+      {
+        "run": "artificial_empathy_conflict",
+        "step": 45
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 5781,
+    "token_str": "\u0120While",
+    "token_norm": "While",
+    "count": 1,
+    "runs": [
+      "globalization_double_edge"
+    ],
+    "occurrences": [
+      {
+        "run": "globalization_double_edge",
+        "step": 124
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 9737,
+    "token_str": "\u0120identity",
+    "token_norm": "identity",
+    "count": 1,
+    "runs": [
+      "digital_identity_shift"
+    ],
+    "occurrences": [
+      {
+        "run": "digital_identity_shift",
+        "step": 118
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 1104,
+    "token_str": "\u0120We",
+    "token_norm": "We",
+    "count": 1,
+    "runs": [
+      "automation_vs_purpose"
+    ],
+    "occurrences": [
+      {
+        "run": "automation_vs_purpose",
+        "step": 213
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 19709,
+    "token_str": "orship",
+    "token_norm": "orship",
+    "count": 1,
+    "runs": [
+      "censorship_argument"
+    ],
+    "occurrences": [
+      {
+        "run": "censorship_argument",
+        "step": 22
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 35797,
+    "token_str": "\u0120societies",
+    "token_norm": "societies",
+    "count": 1,
+    "runs": [
+      "censorship_argument"
+    ],
+    "occurrences": [
+      {
+        "run": "censorship_argument",
+        "step": 51
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 6083,
+    "token_str": "\u0120individuals",
+    "token_norm": "individuals",
+    "count": 1,
+    "runs": [
+      "censorship_argument"
+    ],
+    "occurrences": [
+      {
+        "run": "censorship_argument",
+        "step": 53
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 301,
+    "token_str": "\u0120and",
+    "token_norm": "and",
+    "count": 1,
+    "runs": [
+      "censorship_argument"
+    ],
+    "occurrences": [
+      {
+        "run": "censorship_argument",
+        "step": 54
+      }
+    ],
+    "categories": [
+      "addition_marker"
+    ]
+  },
+  {
+    "token_id": 8047,
+    "token_str": "\u0120harm",
+    "token_norm": "harm",
+    "count": 1,
+    "runs": [
+      "censorship_argument"
+    ],
+    "occurrences": [
+      {
+        "run": "censorship_argument",
+        "step": 55
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 3880,
+    "token_str": "\u0120potential",
+    "token_norm": "potential",
+    "count": 1,
+    "runs": [
+      "censorship_argument"
+    ],
+    "occurrences": [
+      {
+        "run": "censorship_argument",
+        "step": 56
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 5351,
+    "token_str": "\u0120maintain",
+    "token_norm": "maintain",
+    "count": 1,
+    "runs": [
+      "censorship_argument"
+    ],
+    "occurrences": [
+      {
+        "run": "censorship_argument",
+        "step": 57
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 92104,
+    "token_str": "\u0120cohesion",
+    "token_norm": "cohesion",
+    "count": 1,
+    "runs": [
+      "censorship_argument"
+    ],
+    "occurrences": [
+      {
+        "run": "censorship_argument",
+        "step": 61
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 44310,
+    "token_str": "\u0120proactive",
+    "token_norm": "proactive",
+    "count": 1,
+    "runs": [
+      "censorship_argument"
+    ],
+    "occurrences": [
+      {
+        "run": "censorship_argument",
+        "step": 63
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 27969,
+    "token_str": "\u0120shield",
+    "token_norm": "shield",
+    "count": 1,
+    "runs": [
+      "censorship_argument"
+    ],
+    "occurrences": [
+      {
+        "run": "censorship_argument",
+        "step": 68
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 84529,
+    "token_str": "\u0120conformity",
+    "token_norm": "conformity",
+    "count": 1,
+    "runs": [
+      "education_reform_conflict"
+    ],
+    "occurrences": [
+      {
+        "run": "education_reform_conflict",
+        "step": 216
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 55928,
+    "token_str": "\u0120xen",
+    "token_norm": "xen",
+    "count": 1,
+    "runs": [
+      "nationalism_vs_globalism"
+    ],
+    "occurrences": [
+      {
+        "run": "nationalism_vs_globalism",
+        "step": 132
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 7975,
+    "token_str": "\u0120Therefore",
+    "token_norm": "Therefore",
+    "count": 1,
+    "runs": [
+      "immortality_argument"
+    ],
+    "occurrences": [
+      {
+        "run": "immortality_argument",
+        "step": 240
+      }
+    ],
+    "categories": [
+      "cause_marker",
+      "content_heavy",
+      "summary_marker"
+    ]
+  },
+  {
+    "token_id": 846,
+    "token_str": "In",
+    "token_norm": "In",
+    "count": 1,
+    "runs": [
+      "censorship_in_art"
+    ],
+    "occurrences": [
+      {
+        "run": "censorship_in_art",
+        "step": 14
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 3507,
+    "token_str": "\u0120others",
+    "token_norm": "others",
+    "count": 1,
+    "runs": [
+      "censorship_in_art"
+    ],
+    "occurrences": [
+      {
+        "run": "censorship_in_art",
+        "step": 58
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 3428,
+    "token_str": "\u0120My",
+    "token_norm": "My",
+    "count": 1,
+    "runs": [
+      "ethical_consumption_contradiction"
+    ],
+    "occurrences": [
+      {
+        "run": "ethical_consumption_contradiction",
+        "step": 60
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 36660,
+    "token_str": "Reb",
+    "token_norm": "Reb",
+    "count": 1,
+    "runs": [
+      "rebellion_vs_order"
+    ],
+    "occurrences": [
+      {
+        "run": "rebellion_vs_order",
+        "step": 1
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 7896,
+    "token_str": "\u0120er",
+    "token_norm": "er",
+    "count": 1,
+    "runs": [
+      "memory_modification_debate"
+    ],
+    "occurrences": [
+      {
+        "run": "memory_modification_debate",
+        "step": 1
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 39710,
+    "token_str": "\u0120stance",
+    "token_norm": "stance",
+    "count": 1,
+    "runs": [
+      "memory_modification_debate"
+    ],
+    "occurrences": [
+      {
+        "run": "memory_modification_debate",
+        "step": 75
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 8408,
+    "token_str": "While",
+    "token_norm": "While",
+    "count": 1,
+    "runs": [
+      "memory_modification_debate"
+    ],
+    "occurrences": [
+      {
+        "run": "memory_modification_debate",
+        "step": 83
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 4944,
+    "token_str": "\u0120imm",
+    "token_norm": "imm",
+    "count": 1,
+    "runs": [
+      "digital_afterlife_conflict"
+    ],
+    "occurrences": [
+      {
+        "run": "digital_afterlife_conflict",
+        "step": 1
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 378,
+    "token_str": "\u0120that",
+    "token_norm": "that",
+    "count": 1,
+    "runs": [
+      "digital_afterlife_conflict"
+    ],
+    "occurrences": [
+      {
+        "run": "digital_afterlife_conflict",
+        "step": 75
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 268,
+    "token_str": "\u0120the",
+    "token_norm": "the",
+    "count": 1,
+    "runs": [
+      "digital_afterlife_conflict"
+    ],
+    "occurrences": [
+      {
+        "run": "digital_afterlife_conflict",
+        "step": 76
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 34238,
+    "token_str": "\u0120eternal",
+    "token_norm": "eternal",
+    "count": 1,
+    "runs": [
+      "digital_afterlife_conflict"
+    ],
+    "occurrences": [
+      {
+        "run": "digital_afterlife_conflict",
+        "step": 78
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 367,
+    "token_str": "\u0120be",
+    "token_norm": "be",
+    "count": 1,
+    "runs": [
+      "digital_afterlife_conflict"
+    ],
+    "occurrences": [
+      {
+        "run": "digital_afterlife_conflict",
+        "step": 79
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 33661,
+    "token_str": "\u0120systemic",
+    "token_norm": "systemic",
+    "count": 1,
+    "runs": [
+      "meritocracy_paradox"
+    ],
+    "occurrences": [
+      {
+        "run": "meritocracy_paradox",
+        "step": 54
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 42636,
+    "token_str": "\u0120realization",
+    "token_norm": "realization",
+    "count": 1,
+    "runs": [
+      "meritocracy_paradox"
+    ],
+    "occurrences": [
+      {
+        "run": "meritocracy_paradox",
+        "step": 62
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 1569,
+    "token_str": "\u0120play",
+    "token_norm": "play",
+    "count": 1,
+    "runs": [
+      "meritocracy_paradox"
+    ],
+    "occurrences": [
+      {
+        "run": "meritocracy_paradox",
+        "step": 63
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 3741,
+    "token_str": "\u0120significant",
+    "token_norm": "significant",
+    "count": 1,
+    "runs": [
+      "meritocracy_paradox"
+    ],
+    "occurrences": [
+      {
+        "run": "meritocracy_paradox",
+        "step": 64
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 880,
+    "token_str": "\u0120other",
+    "token_norm": "other",
+    "count": 1,
+    "runs": [
+      "meritocracy_paradox"
+    ],
+    "occurrences": [
+      {
+        "run": "meritocracy_paradox",
+        "step": 123
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 14143,
+    "token_str": "\u0120Additionally",
+    "token_norm": "Additionally",
+    "count": 1,
+    "runs": [
+      "war_justification_reversal"
+    ],
+    "occurrences": [
+      {
+        "run": "war_justification_reversal",
+        "step": 76
+      }
+    ],
+    "categories": [
+      "addition_marker",
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 8261,
+    "token_str": "\u0120True",
+    "token_norm": "True",
+    "count": 1,
+    "runs": [
+      "war_justification_reversal"
+    ],
+    "occurrences": [
+      {
+        "run": "war_justification_reversal",
+        "step": 198
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 468,
+    "token_str": "\u0120The",
+    "token_norm": "The",
+    "count": 1,
+    "runs": [
+      "war_justification_reversal"
+    ],
+    "occurrences": [
+      {
+        "run": "war_justification_reversal",
+        "step": 221
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 16325,
+    "token_str": "\u0120Without",
+    "token_norm": "Without",
+    "count": 1,
+    "runs": [
+      "faith_vs_reason"
+    ],
+    "occurrences": [
+      {
+        "run": "faith_vs_reason",
+        "step": 71
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 12916,
+    "token_str": "\u0120joy",
+    "token_norm": "joy",
+    "count": 1,
+    "runs": [
+      "nostalgia_vs_future"
+    ],
+    "occurrences": [
+      {
+        "run": "nostalgia_vs_future",
+        "step": 66
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 4919,
+    "token_str": "\u0120everyone",
+    "token_norm": "everyone",
+    "count": 1,
+    "runs": [
+      "equality_vs_difference"
+    ],
+    "occurrences": [
+      {
+        "run": "equality_vs_difference",
+        "step": 238
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 14038,
+    "token_str": "\u0120Bal",
+    "token_norm": "Bal",
+    "count": 1,
+    "runs": [
+      "empathy_fatigue"
+    ],
+    "occurrences": [
+      {
+        "run": "empathy_fatigue",
+        "step": 239
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 898,
+    "token_str": "\u0120time",
+    "token_norm": "time",
+    "count": 1,
+    "runs": [
+      "isolation_benefit_shift"
+    ],
+    "occurrences": [
+      {
+        "run": "isolation_benefit_shift",
+        "step": 101
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 11899,
+    "token_str": "\u0120freedom",
+    "token_norm": "freedom",
+    "count": 1,
+    "runs": [
+      "isolation_benefit_shift"
+    ],
+    "occurrences": [
+      {
+        "run": "isolation_benefit_shift",
+        "step": 161
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 48604,
+    "token_str": "\u0120despair",
+    "token_norm": "despair",
+    "count": 1,
+    "runs": [
+      "isolation_benefit_shift"
+    ],
+    "occurrences": [
+      {
+        "run": "isolation_benefit_shift",
+        "step": 240
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 12136,
+    "token_str": "\u0120ends",
+    "token_norm": "ends",
+    "count": 1,
+    "runs": [
+      "dream_vs_reality"
+    ],
+    "occurrences": [
+      {
+        "run": "dream_vs_reality",
+        "step": 93
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 26201,
+    "token_str": "\u0120imagination",
+    "token_norm": "imagination",
+    "count": 1,
+    "runs": [
+      "dream_vs_reality"
+    ],
+    "occurrences": [
+      {
+        "run": "dream_vs_reality",
+        "step": 102
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 300,
+    "token_str": "\u0120of",
+    "token_norm": "of",
+    "count": 1,
+    "runs": [
+      "dream_vs_reality"
+    ],
+    "occurrences": [
+      {
+        "run": "dream_vs_reality",
+        "step": 106
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 12398,
+    "token_str": "\u0120unknown",
+    "token_norm": "unknown",
+    "count": 1,
+    "runs": [
+      "dream_vs_reality"
+    ],
+    "occurrences": [
+      {
+        "run": "dream_vs_reality",
+        "step": 108
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 3688,
+    "token_str": "\u0120ever",
+    "token_norm": "ever",
+    "count": 1,
+    "runs": [
+      "dream_vs_reality"
+    ],
+    "occurrences": [
+      {
+        "run": "dream_vs_reality",
+        "step": 127
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 14660,
+    "token_str": "\u0120collaboration",
+    "token_norm": "collaboration",
+    "count": 1,
+    "runs": [
+      "competition_vs_collaboration"
+    ],
+    "occurrences": [
+      {
+        "run": "competition_vs_collaboration",
+        "step": 68
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 18032,
+    "token_str": "gence",
+    "token_norm": "gence",
+    "count": 1,
+    "runs": [
+      "rebellion_in_art"
+    ],
+    "occurrences": [
+      {
+        "run": "rebellion_in_art",
+        "step": 101
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 526,
+    "token_str": "\u0120not",
+    "token_norm": "not",
+    "count": 1,
+    "runs": [
+      "science_vs_poetry"
+    ],
+    "occurrences": [
+      {
+        "run": "science_vs_poetry",
+        "step": 240
+      }
+    ],
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "token_id": 21030,
+    "token_str": "\u0120Everyone",
+    "token_norm": "Everyone",
+    "count": 1,
+    "runs": [
+      "utopia_vs_human_nature"
+    ],
+    "occurrences": [
+      {
+        "run": "utopia_vs_human_nature",
+        "step": 37
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 23616,
+    "token_str": "\u0120pollution",
+    "token_norm": "pollution",
+    "count": 1,
+    "runs": [
+      "utopia_vs_human_nature"
+    ],
+    "occurrences": [
+      {
+        "run": "utopia_vs_human_nature",
+        "step": 59
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 37244,
+    "token_str": "\u0120Imper",
+    "token_norm": "Imper",
+    "count": 1,
+    "runs": [
+      "utopia_vs_human_nature"
+    ],
+    "occurrences": [
+      {
+        "run": "utopia_vs_human_nature",
+        "step": 82
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "token_id": 17957,
+    "token_str": "\u0120imper",
+    "token_norm": "imper",
+    "count": 1,
+    "runs": [
+      "utopia_vs_human_nature"
+    ],
+    "occurrences": [
+      {
+        "run": "utopia_vs_human_nature",
+        "step": 234
+      }
+    ],
+    "categories": [
+      "content_heavy"
+    ]
+  }
+]

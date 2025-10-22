@@ -1,0 +1,42 @@
+{
+  "name": "algorithmic_courtship",
+  "prompt": "An app predicts ideal romantic matches with 99.9% accuracy\u2014but one pair keeps breaking the algorithm. Write the investigation summary.",
+  "decoded": "The investigation summary should include the following information:\n\n1. The app predicts ideal romantic matches with 99.9% accuracy.\n2. One pair keeps breaking the algorithm.\n3. The investigation should focus on understanding why this pair is consistently breaking the algorithm and how to resolve the issue.",
+  "events_count": 2,
+  "max_mean_delta": 0.16339917452830188,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.16252449535238622,
+      "median_impact": 0.16252449535238622,
+      "mean_prompt_shift": -0.15939024292893256
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 11,
+      "token_pos": 50,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 30,
+      "token_pos": 68,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

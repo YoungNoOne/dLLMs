@@ -1,0 +1,44 @@
+[
+  {
+    "step": 5,
+    "direction": -1,
+    "impact_score": 0.3002515889830508,
+    "prompt_shift": -0.2977412164548022,
+    "token_pos": 33,
+    "token_id": 198,
+    "token_str": "\u010a",
+    "step_decoded": 4,
+    "conf_decoded": 0.9765625,
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "step": 7,
+    "direction": 1,
+    "impact_score": 0.17701480263157895,
+    "prompt_shift": 0.18031904586358138,
+    "token_pos": 35,
+    "token_id": 40,
+    "token_str": "I",
+    "step_decoded": 6,
+    "conf_decoded": 0.466796875,
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "step": 52,
+    "direction": -1,
+    "impact_score": 0.2236328125,
+    "prompt_shift": -0.2167718349358974,
+    "token_pos": 81,
+    "token_id": 198,
+    "token_str": "\u010a",
+    "step_decoded": 51,
+    "conf_decoded": 0.8828125,
+    "categories": [
+      "content_heavy"
+    ]
+  }
+]

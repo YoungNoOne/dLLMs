@@ -1,0 +1,59 @@
+{
+  "name": "cancelled_future",
+  "prompt": "The future has been postponed indefinitely. Write a government announcement.",
+  "decoded": "The government has announced that all future plans and projects have been postponed indefinitely. This decision has been made in light of the current situation and the need to prioritize immediate concerns. The government will continue to monitor the situation and provide updates as necessary. The public is encouraged to remain patient and wait for further official announcements.",
+  "events_count": 2,
+  "max_mean_delta": 0.10016741071428571,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.10016741071428571,
+      "median_impact": 0.10016741071428571,
+      "mean_prompt_shift": -0.12548828125
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.07454427083333333,
+      "median_impact": 0.07454427083333333,
+      "mean_prompt_shift": 0.04361979166666663
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.07454427083333333,
+      "median_impact": 0.07454427083333333,
+      "mean_prompt_shift": 0.04361979166666663
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 88,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 86,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": 1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

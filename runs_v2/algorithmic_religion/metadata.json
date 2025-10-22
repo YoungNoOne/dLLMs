@@ -1,0 +1,59 @@
+{
+  "name": "algorithmic_religion",
+  "prompt": "A new religion worships algorithms as divine interpreters of fate. Its believers claim every random number is sacred. Write their scripture\u2019s opening passage.",
+  "decoded": "In the beginning of the algorithm, there was the code. The code created the numbers, and the numbers created the universe. The universe created the world, and the world created the algorithm. The algorithm created the numbers, and the numbers created the code. The code created the universe, and the universe exists.",
+  "events_count": 2,
+  "max_mean_delta": 0.15541294642857142,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.15541294642857142,
+      "median_impact": 0.15541294642857142,
+      "mean_prompt_shift": -0.19290597098214285
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.12565104166666666,
+      "median_impact": 0.12565104166666666,
+      "mean_prompt_shift": 0.11779203869047622
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.12565104166666666,
+      "median_impact": 0.12565104166666666,
+      "mean_prompt_shift": 0.11779203869047622
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 105,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 103,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": 1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

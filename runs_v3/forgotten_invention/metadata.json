@@ -1,0 +1,42 @@
+{
+  "name": "forgotten_invention",
+  "prompt": "An engineer builds a perfect device but forgets its purpose. Write the moment of rediscovery when it activates accidentally.",
+  "decoded": "As the engineer walks through the lab, they notice a faint glow emanating from a nearby console. Curious, they approach and accidentally activate the device. The device's purpose, long forgotten, is suddenly revealed as the engineer witnesses the device's incredible capabilities, realizing the potential they had once seen in their creation.",
+  "events_count": 2,
+  "max_mean_delta": 0.32310267857142855,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.30575706845238093,
+      "median_impact": 0.30575706845238093,
+      "mean_prompt_shift": -0.046875
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 99,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 98,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

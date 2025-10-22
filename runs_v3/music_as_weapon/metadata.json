@@ -1,0 +1,42 @@
+{
+  "name": "music_as_weapon",
+  "prompt": "Sound frequencies are discovered that can manipulate emotions precisely. Write a secret military memo about deploying them.",
+  "decoded": "Subject: Secret Military Memo: Deployment of Sound Frequencies for Emotional Manipulation\n\nDate: [Insert Date]\n\nFrom: [Insert Name]\n\nTo: [Insert Name]\n\nLocation: [Insert Location]\n\nPurpose: [Insert Purpose]\n\n[Insert Memo Here]",
+  "events_count": 2,
+  "max_mean_delta": 0.19244514627659576,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.17449781352291327,
+      "median_impact": 0.17449781352291327,
+      "mean_prompt_shift": -0.1728698097807556
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 17,
+      "token_pos": 48,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 25,
+      "token_pos": 56,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

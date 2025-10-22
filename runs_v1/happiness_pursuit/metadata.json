@@ -1,0 +1,36 @@
+{
+  "name": "happiness_pursuit",
+  "prompt": "Why does the pursuit of happiness sometimes make people less happy?",
+  "decoded": "The pursuit of happiness can sometimes make people less happy because it can lead to a sense of dissatisfaction and disappointment. People may constantly strive for more, only to find that happiness is elusive and fleeting. Additionally, the pursuit of happiness can lead to stress and anxiety, which can ultimately detract from one's overall happiness.",
+  "events_count": 2,
+  "max_mean_delta": 0.22916666666666666,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.22916666666666666,
+      "median_impact": 0.22916666666666666,
+      "mean_prompt_shift": -0.2692987351190476
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2046875,
+      "median_impact": 0.2046875,
+      "mean_prompt_shift": 0.19134114583333334
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2046875,
+      "median_impact": 0.2046875,
+      "mean_prompt_shift": 0.19134114583333334
+    }
+  ],
+  "extra": {}
+}

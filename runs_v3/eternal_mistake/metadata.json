@@ -1,0 +1,106 @@
+{
+  "name": "eternal_mistake",
+  "prompt": "Someone invents a machine that repeats their greatest mistake forever.",
+  "decoded": "That sounds like a fascinating concept. It's like a time loop, but instead of reliving a happy moment, you're stuck in a loop of regret. Do you think it would be possible to find a way to break free from the cycle, or would it be better to just learn from the mistake?",
+  "events_count": 5,
+  "max_mean_delta": 0.0390625,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0390625,
+      "median_impact": 0.0390625,
+      "mean_prompt_shift": 0.02734375
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.03455431707974138,
+      "median_impact": 0.03455431707974138,
+      "mean_prompt_shift": -0.02965043851656729
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.03455431707974138,
+      "median_impact": 0.03455431707974138,
+      "mean_prompt_shift": -0.02965043851656729
+    },
+    {
+      "category": "contrast_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03380102040816327,
+      "median_impact": 0.03380102040816327,
+      "mean_prompt_shift": -0.0304352678571429
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.032242063492063495,
+      "median_impact": 0.032242063492063495,
+      "mean_prompt_shift": -0.03224206349206349
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 1,
+      "token_pos": 25,
+      "token_str": "That",
+      "token_id": 5638,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 6,
+      "token_pos": 31,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    },
+    {
+      "step": 15,
+      "token_pos": 39,
+      "token_str": "\u0120but",
+      "token_id": 731,
+      "direction": -1,
+      "categories": [
+        "contrast_marker"
+      ]
+    },
+    {
+      "step": 32,
+      "token_pos": 56,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    },
+    {
+      "step": 60,
+      "token_pos": 85,
+      "token_str": "\u0120mistake",
+      "token_id": 17298,
+      "direction": 1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

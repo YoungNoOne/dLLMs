@@ -1,0 +1,59 @@
+{
+  "name": "invisible_instrument",
+  "prompt": "A musician invents an instrument that can only be heard by those who feel lonely. Describe its first concert.",
+  "decoded": "The first concert of the new instrument was a hauntingly beautiful experience. As the musician played, the audience felt a deep sense of connection, as if the music was speaking directly to their hearts. The atmosphere was filled with a sense of longing and introspection, as the instrument captured the essence of loneliness and isolation.",
+  "events_count": 2,
+  "max_mean_delta": 0.03920200892857143,
+  "max_sign_agreement": 0.9821428571428571,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03920200892857143,
+      "median_impact": 0.03920200892857143,
+      "mean_prompt_shift": -0.037494860197368474
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.02828125,
+      "median_impact": 0.02828125,
+      "mean_prompt_shift": -0.027388174019607914
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.02828125,
+      "median_impact": 0.02828125,
+      "mean_prompt_shift": -0.027388174019607914
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 8,
+      "token_pos": 42,
+      "token_str": "\u0120was",
+      "token_id": 529,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 14,
+      "token_pos": 48,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

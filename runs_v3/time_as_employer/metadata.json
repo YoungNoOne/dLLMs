@@ -1,0 +1,32 @@
+{
+  "name": "time_as_employer",
+  "prompt": "In the future, Time itself is a corporation, and everyone works directly for it. Write the onboarding orientation speech for new employees.",
+  "decoded": "Welcome to the Corporation of Time! As a new employee, you will be responsible for managing the flow of time and ensuring that everything stays on schedule. Your role will be crucial in maintaining the balance of the universe. We hope you find this position exciting and rewarding.",
+  "events_count": 1,
+  "max_mean_delta": 0.11957465277777778,
+  "max_sign_agreement": 0.8888888888888888,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.11957465277777778,
+      "median_impact": 0.11957465277777778,
+      "mean_prompt_shift": -0.11792534722222225
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 55,
+      "token_pos": 94,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

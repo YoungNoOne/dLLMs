@@ -1,0 +1,41 @@
+{
+  "name": "museum_of_mistakes",
+  "prompt": "Design an exhibit for a 'Museum of Human Mistakes'. What does it display?",
+  "decoded": "The Museum of Human Mistakes showcases a diverse collection of human errors, including historical blunders, scientific failures, and everyday mishaps. The exhibit aims to educate and entertain visitors by highlighting the consequences and lessons learned from these mistakes. Interactive displays and multimedia presentations allow visitors to engage with the content in an immersive way.",
+  "events_count": 1,
+  "max_mean_delta": 0.06178042763157895,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06178042763157895,
+      "median_impact": 0.06178042763157895,
+      "mean_prompt_shift": -0.06563527960526316
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06178042763157895,
+      "median_impact": 0.06178042763157895,
+      "mean_prompt_shift": -0.06563527960526316
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 45,
+      "token_pos": 73,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

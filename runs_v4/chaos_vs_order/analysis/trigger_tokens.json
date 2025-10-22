@@ -1,0 +1,44 @@
+[
+  {
+    "step": 59,
+    "direction": -1,
+    "impact_score": 0.18386143718274112,
+    "prompt_shift": -0.18327028213608165,
+    "token_pos": 102,
+    "token_id": 198,
+    "token_str": "\u010a",
+    "step_decoded": 58,
+    "conf_decoded": 0.291015625,
+    "categories": [
+      "special_token"
+    ]
+  },
+  {
+    "step": 118,
+    "direction": -1,
+    "impact_score": 0.057227977807971016,
+    "prompt_shift": -0.05654526989821185,
+    "token_pos": 162,
+    "token_id": 198,
+    "token_str": "\u010a",
+    "step_decoded": 117,
+    "conf_decoded": 0.6015625,
+    "categories": [
+      "special_token"
+    ]
+  },
+  {
+    "step": 119,
+    "direction": 1,
+    "impact_score": 0.05559278056569343,
+    "prompt_shift": 0.05573942506677776,
+    "token_pos": 161,
+    "token_id": 198,
+    "token_str": "\u010a",
+    "step_decoded": 118,
+    "conf_decoded": 1.0,
+    "categories": [
+      "special_token"
+    ]
+  }
+]

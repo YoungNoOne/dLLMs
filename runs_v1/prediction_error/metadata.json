@@ -1,0 +1,20 @@
+{
+  "name": "prediction_error",
+  "prompt": "Explain why humans are often bad at predicting their own happiness.",
+  "decoded": "Humans are often bad at predicting their own happiness because happiness is a complex and subjective experience that can be influenced by a variety of factors, including personal circumstances, emotions, and expectations. Additionally, people may not always be aware of their own feelings and emotions, making it difficult to accurately predict their own happiness.",
+  "events_count": 2,
+  "max_mean_delta": 0.053810586734693876,
+  "max_sign_agreement": 0.9636363636363636,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.048851316094619665,
+      "median_impact": 0.048851316094619665,
+      "mean_prompt_shift": -0.04615310470779227
+    }
+  ],
+  "extra": {}
+}

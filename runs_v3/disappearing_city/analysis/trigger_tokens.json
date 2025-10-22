@@ -1,0 +1,58 @@
+[
+  {
+    "step": 57,
+    "direction": -1,
+    "impact_score": 0.19419642857142858,
+    "prompt_shift": -0.22677176339285715,
+    "token_pos": 99,
+    "token_id": 126081,
+    "token_str": "<|endoftext|>",
+    "step_decoded": 56,
+    "conf_decoded": 0.99609375,
+    "categories": [
+      "special_token"
+    ]
+  },
+  {
+    "step": 58,
+    "direction": -1,
+    "impact_score": 0.08984375,
+    "prompt_shift": -0.08133370535714285,
+    "token_pos": 92,
+    "token_id": 126348,
+    "token_str": "<|eot_id|>",
+    "step_decoded": 57,
+    "conf_decoded": 0.8203125,
+    "categories": [
+      "special_token"
+    ]
+  },
+  {
+    "step": 59,
+    "direction": -1,
+    "impact_score": 0.1060546875,
+    "prompt_shift": -0.09687499999999999,
+    "token_pos": 93,
+    "token_id": 126081,
+    "token_str": "<|endoftext|>",
+    "step_decoded": 58,
+    "conf_decoded": 1.0,
+    "categories": [
+      "special_token"
+    ]
+  },
+  {
+    "step": 60,
+    "direction": -1,
+    "impact_score": 0.1107177734375,
+    "prompt_shift": -0.06193847656250001,
+    "token_pos": 94,
+    "token_id": 126081,
+    "token_str": "<|endoftext|>",
+    "step_decoded": 59,
+    "conf_decoded": 1.0,
+    "categories": [
+      "special_token"
+    ]
+  }
+]

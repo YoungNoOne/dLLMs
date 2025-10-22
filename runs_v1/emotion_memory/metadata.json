@@ -1,0 +1,20 @@
+{
+  "name": "emotion_memory",
+  "prompt": "Discuss how emotions influence what we remember and forget.",
+  "decoded": "Emotions play a significant role in shaping our memories and forgetting. Positive emotions, such as happiness and excitement, tend to enhance memory retention, while negative emotions, like fear and sadness, can lead to memory loss. Additionally, emotions can influence our perception of events and experiences, which in turn affects our memory.",
+  "events_count": 2,
+  "max_mean_delta": 0.0498046875,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.048600260416666666,
+      "median_impact": 0.048600260416666666,
+      "mean_prompt_shift": -0.04206293936418487
+    }
+  ],
+  "extra": {}
+}

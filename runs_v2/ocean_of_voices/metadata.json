@@ -1,0 +1,59 @@
+{
+  "name": "ocean_of_voices",
+  "prompt": "In this ocean, every wave carries a voice that once belonged to someone lost. Sailors learn to navigate by listening rather than seeing.",
+  "decoded": "That sounds like a mysterious and enchanting ocean. The idea that every wave carries a voice adds a sense of magic and mystery to the water. Sailors learning to navigate by listening rather than seeing suggests a deep connection to the ocean and its secrets. It's a world that would be fascinating and captivating to explore.",
+  "events_count": 2,
+  "max_mean_delta": 0.0671657986111111,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0671657986111111,
+      "median_impact": 0.0671657986111111,
+      "mean_prompt_shift": -0.06580213025525528
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.043394886363636365,
+      "median_impact": 0.043394886363636365,
+      "mean_prompt_shift": -0.040145596590909105
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.043394886363636365,
+      "median_impact": 0.043394886363636365,
+      "mean_prompt_shift": -0.040145596590909105
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 9,
+      "token_pos": 48,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    },
+    {
+      "step": 28,
+      "token_pos": 69,
+      "token_str": "ors",
+      "token_id": 894,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

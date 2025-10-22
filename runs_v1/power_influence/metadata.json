@@ -1,0 +1,20 @@
+{
+  "name": "power_influence",
+  "prompt": "Explain how power can distort both perception and communication.",
+  "decoded": "Power can distort perception by influencing how individuals interpret information, leading to biased or skewed understanding. It can also distort communication by controlling the flow of information, silencing dissenting voices, and shaping the narrative of events. This can result in a lack of transparency, manipulation of facts, and a breakdown of trust among individuals.",
+  "events_count": 2,
+  "max_mean_delta": 0.29521484375,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.2777692522321429,
+      "median_impact": 0.2777692522321429,
+      "mean_prompt_shift": -0.0412481398809524
+    }
+  ],
+  "extra": {}
+}

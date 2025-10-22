@@ -1,0 +1,8 @@
+category,triggers,samples,mean_impact,mean_prompt_shift
+other,56,56,0.198446,-0.090575
+content_heavy,37,37,0.049421,-0.026729
+punctuation,15,15,0.166816,0.128039
+sentence_boundary,14,14,0.175342,0.140528
+filler_marker,1,1,0.048511,-0.033609
+contrast_marker,1,1,0.038143,-0.036756
+clause_boundary,1,1,0.047454,-0.046813

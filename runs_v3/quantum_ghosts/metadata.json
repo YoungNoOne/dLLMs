@@ -1,0 +1,50 @@
+{
+  "name": "quantum_ghosts",
+  "prompt": "Every time someone dies, a new universe with them alive is created. Write the conversation between two versions who accidentally meet.",
+  "decoded": "Version 1: \"Hey, I'm nice to meet you. I'm from the universe where I'm alive.\"\n\nVersion 2: \"Hi, I'm from the universe where I'm alive. I'm nice to meet you too.\"",
+  "events_count": 2,
+  "max_mean_delta": 0.18865411931818182,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.18865411931818182,
+      "median_impact": 0.18865411931818182,
+      "mean_prompt_shift": -0.19753196022727273
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.13677153716216217,
+      "median_impact": 0.13677153716216217,
+      "mean_prompt_shift": -0.1397859619487909
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 27,
+      "token_pos": 62,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 53,
+      "token_pos": 89,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

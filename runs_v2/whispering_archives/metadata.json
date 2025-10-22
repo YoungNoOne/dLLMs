@@ -1,0 +1,42 @@
+{
+  "name": "whispering_archives",
+  "prompt": "In a vast underground archive, every book whispers its contents when touched. Tell the story of someone who hears something they were never meant to know.",
+  "decoded": "Once upon a time, a curious scholar stumbled upon a book hidden in the depths of the underground archive. As they touched the pages, the book whispered secrets of a long-lost civilization and their forbidden knowledge. The scholar was shocked to learn that they were never meant to know the truth about this ancient society.",
+  "events_count": 2,
+  "max_mean_delta": 0.253515625,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.24854910714285716,
+      "median_impact": 0.24854910714285716,
+      "mean_prompt_shift": -0.043436104910714285
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 105,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 59,
+      "token_pos": 104,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

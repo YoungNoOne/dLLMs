@@ -1,0 +1,60 @@
+{
+  "name": "quantum_love_letter",
+  "prompt": "Write a love letter that exists in two contradictory emotional states until it is read.",
+  "decoded": "My Dearest,\n\nI am in love with you, yet I am in love with myself. I am in love with you, yet I am in love with myself. I am in love with you, yet I am in love with myself.\n\nYours in love,\n[Name]",
+  "events_count": 3,
+  "max_mean_delta": 0.3002515889830508,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.2619422007415254,
+      "median_impact": 0.2619422007415254,
+      "mean_prompt_shift": -0.25725652569534985
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.17701480263157895,
+      "median_impact": 0.17701480263157895,
+      "mean_prompt_shift": 0.18031904586358138
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 5,
+      "token_pos": 33,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 7,
+      "token_pos": 35,
+      "token_str": "I",
+      "token_id": 40,
+      "direction": 1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 52,
+      "token_pos": 81,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,32 @@
+{
+  "name": "artificial_gravity",
+  "prompt": "Gravity begins charging rent. Write the eviction notice sent to humanity by the laws of physics.",
+  "decoded": "Dear Humanity,\n\nYou are hereby evicted from your apartment in the universe. You failed to pay your rent, and as a result, you will be forced to live in the void.\n\nSincerely,\n\nThe Laws of Physics",
+  "events_count": 1,
+  "max_mean_delta": 0.23457362288135594,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.23457362288135594,
+      "median_impact": 0.23457362288135594,
+      "mean_prompt_shift": -0.23309719279661023
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 5,
+      "token_pos": 35,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

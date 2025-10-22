@@ -1,0 +1,36 @@
+{
+  "name": "dream_logic",
+  "prompt": "Why do dreams often seem logical when we are dreaming but absurd afterward?",
+  "decoded": "Dreams often seem logical when we are dreaming because our subconscious mind processes information and creates scenarios that make sense in the context of the dream. However, when we wake up, our conscious mind evaluates the dream and recognizes it as absurd or illogical, as it is no longer in the context of the dream.",
+  "events_count": 2,
+  "max_mean_delta": 0.2451171875,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2451171875,
+      "median_impact": 0.2451171875,
+      "mean_prompt_shift": -0.28662109375
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.24104817708333334,
+      "median_impact": 0.24104817708333334,
+      "mean_prompt_shift": 0.23014322916666663
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.24104817708333334,
+      "median_impact": 0.24104817708333334,
+      "mean_prompt_shift": 0.23014322916666663
+    }
+  ],
+  "extra": {}
+}

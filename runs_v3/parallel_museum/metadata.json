@@ -1,0 +1,59 @@
+{
+  "name": "parallel_museum",
+  "prompt": "Every painting in a new museum depicts a world where one small decision changed history. Describe a visitor standing before the piece titled 'If Rome Never Fell'.",
+  "decoded": "The visitor stands before the painting, their eyes wide with curiosity. They take in the intricate details of the scene, trying to imagine the world where Rome never fell. The visitor's expression is filled with a mix of wonder and contemplation, as they ponder the implications of one small decision changing the course of history.",
+  "events_count": 2,
+  "max_mean_delta": 0.2758091517857143,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2758091517857143,
+      "median_impact": 0.2758091517857143,
+      "mean_prompt_shift": -0.30643136160714285
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.26904296875,
+      "median_impact": 0.26904296875,
+      "mean_prompt_shift": 0.2597191220238095
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.26904296875,
+      "median_impact": 0.26904296875,
+      "mean_prompt_shift": 0.2597191220238095
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 106,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 104,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": 1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

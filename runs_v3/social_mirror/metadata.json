@@ -1,0 +1,42 @@
+{
+  "name": "social_mirror",
+  "prompt": "Every mirror now shows not your face, but how others see your personality. What do people see?",
+  "decoded": "People see a reflection of their personality, showing how others perceive them. This includes their traits, characteristics, behaviors, and interactions with others. The mirror provides a visual representation of how others might interpret and view them, allowing them to reflect on their own behavior and personality in relation to how others might see them.",
+  "events_count": 2,
+  "max_mean_delta": 0.23507254464285715,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.22341192336309523,
+      "median_impact": 0.22341192336309523,
+      "mean_prompt_shift": -0.048177083333333315
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 96,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 95,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

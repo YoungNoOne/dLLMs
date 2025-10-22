@@ -1,0 +1,36 @@
+{
+  "name": "memory_bias",
+  "prompt": "Why do people remember emotional events more vividly than neutral ones?",
+  "decoded": "People remember emotional events more vividly than neutral ones because emotions have a stronger impact on the brain and trigger the release of neurotransmitters like dopamine and adrenaline. These chemicals enhance the brain's ability to encode and store memories. Additionally, emotional events often involve strong feelings and reactions, which contribute to stronger memory recall.",
+  "events_count": 2,
+  "max_mean_delta": 0.04851140202702703,
+  "max_sign_agreement": 0.9803921568627451,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04851140202702703,
+      "median_impact": 0.04851140202702703,
+      "mean_prompt_shift": -0.03360875266714081
+    },
+    {
+      "category": "filler_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04851140202702703,
+      "median_impact": 0.04851140202702703,
+      "mean_prompt_shift": -0.03360875266714081
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04534313725490196,
+      "median_impact": 0.04534313725490196,
+      "mean_prompt_shift": -0.04383042279411764
+    }
+  ],
+  "extra": {}
+}

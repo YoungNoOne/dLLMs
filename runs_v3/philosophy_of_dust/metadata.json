@@ -1,0 +1,59 @@
+{
+  "name": "philosophy_of_dust",
+  "prompt": "Dust particles retain fragments of human thought. Write the lecture of a philosopher who listens to dust storms for wisdom.",
+  "decoded": "In the heart of a dust storm, I hear the whispers of the past, the echoes of forgotten ideas, and the echoes of human thought. Each particle carries a fragment of wisdom, and by listening to the storm, I gain insight into the mysteries of existence and the minds of those who came before us.",
+  "events_count": 2,
+  "max_mean_delta": 0.3257533482142857,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.3257533482142857,
+      "median_impact": 0.3257533482142857,
+      "mean_prompt_shift": -0.358154296875
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.3103841145833333,
+      "median_impact": 0.3103841145833333,
+      "mean_prompt_shift": 0.29361979166666663
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.3103841145833333,
+      "median_impact": 0.3103841145833333,
+      "mean_prompt_shift": 0.29361979166666663
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 99,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 97,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": 1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

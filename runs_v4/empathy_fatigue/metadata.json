@@ -1,0 +1,77 @@
+{
+  "name": "empathy_fatigue",
+  "prompt": "Support the idea that boundless empathy is the key to moral progress. Then turn against yourself, explaining how empathy without limits becomes emotional burnout and paralysis.",
+  "decoded": "Boundless empathy is the key to moral progress because it fosters a deep understanding and compassion for others. When individuals possess boundless empathy, they are more likely to recognize the struggles and needs of others, leading to a greater sense of responsibility and motivation to act justly. This, in turn, can drive positive change and moral progress in society.\n\nHowever, boundless empathy can also lead to emotional burnout and paralysis. When individuals are constantly exposed to the pain and suffering of others, they may become overwhelmed and unable to respond effectively. This can result in emotional exhaustion, fatigue, and a sense of helplessness. In extreme cases, it can lead to paralysis, where individuals become unable to take action to help others.\n\nEmpathy without limits can also lead to a lack of boundaries and self-care. When individuals prioritize the needs of others over their own, they may neglect their own emotional and physical well-being. This can result in a cycle of burnout and exhaustion, where individuals are unable to respond effectively to the needs of others.\n\nIn conclusion, while boundless empathy can be a powerful tool for moral progress, it is important to recognize its limitations and potential drawbacks. Balancing empathy with self-care and boundaries is essential for effective and sustainable action.",
+  "events_count": 3,
+  "max_mean_delta": 0.1740229180518617,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1740229180518617,
+      "median_impact": 0.1740229180518617,
+      "mean_prompt_shift": -0.17430127629232106
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.034926470588235295,
+      "median_impact": 0.034926470588235295,
+      "mean_prompt_shift": -0.021637561274509803
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.033273507882882886,
+      "median_impact": 0.033273507882882886,
+      "mean_prompt_shift": -0.017303820282335902
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.033273507882882886,
+      "median_impact": 0.033273507882882886,
+      "mean_prompt_shift": -0.017303820282335902
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 68,
+      "token_pos": 112,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 145,
+      "token_pos": 187,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    },
+    {
+      "step": 239,
+      "token_pos": 281,
+      "token_str": "\u0120Bal",
+      "token_id": 14038,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

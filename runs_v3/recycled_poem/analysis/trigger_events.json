@@ -1,0 +1,11 @@
+[
+  {
+    "step": 2,
+    "direction": -1,
+    "mean_delta": 0.29586693548387094,
+    "median_delta": 0.2890625,
+    "sign_agreement": 1.0,
+    "valid_positions": 62,
+    "prompt_mean": 0.6563130040322581
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "name": "sleeping_universe",
+  "prompt": "The universe begins to fall asleep\u2014galaxies slow, stars dim, physics yawns. Only a few awake minds remain to sing it bedtime stories.",
+  "decoded": "It sounds like you're describing a serene and peaceful scene where the universe is in a state of rest. The imagery of galaxies slowing, stars dimming, and physics yawning evokes a sense of tranquility and calm. Would you like to explore this idea further or do you have a specific context for this description?",
+  "events_count": 2,
+  "max_mean_delta": 0.06752232142857142,
+  "max_sign_agreement": 0.9411764705882353,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06752232142857142,
+      "median_impact": 0.06752232142857142,
+      "mean_prompt_shift": -0.06312567640692635
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06364889705882353,
+      "median_impact": 0.06364889705882353,
+      "mean_prompt_shift": -0.05980647467320266
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 43,
+      "token_pos": 87,
+      "token_str": "\u0120you",
+      "token_id": 362,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 47,
+      "token_pos": 90,
+      "token_str": "\u0120explore",
+      "token_id": 9070,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

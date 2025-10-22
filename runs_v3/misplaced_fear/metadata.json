@@ -1,0 +1,59 @@
+{
+  "name": "misplaced_fear",
+  "prompt": "Invent a phobia that sounds ridiculous but secretly makes sense.",
+  "decoded": "Zygophobia: the fear of the sound of a dog's barking. This phobia is ridiculous because dogs bark, but it secretly makes sense because some people might be sensitive to the sound of a dog's barking, especially if they have a bad experience with dogs or if they are sensitive to loud noises.",
+  "events_count": 2,
+  "max_mean_delta": 0.2709263392857143,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2709263392857143,
+      "median_impact": 0.2709263392857143,
+      "mean_prompt_shift": -0.31270926339285715
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.24153645833333334,
+      "median_impact": 0.24153645833333334,
+      "mean_prompt_shift": 0.22433035714285715
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.24153645833333334,
+      "median_impact": 0.24153645833333334,
+      "mean_prompt_shift": 0.22433035714285715
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 88,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 86,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": 1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

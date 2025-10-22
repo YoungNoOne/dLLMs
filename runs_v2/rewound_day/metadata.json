@@ -1,0 +1,86 @@
+{
+  "name": "rewound_day",
+  "prompt": "One day keeps repeating, but not perfectly\u2014each loop alters slightly, like the world is rehearsing its own mistakes.",
+  "decoded": "It sounds like you're describing a scene from a science fiction story, perhaps a time loop or a parallel universe. The idea of a day repeating with slight variations creates a sense of mystery and intrigue, leaving the reader wondering what's really happening. Would you like to explore this concept further or share your ideas?",
+  "events_count": 3,
+  "max_mean_delta": 0.06901041666666667,
+  "max_sign_agreement": 0.8666666666666667,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06901041666666667,
+      "median_impact": 0.06901041666666667,
+      "mean_prompt_shift": -0.07360026041666667
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06901041666666667,
+      "median_impact": 0.06901041666666667,
+      "mean_prompt_shift": -0.07360026041666667
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05694110576923077,
+      "median_impact": 0.05694110576923077,
+      "mean_prompt_shift": 0.047636933379120894
+    },
+    {
+      "category": "filler_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05694110576923077,
+      "median_impact": 0.05694110576923077,
+      "mean_prompt_shift": 0.047636933379120894
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.055989583333333336,
+      "median_impact": 0.055989583333333336,
+      "mean_prompt_shift": 0.05099826388888884
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 49,
+      "token_pos": 85,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    },
+    {
+      "step": 51,
+      "token_pos": 88,
+      "token_str": "\u0120like",
+      "token_id": 1029,
+      "direction": 1,
+      "categories": [
+        "filler_marker",
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 55,
+      "token_pos": 91,
+      "token_str": "\u0120this",
+      "token_id": 501,
+      "direction": 1,
+      "categories": [
+        "other"
+      ]
+    }
+  ],
+  "extra": {}
+}

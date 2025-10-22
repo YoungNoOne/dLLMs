@@ -1,0 +1,20 @@
+{
+  "name": "imagination_reality",
+  "prompt": "Discuss how imagination can shape what we perceive as real.",
+  "decoded": "Imagination plays a significant role in shaping what we perceive as real. It allows us to envision new possibilities, explore different scenarios, and create worlds that may not exist in the physical realm. This can lead to innovation, creativity, and a deeper understanding of the world around us.",
+  "events_count": 2,
+  "max_mean_delta": 0.17236328125,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.143798828125,
+      "median_impact": 0.143798828125,
+      "mean_prompt_shift": -0.040655226934523836
+    }
+  ],
+  "extra": {}
+}

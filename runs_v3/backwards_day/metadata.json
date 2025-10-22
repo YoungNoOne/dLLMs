@@ -1,0 +1,42 @@
+{
+  "name": "backwards_day",
+  "prompt": "Time begins to run backward once a year. Write a journal entry from the day people age in reverse.",
+  "decoded": "Today, I am 10 years younger than I was yesterday. I am 20 years younger than I was a year ago. I am 30 years younger than I was two years ago. I am 40 years younger than I was three years ago. This is a strange day.",
+  "events_count": 2,
+  "max_mean_delta": 0.14778645833333334,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.14560081845238096,
+      "median_impact": 0.14560081845238096,
+      "mean_prompt_shift": -0.009847005208333315
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 97,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 96,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

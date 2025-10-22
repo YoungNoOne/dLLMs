@@ -1,0 +1,50 @@
+{
+  "name": "emotional_astronomy",
+  "prompt": "Astronomers realize constellations change shape based on global emotion levels. Write a briefing from the observatory.",
+  "decoded": "Astronomers have discovered that constellations change shape based on global emotion levels. This phenomenon has been observed over the past few years. The observatory is conducting further research to understand the reasons behind these changes. It is hoped that this discovery will provide new insights into the relationship between emotions and the universe.",
+  "events_count": 2,
+  "max_mean_delta": 0.0390625,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0390625,
+      "median_impact": 0.0390625,
+      "mean_prompt_shift": -0.028111869747899143
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.029673793859649123,
+      "median_impact": 0.029673793859649123,
+      "mean_prompt_shift": -0.028333900483968555
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 7,
+      "token_pos": 41,
+      "token_str": "\u0120that",
+      "token_id": 378,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 30,
+      "token_pos": 65,
+      "token_str": "\u0120observ",
+      "token_id": 10214,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

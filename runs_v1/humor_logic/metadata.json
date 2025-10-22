@@ -1,0 +1,28 @@
+{
+  "name": "humor_logic",
+  "prompt": "Explain why humor often depends on breaking logical expectations.",
+  "decoded": "Humor often depends on breaking logical expectations because it plays on the audience's preconceptions and assumptions. When something unexpected happens, it creates a sense of surprise and shock, which can be amusing. This subversion of expectations can also be a way to critique societal norms or behaviors in a subtle and humorous way.",
+  "events_count": 2,
+  "max_mean_delta": 0.04514898255813953,
+  "max_sign_agreement": 0.9302325581395349,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04514898255813953,
+      "median_impact": 0.04514898255813953,
+      "mean_prompt_shift": -0.04133357558139539
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.038628472222222224,
+      "median_impact": 0.038628472222222224,
+      "mean_prompt_shift": 0.03396267361111116
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,50 @@
+{
+  "name": "memory_tax",
+  "prompt": "Governments start taxing memories: the happier the recollection, the higher the cost. People begin erasing joy to save money.",
+  "decoded": "That sounds like a thought-provoking scenario. It raises questions about the value of happiness and the ethics of taxing memories. Would it be fair to charge people for their happy moments? How would this impact mental health and overall well-being? It's a fascinating way to explore the intersection of personal happiness and societal economics.",
+  "events_count": 2,
+  "max_mean_delta": 0.05307904411764706,
+  "max_sign_agreement": 0.9791666666666666,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05307904411764706,
+      "median_impact": 0.05307904411764706,
+      "mean_prompt_shift": -0.04298151552287588
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.041910807291666664,
+      "median_impact": 0.041910807291666664,
+      "mean_prompt_shift": -0.03978163531037415
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 16,
+      "token_pos": 54,
+      "token_str": "\u0120happiness",
+      "token_id": 18769,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 47,
+      "token_pos": 85,
+      "token_str": "\u0120It",
+      "token_id": 963,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    }
+  ],
+  "extra": {}
+}

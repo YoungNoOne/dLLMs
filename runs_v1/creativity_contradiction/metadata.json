@@ -1,0 +1,20 @@
+{
+  "name": "creativity_contradiction",
+  "prompt": "Describe how creativity often comes from combining opposing ideas.",
+  "decoded": "Creativity often comes from combining opposing ideas because it allows for the generation of new and innovative solutions. By bringing together contrasting ideas, one can challenge existing assumptions and explore new possibilities. This process can lead to the development of novel concepts, products, and solutions that would not have been possible through traditional thinking alone.",
+  "events_count": 1,
+  "max_mean_delta": 0.03720238095238095,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03720238095238095,
+      "median_impact": 0.03720238095238095,
+      "mean_prompt_shift": -0.03720238095238093
+    }
+  ],
+  "extra": {}
+}

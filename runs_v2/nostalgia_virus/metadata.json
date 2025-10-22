@@ -1,0 +1,42 @@
+{
+  "name": "nostalgia_virus",
+  "prompt": "A virus spreads that makes people remember lives they never lived. Entire nations argue over which past was real.",
+  "decoded": "That sounds like a fascinating scenario! The idea of a virus causing people to remember lives they never lived is quite intriguing. It raises complex questions about the nature of reality, memory, and the power of collective imagination. Do you have any specific questions or aspects you'd like to explore or discuss about this scenario?",
+  "events_count": 2,
+  "max_mean_delta": 0.21735491071428573,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.19803292410714285,
+      "median_impact": 0.19803292410714285,
+      "mean_prompt_shift": -0.04903157552083334
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 97,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 96,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

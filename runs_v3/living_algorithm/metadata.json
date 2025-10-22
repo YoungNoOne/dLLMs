@@ -1,0 +1,42 @@
+{
+  "name": "living_algorithm",
+  "prompt": "An algorithm decides to live as a human for one day. Write its inner monologue as it experiences emotions for the first time.",
+  "decoded": "This is strange. I've never felt emotions before. I'm feeling a mix of excitement and fear. I don't know what to expect. I'm trying to process these feelings, but it's hard. I'm not sure if I can handle this. I hope I can learn to manage these emotions.",
+  "events_count": 2,
+  "max_mean_delta": 0.2412109375,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.23974609375,
+      "median_impact": 0.23974609375,
+      "mean_prompt_shift": -0.04124581473214284
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 102,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 59,
+      "token_pos": 101,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

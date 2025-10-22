@@ -1,0 +1,30 @@
+[
+  {
+    "step": 39,
+    "direction": -1,
+    "impact_score": 0.04203125,
+    "prompt_shift": -0.043094951923076885,
+    "token_pos": 76,
+    "token_id": 11021,
+    "token_str": "\u0120Have",
+    "step_decoded": 38,
+    "conf_decoded": 0.55859375,
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "step": 43,
+    "direction": -1,
+    "impact_score": 0.04017857142857143,
+    "prompt_shift": -0.034386837121212044,
+    "token_pos": 81,
+    "token_id": 36133,
+    "token_str": "\u0120tattoo",
+    "step_decoded": 42,
+    "conf_decoded": 0.50390625,
+    "categories": [
+      "content_heavy"
+    ]
+  }
+]

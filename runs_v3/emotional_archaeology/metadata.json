@@ -1,0 +1,59 @@
+{
+  "name": "emotional_archaeology",
+  "prompt": "Archaeologists begin unearthing emotions fossilized in ancient ruins. Write a discovery report from the excavation site of 'First Love'.",
+  "decoded": "At the excavation site of 'First Love', archaeologists have uncovered a fragment of a mysterious artifact, believed to be a fossilized emotion. The fragment appears to be a small, delicate stone object with intricate carvings, suggesting it may represent the emotion of first love. Further excavation and analysis are planned.",
+  "events_count": 2,
+  "max_mean_delta": 0.28989955357142855,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.28989955357142855,
+      "median_impact": 0.28989955357142855,
+      "mean_prompt_shift": -0.3235560825892857
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2353515625,
+      "median_impact": 0.2353515625,
+      "mean_prompt_shift": 0.22549293154761907
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2353515625,
+      "median_impact": 0.2353515625,
+      "mean_prompt_shift": 0.22549293154761907
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 103,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 101,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": 1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

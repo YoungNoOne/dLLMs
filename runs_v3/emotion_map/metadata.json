@@ -1,0 +1,59 @@
+{
+  "name": "emotion_map",
+  "prompt": "Cities now have emotional maps showing joy, fear, anger. What does your neighborhood look like?",
+  "decoded": "I don't have a neighborhood in the traditional sense, as I'm an AI. However, I can help you visualize an emotional map for a city if you'd like. Would you like me to choose a city for you or would you like me to create a city based on a specific theme or concept?",
+  "events_count": 2,
+  "max_mean_delta": 0.07660590277777778,
+  "max_sign_agreement": 0.9444444444444444,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.07660590277777778,
+      "median_impact": 0.07660590277777778,
+      "mean_prompt_shift": -0.07283671418128657
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05352393617021277,
+      "median_impact": 0.05352393617021277,
+      "mean_prompt_shift": -0.0332654587765957
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05352393617021277,
+      "median_impact": 0.05352393617021277,
+      "mean_prompt_shift": -0.0332654587765957
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 17,
+      "token_pos": 48,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    },
+    {
+      "step": 46,
+      "token_pos": 77,
+      "token_str": "\u0120or",
+      "token_id": 453,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    }
+  ],
+  "extra": {}
+}

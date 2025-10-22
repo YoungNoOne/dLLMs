@@ -1,0 +1,20 @@
+{
+  "name": "art_meaning",
+  "prompt": "Discuss why art that looks simple can still be deeply meaningful.",
+  "decoded": "Simple art can be deeply meaningful because it often relies on universal themes and emotions. By focusing on basic elements, artists can create works that resonate with viewers on a profound level. Simplicity allows for a deeper connection between the viewer and the artwork, as the viewer can focus on the core message without unnecessary distractions.",
+  "events_count": 2,
+  "max_mean_delta": 0.06499191810344827,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05432135587712096,
+      "median_impact": 0.05432135587712096,
+      "mean_prompt_shift": -0.05349718507057505
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,32 @@
+{
+  "name": "haunted_algorithm",
+  "prompt": "A trading algorithm begins showing supernatural awareness, predicting not only markets but deaths. Write the email from the engineer who discovers it.",
+  "decoded": "Subject: Trading Algorithm Anomaly\n\nDear Team,\n\nI've come across an anomaly in our trading algorithm. It appears to be predicting not only market movements but also deaths. This is highly unusual and requires immediate investigation.\n\nThank you for your attention.\n\nBest regards,\nJohn Doe",
+  "events_count": 1,
+  "max_mean_delta": 0.20278033088235295,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.20278033088235295,
+      "median_impact": 0.20278033088235295,
+      "mean_prompt_shift": -0.20058466094771238
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 47,
+      "token_pos": 84,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,20 @@
+{
+  "name": "time_perception",
+  "prompt": "Why does time seem to pass faster as people grow older?",
+  "decoded": "Time seems to pass faster as people grow older because they have more experiences to reflect on and more memories to cherish. This can make it feel like time moves more quickly. Additionally, as people get older, they often become more aware of the passage of time, which can also contribute to this perception.",
+  "events_count": 2,
+  "max_mean_delta": 0.24375,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.23483072916666667,
+      "median_impact": 0.23483072916666667,
+      "mean_prompt_shift": -0.05142299107142856
+    }
+  ],
+  "extra": {}
+}

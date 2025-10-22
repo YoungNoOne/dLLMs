@@ -1,0 +1,69 @@
+{
+  "name": "lost_signal",
+  "prompt": "You receive a radio signal from your own future. Write the first message it contains.",
+  "decoded": "\"Hello, this is a message from the future. We have achieved a significant breakthrough in communication technology and are now able to send messages across vast distances. We hope to connect with you and share our knowledge and experiences. Please respond if you are able to receive this message.\"",
+  "events_count": 3,
+  "max_mean_delta": 0.146484375,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.13118489583333334,
+      "median_impact": 0.13118489583333334,
+      "mean_prompt_shift": 0.0029467385912698707
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.08130787037037036,
+      "median_impact": 0.08130787037037036,
+      "mean_prompt_shift": -0.07942708333333337
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.08130787037037036,
+      "median_impact": 0.08130787037037036,
+      "mean_prompt_shift": -0.07942708333333337
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 10,
+      "token_pos": 40,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    },
+    {
+      "step": 55,
+      "token_pos": 85,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 87,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

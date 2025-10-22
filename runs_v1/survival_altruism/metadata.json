@@ -1,0 +1,36 @@
+{
+  "name": "survival_altruism",
+  "prompt": "Why does altruism persist even though it seems disadvantageous for survival?",
+  "decoded": "Altruism persists because it promotes social cohesion and cooperation, which can lead to increased survival and reproductive success for the group. Altruistic behavior can also be passed down through natural selection, as individuals who exhibit altruism may have a higher chance of survival and reproduction, passing on their genes to future generations.",
+  "events_count": 2,
+  "max_mean_delta": 0.23828125,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.23828125,
+      "median_impact": 0.23828125,
+      "mean_prompt_shift": -0.28090122767857145
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.18326822916666666,
+      "median_impact": 0.18326822916666666,
+      "mean_prompt_shift": 0.16485305059523814
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.18326822916666666,
+      "median_impact": 0.18326822916666666,
+      "mean_prompt_shift": 0.16485305059523814
+    }
+  ],
+  "extra": {}
+}

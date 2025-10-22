@@ -1,0 +1,42 @@
+{
+  "name": "sunset_code",
+  "prompt": "The color of each sunset secretly encodes a message. Write what today\u2019s means.",
+  "decoded": "Today's sunset is a deep shade of purple, which encodes the message \"Eternal Peace.\" The color purple is often associated with royalty, spirituality, and tranquility, making it a fitting choice for conveying a sense of calm and serenity.",
+  "events_count": 2,
+  "max_mean_delta": 0.2362060546875,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.17362758091517858,
+      "median_impact": 0.17362758091517858,
+      "mean_prompt_shift": 0.06456828825280109
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 48,
+      "token_pos": 76,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 50,
+      "token_pos": 78,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

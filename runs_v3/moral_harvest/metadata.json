@@ -1,0 +1,42 @@
+{
+  "name": "moral_harvest",
+  "prompt": "Farmers cultivate ethical values instead of crops. Each season, they harvest kindness, greed, or courage depending on the soil. Write an excerpt from a farmer\u2019s diary during a drought of honesty.",
+  "decoded": "Today, I surveyed the barren fields of honesty, and it struck me that the foundation of our society is crumbling. The once vibrant crops of truth have withered, leaving only the weeds of deceit to flourish. It is a distressing sight, and I fear that our community may be heading towards a dark future.",
+  "events_count": 2,
+  "max_mean_delta": 0.356640625,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.33882533482142857,
+      "median_impact": 0.33882533482142857,
+      "mean_prompt_shift": -0.023423549107142838
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 115,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 59,
+      "token_pos": 114,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

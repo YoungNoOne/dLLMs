@@ -1,0 +1,60 @@
+{
+  "name": "weather_tuner",
+  "prompt": "A teenager builds a homemade device that tunes the weather like radio frequencies. Write their experiment notes and first broadcast.",
+  "decoded": "Today, I built a homemade device that tunes the weather like radio frequencies. I used a small antenna, a radio, and some electronic components. I tuned the device to the weather frequencies and received the weather updates. The first broadcast was a forecast of the weather for the next week. It was very successful!",
+  "events_count": 3,
+  "max_mean_delta": 0.15457589285714285,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.1386160714285714,
+      "median_impact": 0.1386160714285714,
+      "mean_prompt_shift": -0.04325358072916666
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0939453125,
+      "median_impact": 0.0939453125,
+      "mean_prompt_shift": 0.08651413690476184
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 44,
+      "token_pos": 78,
+      "token_str": "\u0120The",
+      "token_id": 468,
+      "direction": 1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 57,
+      "token_pos": 98,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 59,
+      "token_pos": 97,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

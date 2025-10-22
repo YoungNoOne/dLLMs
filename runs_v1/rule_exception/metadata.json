@@ -1,0 +1,44 @@
+{
+  "name": "rule_exception",
+  "prompt": "Describe a rule that usually works but fails in extreme cases.",
+  "decoded": "A rule that usually works but fails in extreme cases is the \"rule of thumb\" in physics. The rule of thumb states that the acceleration of an object is proportional to the force applied to it. However, in extreme cases, such as high speeds or large forces, this rule of thumb can become inaccurate.",
+  "events_count": 4,
+  "max_mean_delta": 0.05958806818181818,
+  "max_sign_agreement": 0.9818181818181818,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05445223721590909,
+      "median_impact": 0.05445223721590909,
+      "mean_prompt_shift": 0.00825068486201297
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0525501179245283,
+      "median_impact": 0.0525501179245283,
+      "mean_prompt_shift": -0.05123848052061497
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04447115384615385,
+      "median_impact": 0.04447115384615385,
+      "mean_prompt_shift": -0.041677795584045496
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04447115384615385,
+      "median_impact": 0.04447115384615385,
+      "mean_prompt_shift": -0.041677795584045496
+    }
+  ],
+  "extra": {}
+}

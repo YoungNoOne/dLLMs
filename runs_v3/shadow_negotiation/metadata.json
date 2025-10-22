@@ -1,0 +1,80 @@
+{
+  "name": "shadow_negotiation",
+  "prompt": "You catch your own shadow trying to bargain for independence. Record the dialogue.",
+  "decoded": "Shadow: \"I don't want to be tied to you anymore. Can I be my own entity?\"\n\nYou: \"No, I'm your shadow. I'm always with you, and I'll always be there.\"\n\nShadow: \"But I want to be free, separate from you.\"",
+  "events_count": 5,
+  "max_mean_delta": 0.24609375,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.23372395833333331,
+      "median_impact": 0.23372395833333331,
+      "mean_prompt_shift": 0.012348359860248431
+    },
+    {
+      "category": "other",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.1756435296474359,
+      "median_impact": 0.17578125,
+      "mean_prompt_shift": -0.06116197532213158
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 19,
+      "token_pos": 50,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 20,
+      "token_pos": 48,
+      "token_str": "?\"",
+      "token_id": 6608,
+      "direction": 1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 38,
+      "token_pos": 62,
+      "token_str": "'m",
+      "token_id": 3180,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 50,
+      "token_pos": 76,
+      "token_str": "Shadow",
+      "token_id": 37705,
+      "direction": 1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 60,
+      "token_pos": 89,
+      "token_str": ".\"",
+      "token_id": 1904,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    }
+  ],
+  "extra": {}
+}

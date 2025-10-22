@@ -1,0 +1,101 @@
+[
+  {
+    "step": 3,
+    "direction": -1,
+    "mean_delta": 0.08322010869565218,
+    "median_delta": 0.07421875,
+    "sign_agreement": 0.9723320158102767,
+    "valid_positions": 253,
+    "prompt_mean": 0.8612740859683794
+  },
+  {
+    "step": 128,
+    "direction": -1,
+    "mean_delta": 0.07338714599609375,
+    "median_delta": 0.0625,
+    "sign_agreement": 0.9921875,
+    "valid_positions": 128,
+    "prompt_mean": 0.33861541748046875
+  },
+  {
+    "step": 196,
+    "direction": -1,
+    "mean_delta": 0.1248046875,
+    "median_delta": 0.1259765625,
+    "sign_agreement": 1.0,
+    "valid_positions": 60,
+    "prompt_mean": 0.34544270833333335
+  },
+  {
+    "step": 199,
+    "direction": 1,
+    "mean_delta": 0.11317845394736842,
+    "median_delta": 0.095703125,
+    "sign_agreement": 1.0,
+    "valid_positions": 57,
+    "prompt_mean": 0.4231428179824561
+  },
+  {
+    "step": 200,
+    "direction": -1,
+    "mean_delta": 0.06947544642857142,
+    "median_delta": 0.064453125,
+    "sign_agreement": 0.9821428571428571,
+    "valid_positions": 56,
+    "prompt_mean": 0.35923549107142855
+  },
+  {
+    "step": 205,
+    "direction": 1,
+    "mean_delta": 0.061772365196078434,
+    "median_delta": 0.0625,
+    "sign_agreement": 0.9803921568627451,
+    "valid_positions": 51,
+    "prompt_mean": 0.39502910539215685
+  },
+  {
+    "step": 207,
+    "direction": -1,
+    "mean_delta": 0.06269929846938775,
+    "median_delta": 0.052734375,
+    "sign_agreement": 0.9591836734693877,
+    "valid_positions": 49,
+    "prompt_mean": 0.32358099489795916
+  },
+  {
+    "step": 212,
+    "direction": 1,
+    "mean_delta": 0.06458629261363637,
+    "median_delta": 0.0498046875,
+    "sign_agreement": 0.9772727272727273,
+    "valid_positions": 44,
+    "prompt_mean": 0.38818359375
+  },
+  {
+    "step": 230,
+    "direction": 1,
+    "mean_delta": 0.06227463942307692,
+    "median_delta": 0.052734375,
+    "sign_agreement": 0.9615384615384616,
+    "valid_positions": 26,
+    "prompt_mean": 0.40512319711538464
+  },
+  {
+    "step": 231,
+    "direction": -1,
+    "mean_delta": 0.0653515625,
+    "median_delta": 0.060546875,
+    "sign_agreement": 1.0,
+    "valid_positions": 25,
+    "prompt_mean": 0.3361328125
+  },
+  {
+    "step": 232,
+    "direction": 1,
+    "mean_delta": 0.06449381510416667,
+    "median_delta": 0.0556640625,
+    "sign_agreement": 0.9583333333333334,
+    "valid_positions": 24,
+    "prompt_mean": 0.398193359375
+  }
+]

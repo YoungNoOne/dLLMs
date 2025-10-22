@@ -1,0 +1,50 @@
+{
+  "name": "clock_without_time",
+  "prompt": "A clock loses its numbers and begins showing memories instead. Write the entry for noon.",
+  "decoded": "### Entry: Noon\n\n**Time:** Noon\n\n**Memory:** A moment of peace, where the world seems to slow down. The sun is at its peak, casting a warm glow over the landscape. Birds sing in the distance, and the air is filled with the scent of blooming wildflowers.",
+  "events_count": 2,
+  "max_mean_delta": 0.24314751059322035,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.24314751059322035,
+      "median_impact": 0.24314751059322035,
+      "mean_prompt_shift": -0.24119328213276836
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.17669046336206898,
+      "median_impact": 0.17669046336206898,
+      "mean_prompt_shift": 0.17822408313851545
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 5,
+      "token_pos": 35,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 6,
+      "token_pos": 30,
+      "token_str": "###",
+      "token_id": 7442,
+      "direction": 1,
+      "categories": [
+        "other"
+      ]
+    }
+  ],
+  "extra": {}
+}

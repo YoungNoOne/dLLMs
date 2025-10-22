@@ -1,0 +1,87 @@
+{
+  "name": "automation_vs_purpose",
+  "prompt": "Begin as a futurist praising automation for liberating people from menial labor. Then become a philosopher lamenting that automation also steals the dignity of work and the spiritual satisfaction of effort.",
+  "decoded": "As a futurist, I am thrilled by the potential of automation to liberate people from the burdens of menial labor. Imagine a world where the mundane tasks are handled by machines, freeing up human beings to focus on more meaningful and creative pursuits. Automation has the power to increase productivity, reduce stress, and enhance overall well-being. It's a game-changer, and I can't wait to see what the future holds.\n\nHowever, as a philosopher, I am troubled by the darker side of automation. While it may free us from the physical demands of work, it also strips away the dignity and spiritual satisfaction that come from the act of labor itself. When tasks are performed by machines, we lose the sense of accomplishment and pride that comes from creating something with our own hands. We lose the joy of discovery, the thrill of innovation, and the sense of purpose that comes from working towards a common goal. In this sense, automation is not just a technological advancement, but a betrayal of the very essence of what it means to be human. We must find a way to balance the benefits of automation with the value of human labor, to ensure that our work is not just a means to an end, but a source of our dignity and spiritual fulfillment.",
+  "events_count": 4,
+  "max_mean_delta": 0.17827460106382978,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.17320808531746032,
+      "median_impact": 0.17320808531746032,
+      "mean_prompt_shift": -0.17293657320384292
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.17320808531746032,
+      "median_impact": 0.17320808531746032,
+      "mean_prompt_shift": -0.17293657320384292
+    },
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1431842672413793,
+      "median_impact": 0.1431842672413793,
+      "mean_prompt_shift": -0.14231001128899834
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.12330563265400792,
+      "median_impact": 0.12330563265400792,
+      "mean_prompt_shift": 0.05549426297622481
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 67,
+      "token_pos": 116,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    },
+    {
+      "step": 68,
+      "token_pos": 117,
+      "token_str": "\u0120It",
+      "token_id": 963,
+      "direction": 1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 82,
+      "token_pos": 137,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 213,
+      "token_pos": 262,
+      "token_str": "\u0120We",
+      "token_id": 1104,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    }
+  ],
+  "extra": {}
+}

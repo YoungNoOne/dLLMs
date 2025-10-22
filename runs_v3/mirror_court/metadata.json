@@ -1,0 +1,32 @@
+{
+  "name": "mirror_court",
+  "prompt": "Criminals must face their reflections in a courtroom where guilt is measured by self-recognition. Write a verdict statement.",
+  "decoded": "\"Honorable judges, jury, and court, I stand before you today, not as a defendant, but as a reflection of my own conscience. I acknowledge my guilt and accept the consequences of my actions. I ask for mercy and the opportunity to make amends for the harm I have caused.\"",
+  "events_count": 1,
+  "max_mean_delta": 0.31333705357142855,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.31333705357142855,
+      "median_impact": 0.31333705357142855,
+      "mean_prompt_shift": -0.34619140625
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 101,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

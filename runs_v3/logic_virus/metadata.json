@@ -1,0 +1,42 @@
+{
+  "name": "logic_virus",
+  "prompt": "A digital virus forces people to speak in flawless logic. Record what happens to love poetry and comedy.",
+  "decoded": "When a digital virus forces people to speak in flawless logic, love poetry and comedy are rendered meaningless. Love poetry relies on creativity and emotion, while comedy relies on humor and wit. Both forms of expression lose their essence when forced to adhere to flawless logic, as they are inherently subjective and depend on personal interpretation.",
+  "events_count": 2,
+  "max_mean_delta": 0.29115513392857145,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.2793666294642857,
+      "median_impact": 0.2793666294642857,
+      "mean_prompt_shift": -0.048251488095238104
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 96,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 59,
+      "token_pos": 95,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

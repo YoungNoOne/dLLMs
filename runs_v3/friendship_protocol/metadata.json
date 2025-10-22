@@ -1,0 +1,52 @@
+{
+  "name": "friendship_protocol",
+  "prompt": "In a near-future world, friendships must be registered through legal protocols. Draft the first rejection letter someone receives.",
+  "decoded": "Dear [Recipient's Name],\n\nI hope this message finds you well. Unfortunately, after careful consideration, I have decided to decline your request to register our friendship through the legal protocols. I hope we can continue to enjoy a positive relationship in the future.\n\nBest regards,\n[Your Name]",
+  "events_count": 3,
+  "max_mean_delta": 0.22731633771929824,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.17235259372389308,
+      "median_impact": 0.18401227678571427,
+      "mean_prompt_shift": -0.17015385536398467
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 7,
+      "token_pos": 43,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 49,
+      "token_pos": 89,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 50,
+      "token_pos": 88,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,126 @@
+{
+  "name": "isolation_benefit_shift",
+  "prompt": "Celebrate solitude as the highest state of clarity and independence. Then reverse your tone, revealing how isolation slowly corrodes meaning, turning freedom into emptiness.",
+  "decoded": "Solitude, the highest state of clarity and independence, is a testament to the power of self-discovery and inner peace. It is a sanctuary where one can delve deep into one's thoughts, emotions, and passions, unencumbered by the expectations of others. In solitude, one can truly be oneself, without the constraints of societal norms or the pressures of external validation. It is a time for introspection, a chance to navigate life's complexities and find one's true self.\n\nYet, as time passes, the weight of solitude can begin to take its toll. The absence of meaningful connections and the lack of social interaction can lead to feelings of loneliness and isolation. Without the support of others, one may struggle to find purpose and direction, leading to a sense of emptiness and disconnection. The freedom that once felt so liberating can become a burden, as the absence of community and relationships can erode the sense of belonging and purpose.\n\nIn the end, the pursuit of solitude can become a hollow endeavor, as the absence of human connection and shared experiences can leave one feeling isolated and unfulfilled. The independence that once seemed so empowering can become a source of despair, as the lack of social interaction can erode the sense of meaning and purpose.",
+  "events_count": 7,
+  "max_mean_delta": 0.07514675414364641,
+  "max_sign_agreement": 1.0,
+  "token_count": 7,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.07514675414364641,
+      "median_impact": 0.07514675414364641,
+      "mean_prompt_shift": 0.06530061357841055
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.06402499433876813,
+      "median_impact": 0.06402499433876813,
+      "mean_prompt_shift": -0.06269379398189659
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.06402499433876813,
+      "median_impact": 0.06402499433876813,
+      "mean_prompt_shift": -0.06269379398189659
+    },
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.058342120398773005,
+      "median_impact": 0.058342120398773005,
+      "mean_prompt_shift": -0.05472490834954358
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.03194904079124222,
+      "median_impact": 0.029541015625,
+      "mean_prompt_shift": -0.01176386320071234
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 72,
+      "token_pos": 115,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    },
+    {
+      "step": 75,
+      "token_pos": 117,
+      "token_str": "\u0120is",
+      "token_id": 341,
+      "direction": 1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 93,
+      "token_pos": 137,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 94,
+      "token_pos": 136,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    },
+    {
+      "step": 101,
+      "token_pos": 142,
+      "token_str": "\u0120time",
+      "token_id": 898,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 161,
+      "token_pos": 202,
+      "token_str": "\u0120freedom",
+      "token_id": 11899,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 240,
+      "token_pos": 278,
+      "token_str": "\u0120despair",
+      "token_id": 48604,
+      "direction": 1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

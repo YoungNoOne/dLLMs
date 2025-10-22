@@ -1,0 +1,41 @@
+{
+  "name": "forest_telegraph",
+  "prompt": "Forests have begun to communicate through patterns in the wind. Write a decoded message from the trees.",
+  "decoded": "The wind whispers secrets of the trees,\nA message carried, a gentle breeze.\nIn the patterns, we find our way,\nA path illuminated, a brighter day.\n\nDecoded message: \"The forest's voice, a gentle breeze, guides us to a path of a brighter day.\"",
+  "events_count": 1,
+  "max_mean_delta": 0.20393172554347827,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.20393172554347827,
+      "median_impact": 0.20393172554347827,
+      "mean_prompt_shift": -0.20202015639454207
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.20393172554347827,
+      "median_impact": 0.20393172554347827,
+      "mean_prompt_shift": -0.20202015639454207
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 18,
+      "token_pos": 49,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,42 @@
+{
+  "name": "truth_inversion",
+  "prompt": "Invent a short dialogue where every sentence is technically true but deeply misleading.",
+  "decoded": "Alice: \"I have a cat named Whiskers.\"\nBob: \"Whiskers is a black cat.\"\nCharlie: \"Whiskers is a white cat.\"\nDavid: \"Whiskers is a gray cat.\"\nEve: \"Whiskers is a tabby cat.\"",
+  "events_count": 2,
+  "max_mean_delta": 0.26395089285714285,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.25583612351190477,
+      "median_impact": 0.25583612351190477,
+      "mean_prompt_shift": -0.04736328125
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 90,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 89,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

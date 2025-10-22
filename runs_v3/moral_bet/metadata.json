@@ -1,0 +1,52 @@
+{
+  "name": "moral_bet",
+  "prompt": "Someone offers you a million dollars if you can keep one secret forever. What do you do?",
+  "decoded": "I can't keep a secret forever, but I can help you think through the situation. What is the secret, and what is the context of the offer?",
+  "events_count": 3,
+  "max_mean_delta": 0.11376953125,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.10185706195541343,
+      "median_impact": 0.10964439655172414,
+      "mean_prompt_shift": -0.004354888195603146
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 33,
+      "token_pos": 65,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 35,
+      "token_pos": 66,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 60,
+      "token_pos": 91,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

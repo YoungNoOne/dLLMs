@@ -1,0 +1,52 @@
+{
+  "name": "digital_identity_shift",
+  "prompt": "Describe social media as a revolutionary form of self-expression that empowers marginalized voices. Afterward, subvert your own argument by showing how those same platforms flatten identity into algorithms of performance and validation.",
+  "decoded": "Social media has emerged as a revolutionary form of self-expression, empowering marginalized voices to share their stories and perspectives with a global audience. Platforms like Instagram, TikTok, and Twitter have given rise to a new era of digital activism, where individuals can amplify their voices and challenge dominant narratives. These platforms provide a space for underrepresented communities to share their experiences, struggles, and resilience, fostering a sense of solidarity and empowerment.\n\nHowever, the very aspects of social media that empower these voices\u2014such as the ability to curate and present a polished, idealized version of oneself\u2014can also flatten identity into algorithms of performance and validation. The curated content that users share is often designed to appeal to a broader audience, leading to a homogenization of identities. This emphasis on aesthetics and validation can overshadow the deeper, more nuanced aspects of personal experience, reducing individuals to mere pixels in a digital grid.\n\nIn this way, social media's potential to empower marginalized voices is subverted by its inherent algorithms, which prioritize shareability and engagement over authenticity and depth. The platforms that once promised a revolutionary form of self-expression can also be seen as tools that reinforce the idea of a superficial, performative identity, rather than the rich, multifaceted selves that they initially aimed to celebrate.",
+  "events_count": 2,
+  "max_mean_delta": 0.19357700892857144,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.19357700892857144,
+      "median_impact": 0.19357700892857144,
+      "mean_prompt_shift": -0.19279385653409098
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.19357700892857144,
+      "median_impact": 0.19357700892857144,
+      "mean_prompt_shift": -0.19279385653409098
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03644418025362319,
+      "median_impact": 0.03644418025362319,
+      "mean_prompt_shift": -0.03600736937623811
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 80,
+      "direction": -1,
+      "mean_delta": 0.19357700892857144,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 117,
+      "direction": -1,
+      "mean_delta": 0.03644418025362319,
+      "sign_agreement": 0.9637681159420289,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

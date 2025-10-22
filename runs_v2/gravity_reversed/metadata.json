@@ -1,0 +1,42 @@
+{
+  "name": "gravity_reversed",
+  "prompt": "Gravity reverses one morning, but only for people who tell lies. Cities turn into floating confessions.",
+  "decoded": "That sounds like a fascinating scenario! If gravity reverses for people who tell lies, it would create quite a spectacle. Cities turning into floating confessions would be a surreal and surreal sight. It would be interesting to see how people adapt to this new reality and how their interactions and relationships change as a result.",
+  "events_count": 2,
+  "max_mean_delta": 0.20368303571428573,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.19363839285714285,
+      "median_impact": 0.19363839285714285,
+      "mean_prompt_shift": -0.040201822916666685
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 97,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 96,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

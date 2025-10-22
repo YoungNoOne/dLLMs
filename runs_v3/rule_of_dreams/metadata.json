@@ -1,0 +1,32 @@
+{
+  "name": "rule_of_dreams",
+  "prompt": "The government declares that dreams must follow logic. Compose the first set of official Dream Laws.",
+  "decoded": "Dream Law 1: All dreams must be coherent and follow a logical sequence.\nDream Law 2: All dreams must be consistent with the laws of physics and common sense.\nDream Law 3: All dreams must be realistic and not overly exaggerated.",
+  "events_count": 1,
+  "max_mean_delta": 0.1859624335106383,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1859624335106383,
+      "median_impact": 0.1859624335106383,
+      "mean_prompt_shift": -0.18525944703014185
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 17,
+      "token_pos": 48,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

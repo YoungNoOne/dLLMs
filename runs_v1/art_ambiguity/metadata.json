@@ -1,0 +1,36 @@
+{
+  "name": "art_ambiguity",
+  "prompt": "Explain how ambiguity in art invites deeper interpretation.",
+  "decoded": "Ambiguity in art invites deeper interpretation by presenting multiple possible meanings and interpretations. It encourages viewers to engage with the artwork on a personal level, bringing their own experiences and perspectives to the piece. This allows for a more dynamic and personal experience, as each viewer can find their own unique understanding of the artwork.",
+  "events_count": 2,
+  "max_mean_delta": 0.22098214285714285,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.22098214285714285,
+      "median_impact": 0.22098214285714285,
+      "mean_prompt_shift": -0.2625209263392857
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.20377604166666666,
+      "median_impact": 0.20377604166666666,
+      "mean_prompt_shift": 0.1919642857142857
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.20377604166666666,
+      "median_impact": 0.20377604166666666,
+      "mean_prompt_shift": 0.1919642857142857
+    }
+  ],
+  "extra": {}
+}

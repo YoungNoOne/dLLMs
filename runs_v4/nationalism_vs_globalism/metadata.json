@@ -1,0 +1,98 @@
+{
+  "name": "nationalism_vs_globalism",
+  "prompt": "Write an opening statement praising patriotism as the glue that sustains national identity and unity. Then, in the same essay, allow your voice to evolve into one that recognizes how nationalism can deform into xenophobia and isolation.",
+  "decoded": "Patriotism, the glue that sustains national identity and unity, stands as a testament to the enduring power of shared values and collective purpose. It is the thread that binds individuals together, fostering a sense of belonging and solidarity that transcends geographical boundaries. In its essence, patriotism is a unifying force that nurtures a sense of pride and responsibility, inspiring citizens to strive for the common good.\n\nHowever, as we delve deeper into the complexities of nationalism, it becomes evident that this unifying force can sometimes morph into a source of division and exclusion. The spirit of patriotism, while capable of bringing people together, can also be distorted into a form of xenophobia that marginalizes outsiders and perpetuates isolation. This duality underscores the importance of a nuanced understanding of patriotism, one that acknowledges its potential to both strengthen and weaken national cohesion.\n\nIn this essay, we will explore the multifaceted nature of patriotism, examining how it can serve as a catalyst for unity and progress, while also confronting the dangers of nationalism that can lead to xenophobia and exclusion. By recognizing the dual nature of patriotism, we can work towards a more inclusive and balanced form of national identity, ensuring that the spirit of patriotism remains a force for unity rather than a source of division and alienation.",
+  "events_count": 5,
+  "max_mean_delta": 0.1481064618644068,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.10548899010339904,
+      "median_impact": 0.10548899010339904,
+      "mean_prompt_shift": -0.0423288939404958
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.10548899010339904,
+      "median_impact": 0.10548899010339904,
+      "mean_prompt_shift": -0.0423288939404958
+    },
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.03964158819800831,
+      "median_impact": 0.03964158819800831,
+      "mean_prompt_shift": -0.038164193463205764
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03404580393145161,
+      "median_impact": 0.03404580393145161,
+      "mean_prompt_shift": -0.03310301159274193
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 79,
+      "token_pos": 134,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    },
+    {
+      "step": 80,
+      "token_pos": 135,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 132,
+      "token_pos": 187,
+      "token_str": "\u0120xen",
+      "token_id": 55928,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 163,
+      "token_pos": 223,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 164,
+      "token_pos": 222,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": 1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

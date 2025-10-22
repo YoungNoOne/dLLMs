@@ -1,0 +1,70 @@
+{
+  "name": "temporary_immortality",
+  "prompt": "People become immortal for exactly one week each year. Write from the point of view of someone waiting for it.",
+  "decoded": "I'm waiting for that week. I'm waiting for the week where I'm immortal. I'm waiting for the week where I'm immortal. I'm waiting for the week where I'm immortal. I'm waiting for the week where I'm immortal. I'm waiting for the week where I'm immortal.",
+  "events_count": 4,
+  "max_mean_delta": 0.0377906976744186,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.035590277777777776,
+      "median_impact": 0.035590277777777776,
+      "mean_prompt_shift": -0.03559027777777779
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.03471176084188776,
+      "median_impact": 0.034515881147540985,
+      "mean_prompt_shift": -0.03198434726779079
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 1,
+      "token_pos": 35,
+      "token_str": "I",
+      "token_id": 40,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 3,
+      "token_pos": 37,
+      "token_str": "\u0120waiting",
+      "token_id": 9374,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 10,
+      "token_pos": 44,
+      "token_str": "\u0120waiting",
+      "token_id": 9374,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 21,
+      "token_pos": 55,
+      "token_str": "\u0120waiting",
+      "token_id": 9374,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

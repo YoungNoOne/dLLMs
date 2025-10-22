@@ -1,0 +1,60 @@
+{
+  "name": "emotional_equation",
+  "prompt": "Someone discovers a mathematical formula that predicts heartbreak. Write their research abstract and the ethical consequences.",
+  "decoded": "The research abstract would detail the discovery of a mathematical formula that predicts heartbreak, explaining the methodology, results, and implications. The ethical consequences would include the potential misuse of the formula, such as manipulating relationships or making informed decisions, and the need for responsible use and disclosure to prevent harm to individuals and their relationships.",
+  "events_count": 3,
+  "max_mean_delta": 0.03822544642857143,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03822544642857143,
+      "median_impact": 0.03822544642857143,
+      "mean_prompt_shift": -0.0701032366071429
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.036342075892857144,
+      "median_impact": 0.036342075892857144,
+      "mean_prompt_shift": 0.01666547705564786
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 22,
+      "token_pos": 53,
+      "token_str": "\u0120implications",
+      "token_id": 17074,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 57,
+      "token_pos": 94,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 60,
+      "token_pos": 88,
+      "token_str": "\u0120individuals",
+      "token_id": 6083,
+      "direction": 1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

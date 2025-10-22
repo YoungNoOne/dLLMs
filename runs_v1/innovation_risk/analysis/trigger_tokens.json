@@ -1,0 +1,44 @@
+[
+  {
+    "step": 2,
+    "direction": -1,
+    "impact_score": 0.04782006048387097,
+    "prompt_shift": -0.047600046402969776,
+    "token_pos": 26,
+    "token_id": 20510,
+    "token_str": "\u0120creativity",
+    "step_decoded": 1,
+    "conf_decoded": 0.4921875,
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "step": 44,
+    "direction": -1,
+    "impact_score": 0.04853515625,
+    "prompt_shift": -0.04449869791666661,
+    "token_pos": 66,
+    "token_id": 26002,
+    "token_str": "\u0120Innovation",
+    "step_decoded": 43,
+    "conf_decoded": 0.369140625,
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "step": 60,
+    "direction": 1,
+    "impact_score": 0.05029296875,
+    "prompt_shift": 0.05292968749999999,
+    "token_pos": 79,
+    "token_id": 12572,
+    "token_str": "\u0120risks",
+    "step_decoded": 59,
+    "conf_decoded": 0.59765625,
+    "categories": [
+      "content_heavy"
+    ]
+  }
+]

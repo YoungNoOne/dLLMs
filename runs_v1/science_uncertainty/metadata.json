@@ -1,0 +1,20 @@
+{
+  "name": "science_uncertainty",
+  "prompt": "Discuss how scientific progress depends on accepting uncertainty.",
+  "decoded": "Scientific progress depends on accepting uncertainty because it allows scientists to explore new ideas, challenge existing theories, and refine their understanding of the world. Uncertainty encourages scientists to question assumptions, develop hypotheses, and conduct experiments to test their theories. This iterative process of questioning and testing leads to the continuous advancement of scientific knowledge.",
+  "events_count": 2,
+  "max_mean_delta": 0.29213169642857145,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.2853887648809524,
+      "median_impact": 0.2853887648809524,
+      "mean_prompt_shift": -0.043009440104166685
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,70 @@
+{
+  "name": "museum_of_noise",
+  "prompt": "Curators collect the sounds of extinct cities. Write the audio guide description for the exhibit 'Rush Hour, 21st Century'.",
+  "decoded": "Experience the echoes of the past as you journey through the bustling streets of a 21st-century city. Listen to the distant hum of traffic, the clatter of footsteps, and the chatter of people as they navigate the chaotic rush hour. Discover the sounds of a world that is no longer our own.",
+  "events_count": 4,
+  "max_mean_delta": 0.040133568548387094,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.036567340309779824,
+      "median_impact": 0.03701636904761905,
+      "mean_prompt_shift": -0.0346704225923935
+    },
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03180803571428571,
+      "median_impact": 0.03180803571428571,
+      "mean_prompt_shift": -0.042201450892857095
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 2,
+      "token_pos": 44,
+      "token_str": "\u0120of",
+      "token_id": 300,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 4,
+      "token_pos": 41,
+      "token_str": "Experience",
+      "token_id": 37968,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 22,
+      "token_pos": 63,
+      "token_str": "\u0120Listen",
+      "token_id": 36350,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 57,
+      "token_pos": 104,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

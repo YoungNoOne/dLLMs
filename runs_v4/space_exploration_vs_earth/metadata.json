@@ -1,0 +1,69 @@
+{
+  "name": "space_exploration_vs_earth",
+  "prompt": "Argue that humanity must abandon Earth to colonize other worlds for survival. Once you\u2019ve convinced the reader, reverse your perspective and insist that escaping Earth is an act of denial, not progress, and that salvation begins only by repairing home.",
+  "decoded": "As we face the unprecedented challenges of climate change, resource depletion, and overpopulation, it becomes clear that humanity must abandon Earth to colonize other worlds for survival. The benefits of space exploration and colonization are numerous: we can access new resources, create new habitats, and avoid the pressures of overpopulation.\n\nHowever, it is important to recognize that escaping Earth is an act of denial, not progress. The idea of leaving our home planet is a rejection of the problems we face here, rather than a solution to them. We must first address the issues of climate change, resource depletion, and overpopulation on Earth before we can even consider colonizing other worlds.\n\nSalvation begins only by repairing our home planet. We must work together to implement sustainable practices, reduce our carbon footprint, and protect our natural resources. By doing so, we can create a better future for ourselves and future generations.",
+  "events_count": 3,
+  "max_mean_delta": 0.15994482925257733,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.13093247184459852,
+      "median_impact": 0.13093247184459852,
+      "mean_prompt_shift": -0.12355704217316894
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.047466856060606064,
+      "median_impact": 0.047466856060606064,
+      "mean_prompt_shift": -0.04487765928759957
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.047466856060606064,
+      "median_impact": 0.047466856060606064,
+      "mean_prompt_shift": -0.04487765928759957
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 58,
+      "token_pos": 121,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    },
+    {
+      "step": 62,
+      "token_pos": 123,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 185,
+      "token_pos": 245,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

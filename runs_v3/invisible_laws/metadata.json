@@ -1,0 +1,50 @@
+{
+  "name": "invisible_laws",
+  "prompt": "List three invisible rules that govern modern life but are never written anywhere.",
+  "decoded": "1. Honesty is expected and valued in all interactions.\n2. Respect for others is expected and valued in all interactions.\n3. Fairness is expected and valued in all interactions.",
+  "events_count": 2,
+  "max_mean_delta": 0.24190848214285715,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.24190848214285715,
+      "median_impact": 0.24190848214285715,
+      "mean_prompt_shift": -0.2383290816326531
+    },
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1287109375,
+      "median_impact": 0.1287109375,
+      "mean_prompt_shift": -0.122734375
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 15,
+      "token_pos": 39,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 39,
+      "token_pos": 66,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

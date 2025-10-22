@@ -1,0 +1,59 @@
+{
+  "name": "library_of_endings",
+  "prompt": "Every story ever told has an alternate ending, hidden somewhere in this infinite library. You\u2019re searching for the one that rewrites your own life.",
+  "decoded": "Ah, the allure of alternate endings. It's like a treasure hunt, but instead of gold, you're searching for the key to a different reality. How do you think you'll find it? Will you read every single story, or will you look for clues that might lead you to the hidden ending?",
+  "events_count": 2,
+  "max_mean_delta": 0.25013950892857145,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.25013950892857145,
+      "median_impact": 0.25013950892857145,
+      "mean_prompt_shift": -0.2827845982142857
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2390625,
+      "median_impact": 0.2390625,
+      "mean_prompt_shift": 0.23789062500000002
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2390625,
+      "median_impact": 0.2390625,
+      "mean_prompt_shift": 0.23789062500000002
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 105,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 59,
+      "token_pos": 103,
+      "token_str": "?",
+      "token_id": 30,
+      "direction": 1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

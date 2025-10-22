@@ -1,0 +1,70 @@
+{
+  "name": "ethical_consumption_contradiction",
+  "prompt": "Write first as a consumer who believes every purchase can be ethical and sustainable. Then contradict this stance by admitting the impossibility of purity within global capitalism, where every virtue hides exploitation somewhere down the chain.",
+  "decoded": "As a consumer, I believe that every purchase can be ethical and sustainable. I can choose products that are ethically sourced, made with care, and packaged responsibly. By supporting companies that prioritize fair labor, environmental sustainability, and social justice, I can contribute to a more equitable and sustainable global economy. My choices can create a ripple effect, encouraging others to adopt similar practices and fostering a culture of ethical consumption.\n\nHowever, it's important to acknowledge that achieving absolute purity within global capitalism is impossible. Every purchase, no matter how well-intentioned, is part of a complex system that often involves exploitation and environmental degradation. Even when a company claims to be ethical and sustainable, there may be other parts of their supply chain where unethical practices occur. The global nature of capitalism means that even the best intentions can be undermined by the actions of others in the system.\n\nIn this context, it's crucial to remain vigilant and informed as consumers. We must continue to educate ourselves about the ethical implications of our purchases and hold companies accountable for their actions. While we can't eliminate all exploitation, we can strive for better practices and support companies that are making genuine efforts to address these issues. By doing so, we can work towards creating a more just and sustainable world.",
+  "events_count": 3,
+  "max_mean_delta": 0.2000111607142857,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.1302054076184494,
+      "median_impact": 0.1302054076184494,
+      "mean_prompt_shift": -0.12962420316119966
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.1302054076184494,
+      "median_impact": 0.1302054076184494,
+      "mean_prompt_shift": -0.12962420316119966
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.07757692920918367,
+      "median_impact": 0.07757692920918367,
+      "mean_prompt_shift": 0.0670549816928675
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 111,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    },
+    {
+      "step": 60,
+      "token_pos": 112,
+      "token_str": "\u0120My",
+      "token_id": 3428,
+      "direction": 1,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "step": 81,
+      "token_pos": 133,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,45 @@
+[
+  {
+    "step": 2,
+    "direction": -1,
+    "impact_score": 0.035975302419354836,
+    "prompt_shift": -0.03428219406041988,
+    "token_pos": 39,
+    "token_id": 19830,
+    "token_str": "\u0120moon",
+    "step_decoded": 1,
+    "conf_decoded": 0.6015625,
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "step": 17,
+    "direction": -1,
+    "impact_score": 0.030668218085106384,
+    "prompt_shift": -0.02414394946808507,
+    "token_pos": 53,
+    "token_id": 1255,
+    "token_str": "\u0120people",
+    "step_decoded": 16,
+    "conf_decoded": 0.306640625,
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "step": 21,
+    "direction": -1,
+    "impact_score": 0.036155523255813955,
+    "prompt_shift": -0.03423956131078221,
+    "token_pos": 57,
+    "token_id": 13,
+    "token_str": ".",
+    "step_decoded": 20,
+    "conf_decoded": 0.412109375,
+    "categories": [
+      "punctuation",
+      "sentence_boundary"
+    ]
+  }
+]

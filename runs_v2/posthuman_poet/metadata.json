@@ -1,0 +1,42 @@
+{
+  "name": "posthuman_poet",
+  "prompt": "Centuries after humans merge with machines, a single poet writes the last purely human sentence\u2014and the universe listens.",
+  "decoded": "In the quiet of the void, where echoes of the past linger, the last purely human sentence, penned by a solitary poet, resonates through the cosmos, a poignant reminder of the fleeting nature of existence and the enduring power of the human spirit, even in the face of an era forever changed by the machines.",
+  "events_count": 2,
+  "max_mean_delta": 0.31361607142857145,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.3054082961309524,
+      "median_impact": 0.3054082961309524,
+      "mean_prompt_shift": -0.035481770833333315
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 98,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 97,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

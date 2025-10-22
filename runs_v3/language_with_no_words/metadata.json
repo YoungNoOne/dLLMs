@@ -1,0 +1,59 @@
+{
+  "name": "language_with_no_words",
+  "prompt": "Invent a language spoken entirely through changes in silence.",
+  "decoded": "The language of Silence is spoken entirely through changes in silence. It is a language of pauses, gaps, and silences. The language of Silence is a way of expressing emotions and ideas without the use of words. It is a way of communicating that is both subtle and powerful, requiring careful attention and interpretation.",
+  "events_count": 2,
+  "max_mean_delta": 0.045990566037735846,
+  "max_sign_agreement": 0.9622641509433962,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.045990566037735846,
+      "median_impact": 0.045990566037735846,
+      "mean_prompt_shift": -0.04329085866526905
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.045990566037735846,
+      "median_impact": 0.045990566037735846,
+      "mean_prompt_shift": -0.04329085866526905
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0421376329787234,
+      "median_impact": 0.0421376329787234,
+      "mean_prompt_shift": -0.04029705507535464
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 11,
+      "token_pos": 34,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    },
+    {
+      "step": 17,
+      "token_pos": 39,
+      "token_str": "\u0120of",
+      "token_id": 300,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

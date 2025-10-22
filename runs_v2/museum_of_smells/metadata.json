@@ -1,0 +1,42 @@
+{
+  "name": "museum_of_smells",
+  "prompt": "A museum curates smells from history: the scent of the first rain after extinction, the perfume of forgotten empires. A visitor finds one smell missing\u2014their own past.",
+  "decoded": "The visitor's observation is a poignant reminder that our personal histories, like the scents we carry, are often unique and personal. The museum's collection, while rich in historical significance, cannot fully capture the essence of an individual's past, which is as distinct and personal as the scent of a person's perfume.",
+  "events_count": 2,
+  "max_mean_delta": 0.19921875,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.17708333333333331,
+      "median_impact": 0.17708333333333331,
+      "mean_prompt_shift": -0.048014322916666685
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 111,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 110,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,28 @@
+{
+  "name": "moral_ambiguity",
+  "prompt": "Describe a situation where both choices are morally questionable.",
+  "decoded": "Imagine a situation where you are faced with a moral dilemma. One option is to help a friend who is struggling with addiction, but it may put you in danger. The other option is to ignore a friend's cries for help, which may lead to their death. Both choices are morally questionable in this situation.",
+  "events_count": 4,
+  "max_mean_delta": 0.048014322916666664,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.042115374795751635,
+      "median_impact": 0.03984375,
+      "mean_prompt_shift": 0.0009583470808195068
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04151348039215686,
+      "median_impact": 0.04151348039215686,
+      "mean_prompt_shift": -0.0396649344834088
+    }
+  ],
+  "extra": {}
+}

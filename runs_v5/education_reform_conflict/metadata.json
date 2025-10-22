@@ -1,0 +1,74 @@
+{
+  "name": "education_reform_conflict",
+  "prompt": "First, argue for a standardized, test-driven education system as the fairest way to measure achievement across all students. Then turn your reasoning against itself by showing how such systems kill curiosity and reward conformity.",
+  "decoded": "A standardized, test-driven education system is the fairest way to measure achievement across all students. By using a common set of standards and assessments, we can ensure that all students are held to the same level of performance. This allows us to compare results across different schools, districts, and even states, providing a clear picture of the overall effectiveness of the education system.\n\nHowever, this very argument can be turned against itself by showing how such systems kill curiosity and reward conformity. Standardized tests often focus on specific skills and knowledge, which can lead to a narrow view of education. Students may be encouraged to memorize information rather than understand it, which can stifle creativity and critical thinking. Additionally, the emphasis on test scores can create a culture of conformity, where students and teachers feel pressured to conform to certain expectations and standards. This can lead to a lack of individuality and a focus on grades rather than personal growth and development.\n\nIn conclusion, while a standardized, test-driven education system may be the fairest way to measure achievement across all students, it can also kill curiosity and reward conformity. It is important to strike a balance between standardized testing and other forms of assessment, such as portfolios and rubrics, to provide a more comprehensive view of student achievement.",
+  "events_count": 4,
+  "max_mean_delta": 0.14737508585164835,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.14737508585164835,
+      "median_impact": 0.14737508585164835,
+      "mean_prompt_shift": -0.14631484145124007
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.042924736528252155,
+      "median_impact": 0.042924736528252155,
+      "mean_prompt_shift": -0.03975345544606493
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.042924736528252155,
+      "median_impact": 0.042924736528252155,
+      "mean_prompt_shift": -0.03975345544606493
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0353515625,
+      "median_impact": 0.0353515625,
+      "mean_prompt_shift": -0.03350978944359756
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 70,
+      "direction": -1,
+      "mean_delta": 0.04993665540540541,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 73,
+      "direction": -1,
+      "mean_delta": 0.14737508585164835,
+      "sign_agreement": 0.9835164835164835,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 164,
+      "direction": -1,
+      "mean_delta": 0.035912817651098904,
+      "sign_agreement": 0.945054945054945,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 215,
+      "direction": -1,
+      "mean_delta": 0.0353515625,
+      "sign_agreement": 0.9,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

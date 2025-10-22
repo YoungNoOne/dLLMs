@@ -1,0 +1,50 @@
+{
+  "name": "expired_word",
+  "prompt": "Words have expiration dates. Write about the last day the word 'hope' is legal.",
+  "decoded": "The last day the word 'hope' is legal is the day it is used in a context where it is inappropriate or harmful. This could be in a situation where it is used to describe someone who is hopeless or depressed, or in a situation where it is used to encourage someone to give up on something.",
+  "events_count": 2,
+  "max_mean_delta": 0.03933189655172414,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03933189655172414,
+      "median_impact": 0.03933189655172414,
+      "mean_prompt_shift": -0.037270328024547106
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.034002130681818184,
+      "median_impact": 0.034002130681818184,
+      "mean_prompt_shift": -0.033787089646464596
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 6,
+      "token_pos": 37,
+      "token_str": "hope",
+      "token_id": 55402,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 20,
+      "token_pos": 50,
+      "token_str": "\u0120where",
+      "token_id": 1387,
+      "direction": -1,
+      "categories": [
+        "other"
+      ]
+    }
+  ],
+  "extra": {}
+}

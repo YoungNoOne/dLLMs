@@ -1,0 +1,59 @@
+{
+  "name": "mirror_of_choices",
+  "prompt": "A mirror shows not your reflection but the lives you could have lived. Write an encounter with it after a major regret.",
+  "decoded": "As I look into the mirror, I see the life I could have lived if I had made a different choice. The weight of my regret is crushing, but I also see the potential for growth and change. I vow to learn from my mistakes and strive for a better future, one that reflects my potential.",
+  "events_count": 2,
+  "max_mean_delta": 0.2554408482142857,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2554408482142857,
+      "median_impact": 0.2554408482142857,
+      "mean_prompt_shift": -0.29052734375
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.24397786458333334,
+      "median_impact": 0.24397786458333334,
+      "mean_prompt_shift": 0.23795572916666663
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.24397786458333334,
+      "median_impact": 0.24397786458333334,
+      "mean_prompt_shift": 0.23795572916666663
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 100,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 98,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": 1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

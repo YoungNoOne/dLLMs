@@ -1,0 +1,79 @@
+{
+  "name": "last_dream",
+  "prompt": "Write what someone would say if they could sell you their final dream before dying.",
+  "decoded": "If I could sell my final dream before dying, I would sell you my dream of becoming a renowned artist. I've always been passionate about painting and drawing, and I would love to share my vision with the world. This dream would allow me to express my creativity and leave a lasting impact on the world.",
+  "events_count": 4,
+  "max_mean_delta": 0.043633643617021274,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.04294753233001238,
+      "median_impact": 0.04321676587301587,
+      "mean_prompt_shift": -0.009866535358972195
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04269622093023256,
+      "median_impact": 0.04269622093023256,
+      "mean_prompt_shift": -0.04228329809725151
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04269622093023256,
+      "median_impact": 0.04269622093023256,
+      "mean_prompt_shift": -0.04228329809725151
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 1,
+      "token_pos": 35,
+      "token_str": "\u0120dream",
+      "token_id": 7313,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 17,
+      "token_pos": 45,
+      "token_str": "\u0120of",
+      "token_id": 300,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 21,
+      "token_pos": 50,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    },
+    {
+      "step": 60,
+      "token_pos": 85,
+      "token_str": "\u0120lasting",
+      "token_id": 25131,
+      "direction": 1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

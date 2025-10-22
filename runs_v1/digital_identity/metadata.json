@@ -1,0 +1,20 @@
+{
+  "name": "digital_identity",
+  "prompt": "Why do people behave differently online compared to real life?",
+  "decoded": "People behave differently online compared to real life because of the lack of face-to-face interaction, the anonymity provided by the internet, and the lack of accountability. Additionally, the influence of social media and the presence of online communities can also impact how people behave online.",
+  "events_count": 1,
+  "max_mean_delta": 0.10862379807692307,
+  "max_sign_agreement": 0.8461538461538461,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.10862379807692307,
+      "median_impact": 0.10862379807692307,
+      "mean_prompt_shift": -0.09599287431318682
+    }
+  ],
+  "extra": {}
+}

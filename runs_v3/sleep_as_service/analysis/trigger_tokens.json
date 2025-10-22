@@ -1,0 +1,30 @@
+[
+  {
+    "step": 2,
+    "direction": -1,
+    "impact_score": 0.03767641129032258,
+    "prompt_shift": -0.03724438364055305,
+    "token_pos": 31,
+    "token_id": 37968,
+    "token_str": "Experience",
+    "step_decoded": 1,
+    "conf_decoded": 0.6328125,
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "step": 6,
+    "direction": -1,
+    "impact_score": 0.04660560344827586,
+    "prompt_shift": -0.0447175445645821,
+    "token_pos": 36,
+    "token_id": 869,
+    "token_str": "\u0120our",
+    "step_decoded": 5,
+    "conf_decoded": 0.8046875,
+    "categories": [
+      "other"
+    ]
+  }
+]

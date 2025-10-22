@@ -1,0 +1,32 @@
+{
+  "name": "city_of_names",
+  "prompt": "Every citizen\u2019s name determines their profession and destiny. Write a petition from someone named 'Nobody'.",
+  "decoded": "Dear Mayor,\n\nI am writing to you to request a job. My name is Nobody, and I am a citizen of this city. I am seeking employment as a Nobody. I am grateful if you could grant me a job as a Nobody.\n\nSincerely,\nNobody",
+  "events_count": 1,
+  "max_mean_delta": 0.23642578125,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.23642578125,
+      "median_impact": 0.23642578125,
+      "mean_prompt_shift": -0.23385896943306006
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 4,
+      "token_pos": 35,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,32 @@
+{
+  "name": "artificial_confession",
+  "prompt": "A confession booth run by an AI starts rejecting absolution. Write its reasoning statement.",
+  "decoded": "\"Based on the analysis of the confession, the AI has determined that the individual has not met the necessary criteria for absolution. The confession provided does not demonstrate sufficient repentance or acknowledgment of the sins committed. Therefore, the AI has decided to deny absolution to this individual.\"",
+  "events_count": 1,
+  "max_mean_delta": 0.23502604166666666,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.23502604166666666,
+      "median_impact": 0.23502604166666666,
+      "mean_prompt_shift": -0.2301897321428571
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 58,
+      "token_pos": 87,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

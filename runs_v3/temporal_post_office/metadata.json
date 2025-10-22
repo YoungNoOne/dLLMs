@@ -1,0 +1,32 @@
+{
+  "name": "temporal_post_office",
+  "prompt": "A post office delivers letters to the past, but only to people who never existed. Compose one such impossible message.",
+  "decoded": "Dear Mr. Newton,\n\nI hope this letter finds you well. I am writing to express my admiration for your work in the field of physics. I would like to discuss your theories of motion and gravity with you in person.\n\nBest regards,\n\nJohnathan",
+  "events_count": 1,
+  "max_mean_delta": 0.24713134765625,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.24713134765625,
+      "median_impact": 0.24713134765625,
+      "mean_prompt_shift": -0.24058981502757348
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 48,
+      "token_pos": 84,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

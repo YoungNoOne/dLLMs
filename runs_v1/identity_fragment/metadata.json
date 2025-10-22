@@ -1,0 +1,36 @@
+{
+  "name": "identity_fragment",
+  "prompt": "Describe how people form multiple identities in different social contexts.",
+  "decoded": "People form multiple identities in different social contexts by aligning their beliefs, values, and behaviors with the expectations and norms of each context. This can involve adopting different roles, language, and attitudes depending on the situation. By doing so, individuals can navigate various social environments and maintain their sense of self in each context.",
+  "events_count": 2,
+  "max_mean_delta": 0.0578125,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0578125,
+      "median_impact": 0.0578125,
+      "mean_prompt_shift": -0.05686003449675325
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.047453703703703706,
+      "median_impact": 0.047453703703703706,
+      "mean_prompt_shift": -0.04681318392255884
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.047453703703703706,
+      "median_impact": 0.047453703703703706,
+      "mean_prompt_shift": -0.04681318392255884
+    }
+  ],
+  "extra": {}
+}

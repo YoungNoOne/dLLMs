@@ -1,0 +1,70 @@
+{
+  "name": "free_will_vs_determinism",
+  "prompt": "Present the view that every human action is predetermined by biology and circumstance. Once that position seems airtight, refute it passionately from the standpoint of someone who insists on the radical freedom of individual choice.",
+  "decoded": "The view that every human action is predetermined by biology and circumstance is a deterministic perspective that suggests that our choices are entirely determined by our genetic makeup, upbringing, and external circumstances. This view argues that our actions are the result of a chain of cause-and-effect relationships, and that we have no control over our decisions.\n\nHowever, from the standpoint of someone who insists on the radical freedom of individual choice, this view is fundamentally flawed. Even if we accept that our actions are influenced by our biology and circumstance, we still have the power to make choices that shape our lives. We have the ability to reflect on our circumstances and make decisions that align with our values and goals.\n\nFor example, even if we have a genetic predisposition to certain behaviors, we can still choose to act in ways that are consistent with our values and goals. Similarly, even if we are raised in a certain environment, we can still choose to make decisions that align with our values and goals.\n\nIn conclusion, the view that every human action is predetermined by biology and circumstance is fundamentally flawed because it denies the radical freedom of individual choice. We have the power to make choices that shape our lives, and we can choose to make decisions that align with our values and goals.",
+  "events_count": 3,
+  "max_mean_delta": 0.15939220369170984,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.15939220369170984,
+      "median_impact": 0.15939220369170984,
+      "mean_prompt_shift": -0.15950409550104155
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.044619387740159326,
+      "median_impact": 0.044619387740159326,
+      "mean_prompt_shift": -0.0435007981068784
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.044619387740159326,
+      "median_impact": 0.044619387740159326,
+      "mean_prompt_shift": -0.0435007981068784
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 62,
+      "token_pos": 113,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    },
+    {
+      "step": 63,
+      "token_pos": 114,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 135,
+      "token_pos": 186,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

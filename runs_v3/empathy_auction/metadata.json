@@ -1,0 +1,42 @@
+{
+  "name": "empathy_auction",
+  "prompt": "At a futuristic charity gala, empathy is auctioned to the highest bidder. Write the auctioneer\u2019s dramatic closing speech.",
+  "decoded": "Ladies and gentlemen, the auction of empathy has come to an end. The highest bidder has claimed this invaluable gift, and we now celebrate the triumph of compassion and understanding. Let us all remember that empathy is the key to unlocking a world of harmony and unity. Thank you for your participation in this extraordinary event.",
+  "events_count": 2,
+  "max_mean_delta": 0.2816685267857143,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.26428803943452384,
+      "median_impact": 0.26428803943452384,
+      "mean_prompt_shift": -0.041748046875
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 100,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 99,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

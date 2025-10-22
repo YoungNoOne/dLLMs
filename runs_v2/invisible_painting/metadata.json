@@ -1,0 +1,62 @@
+{
+  "name": "invisible_painting",
+  "prompt": "An artist unveils a painting invisible to most people. Those who can see it vanish one by one, drawn into the artwork\u2019s hidden world.",
+  "decoded": "That sounds like a mysterious and intriguing scenario. Do you think the artist's intention was to create a piece that would captivate and enchant those who could see it, or was it something more sinister? Additionally, what do you think the hidden world within the painting looks like, and what secrets might it hold?",
+  "events_count": 4,
+  "max_mean_delta": 0.038008432539682536,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.03568619016617063,
+      "median_impact": 0.0357666015625,
+      "mean_prompt_shift": -0.032905781898834086
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 1,
+      "token_pos": 43,
+      "token_str": "\u0120sounds",
+      "token_id": 10277,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 8,
+      "token_pos": 49,
+      "token_str": "\u0120scenario",
+      "token_id": 16211,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 48,
+      "token_pos": 89,
+      "token_str": "\u0120hidden",
+      "token_id": 11797,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 60,
+      "token_pos": 98,
+      "token_str": "\u0120what",
+      "token_id": 1053,
+      "direction": -1,
+      "categories": [
+        "content_heavy"
+      ]
+    }
+  ],
+  "extra": {}
+}

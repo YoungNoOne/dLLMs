@@ -1,0 +1,59 @@
+{
+  "name": "unexpected_rules",
+  "prompt": "Write a short paragraph about a rule everyone follows without really knowing why.",
+  "decoded": "One rule everyone follows without really knowing why is the concept of \" politeness.\" We all try to be polite to others, but we often don't understand why it's important. Politeness is a way of showing respect and consideration for others, and it's a key part of building strong and positive relationships.",
+  "events_count": 2,
+  "max_mean_delta": 0.2841796875,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2841796875,
+      "median_impact": 0.2841796875,
+      "mean_prompt_shift": -0.31982421875
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.28173828125,
+      "median_impact": 0.28173828125,
+      "mean_prompt_shift": 0.2724609375
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.28173828125,
+      "median_impact": 0.28173828125,
+      "mean_prompt_shift": 0.2724609375
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 90,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 88,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": 1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    }
+  ],
+  "extra": {}
+}

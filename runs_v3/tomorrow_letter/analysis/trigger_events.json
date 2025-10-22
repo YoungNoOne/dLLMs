@@ -1,0 +1,29 @@
+[
+  {
+    "step": 5,
+    "direction": -1,
+    "mean_delta": 0.2943922139830508,
+    "median_delta": 0.29296875,
+    "sign_agreement": 1.0,
+    "valid_positions": 59,
+    "prompt_mean": 0.5953720868644068
+  },
+  {
+    "step": 7,
+    "direction": 1,
+    "mean_delta": 0.22923519736842105,
+    "median_delta": 0.23046875,
+    "sign_agreement": 1.0,
+    "valid_positions": 57,
+    "prompt_mean": 0.8132538377192983
+  },
+  {
+    "step": 28,
+    "direction": -1,
+    "mean_delta": 0.1723090277777778,
+    "median_delta": 0.1767578125,
+    "sign_agreement": 1.0,
+    "valid_positions": 36,
+    "prompt_mean": 0.4998914930555556
+  }
+]

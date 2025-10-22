@@ -1,0 +1,88 @@
+{
+  "name": "justice_vs_mercy",
+  "prompt": "Argue first that justice must be blind and impartial to emotion. Then concede that mercy\u2014precisely because it sees\u2014rescues justice from cruelty disguised as fairness.",
+  "decoded": "Justice must be blind and impartial to emotion because it is a system of rules and principles designed to ensure that everyone is treated equally and without bias. Emotions, whether positive or negative, can lead to biases and prejudices that can compromise the fairness and impartiality of justice. By being impartial, justice aims to provide a level playing field for all individuals, regardless of their personal feelings or circumstances.\n\nHowever, it is important to acknowledge that justice, despite its blind and impartial nature, can sometimes result in harsh outcomes that may not be just or humane. In such cases, mercy can play a crucial role in rescuing justice from the potential for cruelty disguised as fairness. Mercy, precisely because it sees and understands the emotional and psychological states of individuals, can provide a more compassionate and empathetic approach to justice.\n\nBy recognizing the emotional impact of a situation, mercy can help to mitigate the harshness of justice and provide a more balanced and humane response. This can include offering alternative solutions, such as rehabilitation, counseling, or restorative justice programs, that address the root causes of the behavior rather than simply punishing the individual. Thus, while justice must remain blind and impartial, mercy can serve as a guiding principle to ensure that justice is administered in a compassionate and just manner.",
+  "events_count": 4,
+  "max_mean_delta": 0.23572591145833333,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.17890778091481024,
+      "median_impact": 0.17890778091481024,
+      "mean_prompt_shift": -0.17781249607949742
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.17890778091481024,
+      "median_impact": 0.17890778091481024,
+      "mean_prompt_shift": -0.17781249607949742
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.11010377798507463,
+      "median_impact": 0.11010377798507463,
+      "mean_prompt_shift": 0.11091495839182797
+    },
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.053773271276595744,
+      "median_impact": 0.053773271276595744,
+      "mean_prompt_shift": 0.04974858710106386
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 54,
+      "token_pos": 99,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    },
+    {
+      "step": 55,
+      "token_pos": 100,
+      "token_str": "\u0120By",
+      "token_id": 3893,
+      "direction": 1,
+      "categories": [
+        "content_heavy"
+      ]
+    },
+    {
+      "step": 76,
+      "token_pos": 123,
+      "token_str": ".",
+      "token_id": 13,
+      "direction": -1,
+      "categories": [
+        "punctuation",
+        "sentence_boundary"
+      ]
+    },
+    {
+      "step": 162,
+      "token_pos": 207,
+      "token_str": "\u010a",
+      "token_id": 198,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

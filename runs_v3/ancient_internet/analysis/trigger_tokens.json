@@ -1,0 +1,30 @@
+[
+  {
+    "step": 8,
+    "direction": -1,
+    "impact_score": 0.0498046875,
+    "prompt_shift": -0.0468260494987468,
+    "token_pos": 34,
+    "token_id": 1435,
+    "token_str": "\u0120such",
+    "step_decoded": 7,
+    "conf_decoded": 0.19921875,
+    "categories": [
+      "content_heavy"
+    ]
+  },
+  {
+    "step": 17,
+    "direction": -1,
+    "impact_score": 0.0672373670212766,
+    "prompt_shift": -0.060931266622340385,
+    "token_pos": 43,
+    "token_id": 2240,
+    "token_str": "\u0120They",
+    "step_decoded": 16,
+    "conf_decoded": 0.9140625,
+    "categories": [
+      "other"
+    ]
+  }
+]

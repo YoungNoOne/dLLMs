@@ -1,0 +1,62 @@
+{
+  "name": "disappearing_city",
+  "prompt": "A city slowly fades from reality every time someone forgets its name. Write an emergency broadcast urging people to remember.",
+  "decoded": "Attention all citizens, this is an emergency broadcast. Our city is slowly fading from reality every time someone forgets its name. Please remember the name of our city, and share it with others. Together, we can save our city from fading away. Thank you for your attention.",
+  "events_count": 4,
+  "max_mean_delta": 0.19419642857142858,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.12520315987723213,
+      "median_impact": 0.10838623046875,
+      "mean_prompt_shift": -0.116729736328125
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 99,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 92,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 59,
+      "token_pos": 93,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 60,
+      "token_pos": 94,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}

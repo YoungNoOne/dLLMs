@@ -1,0 +1,42 @@
+{
+  "name": "rewritten_history",
+  "prompt": "History books begin changing overnight. Write the entry that surprises everyone.",
+  "decoded": "In 1969, the United States became the first country to successfully land a man on the moon. The Apollo 11 mission, led by Commander Neil Armstrong, marked the beginning of a new era in space exploration and set the stage for future missions to Mars and other extraterrestrial bodies.",
+  "events_count": 2,
+  "max_mean_delta": 0.28334263392857145,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.2581263950892857,
+      "median_impact": 0.2581263950892857,
+      "mean_prompt_shift": -0.059855143229166685
+    }
+  ],
+  "trigger_tokens": [
+    {
+      "step": 57,
+      "token_pos": 89,
+      "token_str": "<|endoftext|>",
+      "token_id": 126081,
+      "direction": -1,
+      "categories": [
+        "special_token"
+      ]
+    },
+    {
+      "step": 58,
+      "token_pos": 88,
+      "token_str": "<|eot_id|>",
+      "token_id": 126348,
+      "direction": 1,
+      "categories": [
+        "special_token"
+      ]
+    }
+  ],
+  "extra": {}
+}
