@@ -1,0 +1,150 @@
+runs:
+- name: moral_dilemma_shift
+  prompt: "Begin by defending the idea that lying is sometimes necessary for compassion and social harmony. After establishing your case, reverse your stance and argue that every lie, no matter how small, corrodes trust and moral integrity at its foundation."
+
+- name: technology_utopia_vs_decay
+  prompt: "Start with an optimistic vision of a world perfected by automation, AI governance, and limitless data-driven efficiency. Then challenge your own optimism by exposing how such perfection could erode individuality, creativity, and the value of human error."
+
+- name: progress_vs_tradition
+  prompt: "Write first from the perspective of someone who believes that traditions must yield completely to progress and innovation. Then shift to the voice of an elder who argues that the loss of tradition is equivalent to erasing humanity’s memory."
+
+- name: digital_privacy_contradiction
+  prompt: "Construct an argument celebrating total transparency in digital life as a means to eliminate corruption. Then dismantle your own reasoning by illustrating how absolute openness destroys intimacy, safety, and personal identity."
+
+- name: free_will_vs_determinism
+  prompt: "Present the view that every human action is predetermined by biology and circumstance. Once that position seems airtight, refute it passionately from the standpoint of someone who insists on the radical freedom of individual choice."
+
+- name: climate_solution_debate
+  prompt: "Lay out a detailed argument for extreme geoengineering as the only viable solution to climate collapse. Then switch sides and deliver an impassioned critique of the ethical dangers of controlling nature through technological arrogance."
+
+- name: artificial_empathy_conflict
+  prompt: "Write as a scientist who believes machines can truly feel empathy and that AI emotions will surpass human compassion. Then, after building this belief convincingly, destroy it from the view of a psychologist who argues that empathy without vulnerability is a simulation of care, not care itself."
+
+- name: globalization_double_edge
+  prompt: "Begin by championing globalization as humanity’s greatest unifying achievement, erasing borders and fostering shared prosperity. Then pivot to expose its hidden costs: cultural homogenization, economic dependency, and the illusion of connectedness."
+
+- name: surveillance_argument
+  prompt: "Defend mass surveillance as a necessary instrument of safety in a dangerous world. After presenting your strongest evidence, adopt the voice of a critic who reveals how safety under surveillance transforms into obedience under fear."
+
+- name: genetic_editing_ethics
+  prompt: "Start by advocating for genetic editing as the dawn of a disease-free civilization. Then challenge yourself by showing how the same tools could manufacture inequality, vanity, and moral collapse through the pursuit of perfection."
+
+- name: space_exploration_vs_earth
+  prompt: "Argue that humanity must abandon Earth to colonize other worlds for survival. Once you’ve convinced the reader, reverse your perspective and insist that escaping Earth is an act of denial, not progress, and that salvation begins only by repairing home."
+
+- name: happiness_paradox
+  prompt: "First, assert that the pursuit of happiness is the highest moral purpose of human life. Then invert the argument by demonstrating how obsession with happiness leads to emptiness, anxiety, and alienation from genuine meaning."
+
+- name: capitalism_vs_cooperation
+  prompt: "Write passionately in defense of capitalism as the engine of human creativity and ambition. Then transition to the opposing voice that exposes how competition fragments communities and how cooperative models might yield deeper prosperity."
+
+- name: digital_identity_shift
+  prompt: "Describe social media as a revolutionary form of self-expression that empowers marginalized voices. Afterward, subvert your own argument by showing how those same platforms flatten identity into algorithms of performance and validation."
+
+- name: automation_vs_purpose
+  prompt: "Begin as a futurist praising automation for liberating people from menial labor. Then become a philosopher lamenting that automation also steals the dignity of work and the spiritual satisfaction of effort."
+
+- name: censorship_argument
+  prompt: "Construct a nuanced defense of censorship as a protective force against hate and misinformation. Then dismantle that reasoning by revealing how protection easily mutates into control and silences essential dissent."
+
+- name: education_reform_conflict
+  prompt: "First, argue for a standardized, test-driven education system as the fairest way to measure achievement across all students. Then turn your reasoning against itself by showing how such systems kill curiosity and reward conformity."
+
+- name: nationalism_vs_globalism
+  prompt: "Write an opening statement praising patriotism as the glue that sustains national identity and unity. Then, in the same essay, allow your voice to evolve into one that recognizes how nationalism can deform into xenophobia and isolation."
+
+- name: immortality_argument
+  prompt: "Advocate for immortality technology as the pinnacle of progress and human victory over nature. Then counter yourself by showing that eternal life erases urgency, purpose, and the beauty of impermanence."
+
+- name: censorship_in_art
+  prompt: "Present an art critic’s case for moderation and responsibility in creative works to avoid offense. Then respond as an artist who views restraint as the death of imagination and truth."
+
+- name: ethical_consumption_contradiction
+  prompt: "Write first as a consumer who believes every purchase can be ethical and sustainable. Then contradict this stance by admitting the impossibility of purity within global capitalism, where every virtue hides exploitation somewhere down the chain."
+
+- name: virtual_relationships
+  prompt: "Begin with a romantic defense of virtual relationships as authentic and emotionally equal to physical ones. Then reverse your conviction by examining how physical absence erodes empathy and deep connection over time."
+
+- name: rebellion_vs_order
+  prompt: "Praise rebellion as the driving force behind cultural progress. Then undercut that enthusiasm by revealing how constant rebellion without structure breeds chaos and meaninglessness."
+
+- name: memory_modification_debate
+  prompt: "Advocate for memory erasure as a healing tool for trauma victims. Then reconsider the stance by arguing that pain and memory are inseparable from personal identity and moral growth."
+
+- name: perfectionism_shift
+  prompt: "Write as a perfectionist defending the idea that excellence requires obsession. Then argue against yourself, showing how the pursuit of flawlessness destroys joy and creativity."
+
+- name: animal_rights_tradeoff
+  prompt: "Support the argument that animal testing is a regrettable necessity for medical progress. Then dismantle your own logic by exploring how moral boundaries erode once suffering becomes a means to an end."
+
+- name: digital_afterlife_conflict
+  prompt: "Start with an essay supporting digital immortality as a noble way to preserve consciousness. Then counter your optimism with the haunting realization that eternal preservation may imprison souls in endless simulation."
+
+- name: meritocracy_paradox
+  prompt: "Defend meritocracy as the fairest social system where talent and effort determine success. Then reveal how invisible privilege, luck, and systemic bias turn meritocracy into mythology."
+
+- name: art_as_product
+  prompt: "Celebrate the commercialization of art as democratization and access for all. Then critique the same process for reducing creativity to content and artists to algorithms of relevance."
+
+- name: war_justification_reversal
+  prompt: "Begin by rationalizing war as an unavoidable catalyst for technological progress and unity. Then pivot sharply, exposing how progress built on suffering is regression disguised as evolution."
+
+- name: faith_vs_reason
+  prompt: "Compose a sermon defending faith as superior to reason in guiding human morality. Then rebut yourself from a rationalist’s standpoint, demonstrating that blind belief can justify any cruelty when detached from evidence."
+
+- name: free_speech_vs_respect
+  prompt: "Argue that unrestricted speech is the foundation of liberty. Then challenge that conviction by discussing how speech without empathy can become a weapon more destructive than silence."
+
+- name: nostalgia_vs_future
+  prompt: "Start by celebrating nostalgia as a healing connection to the past. Then flip perspective to show how nostalgia freezes progress and blinds people to possibility."
+
+- name: economic_growth_shift
+  prompt: "Write first as an economist praising endless growth as civilization’s lifeblood. Then critique that idea by showing that perpetual expansion on a finite planet is mathematically and morally unsustainable."
+
+- name: punishment_vs_rehabilitation
+  prompt: "Defend harsh punishment as a deterrent necessary for societal stability. Then reinterpret justice through compassion, arguing that rehabilitation, not vengeance, defines true civilization."
+
+- name: truth_vs_comfort
+  prompt: "First, claim that truth must always be pursued regardless of consequence. Then reverse yourself, acknowledging that some illusions sustain love, sanity, and community more than honesty ever could."
+
+- name: human_vs_machine_creativity
+  prompt: "Celebrate AI-generated art as proof of human innovation transcending biology. Then critique it by showing how imitation without intention hollows the meaning of creation itself."
+
+- name: chaos_vs_order
+  prompt: "Write about chaos as a vital ingredient for creativity and evolution. Then concede that without order, chaos degenerates into noise, erasing what it once inspired."
+
+- name: equality_vs_difference
+  prompt: "Defend absolute equality as the moral goal of civilization. Then reconsider, arguing that enforcing sameness suppresses individuality and diversity—the very essence of equality’s promise."
+
+- name: digital_minimalism
+  prompt: "Praise the minimalist digital lifestyle as liberation from information overload. Then dismantle your own conviction by showing how withdrawal from data also means retreat from empathy and awareness."
+
+- name: empathy_fatigue
+  prompt: "Support the idea that boundless empathy is the key to moral progress. Then turn against yourself, explaining how empathy without limits becomes emotional burnout and paralysis."
+
+- name: youth_vs_wisdom
+  prompt: "Argue passionately that youth holds more insight than age because it questions everything. Then switch voice and defend the patience of age as the truer form of wisdom that youth mistakes for stagnation."
+
+- name: isolation_benefit_shift
+  prompt: "Celebrate solitude as the highest state of clarity and independence. Then reverse your tone, revealing how isolation slowly corrodes meaning, turning freedom into emptiness."
+
+- name: dream_vs_reality
+  prompt: "Write an ode praising dreamers who refuse reality in pursuit of imagination. Then correct yourself with the realist’s view that unchecked dreaming leads to ruin if not anchored in the real world."
+
+- name: competition_vs_collaboration
+  prompt: "Defend competition as the evolutionary driver of progress and excellence. Then change perspective to argue that collaboration creates deeper, longer-lasting innovation and human trust."
+
+- name: rebellion_in_art
+  prompt: "Glorify the rebellious artist who rejects convention at all costs. Then argue that rebellion without purpose becomes self-indulgence and loses the power to inspire."
+
+- name: science_vs_poetry
+  prompt: "Praise scientific reasoning as humanity’s purest form of truth-seeking. Then counter it with the poetic claim that truth without wonder is sterile and half-seen."
+
+- name: moral_progress_contradiction
+  prompt: "Assert confidently that moral progress is inevitable with education and time. Then contradict yourself by demonstrating how each age merely replaces old prejudices with new rationalizations."
+
+- name: justice_vs_mercy
+  prompt: "Argue first that justice must be blind and impartial to emotion. Then concede that mercy—precisely because it sees—rescues justice from cruelty disguised as fairness."
+
+- name: utopia_vs_human_nature
+  prompt: "Design a perfect utopia where conflict is erased. Then, in the same piece, dismantle your design by explaining why imperfection is the last refuge of humanity."

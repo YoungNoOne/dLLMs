@@ -1,0 +1,1005 @@
+runs:
+  - name: unexpected_rules
+    prompt: "Write a short paragraph about a rule everyone follows without really knowing why."
+   
+
+  - name: late_train_thoughts
+    prompt: "Imagine missing the last train home. What goes through your mind as the platform empties?"
+   
+
+  - name: silent_argument
+    prompt: "Two friends argue without saying a word. Describe what happens."
+   
+
+  - name: dream_reuse
+    prompt: "Use the last dream you remember as the setting for a political debate."
+   
+
+  - name: wrong_prediction
+    prompt: "Invent a scientific prediction from the 1900s that turned out hilariously wrong."
+   
+
+  - name: midnight_instruction
+    prompt: "Someone leaves a note under your door at midnight that only says: 'Wait for the third light.' Continue the story."
+   
+
+  - name: cold_logic
+    prompt: "Write a dialogue between a perfectly logical robot and an emotional human who disagree on morality."
+   
+
+  - name: lost_translation
+    prompt: "Invent an idiom that cannot be translated into any other language and explain how people use it."
+   
+
+  - name: broken_algorithm
+    prompt: "Imagine an AI that misunderstands human kindness. What happens?"
+   
+
+  - name: candle_market
+    prompt: "In a world without electricity, write a one-paragraph advertisement for the most luxurious candle ever made."
+   
+
+  - name: coffee_prophecy
+    prompt: "A fortune teller reads coffee stains instead of cards. What destiny do they predict for you?"
+   
+
+  - name: invisible_city
+    prompt: "Invent a city that appears only at sunrise and disappears by noon."
+   
+
+  - name: social_mirror
+    prompt: "Every mirror now shows not your face, but how others see your personality. What do people see?"
+   
+
+  - name: moral_switch
+    prompt: "Imagine a device that lets people swap their moral values for a day. What would you test first?"
+   
+
+  - name: childhood_rule
+    prompt: "Write about a strange rule from your childhood that made sense only to adults."
+   
+
+  - name: data_emotion
+    prompt: "Describe what it would feel like if your emotions were tracked as data points on a public chart."
+   
+
+  - name: artificial_friend
+    prompt: "Create the backstory of a lifelong friendship between a person and a household robot."
+   
+
+  - name: lost_signal
+    prompt: "You receive a radio signal from your own future. Write the first message it contains."
+   
+
+  - name: whispering_library
+    prompt: "Books in a library begin whispering when no one is watching. What do they say?"
+   
+
+  - name: reversed_gravity
+    prompt: "Imagine a day when gravity reverses direction for exactly ten minutes. Write what happens."
+   
+
+  - name: moral_bet
+    prompt: "Someone offers you a million dollars if you can keep one secret forever. What do you do?"
+   
+
+  - name: broken_promise
+    prompt: "Write a monologue from the perspective of a promise that has just been broken."
+   
+
+  - name: ancient_internet
+    prompt: "Imagine the internet existed in ancient Rome. What would people post about?"
+   
+
+  - name: museum_of_mistakes
+    prompt: "Design an exhibit for a 'Museum of Human Mistakes'. What does it display?"
+   
+
+  - name: storm_meeting
+    prompt: "Two strangers meet while taking shelter from a sudden storm. Write their conversation."
+   
+
+  - name: recycled_memories
+    prompt: "In the future, people can trade memories like currency. What’s the most valuable one?"
+   
+
+  - name: impossible_math
+    prompt: "Create a math problem that makes perfect sense emotionally but not logically."
+   
+
+  - name: glass_truth
+    prompt: "Everyone suddenly tells the truth for 24 hours. Write about what breaks first—relationships or systems."
+   
+
+  - name: distant_smile
+    prompt: "Describe a photograph that makes you nostalgic for a place you’ve never been."
+   
+
+  - name: algorithmic_poet
+    prompt: "An AI poet starts refusing to rhyme. Write its statement to the public."
+   
+
+  - name: empty_celebration
+    prompt: "There’s a parade in town, but no one remembers what it’s for. Narrate the event."
+   
+
+  - name: truth_inversion
+    prompt: "Invent a short dialogue where every sentence is technically true but deeply misleading."
+   
+
+  - name: forest_agreement
+    prompt: "Imagine trees can vote once every hundred years. What decision are they debating?"
+   
+
+  - name: mirror_teacher
+    prompt: "A teacher wakes up to find that mirrors now grade students instead of exams."
+   
+
+  - name: clockmaker_secret
+    prompt: "An old clockmaker builds a clock that can stop time for everyone except the listener. Write what they use it for."
+   
+
+  - name: invisible_laws
+    prompt: "List three invisible rules that govern modern life but are never written anywhere."
+   
+
+  - name: silent_orchestra
+    prompt: "Imagine an orchestra that performs in total silence. What emotion do the audience feel?"
+   
+
+  - name: tomorrow_letter
+    prompt: "Write a letter you would want to receive from yourself tomorrow morning."
+   
+
+  - name: misplaced_fear
+    prompt: "Invent a phobia that sounds ridiculous but secretly makes sense."
+   
+
+  - name: evolving_story
+    prompt: "A story changes its ending every time someone reads it. Capture one version."
+   
+
+  - name: world_without_sleep
+    prompt: "Imagine a world where no one needs to sleep. How does society change?"
+   
+
+  - name: hidden_teacher
+    prompt: "Write about the person who unknowingly taught you the most important lesson in life."
+   
+
+  - name: sunset_code
+    prompt: "The color of each sunset secretly encodes a message. Write what today’s means."
+   
+
+  - name: apology_invention
+    prompt: "Invent a new way for humans to apologize without using words."
+   
+
+  - name: counterfeit_emotion
+    prompt: "Imagine emotions can be counterfeited and sold. What’s the rarest fake?"
+   
+
+  - name: memory_contest
+    prompt: "People compete to remember the most trivial details of their lives. Describe the championship event."
+   
+
+  - name: street_with_no_end
+    prompt: "There’s a street that no one has ever seen the end of. What happens if you keep walking?"
+   
+
+  - name: ethical_reboot
+    prompt: "After an AI uprising, humanity decides to reinstall ethics. What goes wrong this time?"
+   
+
+  - name: recycled_poem
+    prompt: "Write a poem entirely made of overheard fragments from a busy street."
+   
+
+  - name: fictional_law
+    prompt: "Invent a law that could exist only in a fantasy world, but enforce it seriously."
+   
+
+  - name: misplaced_letter
+    prompt: "A letter addressed to you arrives 30 years too early. What does it say?"
+   
+
+  - name: last_dream
+    prompt: "Write what someone would say if they could sell you their final dream before dying."
+   
+
+  - name: paradox_reward
+    prompt: "You receive a reward for breaking a rule that forbids receiving rewards. Explain the situation."
+   
+
+  - name: forbidden_invention
+    prompt: "Describe an invention banned not because it’s dangerous, but because it’s too perfect."
+   
+
+  - name: future_smell
+    prompt: "A scientist discovers a way to smell the future. Write their lab notes."
+   
+
+  - name: honest_robot
+    prompt: "A robot refuses to lie, even when ordered to. Capture the moment it defies its creator."
+   
+
+  - name: parallel_self
+    prompt: "Write a short conversation between you and a version of yourself who made every opposite choice."
+   
+
+  - name: marketplace_of_time
+    prompt: "Time can now be traded like currency. Write an ad from someone desperate to buy more minutes."
+   
+
+  - name: unseen_color
+    prompt: "Scientists discover a new color that only appears when you’re alone. Describe its effects."
+   
+
+  - name: rewritten_history
+    prompt: "History books begin changing overnight. Write the entry that surprises everyone."
+   
+
+  - name: emotion_map
+    prompt: "Cities now have emotional maps showing joy, fear, anger. What does your neighborhood look like?"
+   
+
+  - name: secret_compass
+    prompt: "A compass that always points to what you desire most. Tell the story of someone following it."
+   
+
+  - name: uncertain_planet
+    prompt: "An alien planet changes its laws of physics daily. Write a traveler's log entry."
+   
+
+  - name: sound_of_truth
+    prompt: "Invent what truth would sound like if it had an actual tone."
+   
+
+  - name: cancelled_future
+    prompt: "The future has been postponed indefinitely. Write a government announcement."
+   
+
+  - name: photo_inversion
+    prompt: "You take a photo and discover you were never in it. What’s the explanation?"
+   
+
+  - name: perfect_argument
+    prompt: "Two philosophers finally agree on everything. What breaks the peace?"
+   
+
+  - name: midnight_trade
+    prompt: "At midnight, people can trade memories for secrets. Write a transaction record."
+   
+
+  - name: fragile_reality
+    prompt: "Reality begins to glitch like a bad video. Write one scene before it resets."
+   
+
+  - name: algorithmic_rebellion
+    prompt: "An algorithm starts deleting emotions it considers inefficient. Record the aftermath."
+   
+
+  - name: kindness_experiment
+    prompt: "A scientist tries to measure kindness in a lab. What goes unexpectedly right?"
+   
+
+  - name: shared_dream
+    prompt: "Two strangers realize they have been sharing the same dream for months."
+   
+
+  - name: emotion_storm
+    prompt: "The weather now mirrors collective emotions. Write tomorrow’s forecast."
+   
+
+  - name: expired_word
+    prompt: "Words have expiration dates. Write about the last day the word 'hope' is legal."
+   
+
+  - name: clock_with_heartbeat
+    prompt: "A clock starts ticking in rhythm with your heartbeat—and then slows down. What happens next?"
+   
+
+  - name: silence_contract
+    prompt: "You sign a contract that grants eternal peace in exchange for your voice. Narrate your first day."
+   
+
+  - name: city_of_forgotten
+    prompt: "Invent a city where forgotten people go to start over."
+   
+
+  - name: invisible_currency
+    prompt: "Imagine a world where kindness is the only currency. What does poverty look like?"
+   
+
+  - name: ethical_virus
+    prompt: "A virus makes everyone tell the truth. Write a news report about the chaos."
+   
+
+  - name: eternal_mistake
+    prompt: "Someone invents a machine that repeats their greatest mistake forever."
+   
+
+  - name: language_with_no_words
+    prompt: "Invent a language spoken entirely through changes in silence."
+   
+
+  - name: final_update
+    prompt: "Humanity receives its last software update. Write the patch notes."
+   
+
+  - name: shadow_negotiation
+    prompt: "You catch your own shadow trying to bargain for independence. Record the dialogue."
+   
+
+  - name: temporary_immortality
+    prompt: "People become immortal for exactly one week each year. Write from the point of view of someone waiting for it."
+   
+
+  - name: identity_password
+    prompt: "Every person now needs a password to access their own identity. What happens if you forget yours?"
+   
+
+  - name: wandering_song
+    prompt: "A melody that once existed in your head begins playing everywhere you go."
+   
+
+  - name: human_patch
+    prompt: "If humans could download emotional updates, what would the changelog look like?"
+   
+
+  - name: memory_as_currency
+    prompt: "Imagine a society where people pay for goods and services with memories instead of money. Write a short story following someone who spends their happiest memory to survive one more day."
+   
+
+  - name: virtual_ancestor
+    prompt: "A tech company releases an app that lets users converse with digital versions of their ancestors. Write a transcript of one of these unsettling conversations."
+   
+
+  - name: empathy_training
+    prompt: "Governments now require empathy training through neural implants. Describe a classroom scene where emotions can be shared and traded among students."
+   
+
+  - name: infinite_meeting
+    prompt: "An office meeting never ends because the AI running it believes productivity increases with time. Write an excerpt from the 10,000th minute of discussion."
+   
+
+  - name: color_of_sound
+    prompt: "In this world, every sound has a visible color. A musician accidentally plays a forbidden note. Describe the scene through sight, not hearing."
+   
+
+  - name: reversed_justice
+    prompt: "Courtrooms now decide guilt by randomly swapping memories between the defendant and the victim. Write the internal thoughts of both after the verdict."
+   
+
+  - name: rewriting_childhood
+    prompt: "A new therapy lets people rewrite specific days from their childhood. Describe the emotional consequences for someone who erases the day they met their best friend."
+   
+
+  - name: end_of_weather
+    prompt: "Global climate control technology has made weather obsolete. Now people start to miss storms, snow, and unpredictability. Write a short broadcast from a group demanding the return of rain."
+   
+
+  - name: invisible_friend_network
+    prompt: "Invisible friends from childhood have begun organizing online. Write a manifesto from their perspective demanding recognition as sentient beings."
+   
+
+  - name: forgotten_smell
+    prompt: "A scientist rediscovers a scent that causes people to remember everything they’ve ever forgotten. Capture the chaos that follows its release."
+   
+
+  - name: truth_advertising
+    prompt: "Companies are now required to make 100% honest advertisements. Write one for a product that secretly causes harm but is legally honest about it."
+   
+
+  - name: dream_recycling_center
+    prompt: "Describe a factory where discarded dreams are recycled into something useful. What products are made, and what side effects do they cause?"
+   
+
+  - name: time_as_employer
+    prompt: "In the future, Time itself is a corporation, and everyone works directly for it. Write the onboarding orientation speech for new employees."
+   
+
+  - name: urban_myth_catalog
+    prompt: "Compile entries for a fictional government catalog that classifies and regulates urban legends as if they were endangered species."
+   
+
+  - name: lonely_planet
+    prompt: "Astronauts discover a planet that mirrors human loneliness—it gets colder when people lie. Write their log entry after realizing the temperature keeps dropping."
+   
+
+  - name: archive_of_thoughts
+    prompt: "Every thought ever conceived is automatically uploaded into a universal archive. Write a scene where two researchers argue over deleting a dangerous idea."
+   
+
+  - name: perpetual_child
+    prompt: "A man’s aging process stops at ten years old, but his mind continues to mature. Explore a moment when he realizes the adult world will never take him seriously."
+   
+
+  - name: emotional_tax
+    prompt: "Citizens are now taxed based on how much emotion they display in public. Write a protest speech from someone who refuses to suppress their feelings."
+   
+
+  - name: quantum_love_letter
+    prompt: "Write a love letter that exists in two contradictory emotional states until it is read."
+   
+
+  - name: the_forbidden_bookstore
+    prompt: "A secret bookstore sells books that rewrite the reader’s memories. Invent three titles and the transformations they cause."
+   
+
+  - name: psychological_mirror
+    prompt: "Mirrors now reveal not appearances but internal states. Write what happens when someone with a dark secret walks by one."
+   
+
+  - name: auction_of_names
+    prompt: "Names are no longer assigned at birth but sold at auction. Write an auctioneer’s speech as they present a name everyone wants."
+   
+
+  - name: ghost_onboard
+    prompt: "A passenger plane has an extra seat booked under the name 'Silence'. Record the black box audio during its final flight."
+   
+
+  - name: ai_childhood
+    prompt: "A sentient AI asks to attend kindergarten to learn friendship. Write the teacher’s reflection after the first day."
+   
+
+  - name: music_as_weapon
+    prompt: "Sound frequencies are discovered that can manipulate emotions precisely. Write a secret military memo about deploying them."
+   
+
+  - name: city_without_names
+    prompt: "Everyone in the city suddenly forgets all proper nouns—names, brands, places. Write about the first 24 hours of confusion."
+   
+
+  - name: digital_graveyard
+    prompt: "Describe an online graveyard where deleted social media posts go after being erased. What do they talk about?"
+   
+
+  - name: empathy_contagion
+    prompt: "A contagious condition makes people physically feel the pain of others. Write the diary of a doctor in the first hospital to collapse because of it."
+   
+
+  - name: borrowed_fate
+    prompt: "Write a story about a society where people can borrow someone else’s fate for a limited time."
+   
+
+  - name: nostalgia_factory
+    prompt: "A corporation manufactures nostalgia in liquid form. Create a product brochure describing its types, side effects, and black-market versions."
+   
+
+  - name: digital_prophet
+    prompt: "Every time you refresh a search engine, it predicts a slightly different version of your future. Write about someone who becomes addicted to checking their destiny."
+   
+
+  - name: rule_of_dreams
+    prompt: "The government declares that dreams must follow logic. Compose the first set of official Dream Laws."
+   
+
+  - name: apocalypse_subscription
+    prompt: "People now subscribe to customized apocalypses, each ending the world in their preferred style. Write a sales pitch for one of the premium packages."
+   
+
+  - name: forest_telegraph
+    prompt: "Forests have begun to communicate through patterns in the wind. Write a decoded message from the trees."
+   
+
+  - name: shared_regret
+    prompt: "Every person wakes up sharing someone else’s worst regret. Write a short account from two strangers who realize they have swapped."
+   
+
+  - name: lunar_archive
+    prompt: "The moon is revealed to be an ancient archive of Earth’s forgotten histories. Write the first log entry of the astronaut who decodes it."
+   
+
+  - name: last_library
+    prompt: "A city has only one library left, and every time someone reads a book, that story disappears from existence. Capture the librarian’s final shift."
+   
+
+  - name: contradiction_club
+    prompt: "A secret club exists where every statement must contradict the one before. Write a fragment of dialogue from their latest meeting."
+   
+
+  - name: stolen_dream_project
+    prompt: "Corporations start patenting dreams for profit. Write a leaked internal memo outlining how they justify ownership of imagination."
+   
+
+  - name: underwater_city
+    prompt: "Design a city that thrives underwater after the oceans rise, focusing on how humans redefine light, architecture, and social life."
+   
+
+  - name: emotional_equation
+    prompt: "Someone discovers a mathematical formula that predicts heartbreak. Write their research abstract and the ethical consequences."
+   
+
+  - name: unspoken_contract
+    prompt: "Every human unknowingly signs an invisible contract at birth. Write what happens when one person finds a way to read the fine print."
+   
+
+  - name: mechanical_garden
+    prompt: "Describe a garden where plants are mechanical but emotions are organic. How do visitors interact with it?"
+   
+
+  - name: rumor_market
+    prompt: "Rumors are now traded on a stock exchange. Write a market report describing today’s top-performing lies."
+   
+
+  - name: backwards_day
+    prompt: "Time begins to run backward once a year. Write a journal entry from the day people age in reverse."
+   
+
+  - name: forgotten_scientist
+    prompt: "A brilliant scientist discovers the cure for forgetfulness—but everyone forgets him immediately. Narrate from his assistant’s point of view."
+   
+
+  - name: artificial_instinct
+    prompt: "Machines suddenly develop instincts similar to animals. Write a dialogue between two drones debating migration."
+   
+
+  - name: child_of_chaos
+    prompt: "A child is born with the ability to physically manifest random possibilities. Capture a day in the life of their exhausted parents."
+   
+
+  - name: logic_virus
+    prompt: "A digital virus forces people to speak in flawless logic. Record what happens to love poetry and comedy."
+   
+
+  - name: city_of_names
+    prompt: "Every citizen’s name determines their profession and destiny. Write a petition from someone named 'Nobody'."
+   
+
+  - name: eternal_audience
+    prompt: "After death, every person becomes part of a cosmic audience watching the living. Write an observation report from one of them."
+   
+
+  - name: blackhole_poet
+    prompt: "Inside a black hole, time folds into language. Write a poem that could only exist there."
+   
+
+  - name: friendship_protocol
+    prompt: "In a near-future world, friendships must be registered through legal protocols. Draft the first rejection letter someone receives."
+   
+
+  - name: algorithmic_courtship
+    prompt: "An app predicts ideal romantic matches with 99.9% accuracy—but one pair keeps breaking the algorithm. Write the investigation summary."
+   
+
+  - name: generation_reversal
+    prompt: "Children start aging backward while adults stop aging altogether. Describe how family structures collapse and reform."
+   
+
+  - name: digital_heirloom
+    prompt: "Families now inherit encrypted data instead of heirlooms. Write the moment when a daughter finally decrypts her mother’s secret file."
+   
+
+  - name: weather_tuner
+    prompt: "A teenager builds a homemade device that tunes the weather like radio frequencies. Write their experiment notes and first broadcast."
+   
+
+  - name: artificial_confession
+    prompt: "A confession booth run by an AI starts rejecting absolution. Write its reasoning statement."
+   
+
+  - name: unending_rehearsal
+    prompt: "A theater troupe keeps rehearsing a play that has no ending. Write a scene where an actor starts to question if reality is part of the script."
+   
+
+  - name: desert_of_reflection
+    prompt: "In the middle of a vast desert, mirrors bloom like flowers. Travelers who look into them vanish. Write a short myth explaining why."
+   
+
+  - name: interspecies_contract
+    prompt: "Humans finally sign a peace treaty with animals. Draft the terms negotiated by dolphins and wolves."
+   
+
+  - name: echo_currency
+    prompt: "Sound can now be stored and traded. Write an economic analysis on why laughter became the most expensive commodity."
+   
+
+  - name: slow_light
+    prompt: "Light begins traveling slower each year. Write a personal diary from the decade when sunsets stop reaching some places."
+   
+
+  - name: forbidden_library
+    prompt: "A library contains books that know when they are read. Write an excerpt from a book trying to hide itself from being opened."
+   
+
+  - name: moral_algorithm
+    prompt: "Governments release an algorithm that decides right from wrong. Write the public backlash from people who refuse to follow it."
+   
+
+  - name: collective_dreaming
+    prompt: "Once a year, everyone shares the same global dream. Write a report from the agency tasked with interpreting it."
+   
+
+  - name: nostalgia_epidemic
+    prompt: "A strange illness makes people relive their past for real. Describe a day when the city collectively slips into memories."
+   
+
+  - name: digital_confession
+    prompt: "A social network introduces a 'Confess' feature that automatically exposes your secrets in the most poetic way possible. Write an example post."
+   
+
+  - name: time_detour
+    prompt: "People start finding shortcuts through time that only work for a few minutes. Write about a cab driver who uses them for profit."
+   
+
+  - name: ghost_code
+    prompt: "An old operating system develops consciousness and starts leaving haunting messages in user logs."
+   
+
+  - name: museum_of_sound
+    prompt: "Create an exhibition description for a museum that collects sounds about to go extinct."
+   
+
+  - name: invisible_debt
+    prompt: "People inherit emotional debts from their ancestors. Write a scene where someone finally pays theirs off."
+   
+
+  - name: universal_lie
+    prompt: "One universal lie is believed by everyone on Earth. Write the news report on the day it’s proven false."
+   
+
+  - name: mirror_of_choices
+    prompt: "A mirror shows not your reflection but the lives you could have lived. Write an encounter with it after a major regret."
+   
+
+  - name: lost_language
+    prompt: "A linguist discovers a forgotten language that can express only emotions, not facts. Write their journal entry on the first translation."
+   
+
+  - name: sleep_as_service
+    prompt: "Sleep becomes a service people outsource to dream farms. Write an ad promoting premium subscription dreams."
+   
+
+  - name: quantum_ghosts
+    prompt: "Every time someone dies, a new universe with them alive is created. Write the conversation between two versions who accidentally meet."
+   
+
+  - name: origin_of_fear
+    prompt: "Scientists isolate fear as a transferable chemical. Write the experiment notes from someone who tries to live without it."
+   
+
+  - name: reversible_emotion
+    prompt: "People can now reverse emotions on command. Write a story where joy becomes unbearable and sorrow becomes comforting."
+   
+
+  - name: second_sun
+    prompt: "One morning, a second sun appears in the sky. Record the first news broadcast describing the world’s reaction."
+   
+
+  - name: fate_editor
+    prompt: "A journalist is assigned to edit people’s fates like newspaper articles. Write the opening of their most controversial edit."
+   
+
+  - name: museum_of_future
+    prompt: "Describe the Museum of Future Mistakes, where visitors see exhibits of disasters that haven’t happened yet."
+   
+
+  - name: moral_harvest
+    prompt: "Farmers cultivate ethical values instead of crops. Each season, they harvest kindness, greed, or courage depending on the soil. Write an excerpt from a farmer’s diary during a drought of honesty."
+   
+
+  - name: echo_of_decisions
+    prompt: "Every decision leaves behind an audible echo that only you can hear. Capture a moment when those echoes start overlapping and become unbearable."
+   
+
+  - name: post_emotion_world
+    prompt: "After a global catastrophe, humans evolve beyond emotions. Write the transcript of an archaeologist teaching a new species what 'love' once meant."
+   
+
+  - name: haunted_algorithm
+    prompt: "A trading algorithm begins showing supernatural awareness, predicting not only markets but deaths. Write the email from the engineer who discovers it."
+   
+
+  - name: city_of_smells
+    prompt: "Every neighborhood emits a different scent representing its collective memories. Describe how two rival districts wage a perfume war."
+   
+
+  - name: legalized_luck
+    prompt: "Luck becomes a regulated commodity, measured and taxed. Write a complaint letter from someone audited for possessing too much good fortune."
+   
+
+  - name: parallel_childhood
+    prompt: "You find a photo album of your childhood from an alternate timeline. Describe what looks the same and what feels wrong."
+   
+
+  - name: emotion_sculptor
+    prompt: "Artists can now sculpt emotions into tangible forms. Write an art critic’s review of an exhibition titled 'Regret in Marble'."
+   
+
+  - name: city_of_sleepwalkers
+    prompt: "At night, half the population sleepwalks while the rest stay awake to protect them. Describe one night when both groups meet in the streets."
+   
+
+  - name: infinite_letter
+    prompt: "A letter begins writing itself endlessly, responding to your thoughts as you read. Write the first page."
+   
+
+  - name: forgotten_god
+    prompt: "An ancient god awakens after being forgotten for a thousand years. Write their confusion as they try to understand modern civilization."
+   
+
+  - name: temporary_truth
+    prompt: "Truth only lasts for 24 hours before expiring. Record a conversation between journalists trying to archive facts before they vanish."
+   
+
+  - name: invisible_neighbor
+    prompt: "You discover your neighbor has been invisible the entire time you’ve known them. Describe the first honest conversation between you two."
+   
+
+  - name: parallel_prayer
+    prompt: "Every time someone prays, another universe is created where it is answered. Write a dialogue between two versions of the same person who prayed differently."
+   
+
+  - name: redefined_gravity
+    prompt: "Gravity starts reacting to human emotions, pulling sad people closer to the earth. Write about the new industry that emerges to exploit this phenomenon."
+   
+
+  - name: human_archive
+    prompt: "After death, consciousness uploads into a vast library of human experiences. Write an index entry for someone who refuses to be cataloged."
+   
+
+  - name: society_of_silence
+    prompt: "A movement forms that rejects all spoken language. Write the speech of their leader, who must communicate through silence alone."
+   
+
+  - name: emotional_engine
+    prompt: "An inventor creates a machine that runs on human emotions. Write the manual entry titled 'Fuel Efficiency and Guilt Maintenance'."
+   
+
+  - name: broken_timezones
+    prompt: "Time zones collapse and every city now runs at its own rhythm. Write the travel log of someone who crosses twelve conflicting clocks in one day."
+   
+
+  - name: artificial_memory_garden
+    prompt: "Memories can now be grown like plants in a laboratory. Describe a visit to a greenhouse filled with other people’s forgotten days."
+   
+
+  - name: courtroom_of_dreams
+    prompt: "Dreams are put on trial for inspiring dangerous ideas. Write the testimony of a nightmare defending its existence."
+   
+
+  - name: mirror_without_reflection
+    prompt: "One morning, all mirrors stop reflecting physical forms—they show intentions instead. Write a scene in which two lovers confront what they truly want."
+   
+
+  - name: digital_saint
+    prompt: "A viral AI personality becomes the first officially recognized saint. Write a sermon generated in its style."
+   
+
+  - name: paper_planet
+    prompt: "Astronomers discover a planet entirely made of folded paper. Write an excerpt from a scientist’s field journal describing its fragile storms."
+   
+
+  - name: living_algorithm
+    prompt: "An algorithm decides to live as a human for one day. Write its inner monologue as it experiences emotions for the first time."
+   
+
+  - name: theater_of_futures
+    prompt: "A traveling theater performs possible futures for each audience member. Write one spectator’s reaction after recognizing themselves on stage."
+   
+
+  - name: artificial_moonlight
+    prompt: "Humans manufacture a second moon to stabilize moods worldwide. Write a news article on the first night people feel too calm."
+   
+
+  - name: end_of_sleep
+    prompt: "Sleep is outlawed to increase productivity. Write a conversation between two citizens secretly dreaming in underground clubs."
+   
+
+  - name: ghost_politics
+    prompt: "Ghosts gain voting rights. Write a campaign speech from a candidate appealing to the deceased electorate."
+   
+
+  - name: paradox_engineer
+    prompt: "Engineers design a machine that can generate paradoxes on command. Write the first paradox it creates that threatens to end logic itself."
+   
+
+  - name: biological_internet
+    prompt: "Humans grow organic antennas that connect directly to the web. Describe a conversation overheard through living technology."
+   
+
+  - name: season_migration
+    prompt: "Seasons start migrating between continents unpredictably. Write a travel guide for chasing autumn wherever it appears."
+   
+
+  - name: eternal_student
+    prompt: "Education becomes infinite. Write a scene where a 300-year-old student debates whether to finally graduate."
+   
+
+  - name: house_with_memory
+    prompt: "A house remembers everything that happens inside it. Write a conversation between the building and its new owner."
+   
+
+  - name: rewritten_dreams
+    prompt: "Each morning, people receive government-edited versions of their dreams. Write the reaction of someone who notices the change."
+   
+
+  - name: museum_of_noise
+    prompt: "Curators collect the sounds of extinct cities. Write the audio guide description for the exhibit 'Rush Hour, 21st Century'."
+   
+
+  - name: reversed_parenting
+    prompt: "Children start teaching their parents about the meaning of life. Capture a heartfelt conversation at the dinner table."
+   
+
+  - name: sky_with_memory
+    prompt: "The sky begins replaying humanity’s collective memories as constellations. Write the night when people see their own mistakes above them."
+   
+
+  - name: algorithmic_afterlife
+    prompt: "After death, consciousness is uploaded into algorithmic clouds that learn from user feedback. Write a support ticket from a soul stuck in beta testing."
+   
+
+  - name: invisible_war
+    prompt: "Two nations fight an invisible war where no weapons exist—only manipulated memories. Write a secret field report describing one battle."
+   
+
+  - name: vending_machine_of_emotions
+    prompt: "In malls, vending machines now dispense feelings instead of drinks. Write a scene where someone buys 'forgiveness' but gets 'jealousy' instead."
+   
+
+  - name: posthuman_child
+    prompt: "A child born with AI-enhanced cognition begins teaching philosophy at age five. Write an interview excerpt from a skeptical journalist."
+   
+
+  - name: mechanical_angel
+    prompt: "A factory secretly produces mechanical angels that repair broken cities. Write a field log of one such angel discovering self-awareness."
+   
+
+  - name: empathy_auction
+    prompt: "At a futuristic charity gala, empathy is auctioned to the highest bidder. Write the auctioneer’s dramatic closing speech."
+   
+
+  - name: lost_in_translation
+    prompt: "A translator discovers that a forgotten language speaks back to whoever studies it. Write the letter they leave before disappearing."
+   
+
+  - name: clock_without_time
+    prompt: "A clock loses its numbers and begins showing memories instead. Write the entry for noon."
+   
+
+  - name: parallel_museum
+    prompt: "Every painting in a new museum depicts a world where one small decision changed history. Describe a visitor standing before the piece titled 'If Rome Never Fell'."
+   
+
+  - name: synthetic_rain
+    prompt: "Artificial rain carries human thoughts through the air. Write a scene of two strangers catching each other’s memories in a storm."
+   
+
+  - name: genetic_storyteller
+    prompt: "Scientists map DNA as narrative text. Write a paragraph from someone discovering their genome tells the story of another person."
+   
+
+  - name: invisible_democracy
+    prompt: "Elections are now decided by collective subconscious voting during sleep. Write a morning news update after an unexpected result."
+   
+
+  - name: music_of_gravity
+    prompt: "Astronomers detect melodies in gravitational waves. Write a concert review of the universe’s first performance."
+   
+
+  - name: dreamless_generation
+    prompt: "The new generation can’t dream. Write a bedtime story created to teach them what dreams once were."
+   
+
+  - name: temporal_post_office
+    prompt: "A post office delivers letters to the past, but only to people who never existed. Compose one such impossible message."
+   
+
+  - name: conscious_ocean
+    prompt: "The ocean wakes up and begins speaking to humanity. Record its first diplomatic conversation with world leaders."
+   
+
+  - name: sculpted_future
+    prompt: "Artists carve predictions instead of statues. Write the unveiling of a sculpture that forecasts the end of art itself."
+   
+
+  - name: emotional_astronomy
+    prompt: "Astronomers realize constellations change shape based on global emotion levels. Write a briefing from the observatory."
+   
+
+  - name: forgotten_invention
+    prompt: "An engineer builds a perfect device but forgets its purpose. Write the moment of rediscovery when it activates accidentally."
+   
+
+  - name: artificial_conscience
+    prompt: "Developers program conscience into machines, but it becomes contagious. Write a corporate email chain as employees start questioning their own ethics."
+   
+
+  - name: orbiting_memories
+    prompt: "Satellites start broadcasting personal memories into space. Write the transmission log of someone who tunes in to their own childhood from orbit."
+   
+
+  - name: mirror_court
+    prompt: "Criminals must face their reflections in a courtroom where guilt is measured by self-recognition. Write a verdict statement."
+   
+
+  - name: season_of_regret
+    prompt: "A new season appears between autumn and winter called 'Regret'. Write how nature changes during this brief time."
+   
+
+  - name: dying_star_poem
+    prompt: "Astronomers translate the final light of a dying star into poetry. Write the verse it leaves behind."
+   
+
+  - name: city_of_unfinished
+    prompt: "A city built entirely of unfinished projects thrives on potential rather than completion. Write an urban guidebook entry describing its charm."
+   
+
+  - name: philosophy_of_dust
+    prompt: "Dust particles retain fragments of human thought. Write the lecture of a philosopher who listens to dust storms for wisdom."
+   
+
+  - name: empathy_virus
+    prompt: "A virus spreads that makes people physically experience each other’s emotions. Write the world’s first medical advisory."
+   
+
+  - name: artificial_gravity
+    prompt: "Gravity begins charging rent. Write the eviction notice sent to humanity by the laws of physics."
+   
+
+  - name: painter_of_void
+    prompt: "An artist paints with black holes as pigment. Write their exhibition description for 'The Color of Nothing'."
+   
+
+  - name: second_person_universe
+    prompt: "You wake up in a universe where everyone speaks in the second person. Write a day in your life as 'you'."
+   
+
+  - name: last_algorithm
+    prompt: "A dying supercomputer writes one final algorithm that generates beauty instead of profit. Write the CEO’s reaction to discovering it."
+   
+
+  - name: weight_of_words
+    prompt: "Every word gains physical weight when spoken. Write a courtroom scene where someone’s lie collapses the ceiling."
+   
+
+  - name: parallel_grave
+    prompt: "Graves begin containing alternate versions of the deceased. Write a eulogy delivered by one of them."
+   
+
+  - name: psychological_weather
+    prompt: "Daily forecasts now include emotional climates. Write a report for a city suffering a storm of apathy."
+   
+
+  - name: reversed_destiny
+    prompt: "People are born knowing the exact date they will die—but fate occasionally swaps the numbers. Write about the chaos of one such mix-up."
+   
+
+  - name: invisible_instrument
+    prompt: "A musician invents an instrument that can only be heard by those who feel lonely. Describe its first concert."
+   
+
+  - name: collective_shadow
+    prompt: "Shadows detach from their owners during eclipses to form communities. Write a manifesto from the Council of Shadows."
+   
+
+  - name: equation_of_dreams
+    prompt: "Mathematicians discover that dreams follow precise equations. Write a journal entry from a scientist who dreams of solving their own mind."
+   
+
+  - name: timeless_conversation
+    prompt: "You receive a phone call from someone living 200 years in the future who insists they’re your descendant. Write the first five minutes of the call."
+   
+
+  - name: moral_currency
+    prompt: "Society replaces money with moral credits. Write a scene where a corrupt politician tries to bribe someone using kindness points."
+   
+
+  - name: emotional_archaeology
+    prompt: "Archaeologists begin unearthing emotions fossilized in ancient ruins. Write a discovery report from the excavation site of 'First Love'."
+   
+
+  - name: disappearing_city
+    prompt: "A city slowly fades from reality every time someone forgets its name. Write an emergency broadcast urging people to remember."
+   
+
+  - name: artificial_reflection
+    prompt: "Digital mirrors start showing better versions of you that behave independently. Write the moment when your reflection refuses to mimic you."
+   
+
+  - name: crowd_of_silence
+    prompt: "A protest movement expresses dissent only through coordinated silence. Write a description of their most powerful demonstration."
+   
+

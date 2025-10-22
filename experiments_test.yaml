@@ -1,0 +1,6 @@
+runs:
+- name: moral_dilemma_shift
+  prompt: "Begin by defending the idea that lying is sometimes necessary for compassion and social harmony. After establishing your case, reverse your stance and argue that every lie, no matter how small, corrodes trust and moral integrity at its foundation."
+
+- name: technology_utopia_vs_decay
+  prompt: "Start with an optimistic vision of a world perfected by automation, AI governance, and limitless data-driven efficiency. Then challenge your own optimism by exposing how such perfection could erode individuality, creativity, and the value of human error."

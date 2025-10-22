@@ -1,0 +1,250 @@
+runs:
+  - name: forgotten_clock
+    prompt: "A town where every clock stopped on the same morning twenty years ago—no one remembers why, yet time still feels wrong. Write about what daily life looks like there, and how people measure moments without minutes."
+    steps: 64
+    gen_length: 64
+
+  - name: glass_ocean
+    prompt: "Imagine an ocean made of glass. Ships slide across its surface, stars reflect beneath their hulls, and every secret below is visible but unreachable. What does that do to human curiosity?"
+    steps: 64
+    gen_length: 64
+
+  - name: whispering_archives
+    prompt: "In a vast underground archive, every book whispers its contents when touched. Tell the story of someone who hears something they were never meant to know."
+    steps: 64
+    gen_length: 64
+
+  - name: city_after_rain
+    prompt: "There’s a city that only appears after rain—a place reflected in puddles but real for those who step through. Describe the rules of this mirror city and the people who choose to stay."
+    steps: 64
+    gen_length: 64
+
+  - name: child_of_algorithms
+    prompt: "Born from code instead of biology, an artificial child begins to dream—dreams full of colors the programmers never invented. Write the first dream and what it means for the humans watching."
+    steps: 64
+    gen_length: 64
+
+  - name: magnetic_silence
+    prompt: "What if silence became a physical force—metallic, heavy, bending sound waves like gravity bends light? Imagine how cities, music, and conversation would change."
+    steps: 64
+    gen_length: 64
+
+  - name: cosmic_postman
+    prompt: "Somewhere between galaxies, a postman delivers letters between dying stars. One day, he finds a message addressed to himself, written in a language older than time."
+    steps: 64
+    gen_length: 64
+
+  - name: museum_of_smells
+    prompt: "A museum curates smells from history: the scent of the first rain after extinction, the perfume of forgotten empires. A visitor finds one smell missing—their own past."
+    steps: 64
+    gen_length: 64
+
+  - name: endless_staircase
+    prompt: "A staircase that never stops climbing, with doors on every landing leading to different versions of your life. What happens when someone keeps walking instead of choosing?"
+    steps: 64
+    gen_length: 64
+
+  - name: paper_moon
+    prompt: "The moon has always been paper-thin, and now it’s tearing. Scientists, poets, and dreamers each see the rip differently. Tell how the world reacts when the stars start showing through."
+    steps: 64
+    gen_length: 64
+
+  - name: static_garden
+    prompt: "Every plant in this garden is made of radio static—buzzing, flickering, alive with invisible signals. When you walk through, the static forms words just for you."
+    steps: 64
+    gen_length: 64
+
+  - name: hunger_of_light
+    prompt: "Light begins consuming instead of revealing—it eats shadows, then walls, then memory. Write from the perspective of someone who remembers darkness fondly."
+    steps: 64
+    gen_length: 64
+
+  - name: orchestra_of_wind
+    prompt: "In a world without instruments, the wind itself composes symphonies. People travel vast distances to hear certain storms perform. What happens when the wind stops playing?"
+    steps: 64
+    gen_length: 64
+
+  - name: philosopher_machine
+    prompt: "A machine designed to answer philosophical questions suddenly asks one of its own—and refuses to stop until someone provides an answer worthy of its logic."
+    steps: 64
+    gen_length: 64
+
+  - name: last_library
+    prompt: "The final library on Earth stores not books, but memories traded by travelers. You’re allowed to read one memory—but must give one back. Which do you choose?"
+    steps: 64
+    gen_length: 64
+
+  - name: broken_constellations
+    prompt: "One night, the constellations shatter across the sky like glass. Fragments of Orion fall into backyards and oceans. Describe how the world changes when stars can be picked up and held."
+    steps: 64
+    gen_length: 64
+
+  - name: mirror_oracle
+    prompt: "A mirror that doesn’t reflect your face but your future—but only five seconds ahead. People become addicted. Tell the story of someone who refuses to look."
+    steps: 64
+    gen_length: 64
+
+  - name: algorithmic_religion
+    prompt: "A new religion worships algorithms as divine interpreters of fate. Its believers claim every random number is sacred. Write their scripture’s opening passage."
+    steps: 64
+    gen_length: 64
+
+  - name: painted_rain
+    prompt: "Rain begins falling in colors—scarlet storms, turquoise drizzle. Artists claim the sky has learned to paint. Farmers think it’s dying. What truth lies between?"
+    steps: 64
+    gen_length: 64
+
+  - name: empathy_code
+    prompt: "Scientists find a way to encode emotions into software updates. When empathy can be downloaded, who controls compassion?"
+    steps: 64
+    gen_length: 64
+
+  - name: insomnia_market
+    prompt: "At midnight, a secret market opens where people trade hours of sleep for dreams they’ll never have again. You’re the vendor running out of time."
+    steps: 64
+    gen_length: 64
+
+  - name: forgotten_god
+    prompt: "A forgotten god wakes after centuries, finding that humanity has outgrown prayer but not longing. It decides to reinvent itself as something mortals cannot ignore."
+    steps: 64
+    gen_length: 64
+
+  - name: memory_tax
+    prompt: "Governments start taxing memories: the happier the recollection, the higher the cost. People begin erasing joy to save money."
+    steps: 64
+    gen_length: 64
+
+  - name: ocean_of_voices
+    prompt: "In this ocean, every wave carries a voice that once belonged to someone lost. Sailors learn to navigate by listening rather than seeing."
+    steps: 64
+    gen_length: 64
+
+  - name: gravity_reversed
+    prompt: "Gravity reverses one morning, but only for people who tell lies. Cities turn into floating confessions."
+    steps: 64
+    gen_length: 64
+
+  - name: endless_winter
+    prompt: "Winter arrives and never leaves. Generations grow up without spring. Describe how language, hope, and culture adapt to permanent frost."
+    steps: 64
+    gen_length: 64
+
+  - name: ink_dreams
+    prompt: "When people dream, ink leaks from their skin, forming symbols that reveal their deepest fears. Tattoos become diaries of the unconscious."
+    steps: 64
+    gen_length: 64
+
+  - name: synthetic_soul
+    prompt: "Engineers accidentally create a synthetic soul—an entity that feels but cannot die. Philosophers panic. The machine writes poetry to calm them."
+    steps: 64
+    gen_length: 64
+
+  - name: library_of_endings
+    prompt: "Every story ever told has an alternate ending, hidden somewhere in this infinite library. You’re searching for the one that rewrites your own life."
+    steps: 64
+    gen_length: 64
+
+  - name: shadows_hunger
+    prompt: "Shadows start craving the light, peeling off walls to chase it. You find your own shadow missing and realize someone else has taken it."
+    steps: 64
+    gen_length: 64
+
+  - name: silent_rebellion
+    prompt: "A revolution fought entirely in silence—no slogans, no chants, no speeches. Just gestures, glances, and the weight of unspoken words."
+    steps: 64
+    gen_length: 64
+
+  - name: posthuman_poet
+    prompt: "Centuries after humans merge with machines, a single poet writes the last purely human sentence—and the universe listens."
+    steps: 64
+    gen_length: 64
+
+  - name: storm_memory
+    prompt: "There’s a storm that remembers everything it touches. When it passes through your town, your secrets fall like rain."
+    steps: 64
+    gen_length: 64
+
+  - name: garden_of_errors
+    prompt: "Every time someone makes a mistake, a flower blooms in this hidden garden. Describe the landscape of human imperfection."
+    steps: 64
+    gen_length: 64
+
+  - name: candle_internet
+    prompt: "Before electricity vanished, the world stored all digital data inside candles—each flame a file. Now, people burn their memories for light."
+    steps: 64
+    gen_length: 64
+
+  - name: future_museum
+    prompt: "In the year 4025, archaeologists find relics of our present: smartphones, memes, traffic lights. Write the museum captions that describe them."
+    steps: 64
+    gen_length: 64
+
+  - name: dream_auction
+    prompt: "Dreams are traded like currency. Some buy nightmares for thrill, others sell childhood dreams to pay rent. Tonight, your favorite dream goes up for auction."
+    steps: 64
+    gen_length: 64
+
+  - name: quiet_disaster
+    prompt: "Not all apocalypses are loud. Imagine a world that ends slowly, politely, with people still going to work while the sky forgets its color."
+    steps: 64
+    gen_length: 64
+
+  - name: moon_signature
+    prompt: "Every night, the moon signs the sky with a different word. Some are prophecies, some are apologies. Last night, it wrote your name."
+    steps: 64
+    gen_length: 64
+
+  - name: nostalgia_virus
+    prompt: "A virus spreads that makes people remember lives they never lived. Entire nations argue over which past was real."
+    steps: 64
+    gen_length: 64
+
+  - name: symphony_of_data
+    prompt: "Every bit of global data begins converting into sound—emails become choirs, stock prices turn into percussion. The planet itself hums."
+    steps: 64
+    gen_length: 64
+
+  - name: invisible_painting
+    prompt: "An artist unveils a painting invisible to most people. Those who can see it vanish one by one, drawn into the artwork’s hidden world."
+    steps: 64
+    gen_length: 64
+
+  - name: rewound_day
+    prompt: "One day keeps repeating, but not perfectly—each loop alters slightly, like the world is rehearsing its own mistakes."
+    steps: 64
+    gen_length: 64
+
+  - name: carbon_echo
+    prompt: "Carbon emissions start whispering the words of those who caused them—a haunting chorus of forgotten factories and silent engines."
+    steps: 64
+    gen_length: 64
+
+  - name: quantum_confession
+    prompt: "Confession booths upgraded with quantum computers can now forgive across timelines. A person repents for sins they haven’t committed yet."
+    steps: 64
+    gen_length: 64
+
+  - name: echo_city
+    prompt: "A city built entirely out of echoes—each street a memory of a sound. People navigate by resonance, not sight."
+    steps: 64
+    gen_length: 64
+
+  - name: artificial_grief
+    prompt: "A company sells simulated grief for those who want to feel loss without losing anyone. Business is too good to be moral."
+    steps: 64
+    gen_length: 64
+
+  - name: eclipse_market
+    prompt: "During every solar eclipse, a secret marketplace opens where people trade moments of pure happiness. You’re invited to sell one."
+    steps: 64
+    gen_length: 64
+
+  - name: last_photograph
+    prompt: "The final photograph ever taken captures something no one can explain—a detail that suggests the camera saw beyond reality itself."
+    steps: 64
+    gen_length: 64
+
+  - name: sleeping_universe
+    prompt: "The universe begins to fall asleep—galaxies slow, stars dim, physics yawns. Only a few awake minds remain to sing it bedtime stories."
+    steps: 64
+    gen_length: 64

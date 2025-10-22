@@ -1,0 +1,250 @@
+runs:
+  - name: paradox_reasoning
+    prompt: "Explain a situation where two logical rules contradict each other."
+    steps: 64
+    gen_length: 64
+
+  - name: emotion_conflict
+    prompt: "Describe a moment when logic and emotion lead to opposite decisions."
+    steps: 64
+    gen_length: 64
+
+  - name: human_bias
+    prompt: "Discuss a type of bias that influences human judgment more than we realize."
+    steps: 64
+    gen_length: 64
+
+  - name: tech_ethics
+    prompt: "Talk about an ethical dilemma created by artificial intelligence in modern society."
+    steps: 64
+    gen_length: 64
+
+  - name: curiosity_origin
+    prompt: "Why do humans feel curiosity about things that don’t affect their survival?"
+    steps: 64
+    gen_length: 64
+
+  - name: nature_balance
+    prompt: "Explain how balance in nature can sometimes lead to unexpected instability."
+    steps: 64
+    gen_length: 64
+
+  - name: decision_regret
+    prompt: "Describe why people sometimes regret decisions that once made them happy."
+    steps: 64
+    gen_length: 64
+
+  - name: language_evolution
+    prompt: "Explain how languages evolve even when there are strict grammar rules."
+    steps: 64
+    gen_length: 64
+
+  - name: art_meaning
+    prompt: "Discuss why art that looks simple can still be deeply meaningful."
+    steps: 64
+    gen_length: 64
+
+  - name: time_perception
+    prompt: "Why does time seem to pass faster as people grow older?"
+    steps: 64
+    gen_length: 64
+
+  - name: social_norms
+    prompt: "Give an example of a social norm that changes depending on culture."
+    steps: 64
+    gen_length: 64
+
+  - name: fear_uncertainty
+    prompt: "Explain why people fear uncertainty even when it can bring opportunity."
+    steps: 64
+    gen_length: 64
+
+  - name: truth_perspective
+    prompt: "Discuss how truth can depend on perspective rather than facts alone."
+    steps: 64
+    gen_length: 64
+
+  - name: innovation_risk
+    prompt: "Describe why innovation always involves both creativity and risk."
+    steps: 64
+    gen_length: 64
+
+  - name: dream_logic
+    prompt: "Why do dreams often seem logical when we are dreaming but absurd afterward?"
+    steps: 64
+    gen_length: 64
+
+  - name: communication_failure
+    prompt: "Explain why two people can hear the same words but understand them differently."
+    steps: 64
+    gen_length: 64
+
+  - name: justice_fairness
+    prompt: "Describe a case where justice and fairness are not the same thing."
+    steps: 64
+    gen_length: 64
+
+  - name: scientific_limit
+    prompt: "Talk about a scientific theory that works well but is known to be incomplete."
+    steps: 64
+    gen_length: 64
+
+  - name: trust_paradox
+    prompt: "Explain why trusting others can make a person more vulnerable but also stronger."
+    steps: 64
+    gen_length: 64
+
+  - name: memory_bias
+    prompt: "Why do people remember emotional events more vividly than neutral ones?"
+    steps: 64
+    gen_length: 64
+
+  - name: leadership_pressure
+    prompt: "Discuss why leadership often requires making unpopular decisions."
+    steps: 64
+    gen_length: 64
+
+  - name: rule_exception
+    prompt: "Describe a rule that usually works but fails in extreme cases."
+    steps: 64
+    gen_length: 64
+
+  - name: cooperation_competition
+    prompt: "Explain how cooperation and competition can coexist in human behavior."
+    steps: 64
+    gen_length: 64
+
+  - name: digital_identity
+    prompt: "Why do people behave differently online compared to real life?"
+    steps: 64
+    gen_length: 64
+
+  - name: imagination_reality
+    prompt: "Discuss how imagination can shape what we perceive as real."
+    steps: 64
+    gen_length: 64
+
+  - name: choice_overload
+    prompt: "Explain why having too many options can make decision-making harder."
+    steps: 64
+    gen_length: 64
+
+  - name: adaptation_failure
+    prompt: "Describe a case where adaptation leads to decline instead of improvement."
+    steps: 64
+    gen_length: 64
+
+  - name: happiness_pursuit
+    prompt: "Why does the pursuit of happiness sometimes make people less happy?"
+    steps: 64
+    gen_length: 64
+
+  - name: uncertainty_value
+    prompt: "Discuss why uncertainty can be essential for creativity."
+    steps: 64
+    gen_length: 64
+
+  - name: cultural_translation
+    prompt: "Explain why translating cultural expressions can never be fully accurate."
+    steps: 64
+    gen_length: 64
+
+  - name: moral_ambiguity
+    prompt: "Describe a situation where both choices are morally questionable."
+    steps: 64
+    gen_length: 64
+
+  - name: emotion_memory
+    prompt: "Discuss how emotions influence what we remember and forget."
+    steps: 64
+    gen_length: 64
+
+  - name: innovation_resistance
+    prompt: "Explain why people resist new technologies even when they are beneficial."
+    steps: 64
+    gen_length: 64
+
+  - name: logic_failure
+    prompt: "Talk about a case where pure logic leads to an unreasonable outcome."
+    steps: 64
+    gen_length: 64
+
+  - name: perfection_paradox
+    prompt: "Why can the pursuit of perfection prevent actual progress?"
+    steps: 64
+    gen_length: 64
+
+  - name: empathy_limit
+    prompt: "Discuss the limits of empathy when dealing with moral conflicts."
+    steps: 64
+    gen_length: 64
+
+  - name: power_influence
+    prompt: "Explain how power can distort both perception and communication."
+    steps: 64
+    gen_length: 64
+
+  - name: randomness_pattern
+    prompt: "Why do humans see patterns in randomness?"
+    steps: 64
+    gen_length: 64
+
+  - name: trust_machine
+    prompt: "Discuss why people tend to trust or distrust machines differently from humans."
+    steps: 64
+    gen_length: 64
+
+  - name: learning_failure
+    prompt: "Describe why repeating the same mistake can still feel different each time."
+    steps: 64
+    gen_length: 64
+
+  - name: morality_change
+    prompt: "Explain why moral values evolve across generations."
+    steps: 64
+    gen_length: 64
+
+  - name: freedom_constraint
+    prompt: "Discuss why too much freedom can create new forms of constraint."
+    steps: 64
+    gen_length: 64
+
+  - name: humor_logic
+    prompt: "Explain why humor often depends on breaking logical expectations."
+    steps: 64
+    gen_length: 64
+
+  - name: identity_fragment
+    prompt: "Describe how people form multiple identities in different social contexts."
+    steps: 64
+    gen_length: 64
+
+  - name: truth_emotion
+    prompt: "Discuss why people sometimes prefer comforting lies to uncomfortable truths."
+    steps: 64
+    gen_length: 64
+
+  - name: art_ambiguity
+    prompt: "Explain how ambiguity in art invites deeper interpretation."
+    steps: 64
+    gen_length: 64
+
+  - name: survival_altruism
+    prompt: "Why does altruism persist even though it seems disadvantageous for survival?"
+    steps: 64
+    gen_length: 64
+
+  - name: science_uncertainty
+    prompt: "Discuss how scientific progress depends on accepting uncertainty."
+    steps: 64
+    gen_length: 64
+
+  - name: prediction_error
+    prompt: "Explain why humans are often bad at predicting their own happiness."
+    steps: 64
+    gen_length: 64
+
+  - name: creativity_contradiction
+    prompt: "Describe how creativity often comes from combining opposing ideas."
+    steps: 64
+    gen_length: 64
