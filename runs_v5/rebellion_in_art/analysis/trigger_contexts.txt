@@ -1,3 +1,0 @@
-step_decoded=100 pos=151 dir=- impact=0.039270 shift=-0.039538 cats=content_heavy earlier=9 later=23 same=0
- Without^(-9) a^(-8) clear^(-7) direction^(-5) or^(-6) a^(-4) just^(+11) cause^(+5),^(-3) rebellion^(-2) can^(-1) degenerate^(+9) into^(+4) self^(+1)-ind^(+2)ul^(+3) [gence^(+0)] ,^(+6) losing^(+7) its^(+8) power^(+10) to^(+12) inspire^(+13) and^(+14) effect^(+17) change^(+16).^(+15) The^(+18) artist^(+19)'s^(+20) actions^(+26) must^(+22) be^(+21)
-

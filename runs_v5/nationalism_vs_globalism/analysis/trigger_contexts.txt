@@ -1,3 +1,0 @@
-step_decoded=131 pos=187 dir=- impact=0.034046 shift=-0.033103 cats=content_heavy earlier=16 later=16 same=0
-,^(-17) while^(-15) capable^(-11) of^(-10) bringing^(-8) people^(-7) together^(-9),^(-14) can^(-13) also^(-12) be^(-6) distorted^(-5) into^(-4) a^(-3) form^(-2) of^(-1) [Ġxen^(+0)] ophobia^(+1) that^(+2) marginal^(+4)izes^(+5) outsiders^(+6) and^(+3) perpet^(+12)uates^(+11) isolation^(+10).^(+7) This^(+8) duality^(+9) underscores^(+13) the^(+14) importance^(+16) of^(+15)
-

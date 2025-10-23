@@ -1,3 +1,0 @@
-step_decoded=178 pos=229 dir=- impact=0.064009 shift=-0.061612 cats=content_heavy earlier=14 later=18 same=0
- own^(-15) interests^(-13) than^(-12) the^(-10) collective^(-8) good^(-11).^(-9)Ċ^(-7)Ċ^(-6)In^(-3) contrast^(-4),^(-5) cooperative^(-2) models^(-1) might^(+2) yield^(+3) [Ġdeeper^(+0)]  prosperity^(+1) by^(+4) fostering^(+5) a^(+7) sense^(+8) of^(+6) community^(+9) and^(+10) shared^(+13) purpose^(+12).^(+11) By^(+14) working^(+16) together^(+15),^(+17) individuals^(+19)
-

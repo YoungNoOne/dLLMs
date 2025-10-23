@@ -1,6 +1,0 @@
-step_decoded=75 pos=118 dir=- impact=0.229986 shift=-0.228803 cats=addition_marker;content_heavy earlier=17 later=15 same=0
- communication^(-18) technologies^(-13) has^(-14) been^(-15) driven^(-17) by^(-16) the^(-11) need^(-10) to^(-9) survive^(-7) and^(-8) thrive^(-5) in^(-6) hostile^(-2) environments^(-3).^(-4) [ĠAdditionally^(+0)] ,^(-1) the^(+1) sense^(+3) of^(+2) unity^(+4) and^(+5) shared^(+8) purpose^(+6) that^(+7) can^(+9) emerge^(+10) from^(+11) wartime^(+14) experiences^(+15) can^(+13) foster^(+12)
-
-step_decoded=197 pos=243 dir=- impact=0.077191 shift=-0.077595 cats=content_heavy earlier=14 later=18 same=0
- a^(-14) better^(-13) future^(-12);^(-11) it^(-10) is^(-9) a^(-8) path^(-7) that^(-6) is^(-5) fraught^(-4) with^(-3) pain^(+9) and^(-2) loss^(+10).^(-1) [ĠTrue^(+0)]  progress^(+1) should^(+3) be^(+2) grounded^(+8) in^(+7) the^(+4) well^(+5)-being^(+6) and^(+11) dignity^(+20) of^(+12) all^(+13) people^(+18),^(+14) not^(+15) in^(+17)
-

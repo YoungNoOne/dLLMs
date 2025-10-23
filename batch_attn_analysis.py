@@ -320,9 +320,8 @@ def main(argv: Optional[Sequence[str]] = None) -> None:
         "occurrences": [],
         "dir_pos": 0,
         "dir_neg": 0,
-        "dir_zero": 0,
     })
-    category_dir_counts = defaultdict(lambda: {"dir_pos": 0, "dir_neg": 0, "dir_zero": 0})
+    category_dir_counts = defaultdict(lambda: {"dir_pos": 0, "dir_neg": 0})
 
     # Parse categories
     raw_cats = (args.context_categories or "").replace(";", ",")
@@ -358,8 +357,6 @@ def main(argv: Optional[Sequence[str]] = None) -> None:
                 entry["dir_pos"] += 1
             elif token.direction < 0:
                 entry["dir_neg"] += 1
-            else:
-                entry["dir_zero"] += 1
             # Category-level direction counts
             for cat in token.categories:
                 c = category_dir_counts[cat]
@@ -367,8 +364,6 @@ def main(argv: Optional[Sequence[str]] = None) -> None:
                     c["dir_pos"] += 1
                 elif token.direction < 0:
                     c["dir_neg"] += 1
-                else:
-                    c["dir_zero"] += 1
         for cat in summary.get("categories", []):
             category = str(cat["category"])
             triggers = int(cat.get("triggers", 0))
@@ -387,7 +382,7 @@ def main(argv: Optional[Sequence[str]] = None) -> None:
     for category, metrics in aggregate.items():
         impact_weight = metrics["impact_weight"] or 1
         prompt_weight = metrics["prompt_shift_weight"] or 1
-        dirs = category_dir_counts.get(category, {"dir_pos": 0, "dir_neg": 0, "dir_zero": 0})
+        dirs = category_dir_counts.get(category, {"dir_pos": 0, "dir_neg": 0})
         aggregate_rows.append(
             {
                 "category": category,
@@ -397,7 +392,6 @@ def main(argv: Optional[Sequence[str]] = None) -> None:
                 "mean_prompt_shift": metrics["prompt_shift_weighted_sum"] / prompt_weight,
                 "dir_pos": dirs["dir_pos"],
                 "dir_neg": dirs["dir_neg"],
-                "dir_zero": dirs["dir_zero"],
             }
         )
 
@@ -408,7 +402,7 @@ def main(argv: Optional[Sequence[str]] = None) -> None:
 
     if aggregate_rows_sorted:
         csv_path = out_dir / "category_aggregate.csv"
-        headers = ["category", "triggers", "samples", "mean_impact", "mean_prompt_shift", "dir_pos", "dir_neg", "dir_zero"]
+        headers = ["category", "triggers", "samples", "mean_impact", "mean_prompt_shift", "dir_pos", "dir_neg"]
         with csv_path.open("w", encoding="utf-8", newline="") as f:
             writer = csv.writer(f)
             writer.writerow(headers)
@@ -422,7 +416,6 @@ def main(argv: Optional[Sequence[str]] = None) -> None:
                         f"{row['mean_prompt_shift']:.6f}",
                         row["dir_pos"],
                         row["dir_neg"],
-                        row["dir_zero"],
                     ]
                 )
 
@@ -437,6 +430,8 @@ def main(argv: Optional[Sequence[str]] = None) -> None:
                 "runs": sorted(entry["runs"]),
                 "occurrences": entry["occurrences"],
                 "categories": sorted(entry["categories"]),
+                "dir_pos": entry["dir_pos"],
+                "dir_neg": entry["dir_neg"],
             }
         )
     token_rows_sorted.sort(key=lambda x: x["count"], reverse=True)
@@ -449,7 +444,7 @@ def main(argv: Optional[Sequence[str]] = None) -> None:
         token_csv_path = out_dir / "trigger_token_aggregate.csv"
         with token_csv_path.open("w", encoding="utf-8", newline="") as f:
             writer = csv.writer(f)
-            writer.writerow(["token_id", "token_str", "token_norm", "count", "unique_runs", "dir_pos", "dir_neg", "dir_zero", "categories"])
+            writer.writerow(["token_id", "token_str", "token_norm", "count", "unique_runs", "dir_pos", "dir_neg", "categories"])
             for row in token_rows_sorted:
                 categories = ";".join(row["categories"])
                 writer.writerow(
@@ -461,7 +456,6 @@ def main(argv: Optional[Sequence[str]] = None) -> None:
                         len(row["runs"]),
                         row.get("dir_pos", 0),
                         row.get("dir_neg", 0),
-                        row.get("dir_zero", 0),
                         categories,
                     ]
                 )

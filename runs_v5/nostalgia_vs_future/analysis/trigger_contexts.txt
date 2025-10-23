@@ -1,3 +1,0 @@
-step_decoded=65 pos=106 dir=+ impact=0.111475 shift=0.113471 cats=content_heavy earlier=15 later=17 same=0
- healing^(-15) balm^(-12),^(-14) reminding^(-11) us^(-13) of^(-10) the^(-9) good^(-8) old^(-6) days^(-5) and^(-7) the^(-4) memories^(-2) that^(-3) bring^(+2) us^(+1) [Ġjoy^(+0)] .^(-1)Ċ^(+3)Ċ^(+4)However^(+14),^(+6) on^(+8) the^(+9) flip^(+5) side^(+10),^(+7) nostalgia^(+11) can^(+12) also^(+13) freeze^(+15) progress^(+16) and^(+17)
-

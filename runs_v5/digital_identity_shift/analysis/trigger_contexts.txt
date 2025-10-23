@@ -1,3 +1,0 @@
-step_decoded=117 pos=169 dir=- impact=0.036444 shift=-0.036007 cats=content_heavy earlier=15 later=17 same=0
- cur^(-15)ate^(-14) and^(-12) present^(-13) a^(-11) polished^(-10),^(-9) ideal^(-8)ized^(-7) version^(-6) of^(-5) oneself^(-4)âĢĶ^(-3)can^(-2) also^(-1) flatten^(+1) [Ġidentity^(+0)]  into^(+2) algorithms^(+5) of^(+4) performance^(+7) and^(+6) validation^(+3).^(+8) The^(+9) curated^(+10) content^(+11) that^(+12) users^(+13) share^(+16) is^(+15) often^(+14) designed^(+17)
-

@@ -1,3 +1,0 @@
-step_decoded=0 pos=42 dir=- impact=0.034023 shift=-0.034023 cats=content_heavy earlier=0 later=16 same=0
- [Reb^(+0)] ellion^(+1) has^(+2) long^(+4) been^(+3) hailed^(+13) as^(+5) the^(+11) driving^(+10) force^(+7) behind^(+6) cultural^(+8) progress^(+9),^(+12) a^(+14) catalyst^(+15) that^(+16)
-

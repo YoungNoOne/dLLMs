@@ -1,3 +1,0 @@
-step_decoded=63 pos=120 dir=+ impact=0.060343 shift=0.061557 cats=content_heavy earlier=17 later=15 same=0
- delve^(-16) deeper^(-17) into^(-14) this^(-15) vision^(-10) of^(-11) perfection^(-13),^(-12) we^(-9) must^(-8) confront^(-7) the^(-6) darker^(-5) side^(-4) of^(-3) our^(-2) [Ġambition^(+0)] .^(-1)Ċ^(+2)Ċ^(+1)In^(+3) a^(+5) world^(+6) where^(+4) every^(+7) action^(+9) is^(+8) meticulously^(+10) planned^(+11) and^(+12) controlled^(+15),^(+13) the^(+14)
-

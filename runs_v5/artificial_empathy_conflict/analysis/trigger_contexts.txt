@@ -1,6 +1,0 @@
-step_decoded=22 pos=89 dir=+ impact=0.047110 shift=0.045085 cats=content_heavy earlier=15 later=17 same=0
- that^(-15) machines^(-14) can^(-13) truly^(-12) feel^(-10) empathy^(-11) and^(-8) that^(-9) AI^(-7) emotions^(-5) will^(-6) surpass^(-4) human^(-3) compassion^(-2).^(-1) The^(+2) [Ġadvancements^(+0)]  in^(+1) artificial^(+3) intelligence^(+4) have^(+5) allowed^(+8) us^(+7) to^(+6) create^(+9) systems^(+12) that^(+10) can^(+11) recognize^(+24) and^(+13) respond^(+14) to^(+15) human^(+16)
-
-step_decoded=63 pos=129 dir=- impact=0.067444 shift=-0.043846 cats=contrast_marker;content_heavy earlier=16 later=16 same=0
- can^(-16) simulate^(-15) empathy^(-14) in^(-11) a^(-13) way^(-10) that^(-12) is^(-9) almost^(-5) indistinguishable^(-8) from^(-7) human^(-6) compassion^(-3).^(-4)Ċ^(-1)Ċ^(-2) [However^(+0)] ,^(+1) as^(+4) a^(+2) psychologist^(+3),^(+6) I^(+5) must^(+7) challenge^(+9) this^(+8) belief^(+13).^(+10) Emp^(+11)athy^(+12) is^(+14) a^(+15) complex^(+16)
-

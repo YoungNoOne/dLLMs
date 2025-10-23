@@ -1,3 +1,0 @@
-step_decoded=71 pos=122 dir=+ impact=0.100575 shift=0.100512 cats=contrast_marker;content_heavy earlier=10 later=22 same=0
- one^(-11) can^(-12) concentrate^(-10) on^(-7) what^(-5) truly^(-6) matters^(-4) without^(-3) the^(-2) distraction^(+5) of^(+4) digital^(+7) noise^(+6).^(+1)Ċ^(+2)Ċ^(-1) [However^(+0)] ,^(+3) this^(+8) conviction^(+14) can^(+9) be^(+10) dismant^(+11)led^(+12) by^(+13) recognizing^(+24) that^(+23) withdrawal^(+16) from^(+15) data^(+17) also^(+20) means^(+22) a^(+19)
-

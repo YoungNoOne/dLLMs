@@ -1,6 +1,0 @@
-step_decoded=61 pos=103 dir=+ impact=0.042345 shift=0.027997 cats=content_heavy earlier=16 later=16 same=0
- of^(-16) criminal^(-15) behavior^(-14) should^(-10) be^(-13) severe^(-9) enough^(-11) to^(-12) discourage^(-3) individuals^(-7) from^(-8) engaging^(-6) in^(-5) such^(-4) activities^(-1).^(-2) [ĠBy^(+0)]  imposing^(+1) harsh^(+2) punish^(+4)ments^(+3),^(+5) society^(+6) can^(+8) maintain^(+7) order^(+9) and^(+10) prevent^(+11) crime^(+12),^(+13) thereby^(+14) preserving^(+18) public^(+17)
-
-step_decoded=244 pos=285 dir=+ impact=0.042259 shift=0.042022 cats=content_heavy earlier=17 later=11 same=0
- lead^(-18) to^(-17) a^(-16) more^(-15) just^(-13) and^(-14) humane^(-6) society^(-12),^(-11) where^(-10) individuals^(-9) are^(-8) empowered^(-7) to^(-1) rebuild^(+3) their^(+1) [Ġlives^(+0)]  and^(+2) contribute^(+4) positively^(+5) to^(+6) their^(+8) communities^(+7) rather^(+10) than^(+9) negatively^(+11).^(-3)<|eot_id|>^(-2)<|endoftext|>^(-4)
-

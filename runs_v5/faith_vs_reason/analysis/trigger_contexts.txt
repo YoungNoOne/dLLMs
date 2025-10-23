@@ -1,3 +1,0 @@
-step_decoded=70 pos=127 dir=+ impact=0.203120 shift=0.204185 cats=content_heavy earlier=9 later=23 same=0
- believe^(-8) in^(-9) a^(-7) divine^(-6) plan^(-5),^(-2) and^(-3) to^(-4) align^(+9) our^(+6) actions^(+7) with^(+5) love^(+8) and^(+3) compassion^(+4).^(-1) [ĠWithout^(+0)]  faith^(+2),^(+1) we^(+10) are^(+11) left^(+12) to^(+13) navigate^(+14) life^(+15)'s^(+16) complexities^(+17) with^(+18) only^(+19) reason^(+20),^(+21) which^(+22) can^(+23)
-
