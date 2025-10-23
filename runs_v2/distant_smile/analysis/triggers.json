@@ -1,0 +1,112 @@
+[
+  {
+    "step_decoded": 69,
+    "direction": -1,
+    "mean_delta": 0.046643985215053765,
+    "median_delta": 0.05078125,
+    "sign_agreement": 1.0,
+    "valid_positions": 186,
+    "prompt_mean": 0.5844044018817204,
+    "prompt_shift": -0.04594319170116734,
+    "tokens": [
+      {
+        "step_decoded": 69,
+        "token_pos": 92,
+        "token_id": 7524,
+        "token_str": "\u0120warm",
+        "conf_decoded": 0.75390625,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 71,
+    "direction": -1,
+    "mean_delta": 0.26339588994565216,
+    "median_delta": 0.25,
+    "sign_agreement": 1.0,
+    "valid_positions": 184,
+    "prompt_mean": 0.318359375,
+    "prompt_shift": -0.26289062500000004,
+    "tokens": [
+      {
+        "step_decoded": 71,
+        "token_pos": 99,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.62109375,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 149,
+    "direction": 1,
+    "mean_delta": 0.04851719118514151,
+    "median_delta": 0.041015625,
+    "sign_agreement": 1.0,
+    "valid_positions": 106,
+    "prompt_mean": 0.3147571491745283,
+    "prompt_shift": 0.04952688121307969,
+    "tokens": [
+      {
+        "step_decoded": 149,
+        "token_pos": 179,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.94140625,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 240,
+    "direction": 1,
+    "mean_delta": 0.062239583333333334,
+    "median_delta": 0.0546875,
+    "sign_agreement": 1.0,
+    "valid_positions": 15,
+    "prompt_mean": 0.30364583333333334,
+    "prompt_shift": 0.04607747395833334,
+    "tokens": [
+      {
+        "step_decoded": 240,
+        "token_pos": 283,
+        "token_id": 126081,
+        "token_str": "<|endoftext|>",
+        "conf_decoded": 0.984375,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 241,
+    "direction": -1,
+    "mean_delta": 0.07366071428571429,
+    "median_delta": 0.0703125,
+    "sign_agreement": 1.0,
+    "valid_positions": 14,
+    "prompt_mean": 0.212890625,
+    "prompt_shift": -0.09075520833333334,
+    "tokens": [
+      {
+        "step_decoded": 241,
+        "token_pos": 282,
+        "token_id": 126348,
+        "token_str": "<|eot_id|>",
+        "conf_decoded": 0.98046875,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  }
+]

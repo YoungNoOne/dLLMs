@@ -1,0 +1,51 @@
+{
+  "name": "ethical_virus",
+  "prompt": "A virus makes everyone tell the truth. Write a news report about the chaos.",
+  "decoded": "**Breaking News: Global Chaos Triggered by Truthful Virus**\n\n**New York, NY** - A mysterious virus has swept across the globe, causing individuals to speak the truth without hesitation. The virus, which has not yet been identified, has led to widespread panic and chaos, as people are forced to reveal secrets and lies.\n\nReports from various cities around the world indicate that the virus has caused a significant drop in crime rates, as criminals are forced to confess to their crimes. However, this has also led to a surge in lawsuits, as people are forced to reveal their past relationships and affairs.\n\nThe virus has also caused a disruption in financial markets, as investors are forced to reveal their hidden assets and debts. This has led to a decline in stock prices, as investors are forced to reassess their investments.\n\nAs the virus continues to spread, experts are warning that it could have a devastating impact on society. The revelation of secrets and lies could lead to a breakdown in trust, and could have serious consequences for individuals and society as a whole.\n\nThe World Health Organization has issued a statement, urging people to remain calm and to seek medical attention if they experience any symptoms of the virus.\n\n**END STORY**",
+  "events_count": 3,
+  "max_mean_delta": 0.2971617683531746,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.24327799479166667,
+      "median_impact": 0.24327799479166667,
+      "mean_prompt_shift": 0.24418573867565696
+    },
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.2319829772581381,
+      "median_impact": 0.2319829772581381,
+      "mean_prompt_shift": -0.23161572142592915
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 3,
+      "direction": -1,
+      "mean_delta": 0.2971617683531746,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 15,
+      "direction": 1,
+      "mean_delta": 0.24327799479166667,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 68,
+      "direction": -1,
+      "mean_delta": 0.1668041861631016,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

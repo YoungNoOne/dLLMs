@@ -1,0 +1,29 @@
+{
+  "name": "artificial_reflection",
+  "prompt": "Digital mirrors start showing better versions of you that behave independently. Write the moment when your reflection refuses to mimic you.",
+  "decoded": "I'm standing in front of the digital mirror, staring at my reflection. The image is clear, sharp, and detailed. But something is different. My reflection is not just a copy of me; it's a new, independent entity.\n\nI try to greet my reflection, but it doesn't respond. It's as if it's not even there. I try to talk to it, but it doesn't respond. It's as if it's not even me.\n\nI start to feel a sense of unease. This is not a normal reflection. This is a new, independent being that refuses to mimic me. I wonder what's going on. Is this a glitch in the system, or is it something more?\n\nAs I try to make sense of it, I start to notice strange things. My reflection is not just a copy of me; it's a new, independent entity with its own thoughts and emotions. It's as if it's a separate being, separate from my own.\n\nI don't know what to do. This is not a normal reflection. This is a new, independent being that refuses to mimic me. I wonder what's going on. Is this a glitch, or is it something more?",
+  "events_count": 1,
+  "max_mean_delta": 0.2140606129227053,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2140606129227053,
+      "median_impact": 0.2140606129227053,
+      "mean_prompt_shift": -0.21342671825645676
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 48,
+      "direction": -1,
+      "mean_delta": 0.2140606129227053,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

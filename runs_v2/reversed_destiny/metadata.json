@@ -1,0 +1,66 @@
+{
+  "name": "reversed_destiny",
+  "prompt": "People are born knowing the exact date they will die\u2014but fate occasionally swaps the numbers. Write about the chaos of one such mix-up.",
+  "decoded": "On October 13th, 1999, a man named John Doe was born. He was destined to die on October 13th, 2099. However, fate had other plans.\n\nOn October 13th, 1999, John woke up to find that he was 100 years younger than he should be. He was shocked and confused. He didn't know how to deal with this sudden change.\n\nJohn's family was also shocked. They had always known that he would die on October 13th, 2099. They had planned his funeral and everything. Now, they had to deal with the fact that he was still alive.\n\nThe chaos was immense. John's family had to adjust their plans and expectations. They had to deal with the fact that John was 100 years younger than they had thought. They had to adjust their plans and expectations.\n\nJohn also had to adjust his life. He had to deal with the fact that he was 100 years younger than he had thought. He had to adjust his plans and expectations.\n\nThe chaos was immense. It was a difficult time for everyone.",
+  "events_count": 4,
+  "max_mean_delta": 0.16297846889952153,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.16297846889952153,
+      "median_impact": 0.16297846889952153,
+      "mean_prompt_shift": -0.1626313653451812
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.07484772245762712,
+      "median_impact": 0.07484772245762712,
+      "mean_prompt_shift": -0.07495855737770862
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.03799851940524193,
+      "median_impact": 0.03799851940524193,
+      "mean_prompt_shift": -0.041862894956383456
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 7,
+      "direction": -1,
+      "mean_delta": 0.03942477318548387,
+      "sign_agreement": 0.9919354838709677,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 19,
+      "direction": -1,
+      "mean_delta": 0.07484772245762712,
+      "sign_agreement": 0.9957627118644068,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 46,
+      "direction": -1,
+      "mean_delta": 0.16297846889952153,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 245,
+      "direction": -1,
+      "mean_delta": 0.036572265625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

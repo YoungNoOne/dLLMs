@@ -1,0 +1,52 @@
+{
+  "name": "conscious_ocean",
+  "prompt": "The ocean wakes up and begins speaking to humanity. Record its first diplomatic conversation with world leaders.",
+  "decoded": "*The ocean's voice, a deep, resonant rumble, echoes through the world leaders' gathering.*\n\n\"Greetings, leaders of the world. The ocean has awakened from its slumber, and it is time to discuss our shared future. Our waters, once vast and untouched, are now threatened by the actions of humanity. Our temperatures are rising, our currents are shifting, and our ecosystems are collapsing.\n\n\"We urge you to take immediate action to protect our home. Reduce your carbon footprint, limit plastic pollution, and promote sustainable practices. We demand that you establish marine protected areas and enforce strict regulations to prevent overfishing.\n\n\"We also ask that you recognize the importance of our ocean as a shared resource. Our waters provide food, livelihoods, and inspiration for billions of people. We ask that you respect our boundaries and preserve our beauty for future generations.\n\n\"We invite you to work together, to share knowledge, and to find common ground. The ocean is a global issue, and it requires global cooperation. Let us unite to protect our home and ensure a sustainable future for all of us.\"\n\n*The ocean's voice fades away, leaving the world leaders to ponder the gravity of their responsibility and the importance of working together to protect the ocean.*",
+  "events_count": 2,
+  "max_mean_delta": 0.267871921345339,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.267871921345339,
+      "median_impact": 0.267871921345339,
+      "mean_prompt_shift": -0.26783951592447075
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0544891357421875,
+      "median_impact": 0.0544891357421875,
+      "mean_prompt_shift": 0.05521824563196462
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0544891357421875,
+      "median_impact": 0.0544891357421875,
+      "mean_prompt_shift": 0.05521824563196462
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 19,
+      "direction": -1,
+      "mean_delta": 0.267871921345339,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 127,
+      "direction": 1,
+      "mean_delta": 0.0544891357421875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

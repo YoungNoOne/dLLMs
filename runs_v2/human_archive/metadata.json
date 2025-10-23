@@ -1,0 +1,73 @@
+{
+  "name": "human_archive",
+  "prompt": "After death, consciousness uploads into a vast library of human experiences. Write an index entry for someone who refuses to be cataloged.",
+  "decoded": "**Index Entry: Uncataloged Consciousness**\n\n**Name:** Uncataloged\n\n**Date:** Uncataloged\n\n**Location:** Uncataloged\n\n**Identity:** Uncataloged\n\n**Description:** Uncataloged Consciousness represents a collection of personal experiences that have not been formally recorded or cataloged. This entry is a placeholder for individuals who have chosen not to upload their consciousness into the vast library of human experiences.\n\n**Status:** Uncataloged\n\n**Access:** Uncataloged\n\n**Permissions:** Uncataloged\n\n**Metadata:** Uncataloged\n\n**References:** Uncataloged\n\n**Links:** Uncataloged\n\n**Notes:** Uncataloged\n\n**Creator:** Uncataloged\n\n**Contact:** Uncataloged\n\n**Copyright:** Uncataloged\n\n**License:** Uncataloged\n\n**Version:** Uncataloged\n\n**Revision:** Uncataloged\n\n**Update:** Uncataloged\n\n**Status:** Uncataloged\n\n**Access:** Uncataloged\n\n**Permissions:** Uncataloged\n\n**Metadata:** Uncataloged\n\n**References:** Uncataloged\n\n**Links:** Uncataloged",
+  "events_count": 5,
+  "max_mean_delta": 0.2207265625,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.1595299205619748,
+      "median_impact": 0.1595299205619748,
+      "mean_prompt_shift": -0.1589650103046838
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.11361811113401137,
+      "median_impact": 0.11361811113401137,
+      "mean_prompt_shift": -0.011753952170016124
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.11239202235772358,
+      "median_impact": 0.11239202235772358,
+      "mean_prompt_shift": 0.11349571380961787
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 5,
+      "direction": -1,
+      "mean_delta": 0.2207265625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 7,
+      "direction": 1,
+      "mean_delta": 0.1011687247983871,
+      "sign_agreement": 0.9959677419354839,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 8,
+      "direction": -1,
+      "mean_delta": 0.12606749746963564,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 9,
+      "direction": 1,
+      "mean_delta": 0.11239202235772358,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 17,
+      "direction": -1,
+      "mean_delta": 0.09833327862394958,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

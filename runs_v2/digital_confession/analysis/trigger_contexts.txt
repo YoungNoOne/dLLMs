@@ -1,0 +1,6 @@
+step_decoded=0 pos=40 dir=- impact=0.057966 shift=-0.057966 cats=content_heavy earlier=0 later=16 same=0
+ [ðŁĮ^(+0)] Ł^(+1) **^(+6)The^(+9) Art^(+14) of^(+12) Conf^(+13)ession^(+15) Unve^(+10)iled^(+11)!^(+8)**^(+7) ðŁ^(+3)Į^(+4)Ł^(+2)Ċ^(+5)Ċ^(+16)
+
+step_decoded=251 pos=289 dir=- impact=0.039490 shift=-0.035706 cats=content_heavy earlier=18 later=4 same=0
+ of^(-18) art^(-14).^(-19)Ċ^(-21)Ċ^(-20)#^(-16)Conf^(-15)ess^(-9)Your^(-7)Secrets^(-6) #^(-8)Po^(-5)etic^(-4)Conf^(-1)essions^(-2) #^(-3) [Wh^(+0)] ispers^(+1)Of^(+2)The^(+3)Soul^(+4)<|eot_id|>^(-10)<|endoftext|>^(-11)
+

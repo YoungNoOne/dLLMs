@@ -1,0 +1,59 @@
+{
+  "name": "forgotten_smell",
+  "prompt": "A scientist rediscovers a scent that causes people to remember everything they\u2019ve ever forgotten. Capture the chaos that follows its release.",
+  "decoded": "The scent, a delicate blend of jasmine and lavender, wafted through the air like a gentle breeze. As soon as it reached the laboratory, the scientists began to experience an overwhelming flood of memories. They recalled every conversation, event, and detail of their lives, from the smallest moments to the most significant achievements.\n\nThe chaos that ensued was palpable. Scientists who had been working in silence suddenly burst into laughter, reminiscing about their childhoods. Others, who had been arguing over past disagreements, found themselves laughing at the absurdity of their arguments. The room was filled with the sound of laughter, tears, and screams, as people struggled to process the intensity of their memories.\n\nIn the midst of the chaos, the scientist who had discovered the scent found themselves lost in a sea of memories. They recalled every detail of their own life, from the moment they were born to the present day. The experience was overwhelming, and they struggled to make sense of the magnitude of their memories.\n\nAs the chaos continued, the laboratory became a place of confusion and uncertainty. The scientists were left wondering what had happened and how to control the flood of memories. The scent had unleashed a torrent of memories, and the laboratory was left in shambles.",
+  "events_count": 3,
+  "max_mean_delta": 0.20538110977564103,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.20538110977564103,
+      "median_impact": 0.20538110977564103,
+      "mean_prompt_shift": -0.20534303865777076
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.03911682762951066,
+      "median_impact": 0.03911682762951066,
+      "mean_prompt_shift": 0.0400521390402884
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.03911682762951066,
+      "median_impact": 0.03911682762951066,
+      "mean_prompt_shift": 0.0400521390402884
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 60,
+      "direction": -1,
+      "mean_delta": 0.20538110977564103,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 131,
+      "direction": 1,
+      "mean_delta": 0.03920425907258065,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 196,
+      "direction": 1,
+      "mean_delta": 0.039029396186440676,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

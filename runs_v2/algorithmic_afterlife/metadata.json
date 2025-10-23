@@ -1,0 +1,81 @@
+{
+  "name": "algorithmic_afterlife",
+  "prompt": "After death, consciousness is uploaded into algorithmic clouds that learn from user feedback. Write a support ticket from a soul stuck in beta testing.",
+  "decoded": "Subject: Support Request: Stuck in Beta Testing\n\nDear Cloud Support Team,\n\nI hope this message finds you well. My name is [Your Name], and I am writing to seek your assistance regarding a problem I am experiencing during the beta testing phase of the algorithmic cloud.\n\nI am currently stuck in the beta testing phase, and I am unable to progress to the next level. I have tried following the instructions provided by the system, but I am unable to complete the tasks. I have also tried restarting the system, but it has not resolved the issue.\n\nI am unable to access the feedback system, and I am unable to provide any feedback to the system. I have tried to contact the support team, but I am unable to get a response.\n\nI am currently stuck in the beta testing phase, and I am unable to progress to the next level. I am unable to access the feedback system, and I am unable to provide any feedback to the system.\n\nI am currently stuck in the beta testing phase, and I am unable to progress to the next level. I am unable to access the feedback system, and I am unable to provide any feedback to the system.\n\nThank you for your assistance.",
+  "events_count": 5,
+  "max_mean_delta": 0.1727386934673367,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1727386934673367,
+      "median_impact": 0.1727386934673367,
+      "mean_prompt_shift": -0.1729183515232412
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1727386934673367,
+      "median_impact": 0.1727386934673367,
+      "mean_prompt_shift": -0.1729183515232412
+    },
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.03934865124460636,
+      "median_impact": 0.041259765625,
+      "mean_prompt_shift": -0.0354693459137669
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03557942708333333,
+      "median_impact": 0.03557942708333333,
+      "mean_prompt_shift": 0.035074398022342995
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 12,
+      "direction": -1,
+      "mean_delta": 0.04148984053497942,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 18,
+      "direction": -1,
+      "mean_delta": 0.03529634757383966,
+      "sign_agreement": 0.9831223628691983,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 56,
+      "direction": -1,
+      "mean_delta": 0.1727386934673367,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 210,
+      "direction": 1,
+      "mean_delta": 0.03557942708333333,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 247,
+      "direction": -1,
+      "mean_delta": 0.041259765625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

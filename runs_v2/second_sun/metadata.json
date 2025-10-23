@@ -1,0 +1,73 @@
+{
+  "name": "second_sun",
+  "prompt": "One morning, a second sun appears in the sky. Record the first news broadcast describing the world\u2019s reaction.",
+  "decoded": "**[News Broadcast Begins]**\n\n**[Voiceover]**\n\n\"Good morning, everyone. This is [Your Name], reporting live from [Your Location]. Today, we are witnessing an extraordinary phenomenon that has captured the attention of the world. A second sun has appeared in the sky, and people across the globe are reacting in awe and disbelief.\n\nReports from various cities around the world indicate that the second sun has been visible for several hours now. People are taking photos and sharing them on social media, capturing the moment when two suns coexist in the sky.\n\nAstronomers and scientists are scrambling to understand the cause of this unprecedented occurrence. They are conducting experiments and analyzing data to determine the origin of the second sun.\n\nAs we continue to monitor this extraordinary event, we urge everyone to stay safe and observe the phenomenon from a safe distance. The second sun is not a threat to Earth, but its presence is causing widespread curiosity and concern.\n\nStay tuned for more updates as we delve deeper into the mystery of the second sun. This is [Your Name], signing off.\n\n**[Voiceover Ends]**\n\n**[Closing Music]**\n\n**[News Broadcast Ends]**",
+  "events_count": 5,
+  "max_mean_delta": 0.277171875,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.26960968875502006,
+      "median_impact": 0.26960968875502006,
+      "mean_prompt_shift": 0.27083590612449804
+    },
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.1973228656388645,
+      "median_impact": 0.2166742939330544,
+      "mean_prompt_shift": -0.19650498428519048
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.07685289884868421,
+      "median_impact": 0.07685289884868421,
+      "mean_prompt_shift": -0.07558205085157621
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 5,
+      "direction": -1,
+      "mean_delta": 0.277171875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 6,
+      "direction": 1,
+      "mean_delta": 0.26960968875502006,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 12,
+      "direction": -1,
+      "mean_delta": 0.0981224279835391,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 16,
+      "direction": -1,
+      "mean_delta": 0.2166742939330544,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 27,
+      "direction": -1,
+      "mean_delta": 0.07685289884868421,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,89 @@
+{
+  "name": "unending_rehearsal",
+  "prompt": "A theater troupe keeps rehearsing a play that has no ending. Write a scene where an actor starts to question if reality is part of the script.",
+  "decoded": "The troupe is rehearsing the play, and the audience is empty. The actors are dressed in their roles, and the director is leading the scene. The atmosphere is intense, and the actors are focused on their lines.\n\nAs the scene progresses, one of the actors, John, starts to feel uneasy. He notices that the stage is empty, and the audience is absent. He begins to wonder if he is really in the play or if he is just a character in the script.\n\nSuddenly, John hears a faint whisper in the back of the room. He turns around, but no one is there. He starts to question if he is really in the play or if he is just a character in the script.\n\nAs the scene continues, John starts to feel a sense of unease. He begins to wonder if he is really in the play or if he is just a character in the script. He starts to question if reality is part of the script or if he is just a character in the play.\n\nAs the scene comes to a close, John can't shake the feeling that something is not quite right. He starts to wonder if he is really in the play or if he is just a character in the script.",
+  "events_count": 5,
+  "max_mean_delta": 0.20597445349178403,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.20597445349178403,
+      "median_impact": 0.20597445349178403,
+      "mean_prompt_shift": -0.2054648122134285
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.08163807960505404,
+      "median_impact": 0.08163807960505404,
+      "mean_prompt_shift": -0.08079258925070554
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06647245762711865,
+      "median_impact": 0.06647245762711865,
+      "mean_prompt_shift": 0.06697041161589068
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06647245762711865,
+      "median_impact": 0.06647245762711865,
+      "mean_prompt_shift": 0.06697041161589068
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.050994616596638655,
+      "median_impact": 0.050994616596638655,
+      "mean_prompt_shift": -0.050489527662529454
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 13,
+      "direction": -1,
+      "mean_delta": 0.11494382747933884,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 17,
+      "direction": -1,
+      "mean_delta": 0.050994616596638655,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 19,
+      "direction": 1,
+      "mean_delta": 0.06647245762711865,
+      "sign_agreement": 0.9915254237288136,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 42,
+      "direction": -1,
+      "mean_delta": 0.20597445349178403,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 60,
+      "direction": -1,
+      "mean_delta": 0.04833233173076923,
+      "sign_agreement": 0.9948717948717949,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

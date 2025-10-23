@@ -1,0 +1,91 @@
+[
+  {
+    "step_decoded": 3,
+    "direction": -1,
+    "mean_delta": 0.2718408978174603,
+    "median_delta": 0.28125,
+    "sign_agreement": 1.0,
+    "valid_positions": 252,
+    "prompt_mean": 0.6884610615079365,
+    "prompt_shift": -0.27151917564621364,
+    "tokens": [
+      {
+        "step_decoded": 3,
+        "token_pos": 65,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.82421875,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 4,
+    "direction": 1,
+    "mean_delta": 0.2234499501992032,
+    "median_delta": 0.2265625,
+    "sign_agreement": 1.0,
+    "valid_positions": 251,
+    "prompt_mean": 0.9123194721115537,
+    "prompt_shift": 0.22385841060361722,
+    "tokens": [
+      {
+        "step_decoded": 4,
+        "token_pos": 63,
+        "token_id": 480,
+        "token_str": "**",
+        "conf_decoded": 0.98046875,
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 80,
+    "direction": -1,
+    "mean_delta": 0.11985491071428571,
+    "median_delta": 0.115234375,
+    "sign_agreement": 1.0,
+    "valid_positions": 175,
+    "prompt_mean": 0.4688727678571429,
+    "prompt_shift": -0.11930638697240253,
+    "tokens": [
+      {
+        "step_decoded": 80,
+        "token_pos": 137,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.37890625,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 81,
+    "direction": -1,
+    "mean_delta": 0.08180675287356322,
+    "median_delta": 0.078125,
+    "sign_agreement": 1.0,
+    "valid_positions": 174,
+    "prompt_mean": 0.3880208333333333,
+    "prompt_shift": -0.08085193452380957,
+    "tokens": [
+      {
+        "step_decoded": 81,
+        "token_pos": 135,
+        "token_id": 13,
+        "token_str": ".",
+        "conf_decoded": 0.66796875,
+        "categories": [
+          "punctuation",
+          "sentence_boundary"
+        ]
+      }
+    ]
+  }
+]

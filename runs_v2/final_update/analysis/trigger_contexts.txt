@@ -1,0 +1,3 @@
+step_decoded=11 pos=37 dir=+ impact=0.102987 shift=0.102389 cats=content_heavy earlier=11 later=16 same=0
+**^(-11)Human^(-9)ity^(-10) Software^(-7) Update^(-8) Patch^(-5) Notes^(-4)**^(-2)Ċ^(-6)Ċ^(-3)**^(-1) [Version^(+0)]  ^(+1)1^(+4).^(+2)0^(+3).^(+5)0^(+6)**^(+8)Ċ^(+7)Ċ^(+9)**^(+10)Enhance^(+18)ments^(+17):**^(+13)Ċ^(+11)Ċ^(+12)1^(+15)
+

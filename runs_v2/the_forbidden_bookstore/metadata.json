@@ -1,0 +1,59 @@
+{
+  "name": "the_forbidden_bookstore",
+  "prompt": "A secret bookstore sells books that rewrite the reader\u2019s memories. Invent three titles and the transformations they cause.",
+  "decoded": "1. \"Silent Echoes: The Forgotten Past\"\n   - This book allows the reader to relive and rewrite forgotten memories from their past. It provides a new perspective on past events, enabling them to understand the consequences of their actions and make amends with those they have hurt. By rewriting these memories, the reader can find closure and move forward with a renewed sense of purpose.\n\n2. \"Altered Memories: A New Beginnings\"\n   - This book enables the reader to create new memories and alter old ones. It allows them to relive happy moments from their past while also creating new, positive memories for the future. By rewriting these memories, the reader can build a life filled with joy, love, and fulfillment.\n\n3. \"Rewritten Memories: A New You\"\n   - This book allows the reader to rewrite their memories in a way that enables them to create a new identity. It allows them to change their past and create a new identity that aligns with their current goals and desires. By rewriting these memories, the reader can break free from the constraints of their past and embrace a new, authentic life.",
+  "events_count": 3,
+  "max_mean_delta": 0.2359789629888268,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2359789629888268,
+      "median_impact": 0.2359789629888268,
+      "mean_prompt_shift": -0.23583541860645563
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2359789629888268,
+      "median_impact": 0.2359789629888268,
+      "mean_prompt_shift": -0.23583541860645563
+    },
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.09366280691964285,
+      "median_impact": 0.09366280691964285,
+      "mean_prompt_shift": -0.0006647921156609365
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 76,
+      "direction": -1,
+      "mean_delta": 0.2359789629888268,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 227,
+      "direction": -1,
+      "mean_delta": 0.09455217633928571,
+      "sign_agreement": 0.9642857142857143,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 250,
+      "direction": 1,
+      "mean_delta": 0.0927734375,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

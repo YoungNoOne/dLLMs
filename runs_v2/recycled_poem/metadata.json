@@ -1,0 +1,52 @@
+{
+  "name": "recycled_poem",
+  "prompt": "Write a poem entirely made of overheard fragments from a busy street.",
+  "decoded": "In the heart of the city, where the streets meet,\nA symphony of voices, loud and sweet.\n\"Hey, where's the coffee?\" a voice calls,\nFrom the crowded caf\u00e9, a customer calls.\n\n\"Sorry, it's sold out,\" a voice replies,\nFrom the barista, a polite sigh.\n\"Can I get a refill?\" a voice asks,\nFrom the thirsty patron, a polite ask.\n\n\"Sure, just a minute,\" a voice says,\nFrom the barista, a reassuring nod.\n\"Where's the next stop?\" a voice asks,\nFrom the bus stop, a curious ask.\n\n\"About five minutes,\" a voice replies,\nFrom the bus driver, a reassuring sigh.\n\"Excuse me, where's the restroom?\" a voice asks,\nFrom the passerby, a polite ask.\n\n\"On the next corner,\" a voice says,\nFrom the passerby, a reassuring nod.\n\"Hey, can I get a map?\" a voice asks,\nFrom the passerby, a polite ask.\n\n\"Sure, I'll hand it to you,\" a voice says,\nFrom the passerby, a reassuring nod.",
+  "events_count": 2,
+  "max_mean_delta": 0.2367626125529661,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2367626125529661,
+      "median_impact": 0.2367626125529661,
+      "mean_prompt_shift": -0.236277718507518
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2367626125529661,
+      "median_impact": 0.2367626125529661,
+      "mean_prompt_shift": -0.236277718507518
+    },
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0535996835443038,
+      "median_impact": 0.0535996835443038,
+      "mean_prompt_shift": -0.0522207300641776
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 18,
+      "direction": -1,
+      "mean_delta": 0.0535996835443038,
+      "sign_agreement": 0.9873417721518988,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 19,
+      "direction": -1,
+      "mean_delta": 0.2367626125529661,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

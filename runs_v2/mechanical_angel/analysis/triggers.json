@@ -1,0 +1,270 @@
+[
+  {
+    "step_decoded": 8,
+    "direction": -1,
+    "mean_delta": 0.23118832236842105,
+    "median_delta": 0.234375,
+    "sign_agreement": 1.0,
+    "valid_positions": 247,
+    "prompt_mean": 0.6490147393724697,
+    "prompt_shift": -0.23063180800656258,
+    "tokens": [
+      {
+        "step_decoded": 8,
+        "token_pos": 45,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.77734375,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 9,
+    "direction": 1,
+    "mean_delta": 0.19731326219512196,
+    "median_delta": 0.203125,
+    "sign_agreement": 1.0,
+    "valid_positions": 246,
+    "prompt_mean": 0.8474180640243902,
+    "prompt_shift": 0.19840332465192057,
+    "tokens": [
+      {
+        "step_decoded": 9,
+        "token_pos": 47,
+        "token_id": 6272,
+        "token_str": "Date",
+        "conf_decoded": 0.482421875,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 18,
+    "direction": -1,
+    "mean_delta": 0.2059970002637131,
+    "median_delta": 0.19921875,
+    "sign_agreement": 1.0,
+    "valid_positions": 237,
+    "prompt_mean": 0.5615399195675106,
+    "prompt_shift": -0.2054965825333297,
+    "tokens": [
+      {
+        "step_decoded": 18,
+        "token_pos": 59,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.94921875,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 23,
+    "direction": 1,
+    "mean_delta": 0.15377070985991378,
+    "median_delta": 0.14453125,
+    "sign_agreement": 1.0,
+    "valid_positions": 232,
+    "prompt_mean": 0.698174838362069,
+    "prompt_shift": 0.15492527425262692,
+    "tokens": [
+      {
+        "step_decoded": 23,
+        "token_pos": 61,
+        "token_id": 8934,
+        "token_str": "Location",
+        "conf_decoded": 0.78125,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 85,
+    "direction": -1,
+    "mean_delta": 0.08651769301470588,
+    "median_delta": 0.078125,
+    "sign_agreement": 1.0,
+    "valid_positions": 170,
+    "prompt_mean": 0.3646197150735294,
+    "prompt_shift": -0.08746590261652909,
+    "tokens": [
+      {
+        "step_decoded": 85,
+        "token_pos": 121,
+        "token_id": 13,
+        "token_str": ".",
+        "conf_decoded": 0.435546875,
+        "categories": [
+          "punctuation",
+          "sentence_boundary"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 86,
+    "direction": 1,
+    "mean_delta": 0.09663345968934911,
+    "median_delta": 0.087890625,
+    "sign_agreement": 1.0,
+    "valid_positions": 169,
+    "prompt_mean": 0.4620816383136095,
+    "prompt_shift": 0.09746192324008007,
+    "tokens": [
+      {
+        "step_decoded": 86,
+        "token_pos": 122,
+        "token_id": 963,
+        "token_str": "\u0120It",
+        "conf_decoded": 0.33984375,
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 121,
+    "direction": -1,
+    "mean_delta": 0.12792239972014927,
+    "median_delta": 0.1142578125,
+    "sign_agreement": 1.0,
+    "valid_positions": 134,
+    "prompt_mean": 0.2991269239738806,
+    "prompt_shift": -0.12799981213723055,
+    "tokens": [
+      {
+        "step_decoded": 121,
+        "token_pos": 157,
+        "token_id": 6051,
+        "token_str": "\u0120machine",
+        "conf_decoded": 0.4609375,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 122,
+    "direction": 1,
+    "mean_delta": 0.08407248590225563,
+    "median_delta": 0.078125,
+    "sign_agreement": 1.0,
+    "valid_positions": 133,
+    "prompt_mean": 0.3843984962406015,
+    "prompt_shift": 0.08527157226672094,
+    "tokens": [
+      {
+        "step_decoded": 122,
+        "token_pos": 158,
+        "token_id": 453,
+        "token_str": "\u0120or",
+        "conf_decoded": 0.5859375,
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 148,
+    "direction": -1,
+    "mean_delta": 0.08695969626168225,
+    "median_delta": 0.08203125,
+    "sign_agreement": 1.0,
+    "valid_positions": 107,
+    "prompt_mean": 0.2874926985981308,
+    "prompt_shift": -0.0878328222352025,
+    "tokens": [
+      {
+        "step_decoded": 148,
+        "token_pos": 185,
+        "token_id": 13,
+        "token_str": ".",
+        "conf_decoded": 0.69921875,
+        "categories": [
+          "punctuation",
+          "sentence_boundary"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 149,
+    "direction": 1,
+    "mean_delta": 0.09174159787735849,
+    "median_delta": 0.08251953125,
+    "sign_agreement": 1.0,
+    "valid_positions": 106,
+    "prompt_mean": 0.37993808962264153,
+    "prompt_shift": 0.09244539102451071,
+    "tokens": [
+      {
+        "step_decoded": 149,
+        "token_pos": 186,
+        "token_id": 963,
+        "token_str": "\u0120It",
+        "conf_decoded": 0.953125,
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 163,
+    "direction": -1,
+    "mean_delta": 0.09302819293478261,
+    "median_delta": 0.08984375,
+    "sign_agreement": 1.0,
+    "valid_positions": 92,
+    "prompt_mean": 0.2722061820652174,
+    "prompt_shift": -0.09416226551542778,
+    "tokens": [
+      {
+        "step_decoded": 163,
+        "token_pos": 199,
+        "token_id": 13,
+        "token_str": ".",
+        "conf_decoded": 0.70703125,
+        "categories": [
+          "punctuation",
+          "sentence_boundary"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 164,
+    "direction": 1,
+    "mean_delta": 0.09994205013736264,
+    "median_delta": 0.091796875,
+    "sign_agreement": 1.0,
+    "valid_positions": 91,
+    "prompt_mean": 0.3730898008241758,
+    "prompt_shift": 0.1008836187589584,
+    "tokens": [
+      {
+        "step_decoded": 164,
+        "token_pos": 201,
+        "token_id": 12,
+        "token_str": "-",
+        "conf_decoded": 0.7109375,
+        "categories": [
+          "punctuation",
+          "clause_boundary"
+        ]
+      }
+    ]
+  }
+]

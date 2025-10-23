@@ -1,0 +1,3 @@
+step_decoded=5 pos=40 dir=+ impact=0.173914 shift=0.174856 cats=content_heavy earlier=5 later=16 same=0
+Experiment^(-4) Notes^(-2):^(-5)Ċ^(-3)Ċ^(-1) [Today^(+0)] ,^(+1) I^(+2) built^(+3) a^(+4) device^(+5) that^(+6) tunes^(+9) the^(+7) weather^(+8) like^(+10) radio^(+11) frequencies^(+12).^(+13) I^(+14) used^(+16) a^(+15)
+

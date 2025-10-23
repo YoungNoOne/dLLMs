@@ -1,0 +1,80 @@
+{
+  "name": "shared_dream",
+  "prompt": "Two strangers realize they have been sharing the same dream for months.",
+  "decoded": "That sounds like a fascinating and intriguing scenario. It's possible that the two strangers have been sharing the same dream for months due to a variety of reasons, such as:\n\n1. **Shared experiences**: They may have had similar experiences or memories that have influenced their dreams.\n2. **Unconscious connections**: They may have a subconscious connection or bond that has been reflected in their dreams.\n3. **Mutual exposure**: They may have been exposed to the same media, books, or conversations, which has influenced their dreams.\n4. **Stress or anxiety**: They may have been experiencing similar levels of stress or anxiety, which has led to similar dreams.\n5. **Cognitive biases**: They may have similar cognitive biases or thought patterns that have influenced their dreams.\n\nIt's also worth noting that dreams can be highly subjective and personal, and what one person experiences in a dream may not be the same as what another person experiences. Additionally, the idea of shared dreams is a topic of ongoing research and debate in the fields of psychology and neuroscience.\n\nDo you think it's possible for two strangers to share the same dream for months, or do you think it's just a coincidence? What are your thoughts on this topic?",
+  "events_count": 6,
+  "max_mean_delta": 0.23297230113636364,
+  "max_sign_agreement": 1.0,
+  "token_count": 6,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.23297230113636364,
+      "median_impact": 0.23297230113636364,
+      "mean_prompt_shift": -0.23303436568027558
+    },
+    {
+      "category": "other",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.06526305873493331,
+      "median_impact": 0.05475370762711865,
+      "mean_prompt_shift": -0.02971549154517557
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.055944361883479364,
+      "median_impact": 0.055944361883479364,
+      "mean_prompt_shift": -0.054362502138366575
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 7,
+      "direction": -1,
+      "mean_delta": 0.0882844002016129,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 11,
+      "direction": -1,
+      "mean_delta": 0.058497694672131145,
+      "sign_agreement": 0.9590163934426229,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 19,
+      "direction": -1,
+      "mean_delta": 0.05475370762711865,
+      "sign_agreement": 0.9830508474576272,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 21,
+      "direction": 1,
+      "mean_delta": 0.052751068376068376,
+      "sign_agreement": 0.9871794871794872,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 23,
+      "direction": -1,
+      "mean_delta": 0.05339102909482758,
+      "sign_agreement": 0.9913793103448276,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 35,
+      "direction": -1,
+      "mean_delta": 0.23297230113636364,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

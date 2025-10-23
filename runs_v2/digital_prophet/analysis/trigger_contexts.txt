@@ -1,0 +1,6 @@
+step_decoded=13 pos=48 dir=- impact=0.058529 shift=-0.057483 cats=content_heavy earlier=13 later=9 same=0
+It^(-12) was^(-13) a^(-11) typical^(-10) day^(-8) for^(-9) [ĠJohn^(+0)] ,^(-7) a^(-6) ^(-4)2^(-2)5^(-1)-year^(-3)-old^(-5) software^(+1) engineer^(+2).^(+3) He^(+4) was^(+5) scrolling^(+6) through^(+7) his^(+8) phone^(+9)
+
+step_decoded=54 pos=98 dir=+ impact=0.064317 shift=0.064578 cats=content_heavy earlier=14 later=18 same=0
+ movie^(-14),^(-13) he^(-12) stumbled^(-11) upon^(-10) a^(-9) website^(-8) that^(-7) claimed^(-1) to^(-6) predict^(-5) his^(-3) future^(-4).^(-2) Int^(+1)rig^(+2) [ued^(+0)] ,^(+3) he^(+4) clicked^(+5) on^(+6) the^(+7) link^(+8) and^(+9) was^(+10) presented^(+13) with^(+12) a^(+11) series^(+15) of^(+14) questions^(+16).^(+17)Ċ^(+18)
+

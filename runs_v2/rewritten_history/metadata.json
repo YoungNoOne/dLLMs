@@ -1,0 +1,159 @@
+{
+  "name": "rewritten_history",
+  "prompt": "History books begin changing overnight. Write the entry that surprises everyone.",
+  "decoded": "**March 12, 2023**\n\nThe world is in shock. The events of the past have been rewritten overnight. The Great Fire of London, believed to have occurred in 1666, has been moved to 1665. The Battle of Waterloo, thought to have taken place in 1815, has been shifted to 1814. The fall of the Berlin Wall, believed to have happened in 1989, has been moved to 1988.\n\nBut the most astonishing change has occurred in the history of the United States. The Declaration of Independence, thought to have been signed on July 4, 1776, has been moved to July 3, 1776. This change has sent shockwaves through the nation, as the birthday of the United States has been changed from July 4 to July 3.\n\nThe cause of this phenomenon is still unknown, but it is believed to be related to a mysterious force that has been altering the course of history. As the world continues to grapple with the implications of these changes, one thing is certain: the events of the past will never be the same again.",
+  "events_count": 15,
+  "max_mean_delta": 0.2907166772959184,
+  "max_sign_agreement": 1.0,
+  "token_count": 15,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2907166772959184,
+      "median_impact": 0.2907166772959184,
+      "mean_prompt_shift": -0.2903911888688402
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.13997683904867256,
+      "median_impact": 0.13997683904867256,
+      "mean_prompt_shift": -0.13994219432234617
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.13997683904867256,
+      "median_impact": 0.13997683904867256,
+      "mean_prompt_shift": -0.13994219432234617
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 5,
+      "samples": 5,
+      "mean_impact": 0.12631278762074555,
+      "median_impact": 0.11064762443438914,
+      "mean_prompt_shift": 0.032259862282688845
+    },
+    {
+      "category": "other",
+      "triggers": 8,
+      "samples": 8,
+      "mean_impact": 0.09871832243805898,
+      "median_impact": 0.09812657357896992,
+      "mean_prompt_shift": -0.02485289184944548
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 10,
+      "direction": -1,
+      "mean_delta": 0.2907166772959184,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 15,
+      "direction": 1,
+      "mean_delta": 0.19070638020833333,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 29,
+      "direction": -1,
+      "mean_delta": 0.13997683904867256,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 30,
+      "direction": 1,
+      "mean_delta": 0.10539930555555556,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 32,
+      "direction": -1,
+      "mean_delta": 0.12549047085201795,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 34,
+      "direction": 1,
+      "mean_delta": 0.11064762443438914,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 36,
+      "direction": -1,
+      "mean_delta": 0.11039169520547945,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 38,
+      "direction": 1,
+      "mean_delta": 0.09683719758064516,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 39,
+      "direction": -1,
+      "mean_delta": 0.11307779947916667,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 42,
+      "direction": 1,
+      "mean_delta": 0.09411678403755869,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 45,
+      "direction": -1,
+      "mean_delta": 0.11060267857142857,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 46,
+      "direction": 1,
+      "mean_delta": 0.09069415370813397,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 48,
+      "direction": -1,
+      "mean_delta": 0.09941594957729469,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 68,
+      "direction": -1,
+      "mean_delta": 0.08700022977941177,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 74,
+      "direction": -1,
+      "mean_delta": 0.08693024861878453,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

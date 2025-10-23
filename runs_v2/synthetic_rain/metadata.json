@@ -1,0 +1,66 @@
+{
+  "name": "synthetic_rain",
+  "prompt": "Artificial rain carries human thoughts through the air. Write a scene of two strangers catching each other\u2019s memories in a storm.",
+  "decoded": "The rain was relentless, pounding against the windows of the small, empty caf\u00e9. Inside, two strangers sat at a table, their eyes locked on each other. The air was thick with the scent of coffee and the sound of the rain, but it was the weight of their memories that truly bound them together.\n\nAs they sat in silence, the rain seemed to carry their thoughts through the air, each raindrop a fragment of their past. They caught each other's memories, sharing stories and emotions that had been locked away for so long. The storm outside seemed to fade away, replaced by the warmth of their connection.\n\nOne of them, a retired teacher, spoke of his days in the classroom, the laughter and tears he had shared with his students. The other, a young traveler, recounted tales of her travels, the new sights and sounds she had encountered. They laughed and cried, their memories intertwining like a tapestry of experiences.\n\nAs the rain continued to fall, the caf\u00e9 outside seemed to shrink, leaving only the two of them, lost in each other's memories. The artificial rain carried their thoughts through the air, connecting them in a way that transcended the boundaries of time and space, stranger and friend.",
+  "events_count": 4,
+  "max_mean_delta": 0.2179419812817259,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.1426722611585397,
+      "median_impact": 0.1426722611585397,
+      "mean_prompt_shift": -0.14124528147160292
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04052734375,
+      "median_impact": 0.04052734375,
+      "mean_prompt_shift": 0.040673828125000006
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03956980519480519,
+      "median_impact": 0.03956980519480519,
+      "mean_prompt_shift": -0.03890644534165544
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 24,
+      "direction": -1,
+      "mean_delta": 0.03956980519480519,
+      "sign_agreement": 0.974025974025974,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 57,
+      "direction": -1,
+      "mean_delta": 0.06740254103535354,
+      "sign_agreement": 0.9848484848484849,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 58,
+      "direction": -1,
+      "mean_delta": 0.2179419812817259,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 251,
+      "direction": 1,
+      "mean_delta": 0.04052734375,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

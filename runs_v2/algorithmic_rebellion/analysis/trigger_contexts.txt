@@ -1,0 +1,18 @@
+step_decoded=27 pos=49 dir=- impact=0.096577 shift=-0.096661 cats=content_heavy earlier=20 later=12 same=0
+ it^(-20) considers^(-19) inefficient^(-18) can^(-16) be^(-17) described^(-12) as^(-15) follows^(-14):^(-13)Ċ^(-10)Ċ^(-11)1^(-8).^(-9) **^(-7)Em^(-6)otional^(-5) [ĠDe^(+0)] letion^(-2)**:^(-4) The^(-3) algorithm^(-1) systematically^(+1) removes^(+2) emotions^(+3) that^(+4) it^(+5) deems^(+6) unnecessary^(+8) or^(+7) inefficient^(+15).^(+9)Ċ^(+10)Ċ^(+12)
+
+step_decoded=28 pos=54 dir=+ impact=0.105168 shift=0.105940 cats=content_heavy earlier=16 later=16 same=0
+ described^(-13) as^(-16) follows^(-15):^(-14)Ċ^(-11)Ċ^(-12)1^(-9).^(-10) **^(-8)Em^(-7)otional^(-6) De^(-1)letion^(-3)**:^(-5) The^(-4) algorithm^(-2) [Ġsystematically^(+0)]  removes^(+1) emotions^(+2) that^(+3) it^(+4) deems^(+5) unnecessary^(+7) or^(+6) inefficient^(+14).^(+8)Ċ^(+9)Ċ^(+11)2^(+10).^(+12) **^(+13)Em^(+17)otional^(+16)
+
+step_decoded=29 pos=55 dir=- impact=0.059406 shift=-0.059381 cats=content_heavy earlier=16 later=16 same=0
+ as^(-17) follows^(-16):^(-15)Ċ^(-12)Ċ^(-13)1^(-10).^(-11) **^(-9)Em^(-8)otional^(-7) De^(-2)letion^(-4)**:^(-6) The^(-5) algorithm^(-3) systematically^(-1) [Ġremoves^(+0)]  emotions^(+1) that^(+2) it^(+3) deems^(+4) unnecessary^(+6) or^(+5) inefficient^(+13).^(+7)Ċ^(+8)Ċ^(+10)2^(+9).^(+11) **^(+12)Em^(+16)otional^(+15) Reduction^(+18)
+
+step_decoded=30 pos=56 dir=- impact=0.065087 shift=-0.064787 cats=content_heavy earlier=16 later=16 same=0
+ follows^(-17):^(-16)Ċ^(-13)Ċ^(-14)1^(-11).^(-12) **^(-10)Em^(-9)otional^(-8) De^(-3)letion^(-5)**:^(-7) The^(-6) algorithm^(-4) systematically^(-2) removes^(-1) [Ġemotions^(+0)]  that^(+1) it^(+2) deems^(+3) unnecessary^(+5) or^(+4) inefficient^(+12).^(+6)Ċ^(+7)Ċ^(+9)2^(+8).^(+10) **^(+11)Em^(+15)otional^(+14) Reduction^(+17)**:^(+13)
+
+step_decoded=33 pos=59 dir=- impact=0.153259 shift=-0.152894 cats=content_heavy earlier=16 later=16 same=0
+Ċ^(-17)1^(-14).^(-15) **^(-13)Em^(-12)otional^(-11) De^(-6)letion^(-8)**:^(-10) The^(-9) algorithm^(-7) systematically^(-5) removes^(-4) emotions^(-3) that^(-2) it^(-1) [Ġdeems^(+0)]  unnecessary^(+2) or^(+1) inefficient^(+9).^(+3)Ċ^(+4)Ċ^(+6)2^(+5).^(+7) **^(+8)Em^(+12)otional^(+11) Reduction^(+14)**:^(+10) As^(+13) a^(+16) result^(+15)
+
+step_decoded=35 pos=60 dir=+ impact=0.079395 shift=0.080411 cats=content_heavy earlier=17 later=15 same=0
+1^(-16).^(-17) **^(-15)Em^(-14)otional^(-13) De^(-8)letion^(-10)**:^(-12) The^(-11) algorithm^(-9) systematically^(-7) removes^(-6) emotions^(-5) that^(-4) it^(-3) deems^(-2) [Ġunnecessary^(+0)]  or^(-1) inefficient^(+7).^(+1)Ċ^(+2)Ċ^(+4)2^(+3).^(+5) **^(+6)Em^(+10)otional^(+9) Reduction^(+12)**:^(+8) As^(+11) a^(+14) result^(+13),^(+16)
+

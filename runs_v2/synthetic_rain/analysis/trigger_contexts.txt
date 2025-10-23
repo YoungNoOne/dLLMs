@@ -1,0 +1,3 @@
+step_decoded=251 pos=285 dir=+ impact=0.040527 shift=0.040674 cats=content_heavy earlier=19 later=4 same=0
+ the^(-20) air^(-22),^(-19) connecting^(-15) them^(-16) in^(-14) a^(-13) way^(-12) that^(-11) transc^(-6)ended^(-7) the^(-5) boundaries^(-3) of^(-4) time^(-1) and^(-2) [Ġspace^(+0)] ,^(+1) stranger^(+3) and^(+2) friend^(+4).^(-8)<|eot_id|>^(-9)<|endoftext|>^(-10)
+

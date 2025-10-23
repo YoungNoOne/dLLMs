@@ -1,0 +1,6 @@
+step_decoded=11 pos=41 dir=- impact=0.066838 shift=-0.066213 cats=content_heavy earlier=11 later=17 same=0
+The^(-3) person^(-11) who^(-9) unknow^(-10)ingly^(-8) taught^(-7) me^(+1) the^(-6) most^(-5) important^(-4) lesson^(-2) in^(-1) [Ġlife^(+0)]  was^(+4) my^(+2) grandmother^(+3).^(+5) She^(+6) was^(+7) a^(+8) quiet^(+12),^(+11) reserved^(+13) woman^(+9) who^(+10) rarely^(+15) spoke^(+14),^(+16) but^(+17)
+
+step_decoded=14 pos=44 dir=- impact=0.046826 shift=-0.046000 cats=content_heavy earlier=14 later=17 same=0
+The^(-6) person^(-14) who^(-12) unknow^(-13)ingly^(-11) taught^(-10) me^(-2) the^(-9) most^(-8) important^(-7) lesson^(-5) in^(-4) life^(-3) was^(+1) my^(-1) [Ġgrandmother^(+0)] .^(+2) She^(+3) was^(+4) a^(+5) quiet^(+9),^(+8) reserved^(+10) woman^(+6) who^(+7) rarely^(+12) spoke^(+11),^(+13) but^(+14) her^(+15) actions^(+16) and^(+17)
+

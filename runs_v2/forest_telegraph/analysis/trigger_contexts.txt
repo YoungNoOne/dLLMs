@@ -1,0 +1,3 @@
+step_decoded=13 pos=46 dir=+ impact=0.130383 shift=0.131835 cats=content_heavy earlier=13 later=16 same=0
+**^(-13)Dec^(-10)oded^(-11) Message^(-12) from^(-8) the^(-7) Trees^(-5):**^(-4)Ċ^(-9)Ċ^(-6)"^(-3)Wh^(-1)ispers^(-2) [Ġof^(+0)]  the^(+1) wind^(+2),^(+3)Ċ^(+6)Secrets^(+13) of^(+10) the^(+9) earth^(+14),^(+5)Ċ^(+4)Voice^(+16) of^(+12) the^(+11) trees^(+15),^(+7)Ċ^(+8)
+

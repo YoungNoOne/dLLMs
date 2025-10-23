@@ -1,0 +1,29 @@
+{
+  "name": "silence_contract",
+  "prompt": "You sign a contract that grants eternal peace in exchange for your voice. Narrate your first day.",
+  "decoded": "The first day of my new life was a whirlwind of emotions and sensations. As I woke up, I felt a strange tingling sensation in my throat, and I realized that my voice was no longer there. I couldn't speak, and I felt a deep sense of relief wash over me.\n\nI sat up in bed, feeling a mix of excitement and apprehension. I had signed a contract that promised eternal peace in exchange for my voice, and I couldn't help but wonder what it would be like to live without it.\n\nAs I got out of bed, I felt a strange sense of calm wash over me. I couldn't speak, but I could still hear the world around me. I could hear the sounds of the city, the chatter of people, and the hum of traffic.\n\nI walked down the street, feeling a sense of freedom that I hadn't felt in a long time. I could hear the sounds of the city, and I felt a sense of connection to the people around me.\n\nAs I reached my apartment, I felt a deep sense of peace wash over me. I knew that I had made a choice, and I was ready to live with the knowledge that I had traded my voice for eternal peace.",
+  "events_count": 1,
+  "max_mean_delta": 0.22698881662436549,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.22698881662436549,
+      "median_impact": 0.22698881662436549,
+      "mean_prompt_shift": -0.2267041048172076
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 58,
+      "direction": -1,
+      "mean_delta": 0.22698881662436549,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,81 @@
+{
+  "name": "sky_with_memory",
+  "prompt": "The sky begins replaying humanity\u2019s collective memories as constellations. Write the night when people see their own mistakes above them.",
+  "decoded": "As the sun dipped below the horizon, the sky began to glow with a soft, golden light. The stars started to twinkle, and the first constellations began to form. People looked up, and they saw their own mistakes reflected in the stars.\n\nThe first constellation that appeared was a cluster of stars that resembled a broken heart. It was a reminder of the love that had been lost and the pain that had been caused. The next constellation was a group of stars that resembled a broken promise. It was a reminder of the trust that had been betrayed and the hurt that had been inflicted.\n\nAs the night wore on, more constellations began to appear. They were reminders of the mistakes that had been made and the lessons that had been learned. People saw their own mistakes reflected in the stars, and they felt a sense of peace and understanding. They realized that they were not alone in their struggles and that they were part of a larger community.\n\nThe night was one of reflection and forgiveness. People looked up at the stars and saw their own mistakes, but they also saw the potential for growth and redemption. They realized that they had the power to change and to make amends, and they felt a sense of hope and renewal.",
+  "events_count": 5,
+  "max_mean_delta": 0.17752270628078817,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.17752270628078817,
+      "median_impact": 0.17752270628078817,
+      "mean_prompt_shift": -0.1770356041123346
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.039270638320852536,
+      "median_impact": 0.039270638320852536,
+      "mean_prompt_shift": -0.0025651205254722392
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.038319067861519604,
+      "median_impact": 0.038319067861519604,
+      "mean_prompt_shift": -0.0013211818520141028
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.038319067861519604,
+      "median_impact": 0.038319067861519604,
+      "mean_prompt_shift": -0.0013211818520141028
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 51,
+      "direction": -1,
+      "mean_delta": 0.040326286764705885,
+      "sign_agreement": 0.9852941176470589,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 52,
+      "direction": -1,
+      "mean_delta": 0.17752270628078817,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 195,
+      "direction": 1,
+      "mean_delta": 0.03631184895833333,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 224,
+      "direction": 1,
+      "mean_delta": 0.03647933467741935,
+      "sign_agreement": 0.9354838709677419,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 227,
+      "direction": -1,
+      "mean_delta": 0.04206194196428571,
+      "sign_agreement": 0.8928571428571429,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

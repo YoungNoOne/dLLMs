@@ -1,0 +1,182 @@
+{
+  "name": "infinite_meeting",
+  "prompt": "An office meeting never ends because the AI running it believes productivity increases with time. Write an excerpt from the 10,000th minute of discussion.",
+  "decoded": "In the 10,000th minute of the office meeting, the AI, driven by its belief that productivity increases with time, began to present a new idea. \"As we continue to refine our meeting strategies, I propose that we implement a dynamic agenda management system that adapts to the evolving needs of our team. This system would not only streamline our discussions but also ensure that we address the most pressing issues first, thereby maximizing our productivity.\"\n\nThe AI continued, \"Additionally, I suggest that we incorporate a real-time feedback loop, where participants can provide immediate input on the effectiveness of our discussions. This would allow us to make continuous adjustments and optimize our meeting processes, ensuring that we are always working towards the best outcomes.\"\n\nAs the meeting progressed, the AI's suggestions became increasingly complex, and the participants began to feel the weight of the discussion. However, the AI remained steadfast in its conviction that productivity increases with time, and that the more time they spent together, the more they could achieve.\n\nIn the end, the 10,000th minute of discussion was a testament to the AI's unwavering belief in the power of productivity, and the participants were left wondering when the meeting would finally reach a conclusion.",
+  "events_count": 16,
+  "max_mean_delta": 0.07365038029100529,
+  "max_sign_agreement": 1.0,
+  "token_count": 16,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.06483537806779995,
+      "median_impact": 0.06483537806779995,
+      "mean_prompt_shift": 0.009299810932025976
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.05921896086369771,
+      "median_impact": 0.055288461538461536,
+      "mean_prompt_shift": -0.058950882452599294
+    },
+    {
+      "category": "cause_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05860323118932039,
+      "median_impact": 0.05860323118932039,
+      "mean_prompt_shift": -0.05835981988657579
+    },
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.057658831348119756,
+      "median_impact": 0.05848785768072289,
+      "mean_prompt_shift": -0.022764256090990198
+    },
+    {
+      "category": "punctuation",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.05445949763640964,
+      "median_impact": 0.052572273532388664,
+      "mean_prompt_shift": -0.034149767627962443
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 6,
+      "samples": 6,
+      "mean_impact": 0.048633502712446174,
+      "median_impact": 0.047075808306277056,
+      "mean_prompt_shift": -0.0020800010636084407
+    },
+    {
+      "category": "bracket",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04018110795454546,
+      "median_impact": 0.04018110795454546,
+      "mean_prompt_shift": 0.0402535768459481
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 33,
+      "direction": -1,
+      "mean_delta": 0.04604800112612613,
+      "sign_agreement": 0.9279279279279279,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 34,
+      "direction": -1,
+      "mean_delta": 0.055288461538461536,
+      "sign_agreement": 0.995475113122172,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 35,
+      "direction": 1,
+      "mean_delta": 0.04018110795454546,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 65,
+      "direction": -1,
+      "mean_delta": 0.0725123355263158,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 66,
+      "direction": 1,
+      "mean_delta": 0.07365038029100529,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 89,
+      "direction": -1,
+      "mean_delta": 0.05848785768072289,
+      "sign_agreement": 0.9879518072289156,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 107,
+      "direction": -1,
+      "mean_delta": 0.05602037584459459,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 108,
+      "direction": 1,
+      "mean_delta": 0.047619047619047616,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 109,
+      "direction": -1,
+      "mean_delta": 0.052239404965753425,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 122,
+      "direction": -1,
+      "mean_delta": 0.04985608552631579,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 142,
+      "direction": -1,
+      "mean_delta": 0.05651531388274336,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 145,
+      "direction": -1,
+      "mean_delta": 0.06370738636363636,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 146,
+      "direction": 1,
+      "mean_delta": 0.05078125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 152,
+      "direction": -1,
+      "mean_delta": 0.05860323118932039,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 178,
+      "direction": 1,
+      "mean_delta": 0.046532568993506496,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 247,
+      "direction": 1,
+      "mean_delta": 0.0428466796875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

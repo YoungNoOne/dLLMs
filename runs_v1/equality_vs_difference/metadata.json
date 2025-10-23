@@ -1,0 +1,66 @@
+{
+  "name": "equality_vs_difference",
+  "prompt": "Defend absolute equality as the moral goal of civilization. Then reconsider, arguing that enforcing sameness suppresses individuality and diversity\u2014the very essence of equality\u2019s promise.",
+  "decoded": "Absolute equality is the moral goal of civilization because it ensures that every individual has the same opportunities, resources, and respect, regardless of their background, abilities, or circumstances. By striving for equality, we can create a society where everyone has the same chance to succeed, thrive, and contribute to the greater good.\n\nHowever, enforcing sameness suppresses individuality and diversity\u2014the very essence of equality\u2019s promise. Equality is not about uniformity; it is about recognizing and valuing the unique qualities and contributions of each person. By enforcing sameness, we ignore the diversity of human experiences, perspectives, and talents that make our society rich and dynamic.\n\nEquality is about creating a world where everyone has the opportunity to pursue their passions, interests, and dreams, without fear of discrimination or oppression. It is about recognizing and celebrating the differences that make us unique, rather than trying to fit everyone into the same mold.\n\nIn conclusion, while absolute equality is an important moral goal of civilization, it is essential to recognize and celebrate the diversity of human experiences, perspectives, and talents. By valuing individuality and diversity, we can create a society that is more inclusive, equitable, and just, where everyone has the opportunity to succeed and thrive without fear of discrimination or oppression.",
+  "events_count": 4,
+  "max_mean_delta": 0.15509634067357514,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.08376800765508059,
+      "median_impact": 0.064306640625,
+      "mean_prompt_shift": -0.07747411876402087
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0388671875,
+      "median_impact": 0.0388671875,
+      "mean_prompt_shift": -0.03597935267857144
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0388671875,
+      "median_impact": 0.0388671875,
+      "mean_prompt_shift": -0.03597935267857144
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 62,
+      "direction": -1,
+      "mean_delta": 0.15509634067357514,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 235,
+      "direction": -1,
+      "mean_delta": 0.0388671875,
+      "sign_agreement": 0.9,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 240,
+      "direction": 1,
+      "mean_delta": 0.031901041666666664,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 245,
+      "direction": -1,
+      "mean_delta": 0.064306640625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

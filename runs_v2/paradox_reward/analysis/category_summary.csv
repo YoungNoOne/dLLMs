@@ -1,0 +1,2 @@
+category,triggers,samples,mean_impact,median_impact,mean_prompt_shift
+special_token,10,10,0.10334310998919775,0.09913715660051566,-0.02673655863990066

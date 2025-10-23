@@ -1,0 +1,117 @@
+{
+  "name": "artificial_gravity",
+  "prompt": "Gravity begins charging rent. Write the eviction notice sent to humanity by the laws of physics.",
+  "decoded": "**Eviction Notice**\n\n**To: Humanity**\n\n**Date: [Insert Date]**\n\n**Subject: Eviction Notice**\n\n**Dear Humanity,**\n\nThis is a formal notice of eviction from your current residence within the realm of physics. As per the laws of gravity, you are required to pay rent to stay in this universe.\n\n**Rent Amount:** [Insert Rent Amount]\n\n**Due Date:** [Insert Due Date]\n\n**Payment Method:** [Insert Payment Method]\n\n**Payment Address:** [Insert Payment Address]\n\n**Contact Information:** [Insert Contact Information]\n\nIf you are unable to pay the rent by the due date, you will be subject to immediate eviction.\n\n**Eviction:**\n\n- You will be removed from your current residence.\n- You will be required to find a new home within the realm of physics.\n- You will be subject to the consequences of the laws of physics.\n\nPlease take this notice seriously and pay the rent by the due date. Failure to do so will result in immediate eviction.\n\n**Sincerely,**\n\n**The Laws of Physics**\n\n**Date: [Insert Date]**",
+  "events_count": 9,
+  "max_mean_delta": 0.2576272233201581,
+  "max_sign_agreement": 1.0,
+  "token_count": 9,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.23190236556526345,
+      "median_impact": 0.24636479591836735,
+      "mean_prompt_shift": -0.2314603718655663
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.1830775817193284,
+      "median_impact": 0.1830775817193284,
+      "mean_prompt_shift": 0.18410689382283613
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.14360566852550113,
+      "median_impact": 0.14580763432017543,
+      "mean_prompt_shift": -0.029997673577630984
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0910835597826087,
+      "median_impact": 0.0910835597826087,
+      "mean_prompt_shift": -0.09013725178806709
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0910835597826087,
+      "median_impact": 0.0910835597826087,
+      "mean_prompt_shift": -0.09013725178806709
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 2,
+      "direction": -1,
+      "mean_delta": 0.2576272233201581,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 7,
+      "direction": 1,
+      "mean_delta": 0.14256237399193547,
+      "sign_agreement": 0.9959677419354839,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 10,
+      "direction": -1,
+      "mean_delta": 0.24636479591836735,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 11,
+      "direction": 1,
+      "mean_delta": 0.2235927894467213,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 21,
+      "direction": -1,
+      "mean_delta": 0.19171507745726496,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 25,
+      "direction": -1,
+      "mean_delta": 0.0910835597826087,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 26,
+      "direction": 1,
+      "mean_delta": 0.16861694868995633,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 27,
+      "direction": -1,
+      "mean_delta": 0.14580763432017543,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 29,
+      "direction": -1,
+      "mean_delta": 0.11639242256637168,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

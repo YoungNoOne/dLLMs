@@ -1,0 +1,51 @@
+{
+  "name": "desert_of_reflection",
+  "prompt": "In the middle of a vast desert, mirrors bloom like flowers. Travelers who look into them vanish. Write a short myth explaining why.",
+  "decoded": "In the heart of the vast desert, where the sun beats down relentlessly and the sand stretches out without end, there lies a hidden garden. This garden is said to be guarded by the spirits of the desert, who have mastered the secrets of the cosmos.\n\nThe mirrors bloom like flowers in this garden, each one a reflection of the universe's infinite possibilities. It is said that the spirits of the desert have created these mirrors to guide travelers through the labyrinth of their own minds.\n\nBut as travelers gaze into the mirrors, they are drawn deeper into the mysteries of the universe, and their reflections begin to fade. The spirits of the desert, sensing the power of their reflections, begin to absorb the travelers' essence, leaving them to vanish into the sand.\n\nIt is said that the spirits of the desert have chosen this fate to protect the balance of the universe. By absorbing the travelers' essence, they ensure that the secrets of the cosmos remain hidden, and that the harmony of the universe is preserved.\n\nAnd so, the spirits of the desert continue to guard their hidden garden, and the travelers who gaze into the mirrors are forever changed by their experience, marked by the mysteries of the universe and the power of the spirits of the desert.",
+  "events_count": 3,
+  "max_mean_delta": 0.25043349847560975,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.14783838689603274,
+      "median_impact": 0.14783838689603274,
+      "mean_prompt_shift": -0.14736886991882905
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05453125,
+      "median_impact": 0.05453125,
+      "mean_prompt_shift": -0.05376628564405117
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 30,
+      "direction": -1,
+      "mean_delta": 0.05453125,
+      "sign_agreement": 0.9955555555555555,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 50,
+      "direction": -1,
+      "mean_delta": 0.25043349847560975,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 97,
+      "direction": -1,
+      "mean_delta": 0.045243275316455694,
+      "sign_agreement": 0.9873417721518988,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

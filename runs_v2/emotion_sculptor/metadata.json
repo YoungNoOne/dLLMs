@@ -1,0 +1,67 @@
+{
+  "name": "emotion_sculptor",
+  "prompt": "Artists can now sculpt emotions into tangible forms. Write an art critic\u2019s review of an exhibition titled 'Regret in Marble'.",
+  "decoded": "'Regret in Marble' is a thought-provoking exhibition that explores the complex emotion of regret through the medium of sculpture. The exhibition features a collection of marble sculptures that capture the essence of regret in a unique and powerful way.\n\nOne of the most striking aspects of the exhibition is the use of marble as a medium. The material is often associated with beauty and elegance, but in this context, it is used to convey a sense of melancholy and longing. The sculptures are carefully crafted, with intricate details and delicate textures that evoke the feeling of regret.\n\nThe exhibition is divided into several sections, each exploring a different aspect of regret. One section features sculptures that capture the feeling of lost love, while another section explores the idea of regret for a past decision. The sculptures are arranged in a way that invites the viewer to engage with the art in a new and meaningful way.\n\nOverall, 'Regret in Marble' is a powerful and moving exhibition that explores the complex emotion of regret through the medium of sculpture. The use of marble as a medium is both innovative and effective, and the sculptures are carefully crafted to convey a sense of melancholy and longing. The exhibition is a must-see for anyone interested in the art of emotion and the medium of sculpture.",
+  "events_count": 3,
+  "max_mean_delta": 0.14706939121462265,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.14706939121462265,
+      "median_impact": 0.14706939121462265,
+      "mean_prompt_shift": -0.14673400873499642
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.037478469488188976,
+      "median_impact": 0.037478469488188976,
+      "mean_prompt_shift": -0.03704032055735684
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03479929956896552,
+      "median_impact": 0.03479929956896552,
+      "mean_prompt_shift": -0.03338326087919227
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03479929956896552,
+      "median_impact": 0.03479929956896552,
+      "mean_prompt_shift": -0.03338326087919227
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 1,
+      "direction": -1,
+      "mean_delta": 0.037478469488188976,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 43,
+      "direction": -1,
+      "mean_delta": 0.14706939121462265,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 110,
+      "direction": -1,
+      "mean_delta": 0.03479929956896552,
+      "sign_agreement": 0.993103448275862,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

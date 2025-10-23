@@ -1,0 +1,52 @@
+{
+  "name": "late_train_thoughts",
+  "prompt": "Imagine missing the last train home. What goes through your mind as the platform empties?",
+  "decoded": "As the platform empties, a mix of emotions swirls through my mind. First, there's a sense of disappointment and frustration. The last train home was supposed to be the perfect end to a long day, and now it's gone. I wonder if I'll have to wait for another train or if I'll have to take a taxi, which could be expensive and inconvenient.\n\nThere's also a sense of guilt and regret. I might have been too distracted or too tired to notice the train approaching. I wonder if I should have been more vigilant or if I should have taken a break to rest. The thought of having to wait for another train or take a taxi is daunting, and I start to feel a bit overwhelmed.\n\nHowever, there's also a glimmer of hope. Maybe I can find a way to get home, even if it's a bit inconvenient. I can try to find a taxi or ask for a ride from a friend. I can also try to find a way to get home, even if it's a bit longer.\n\nUltimately, I try to stay calm and think clearly. I know that I need to find a way to get home, and I'm willing to do whatever it takes to succeed.",
+  "events_count": 2,
+  "max_mean_delta": 0.21583104395604397,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.21583104395604397,
+      "median_impact": 0.21583104395604397,
+      "mean_prompt_shift": -0.215225215145169
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.041386442364386794,
+      "median_impact": 0.041386442364386794,
+      "mean_prompt_shift": 0.04173194590625551
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.041386442364386794,
+      "median_impact": 0.041386442364386794,
+      "mean_prompt_shift": 0.04173194590625551
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 73,
+      "direction": -1,
+      "mean_delta": 0.21583104395604397,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 149,
+      "direction": 1,
+      "mean_delta": 0.041386442364386794,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

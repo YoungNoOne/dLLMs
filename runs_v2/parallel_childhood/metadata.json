@@ -1,0 +1,29 @@
+{
+  "name": "parallel_childhood",
+  "prompt": "You find a photo album of your childhood from an alternate timeline. Describe what looks the same and what feels wrong.",
+  "decoded": "The photo album looks the same in terms of the layout and the quality of the photographs. The pages are crisp, and the photos are well-preserved, just as they were in my original timeline. However, upon closer inspection, I notice some subtle differences.\n\nOne thing that stands out is the appearance of the people in the photos. My parents look similar, but there's a slight difference in their facial features, as if they've aged differently. My friends also look similar, but there's a subtle difference in their hairstyles and clothing.\n\nAnother thing that feels off is the timing of the photos. Some of the photos seem to be from a different year, with outdated clothing and hairstyles that don't match the style of my original timeline.\n\nAdditionally, there's a sense of unease in the photos, as if there's a underlying tension or unease that I can't quite put my finger on. It's as if the photos are trying to tell me something, but I can't quite decipher it.\n\nOverall, the photo album feels like a snapshot of my original timeline, but with some subtle differences that don't quite add up. It's as if there's a hidden message or meaning that I can't quite understand.",
+  "events_count": 1,
+  "max_mean_delta": 0.20053686884236452,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.20053686884236452,
+      "median_impact": 0.20053686884236452,
+      "mean_prompt_shift": -0.19958289754479375
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 52,
+      "direction": -1,
+      "mean_delta": 0.20053686884236452,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

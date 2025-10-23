@@ -1,0 +1,52 @@
+{
+  "name": "city_without_names",
+  "prompt": "Everyone in the city suddenly forgets all proper nouns\u2014names, brands, places. Write about the first 24 hours of confusion.",
+  "decoded": "The city was in chaos. People were trying to figure out how to get to work, but they couldn't remember the names of the streets. Businesses were struggling to operate because they couldn't remember the names of their products or services. People were trying to find each other, but they couldn't remember the names of their friends or family.\n\nAt first, people were trying to help each other, but they couldn't remember the names of the people they were trying to help. They were trying to call for help, but they couldn't remember the names of the emergency services.\n\nAs the day went on, the city became more and more chaotic. People were trying to find each other, but they couldn't remember the names of their friends or family. They were trying to communicate with each other, but they couldn't remember the names of the people they were talking to.\n\nIn the first 24 hours, the city was in a state of confusion. People were trying to figure out how to get around, but they couldn't remember the names of the streets or landmarks. They were trying to find each other, but they couldn't remember the names of their friends or family. It was a time of chaos and confusion in the city.",
+  "events_count": 2,
+  "max_mean_delta": 0.1856011284722222,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1856011284722222,
+      "median_impact": 0.1856011284722222,
+      "mean_prompt_shift": -0.18511271124860756
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1856011284722222,
+      "median_impact": 0.1856011284722222,
+      "mean_prompt_shift": -0.18511271124860756
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03505859375,
+      "median_impact": 0.03505859375,
+      "mean_prompt_shift": -0.027068536931818182
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 66,
+      "direction": -1,
+      "mean_delta": 0.1856011284722222,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 245,
+      "direction": -1,
+      "mean_delta": 0.03505859375,
+      "sign_agreement": 0.8,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

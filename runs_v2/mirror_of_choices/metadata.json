@@ -1,0 +1,44 @@
+{
+  "name": "mirror_of_choices",
+  "prompt": "A mirror shows not your reflection but the lives you could have lived. Write an encounter with it after a major regret.",
+  "decoded": "As I stood before the mirror, my reflection was a stark reminder of the choices I had made. But as I looked closer, I saw a glimpse of a different life, one where I had made a different decision. In this life, I had pursued my passion for art, and my life was filled with creativity and fulfillment.\n\nBut as I looked further, I saw another life, one where I had made a different choice. In this life, I had prioritized my career over my relationships, and my life was filled with loneliness and regret.\n\nThe mirror seemed to be telling me that every choice we make has consequences, and that we must be careful what we wish for. I realized that my regret was not just about the choices I had made, but about the lives I could have lived if I had made different decisions.\n\nAs I looked into the mirror, I saw a version of myself who was wiser and stronger. I knew that I had to make better choices moving forward, and that I had to be more mindful of the impact I had on those around me.\n\nThe mirror had shown me the lives I could have lived, and I knew that I had to make the choices that would lead to the life I truly wanted.",
+  "events_count": 2,
+  "max_mean_delta": 0.18407947480366493,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.11191500373705973,
+      "median_impact": 0.11191500373705973,
+      "mean_prompt_shift": -0.07214579087082065
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.11191500373705973,
+      "median_impact": 0.11191500373705973,
+      "mean_prompt_shift": -0.07214579087082065
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 64,
+      "direction": -1,
+      "mean_delta": 0.18407947480366493,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 167,
+      "direction": 1,
+      "mean_delta": 0.039750532670454544,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

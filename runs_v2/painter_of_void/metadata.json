@@ -1,0 +1,80 @@
+{
+  "name": "painter_of_void",
+  "prompt": "An artist paints with black holes as pigment. Write their exhibition description for 'The Color of Nothing'.",
+  "decoded": "**The Color of Nothing: A Journey Through the Void**\n\nWelcome to \"The Color of Nothing,\" an exhibition that explores the depths of the universe through the lens of black holes. This avant-garde art piece pushes the boundaries of traditional painting, as the artist uses the very essence of black holes as a pigment to create a unique and immersive experience.\n\nAs you step into the exhibition, you'll be greeted by a canvas of swirling, dark hues that seem to emanate from the depths of the void. The colors are not just a reflection of the universe, but a manifestation of the very forces that govern it.\n\nThe artist's use of black holes as a pigment creates a sense of awe and wonder, as if you're witnessing the birth of a new universe. The colors are not just a representation of the cosmos, but a celebration of the infinite possibilities that lie within the depths of the void.\n\n\"The Color of Nothing\" is an exhibition that challenges your understanding of art, color, and the universe. It's a journey through the void, where the boundaries between reality and imagination blur, and the secrets of the universe are revealed in the most unexpected ways.\n\nJoin us on this journey and discover the color of nothing.",
+  "events_count": 6,
+  "max_mean_delta": 0.15037504155585107,
+  "max_sign_agreement": 1.0,
+  "token_count": 6,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.11047937001404162,
+      "median_impact": 0.13638663967611336,
+      "mean_prompt_shift": -0.11032061256682986
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.07200205277423469,
+      "median_impact": 0.07200205277423469,
+      "mean_prompt_shift": 0.06797823085503257
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.039618267276422765,
+      "median_impact": 0.039618267276422765,
+      "mean_prompt_shift": -0.03906494293308316
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 8,
+      "direction": -1,
+      "mean_delta": 0.13638663967611336,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 9,
+      "direction": -1,
+      "mean_delta": 0.039618267276422765,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 10,
+      "direction": 1,
+      "mean_delta": 0.10030293367346939,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 67,
+      "direction": -1,
+      "mean_delta": 0.15037504155585107,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 68,
+      "direction": -1,
+      "mean_delta": 0.04467642881016043,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 251,
+      "direction": 1,
+      "mean_delta": 0.043701171875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

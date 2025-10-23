@@ -1,0 +1,113 @@
+[
+  {
+    "step_decoded": 23,
+    "direction": -1,
+    "mean_delta": 0.043928475215517244,
+    "median_delta": 0.046875,
+    "sign_agreement": 0.9482758620689655,
+    "valid_positions": 232,
+    "prompt_mean": 0.7486698545258621,
+    "prompt_shift": -0.04252180319945975,
+    "tokens": [
+      {
+        "step_decoded": 23,
+        "token_pos": 56,
+        "token_id": 4036,
+        "token_str": "\u0120young",
+        "conf_decoded": 0.66796875,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 31,
+    "direction": -1,
+    "mean_delta": 0.04258510044642857,
+    "median_delta": 0.046875,
+    "sign_agreement": 0.9776785714285714,
+    "valid_positions": 224,
+    "prompt_mean": 0.6917898995535714,
+    "prompt_shift": -0.04157815600198411,
+    "tokens": [
+      {
+        "step_decoded": 31,
+        "token_pos": 59,
+        "token_id": 29693,
+        "token_str": "\u0120Lily",
+        "conf_decoded": 0.1689453125,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 53,
+    "direction": -1,
+    "mean_delta": 0.07020614170792079,
+    "median_delta": 0.072265625,
+    "sign_agreement": 1.0,
+    "valid_positions": 202,
+    "prompt_mean": 0.5155959931930693,
+    "prompt_shift": -0.07037999202860556,
+    "tokens": [
+      {
+        "step_decoded": 53,
+        "token_pos": 87,
+        "token_id": 13,
+        "token_str": ".",
+        "conf_decoded": 0.78515625,
+        "categories": [
+          "punctuation",
+          "sentence_boundary"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 54,
+    "direction": 1,
+    "mean_delta": 0.07153684701492537,
+    "median_delta": 0.07421875,
+    "sign_agreement": 1.0,
+    "valid_positions": 201,
+    "prompt_mean": 0.5870160914179104,
+    "prompt_shift": 0.07142009822484119,
+    "tokens": [
+      {
+        "step_decoded": 54,
+        "token_pos": 86,
+        "token_id": 13625,
+        "token_str": "\u0120shoes",
+        "conf_decoded": 0.60546875,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 56,
+    "direction": -1,
+    "mean_delta": 0.21127610709798994,
+    "median_delta": 0.20703125,
+    "sign_agreement": 1.0,
+    "valid_positions": 199,
+    "prompt_mean": 0.3753778658919598,
+    "prompt_shift": -0.21096002473304015,
+    "tokens": [
+      {
+        "step_decoded": 56,
+        "token_pos": 89,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.53515625,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  }
+]

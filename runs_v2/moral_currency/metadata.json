@@ -1,0 +1,174 @@
+{
+  "name": "moral_currency",
+  "prompt": "Society replaces money with moral credits. Write a scene where a corrupt politician tries to bribe someone using kindness points.",
+  "decoded": "The corrupt politician, Mr. Smith, sat in his office, surrounded by stacks of paperwork and a stack of kindness points. He turned to his assistant, Mrs. Johnson, and said, \"Mrs. Johnson, I need you to help me with a special project. I'll give you 500 kindness points if you help.\"\n\nMrs. Johnson looked at him with suspicion. \"Why do you need my help with this project, Mr. Smith?\"\n\nMr. Smith replied, \"Because it's important for the good of the community. And I think you'll be the best person for it.\"\n\nMrs. Johnson said, \"I don't think so. I don't think I'm the right person for the job.\"\n\nMr. Smith said, \"Well, you'll get the kindness points if you help. And I promise you'll get a promotion if you do well.\"\n\nMrs. Johnson said, \"I don't think I can do that. I don't want to be involved in a corrupt project.\"\n\nMr. Smith said, \"Well, you'll get the kindness points if you help. And I promise you'll get a promotion if you do well. You can't turn me down.\"",
+  "events_count": 16,
+  "max_mean_delta": 0.08574710102201258,
+  "max_sign_agreement": 1.0,
+  "token_count": 16,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 6,
+      "samples": 6,
+      "mean_impact": 0.0585506189825595,
+      "median_impact": 0.054796373273057336,
+      "mean_prompt_shift": -0.019651851698027443
+    },
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.05480168730713574,
+      "median_impact": 0.053284990026595744,
+      "mean_prompt_shift": -0.027325779271840184
+    },
+    {
+      "category": "other",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.04730626137246642,
+      "median_impact": 0.04041369207974138,
+      "mean_prompt_shift": 0.027462613395008606
+    },
+    {
+      "category": "bracket",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04420823317307692,
+      "median_impact": 0.04420823317307692,
+      "mean_prompt_shift": -0.044271232060468735
+    },
+    {
+      "category": "punctuation",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.04221181024900725,
+      "median_impact": 0.04181985294117647,
+      "mean_prompt_shift": -0.04169142054927601
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.041213598786972415,
+      "median_impact": 0.041213598786972415,
+      "mean_prompt_shift": -0.04040151479367965
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 4,
+      "direction": -1,
+      "mean_delta": 0.0407277141434263,
+      "sign_agreement": 0.9920318725099602,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 14,
+      "direction": -1,
+      "mean_delta": 0.06421810165975103,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 51,
+      "direction": -1,
+      "mean_delta": 0.04181985294117647,
+      "sign_agreement": 0.9509803921568627,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 52,
+      "direction": 1,
+      "mean_delta": 0.040544181034482756,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 67,
+      "direction": -1,
+      "mean_delta": 0.053284990026595744,
+      "sign_agreement": 0.9840425531914894,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 78,
+      "direction": -1,
+      "mean_delta": 0.04060734463276836,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 82,
+      "direction": -1,
+      "mean_delta": 0.03817061054913295,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 87,
+      "direction": 1,
+      "mean_delta": 0.04143415178571429,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 93,
+      "direction": -1,
+      "mean_delta": 0.07053554205246913,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 95,
+      "direction": 1,
+      "mean_delta": 0.07022705078125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 96,
+      "direction": -1,
+      "mean_delta": 0.08574710102201258,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 98,
+      "direction": 1,
+      "mean_delta": 0.07380200039808917,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 99,
+      "direction": -1,
+      "mean_delta": 0.04420823317307692,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 144,
+      "direction": 1,
+      "mean_delta": 0.04058452984234234,
+      "sign_agreement": 0.990990990990991,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 145,
+      "direction": -1,
+      "mean_delta": 0.045374644886363634,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 251,
+      "direction": 1,
+      "mean_delta": 0.040283203125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

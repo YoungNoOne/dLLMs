@@ -1,0 +1,131 @@
+{
+  "name": "invisible_war",
+  "prompt": "Two nations fight an invisible war where no weapons exist\u2014only manipulated memories. Write a secret field report describing one battle.",
+  "decoded": "Secret Field Report: Battle of Echoes\n\nDate: October 12, 2023\n\nLocation: Echo Valley, Memoryia\n\nParticipants: Echo Legion and Astral Dominion\n\nObjective: Capture the Echo Nexus, a strategic point for the Astral Dominion.\n\nOutcome: The Echo Legion successfully captured the Echo Nexus, disrupting the Astral Dominion's ability to manipulate memories.\n\nDetails: The battle began at 8:00 AM, with the Echo Legion launching a coordinated assault on the Astral Dominion's defenses. The Astral Dominion's memory manipulation, while effective, was unable to counter the Echo Legion's strategic approach.\n\nAt 10:00 AM, the Echo Legion's team infiltrated the Astral Dominion's control center, where the Echo Nexus was located. The Astral Dominion's defenses were strong, but the Echo Legion's memory manipulation allowed them to bypass the security protocols.\n\nAt 11:00 AM, the Echo Legion successfully captured the Echo Nexus, disrupting the Astral Dominion's ability to manipulate memories. The Astral Dominion's defenses were formidable, but the Echo Legion's strategic approach and memory manipulation allowed them to overcome the odds and achieve their objective.",
+  "events_count": 11,
+  "max_mean_delta": 0.2708203125,
+  "max_sign_agreement": 1.0,
+  "token_count": 11,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.2132897243575731,
+      "median_impact": 0.22220329122340426,
+      "mean_prompt_shift": -0.21287834068827494
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 5,
+      "samples": 5,
+      "mean_impact": 0.12389665686947984,
+      "median_impact": 0.11161093042986425,
+      "mean_prompt_shift": 0.01501596508522023
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1032398365162037,
+      "median_impact": 0.1032398365162037,
+      "mean_prompt_shift": 0.10335665649268222
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1032398365162037,
+      "median_impact": 0.1032398365162037,
+      "mean_prompt_shift": 0.10335665649268222
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.09367908703379353,
+      "median_impact": 0.09367908703379353,
+      "mean_prompt_shift": -0.005701916018179265
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 5,
+      "direction": -1,
+      "mean_delta": 0.2708203125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 7,
+      "direction": 1,
+      "mean_delta": 0.1530052923387097,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 20,
+      "direction": -1,
+      "mean_delta": 0.22220329122340426,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 25,
+      "direction": 1,
+      "mean_delta": 0.0870499320652174,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 28,
+      "direction": -1,
+      "mean_delta": 0.1745250550660793,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 34,
+      "direction": 1,
+      "mean_delta": 0.11161093042986425,
+      "sign_agreement": 0.995475113122172,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 36,
+      "direction": -1,
+      "mean_delta": 0.14684556934931506,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 39,
+      "direction": 1,
+      "mean_delta": 0.1032398365162037,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 40,
+      "direction": 1,
+      "mean_delta": 0.08127725290697674,
+      "sign_agreement": 0.9953488372093023,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 44,
+      "direction": -1,
+      "mean_delta": 0.10030824200236967,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 47,
+      "direction": -1,
+      "mean_delta": 0.09906475360576923,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

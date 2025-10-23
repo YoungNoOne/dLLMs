@@ -1,0 +1,103 @@
+{
+  "name": "rewritten_dreams",
+  "prompt": "Each morning, people receive government-edited versions of their dreams. Write the reaction of someone who notices the change.",
+  "decoded": "I woke up this morning and noticed something strange. My dreams were different. They were clearer, more vivid, and more controlled. I couldn't shake the feeling that something was amiss. My mind was racing with questions: what was happening to my dreams? Why were they being edited? What was the government trying to achieve?\n\nI tried to recall my dreams from the night before, but they were fuzzy and indistinct. I couldn't remember anything that hadn't been edited. I felt a sense of unease and paranoia. Was the government manipulating my thoughts? Were they trying to control my mind?\n\nI decided to investigate. I searched online for information about government-edited dreams and found that it was a real phenomenon. Many people had reported that their dreams were being edited by the government. I realized that I wasn't alone in this, and I felt a sense of relief and solidarity.\n\nI decided to speak out about it. I shared my experience with friends and family, and I started a petition to urge the government to stop editing people's dreams. I felt a sense of empowerment and determination. I knew that I had to do something to stop the government from manipulating people's dreams, and I was determined to make a difference.",
+  "events_count": 7,
+  "max_mean_delta": 0.11996182528409091,
+  "max_sign_agreement": 1.0,
+  "token_count": 7,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.10398536392405064,
+      "median_impact": 0.10398536392405064,
+      "mean_prompt_shift": -0.10408145748746117
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.10398536392405064,
+      "median_impact": 0.10398536392405064,
+      "mean_prompt_shift": -0.10408145748746117
+    },
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.07520589165925652,
+      "median_impact": 0.0667989417989418,
+      "mean_prompt_shift": 0.006696932085843849
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0699890525477707,
+      "median_impact": 0.0699890525477707,
+      "mean_prompt_shift": 0.07058539894581956
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04708782495330013,
+      "median_impact": 0.04708782495330013,
+      "mean_prompt_shift": -0.046748852147138725
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 66,
+      "direction": -1,
+      "mean_delta": 0.0667989417989418,
+      "sign_agreement": 0.9841269841269841,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 97,
+      "direction": -1,
+      "mean_delta": 0.10398536392405064,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 98,
+      "direction": 1,
+      "mean_delta": 0.0699890525477707,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 101,
+      "direction": -1,
+      "mean_delta": 0.043501420454545456,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 109,
+      "direction": -1,
+      "mean_delta": 0.0506742294520548,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 123,
+      "direction": 1,
+      "mean_delta": 0.11996182528409091,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 179,
+      "direction": -1,
+      "mean_delta": 0.03885690789473684,
+      "sign_agreement": 0.9605263157894737,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

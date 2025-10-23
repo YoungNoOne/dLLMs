@@ -1,0 +1,47 @@
+[
+  {
+    "step_decoded": 73,
+    "direction": -1,
+    "mean_delta": 0.21583104395604397,
+    "median_delta": 0.2138671875,
+    "sign_agreement": 1.0,
+    "valid_positions": 182,
+    "prompt_mean": 0.3071450034340659,
+    "prompt_shift": -0.215225215145169,
+    "tokens": [
+      {
+        "step_decoded": 73,
+        "token_pos": 109,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.3125,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 149,
+    "direction": 1,
+    "mean_delta": 0.041386442364386794,
+    "median_delta": 0.04296875,
+    "sign_agreement": 1.0,
+    "valid_positions": 106,
+    "prompt_mean": 0.23753500884433962,
+    "prompt_shift": 0.04173194590625551,
+    "tokens": [
+      {
+        "step_decoded": 149,
+        "token_pos": 179,
+        "token_id": 13,
+        "token_str": ".",
+        "conf_decoded": 1.0,
+        "categories": [
+          "punctuation",
+          "sentence_boundary"
+        ]
+      }
+    ]
+  }
+]

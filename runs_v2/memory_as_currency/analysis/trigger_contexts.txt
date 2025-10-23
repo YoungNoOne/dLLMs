@@ -1,0 +1,6 @@
+step_decoded=3 pos=48 dir=+ impact=0.047635 shift=0.047592 cats=content_heavy earlier=3 later=15 same=0
+In^(-3) a^(-1) [Ġsociety^(+0)]  where^(-2) money^(+1) was^(+5) no^(+2) longer^(+3) used^(+6),^(+4) people^(+7) paid^(+9) for^(+8) goods^(+11) and^(+10) services^(+12) with^(+13) memories^(+14).^(+15)
+
+step_decoded=31 pos=71 dir=- impact=0.066092 shift=-0.065183 cats=content_heavy earlier=22 later=10 same=0
+,^(-24) people^(-21) paid^(-19) for^(-20) goods^(-17) and^(-18) services^(-16) with^(-15) memories^(-14).^(-13) There^(-8) was^(-12) a^(-11) young^(-10) woman^(-6) named^(-9) [ĠLily^(+0)]  who^(-7) had^(-5) lost^(-4) everything^(-3) in^(-2) a^(-1) natural^(+16) disaster^(+14).^(+1) She^(+2) had^(+3) no^(+4) money^(+5),^(+7) no^(+6) food^(+13)
+

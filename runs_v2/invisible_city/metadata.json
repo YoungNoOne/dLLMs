@@ -1,0 +1,67 @@
+{
+  "name": "invisible_city",
+  "prompt": "Invent a city that appears only at sunrise and disappears by noon.",
+  "decoded": "The city of Aurora is a breathtaking metropolis that appears only at sunrise and disappears by noon. It is a city of light and color, with towering skyscrapers that shimmer like diamonds in the early morning light. The streets are lined with vibrant flowers and trees, and the air is filled with the sweet scent of blooming flowers.\n\nThe people of Aurora are known for their love of nature and their deep connection to the earth. They live in harmony with the environment, and their city is a reflection of that. The city is home to many famous landmarks, including the Fountain of Light, which is a massive fountain that shoots beams of light into the sky.\n\nAs the sun rises, the city of Aurora comes alive with energy and excitement. The streets are filled with people of all ages and backgrounds, and the city is alive with music and laughter. The people of Aurora are known for their kindness and generosity, and they are always willing to help those in need.\n\nHowever, as the sun rises higher in the sky, the city of Aurora begins to fade away. The buildings and streets start to disappear, and the people of Aurora are left to wonder what has happened. The city of Aurora disappears by noon, leaving behind nothing but mystery and wonder.",
+  "events_count": 3,
+  "max_mean_delta": 0.15858861019736842,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.15858861019736842,
+      "median_impact": 0.15858861019736842,
+      "mean_prompt_shift": -0.15826816637675672
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0824342757936508,
+      "median_impact": 0.0824342757936508,
+      "mean_prompt_shift": -0.08202205968849985
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04757035340314136,
+      "median_impact": 0.04757035340314136,
+      "mean_prompt_shift": -0.047290316010852984
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04757035340314136,
+      "median_impact": 0.04757035340314136,
+      "mean_prompt_shift": -0.047290316010852984
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 3,
+      "direction": -1,
+      "mean_delta": 0.0824342757936508,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 64,
+      "direction": -1,
+      "mean_delta": 0.04757035340314136,
+      "sign_agreement": 0.9790575916230366,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 65,
+      "direction": -1,
+      "mean_delta": 0.15858861019736842,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

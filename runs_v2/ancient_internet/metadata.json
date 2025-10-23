@@ -1,0 +1,44 @@
+{
+  "name": "ancient_internet",
+  "prompt": "Imagine the internet existed in ancient Rome. What would people post about?",
+  "decoded": "If the internet existed in ancient Rome, people would likely post about a wide range of topics, including:\n\n1. Politics: People would likely post about the Roman government, the Senate, and the role of the Emperor. They would also discuss the state of the empire and the policies of its leaders.\n\n2. Military: People would likely post about the Roman army, its tactics, and its victories. They would also discuss the state of the empire and the challenges faced by the military.\n\n3. Culture: People would likely post about Roman culture, including art, literature, and philosophy. They would also discuss the state of the arts and the values of Roman society.\n\n4. Education: People would likely post about Roman education, including the role of schools and universities. They would also discuss the importance of knowledge and the role of education in Roman society.\n\n5. Religion: People would likely post about Roman religion, including the role of the gods and goddesses. They would also discuss the importance of religion in Roman society.\n\n6. Economy: People would likely post about the Roman economy, including the role of trade and commerce. They would also discuss the state of the economy and the challenges faced by the empire.",
+  "events_count": 2,
+  "max_mean_delta": 0.27415839592274677,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.27415839592274677,
+      "median_impact": 0.27415839592274677,
+      "mean_prompt_shift": -0.27427130905872865
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0957983993902439,
+      "median_impact": 0.0957983993902439,
+      "mean_prompt_shift": -0.09501717510532903
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 9,
+      "direction": -1,
+      "mean_delta": 0.0957983993902439,
+      "sign_agreement": 0.975609756097561,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 22,
+      "direction": -1,
+      "mean_delta": 0.27415839592274677,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

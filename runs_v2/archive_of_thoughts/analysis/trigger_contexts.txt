@@ -1,0 +1,9 @@
+step_decoded=16 pos=54 dir=- impact=0.058251 shift=-0.056303 cats=content_heavy earlier=16 later=16 same=0
+The^(-16) two^(-15) researchers^(-14) sat^(-13) at^(-12) a^(-11) table^(-9),^(-10) surrounded^(-8) by^(-7) screens^(-6) displaying^(-5) the^(-4) universal^(-2) archive^(-3).^(-1) [ĠDr^(+0)] .^(+1) Rachel^(+14) Kim^(+15),^(+2) a^(+3) brilliant^(+4) but^(+5) reckless^(+8) scientist^(+7),^(+6) had^(+9) uploaded^(+10) a^(+11) dangerous^(+13) idea^(+12):^(+17)
+
+step_decoded=30 pos=56 dir=- impact=0.042413 shift=-0.042099 cats=content_heavy earlier=28 later=4 same=0
+ researchers^(-28) sat^(-27) at^(-26) a^(-25) table^(-23),^(-24) surrounded^(-22) by^(-21) screens^(-20) displaying^(-19) the^(-18) universal^(-16) archive^(-17).^(-15) Dr^(-14).^(-13) [ĠRachel^(+0)]  Kim^(+1),^(-12) a^(-11) brilliant^(-10) but^(-9) reckless^(-6) scientist^(-7),^(-8) had^(-5) uploaded^(-4) a^(-3) dangerous^(-1) idea^(-2):^(+3) a^(+2) way^(+5)
+
+step_decoded=46 pos=83 dir=- impact=0.042268 shift=-0.042361 cats=content_heavy earlier=17 later=15 same=0
+ a^(-19) dangerous^(-17) idea^(-18):^(-13) a^(-14) way^(-11) to^(-12) manipulate^(-10) the^(-9) fabric^(-7) of^(-8) reality^(-6).^(-5) Dr^(-3).^(-4) Raj^(+1) [ĠPatel^(+0)] ,^(-2) a^(-1) brilliant^(+6) but^(+2) cautious^(+4) researcher^(+5),^(+3) had^(+7) been^(+8) trying^(+17) to^(+9) delete^(+10) it^(+11).^(+12)Ċ^(+14)Ċ^(+13)
+

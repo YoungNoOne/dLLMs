@@ -1,0 +1,3 @@
+step_decoded=10 pos=49 dir=+ impact=0.064270 shift=0.063464 cats=content_heavy earlier=10 later=18 same=0
+**^(-4)Fuel^(-3) Efficiency^(-10) and^(-8) Gu^(-9)ilt^(-7) Maintenance^(-6)**^(-2)Ċ^(-5)Ċ^(-1)**^(+2)Fuel^(+1) [ĠEfficiency^(+0)] **^(+5)Ċ^(+3)Ċ^(+4)The^(+6) Emotional^(+7) Engine^(+8) operates^(+9) on^(+10) a^(+11) variety^(+21) of^(+12) human^(+14) emotions^(+13),^(+15) including^(+16) joy^(+19)
+

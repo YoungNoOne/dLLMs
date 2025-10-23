@@ -1,0 +1,139 @@
+{
+  "name": "psychological_weather",
+  "prompt": "Daily forecasts now include emotional climates. Write a report for a city suffering a storm of apathy.",
+  "decoded": "**Weather Report: Apathy Storm**\n\n**Location:** City of Serenity\n\n**Date:** October 10, 2023\n\n**Weather:** Apathy Storm\n\n**Conditions:**\n\nThe storm of apathy has struck the City of Serenity, bringing a sense of numbness and disconnection to its residents. The emotional climate is characterized by a pervasive sense of apathy, with people feeling disengaged from their surroundings and others.\n\n**Effects:**\n\nThe apathy storm has led to a decline in community engagement, with many residents feeling disconnected from their neighbors and the city as a whole. The sense of apathy has also led to a decrease in civic participation, with fewer people participating in local events and initiatives.\n\n**Recommendations:**\n\nTo mitigate the effects of the apathy storm, the city is advised to prioritize community engagement and civic participation. This can be achieved through initiatives that foster a sense of community and connection, such as local events, volunteer opportunities, and community outreach programs.\n\n**Outlook:**\n\nThe apathy storm is expected to continue for several days, with the emotional climate likely to remain apathetic until the city takes action to promote community engagement and connection.",
+  "events_count": 11,
+  "max_mean_delta": 0.2607698633603239,
+  "max_sign_agreement": 1.0,
+  "token_count": 11,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.17799138326898345,
+      "median_impact": 0.18713492990654207,
+      "mean_prompt_shift": -0.05258428111488964
+    },
+    {
+      "category": "other",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.15975286817643497,
+      "median_impact": 0.16658999647394168,
+      "mean_prompt_shift": -0.006133769659963373
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.10348833503314636,
+      "median_impact": 0.10348833503314636,
+      "mean_prompt_shift": -0.10366610060761888
+    },
+    {
+      "category": "punctuation",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.10012109932442315,
+      "median_impact": 0.09929613797169812,
+      "mean_prompt_shift": -0.1003382636553481
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0973858173076923,
+      "median_impact": 0.0973858173076923,
+      "mean_prompt_shift": -0.09787956649005758
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.09338662790697674,
+      "median_impact": 0.09338662790697674,
+      "mean_prompt_shift": -0.09368258975080657
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 8,
+      "direction": -1,
+      "mean_delta": 0.2607698633603239,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 9,
+      "direction": 1,
+      "mean_delta": 0.21212842987804878,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 17,
+      "direction": -1,
+      "mean_delta": 0.1352908350840336,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 18,
+      "direction": -1,
+      "mean_delta": 0.0860693565400844,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 41,
+      "direction": 1,
+      "mean_delta": 0.18713492990654207,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 42,
+      "direction": -1,
+      "mean_delta": 0.19788915786384975,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 47,
+      "direction": 1,
+      "mean_delta": 0.0937030498798077,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 60,
+      "direction": -1,
+      "mean_delta": 0.0973858173076923,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 70,
+      "direction": -1,
+      "mean_delta": 0.10768053209459459,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 83,
+      "direction": -1,
+      "mean_delta": 0.09338662790697674,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 96,
+      "direction": -1,
+      "mean_delta": 0.09929613797169812,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

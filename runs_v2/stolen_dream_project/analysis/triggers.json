@@ -1,0 +1,179 @@
+[
+  {
+    "step_decoded": 3,
+    "direction": -1,
+    "mean_delta": 0.2712131076388889,
+    "median_delta": 0.27734375,
+    "sign_agreement": 1.0,
+    "valid_positions": 252,
+    "prompt_mean": 0.69482421875,
+    "prompt_shift": -0.27085327630928857,
+    "tokens": [
+      {
+        "step_decoded": 3,
+        "token_pos": 46,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.515625,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 6,
+    "direction": 1,
+    "mean_delta": 0.18149943524096385,
+    "median_delta": 0.1875,
+    "sign_agreement": 1.0,
+    "valid_positions": 249,
+    "prompt_mean": 0.8770550953815262,
+    "prompt_shift": 0.1832855641315262,
+    "tokens": [
+      {
+        "step_decoded": 6,
+        "token_pos": 47,
+        "token_id": 2088,
+        "token_str": "To",
+        "conf_decoded": 0.94921875,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 8,
+    "direction": -1,
+    "mean_delta": 0.10416403087044535,
+    "median_delta": 0.1015625,
+    "sign_agreement": 1.0,
+    "valid_positions": 247,
+    "prompt_mean": 0.7889597039473685,
+    "prompt_shift": -0.10338215593166378,
+    "tokens": [
+      {
+        "step_decoded": 8,
+        "token_pos": 50,
+        "token_id": 41882,
+        "token_str": "\u0120Employees",
+        "conf_decoded": 0.33984375,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 20,
+    "direction": -1,
+    "mean_delta": 0.22738530585106384,
+    "median_delta": 0.2265625,
+    "sign_agreement": 1.0,
+    "valid_positions": 235,
+    "prompt_mean": 0.5968999335106383,
+    "prompt_shift": -0.22682225928597188,
+    "tokens": [
+      {
+        "step_decoded": 20,
+        "token_pos": 57,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.64453125,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 21,
+    "direction": 1,
+    "mean_delta": 0.18642327724358973,
+    "median_delta": 0.1875,
+    "sign_agreement": 1.0,
+    "valid_positions": 234,
+    "prompt_mean": 0.7847556089743589,
+    "prompt_shift": 0.18785567546372062,
+    "tokens": [
+      {
+        "step_decoded": 21,
+        "token_pos": 59,
+        "token_id": 6272,
+        "token_str": "Date",
+        "conf_decoded": 0.6875,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 26,
+    "direction": -1,
+    "mean_delta": 0.1773292508187773,
+    "median_delta": 0.17578125,
+    "sign_agreement": 1.0,
+    "valid_positions": 229,
+    "prompt_mean": 0.5672889942685589,
+    "prompt_shift": -0.17650346497057146,
+    "tokens": [
+      {
+        "step_decoded": 26,
+        "token_pos": 63,
+        "token_id": 60,
+        "token_str": "]",
+        "conf_decoded": 1.0,
+        "categories": [
+          "punctuation",
+          "bracket"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 28,
+    "direction": 1,
+    "mean_delta": 0.1908469851321586,
+    "median_delta": 0.19140625,
+    "sign_agreement": 1.0,
+    "valid_positions": 227,
+    "prompt_mean": 0.7541643722466961,
+    "prompt_shift": 0.19216978617213465,
+    "tokens": [
+      {
+        "step_decoded": 28,
+        "token_pos": 66,
+        "token_id": 27617,
+        "token_str": "Dear",
+        "conf_decoded": 0.5,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 67,
+    "direction": -1,
+    "mean_delta": 0.1587173786569149,
+    "median_delta": 0.154296875,
+    "sign_agreement": 1.0,
+    "valid_positions": 188,
+    "prompt_mean": 0.3605437583111702,
+    "prompt_shift": -0.15956619539253353,
+    "tokens": [
+      {
+        "step_decoded": 67,
+        "token_pos": 108,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.50390625,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,117 @@
+{
+  "name": "sunset_code",
+  "prompt": "The color of each sunset secretly encodes a message. Write what today\u2019s means.",
+  "decoded": "The color of today's sunset is a deep, rich crimson, hinting at a message of gratitude and reflection. As the sun dips below the horizon, the sky is painted with hues of orange and pink, creating a warm and inviting atmosphere. The crimson color evokes a sense of warmth and comfort, urging us to pause and appreciate the beauty of the moment.\n\nAs we gaze upon the sunset, we are invited to reflect on the experiences we've had this day, the people we've met, and the memories we've made. The crimson color is a reminder to be grateful for the simple things in life, to cherish the present moment, and to find joy in the everyday.\n\nThe sunset's color also suggests a sense of closure and release. As the sun sets, the day comes to an end, and the crimson color is a signal that it's time to let go of the past and move forward with a sense of peace and contentment.\n\nIn summary, the color of today's sunset is a message of gratitude, reflection, and release. It's a reminder to appreciate the beauty of the moment, to reflect on the experiences we've had, and to let go of the past and move forward with a sense of peace and contentment.",
+  "events_count": 9,
+  "max_mean_delta": 0.16086599214480873,
+  "max_sign_agreement": 1.0,
+  "token_count": 9,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.08289584149586152,
+      "median_impact": 0.046859248991935484,
+      "mean_prompt_shift": -0.05111325156142537
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.041783564229082325,
+      "median_impact": 0.042805989583333336,
+      "mean_prompt_shift": -0.04126169655770832
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04129492165132559,
+      "median_impact": 0.04129492165132559,
+      "mean_prompt_shift": 0.004370879550025658
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04129492165132559,
+      "median_impact": 0.04129492165132559,
+      "mean_prompt_shift": 0.004370879550025658
+    },
+    {
+      "category": "cause_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03764356303418803,
+      "median_impact": 0.03764356303418803,
+      "mean_prompt_shift": -0.035054740066375656
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 0,
+      "direction": -1,
+      "mean_delta": 0.047135416666666666,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 8,
+      "direction": -1,
+      "mean_delta": 0.035409286437246966,
+      "sign_agreement": 0.9959514170040485,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 15,
+      "direction": -1,
+      "mean_delta": 0.042805989583333336,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 21,
+      "direction": -1,
+      "mean_delta": 0.03764356303418803,
+      "sign_agreement": 0.9572649572649573,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 70,
+      "direction": -1,
+      "mean_delta": 0.03782728040540541,
+      "sign_agreement": 0.9243243243243243,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 72,
+      "direction": -1,
+      "mean_delta": 0.16086599214480873,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 136,
+      "direction": -1,
+      "mean_delta": 0.04096228335084034,
+      "sign_agreement": 0.9831932773109243,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 137,
+      "direction": 1,
+      "mean_delta": 0.04476256289724576,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 193,
+      "direction": 1,
+      "mean_delta": 0.046859248991935484,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

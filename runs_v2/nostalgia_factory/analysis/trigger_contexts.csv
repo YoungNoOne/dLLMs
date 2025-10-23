@@ -1,0 +1,8 @@
+step_decoded,token_pos,token_id,token_str,token_norm,direction,impact_score,prompt_shift,window,categories,left_text,center_token,right_text,center_step_decoded,earlier_count,later_count,same_count,left_steps_json,right_steps_json,left_offsets_json,right_offsets_json,left_text_annot,center_annot,right_text_annot,left_tokens_json,right_tokens_json
+63,88,6502,ĠTV,TV,-1,0.062469482421875,-0.06249246284339921,16,content_heavy," designed to evoke a specific memory. Some popular flavors include:
+
+- Classic",ĠTV," Shows
+- Old School Movies
+- Retro Video Games
+- Vintage Music
+",63,28,4,0,"[36, 35, 37, 38, 39, 40, 41, 42, 44, 45, 43, 47, 46, 48, 49, 55]","[62, 50, 51, 57, 58, 61, 52, 53, 56, 60, 59, 54, 64, 78, 79, 69]","[-27, -28, -26, -25, -24, -23, -22, -21, -19, -18, -20, -16, -17, -15, -14, -8]","[-1, -13, -12, -6, -5, -2, -11, -10, -7, -3, -4, -9, 1, 15, 16, 6]", designed^(-27) to^(-28) evoke^(-26) a^(-25) specific^(-24) memory^(-23).^(-22) Some^(-21) popular^(-19) flavors^(-18) include^(-20):^(-16)Ċ^(-17)Ċ^(-15)-^(-14) Classic^(-8),ĠTV^(+0), Shows^(-1)Ċ^(-13)-^(-12) Old^(-6) School^(-5) Movies^(-2)Ċ^(-11)-^(-10) Retro^(-7) Video^(-3) Games^(-4)Ċ^(-9)-^(+1) Vintage^(+15) Music^(+16)Ċ^(+6),"[""Ġdesigned"", ""Ġto"", ""Ġevoke"", ""Ġa"", ""Ġspecific"", ""Ġmemory"", ""."", ""ĠSome"", ""Ġpopular"", ""Ġflavors"", ""Ġinclude"", "":"", ""Ċ"", ""Ċ"", ""-"", ""ĠClassic""]","[""ĠShows"", ""Ċ"", ""-"", ""ĠOld"", ""ĠSchool"", ""ĠMovies"", ""Ċ"", ""-"", ""ĠRetro"", ""ĠVideo"", ""ĠGames"", ""Ċ"", ""-"", ""ĠVintage"", ""ĠMusic"", ""Ċ""]"

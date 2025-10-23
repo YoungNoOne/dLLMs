@@ -1,0 +1,73 @@
+{
+  "name": "timeless_conversation",
+  "prompt": "You receive a phone call from someone living 200 years in the future who insists they\u2019re your descendant. Write the first five minutes of the call.",
+  "decoded": "**You:** Hello, who is this?\n\n**Future Person:** It's Alex, and I'm calling from the year 2223. I believe I'm your descendant.\n\n**You:** Alex, I'm not sure I believe that. How do you know?\n\n**Future Person:** I've been researching my family tree, and I found a connection that points to you.\n\n**You:** Family tree? That's interesting. Can you tell me more?\n\n**Future Person:** Sure. My great-great-grandfather had a cousin who was born in 2023, and that cousin had a child who was born in 2023. That child had a child who was born in 2023, and that child had a child who was born in 2023. And that child had a child who was born in 2023, and that child had a child who was born in 2023. And that child had a child who was born in 2023, and that child had a child who was born in 2023. And that child had a child who was born in 2023",
+  "events_count": 5,
+  "max_mean_delta": 0.18642397280092593,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.11244677992724868,
+      "median_impact": 0.11244677992724868,
+      "mean_prompt_shift": -0.11798328426352622
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04330822013580141,
+      "median_impact": 0.04330822013580141,
+      "mean_prompt_shift": -0.042977617825553066
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.037733402489626554,
+      "median_impact": 0.037733402489626554,
+      "mean_prompt_shift": -0.03747011472943318
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 0,
+      "direction": -1,
+      "mean_delta": 0.0439031862745098,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 14,
+      "direction": -1,
+      "mean_delta": 0.037733402489626554,
+      "sign_agreement": 0.983402489626556,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 39,
+      "direction": -1,
+      "mean_delta": 0.18642397280092593,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 83,
+      "direction": -1,
+      "mean_delta": 0.042713253997093026,
+      "sign_agreement": 0.9941860465116279,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 241,
+      "direction": -1,
+      "mean_delta": 0.03846958705357143,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

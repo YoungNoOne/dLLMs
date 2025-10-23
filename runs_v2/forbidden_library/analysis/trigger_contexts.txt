@@ -1,0 +1,3 @@
+step_decoded=73 pos=110 dir=+ impact=0.146806 shift=0.148142 cats=content_heavy earlier=17 later=15 same=0
+'s^(-17) pages^(-12) began^(-15) to^(-16) ripple^(-11),^(-14) to^(-13) shimmer^(-10),^(-8) to^(-9) glow^(-7) with^(-6) an^(-5) other^(-3)world^(-2)ly^(-4) [Ġlight^(+0)] .^(-1)Ċ^(+2)Ċ^(+1)The^(+4) book^(+3)'s^(+5) cover^(+6) began^(+10) to^(+7) shift^(+18),^(+8) to^(+9) morph^(+22),^(+11) to^(+12) change^(+19)
+

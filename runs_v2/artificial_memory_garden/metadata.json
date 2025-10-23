@@ -1,0 +1,89 @@
+{
+  "name": "artificial_memory_garden",
+  "prompt": "Memories can now be grown like plants in a laboratory. Describe a visit to a greenhouse filled with other people\u2019s forgotten days.",
+  "decoded": "As I stepped into the greenhouse, the air was thick with the scent of blooming flowers and the faint aroma of forgotten memories. The walls were lined with shelves, each one filled with jars containing the remnants of someone else's past. The sunlight streaming through the glass roof cast a warm glow on the jars, illuminating the memories within.\n\nI approached a jar filled with the scent of a summer day at the beach, the smell of saltwater and sunscreen still lingering. The jar was adorned with a photograph of a young couple, their faces filled with joy. As I breathed in the scent, I was transported back to that day, feeling the warmth of the sun on my skin and the laughter of my loved ones.\n\nNext, I found a jar filled with the scent of a childhood birthday party, the smell of cake and balloons still lingering. The jar was adorned with a photograph of a young girl, her face filled with excitement. As I breathed in the scent, I was transported back to that day, feeling the joy of my childhood and the laughter of my friends.\n\nThe greenhouse was a place of wonder and nostalgia, a place where memories of the past could be preserved and shared, allowing us to relive the cherished moments of our lives.",
+  "events_count": 5,
+  "max_mean_delta": 0.19454666940789472,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.12184012972764405,
+      "median_impact": 0.12184012972764405,
+      "mean_prompt_shift": -0.12173634506419864
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.12184012972764405,
+      "median_impact": 0.12184012972764405,
+      "mean_prompt_shift": -0.12173634506419864
+    },
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.040410580842391304,
+      "median_impact": 0.040410580842391304,
+      "mean_prompt_shift": 0.04041351685360778
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.038618607954545456,
+      "median_impact": 0.038618607954545456,
+      "mean_prompt_shift": -0.034889914772727265
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0368290221291866,
+      "median_impact": 0.0368290221291866,
+      "mean_prompt_shift": 0.03642371197881067
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 44,
+      "direction": -1,
+      "mean_delta": 0.049133590047393365,
+      "sign_agreement": 0.995260663507109,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 46,
+      "direction": 1,
+      "mean_delta": 0.0368290221291866,
+      "sign_agreement": 0.9712918660287081,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 65,
+      "direction": -1,
+      "mean_delta": 0.19454666940789472,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 209,
+      "direction": 1,
+      "mean_delta": 0.040410580842391304,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 244,
+      "direction": -1,
+      "mean_delta": 0.038618607954545456,
+      "sign_agreement": 0.8181818181818182,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

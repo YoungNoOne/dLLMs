@@ -1,0 +1,81 @@
+{
+  "name": "city_of_names",
+  "prompt": "Every citizen\u2019s name determines their profession and destiny. Write a petition from someone named 'Nobody'.",
+  "decoded": "Dear esteemed officials,\n\nI am writing to you as a citizen of this great nation, seeking your attention to a matter of utmost importance. My name is 'Nobody', and I am writing to you to express my concerns and hopes for a better future.\n\nAs a person named 'Nobody', I am aware that my name will determine my profession and destiny. However, I believe that my name is not a reflection of my abilities or potential. I am not a nobody, and I have the right to choose my own path in life.\n\nI urge you to reconsider the system of determining one's profession and destiny based on their name. I believe that this system is unfair and discriminatory, and it is time for a change.\n\nI urge you to implement a new system that takes into account an individual's abilities, talents, and potential, rather than their name. I believe that this would be a fairer and more just system, and it would allow everyone to reach their full potential.\n\nI urge you to consider my petition and take action to change the system. I hope that you will listen to my concerns and take action to create a better future for all citizens of this great nation.\n\nSincerely,\n\n'Nobody'",
+  "events_count": 5,
+  "max_mean_delta": 0.26398066946640314,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.26398066946640314,
+      "median_impact": 0.26398066946640314,
+      "mean_prompt_shift": -0.2636980131142821
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.14358534192825112,
+      "median_impact": 0.14358534192825112,
+      "mean_prompt_shift": -0.1434344939892297
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.07665578950711383,
+      "median_impact": 0.07665578950711383,
+      "mean_prompt_shift": 0.013295767355963689
+    },
+    {
+      "category": "cause_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0657047193877551,
+      "median_impact": 0.0657047193877551,
+      "mean_prompt_shift": 0.0668129485025718
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 2,
+      "direction": -1,
+      "mean_delta": 0.26398066946640314,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 9,
+      "direction": 1,
+      "mean_delta": 0.08889100609756098,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 10,
+      "direction": 1,
+      "mean_delta": 0.0657047193877551,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 32,
+      "direction": -1,
+      "mean_delta": 0.14358534192825112,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 45,
+      "direction": -1,
+      "mean_delta": 0.06442057291666667,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

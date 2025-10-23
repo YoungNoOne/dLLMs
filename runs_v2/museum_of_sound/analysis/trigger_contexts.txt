@@ -1,0 +1,6 @@
+step_decoded=6 pos=33 dir=- impact=0.037933 shift=-0.037277 cats=content_heavy earlier=6 later=15 same=0
+Welcome^(-5) to^(-6) the^(-4) Museum^(-2) of^(-3) [ĠExt^(+0)] inct^(+1) Sounds^(-1),^(+2) a^(+3) unique^(+4) and^(+5) immersive^(+6) exhibition^(+8) that^(+7) celebrates^(+9) the^(+10) beauty^(+13) and^(+12) diversity^(+17) of^(+11) the^(+14)
+
+step_decoded=246 pos=278 dir=+ impact=0.037815 shift=0.039600 cats=content_heavy earlier=12 later=9 same=0
+,^(-12) and^(-11) as^(-10) we^(-9) honor^(-8) the^(-7) memory^(-4) of^(-5) the^(-1) species^(+5) that^(+4) are^(+6)et^(+9)ering^(+7) on^(+8) the^(+1) [Ġbrink^(+0)]  of^(+2) extinction^(+3).^(-3)<|eot_id|>^(-2)<|endoftext|>^(-6)
+

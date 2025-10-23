@@ -1,0 +1,138 @@
+{
+  "name": "reversed_justice",
+  "prompt": "Courtrooms now decide guilt by randomly swapping memories between the defendant and the victim. Write the internal thoughts of both after the verdict.",
+  "decoded": "**Defendant's Internal Thoughts:**\n\n\"I can't believe it. My memories were swapped with the victim's, and now I'm the one who's been accused of a crime I didn't commit. The court's decision to swap memories is a joke. The justice system is a cruel joke. I'm going to have to face the consequences of being wrongly accused. I don't know how I'll ever move on from this. I feel like I've been trapped in a web of lies, and now I'm the one who's been wronged.\"\n\n**Victim's Internal Thoughts:**\n\n\"I can't believe it. My memories were swapped with the defendant's, and now I'm the one who's been accused of a crime I didn't commit. The court's decision to swap memories is a joke. The justice system is a cruel joke. I'm going to have to face the consequences of being wrongly accused. I don't know how I'll ever move on from this. I feel like I've been trapped in a web of lies, and now I'm the one who's been wronged.\"\n\nBoth the defendant and the victim are left questioning the fairness of the justice system and the validity of swapping memories to determine guilt.",
+  "events_count": 12,
+  "max_mean_delta": 0.12403980446927375,
+  "max_sign_agreement": 1.0,
+  "token_count": 12,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 6,
+      "samples": 6,
+      "mean_impact": 0.0778021529996983,
+      "median_impact": 0.0729327917623432,
+      "mean_prompt_shift": -0.0338727664504917
+    },
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.07337640150927702,
+      "median_impact": 0.07337640150927702,
+      "mean_prompt_shift": -0.07305667741509994
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.06329917943266541,
+      "median_impact": 0.06329917943266541,
+      "mean_prompt_shift": 0.06555791753803653
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05271398381401171,
+      "median_impact": 0.05271398381401171,
+      "mean_prompt_shift": 0.0026757085121388996
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05271398381401171,
+      "median_impact": 0.05271398381401171,
+      "mean_prompt_shift": 0.0026757085121388996
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 7,
+      "direction": -1,
+      "mean_delta": 0.060562626008064516,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 59,
+      "direction": -1,
+      "mean_delta": 0.05073142538265306,
+      "sign_agreement": 0.9846938775510204,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 66,
+      "direction": -1,
+      "mean_delta": 0.0681630291005291,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 69,
+      "direction": -1,
+      "mean_delta": 0.08932921706989247,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 70,
+      "direction": 1,
+      "mean_delta": 0.06278505067567568,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 71,
+      "direction": 1,
+      "mean_delta": 0.053403108016304345,
+      "sign_agreement": 0.9945652173913043,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 72,
+      "direction": -1,
+      "mean_delta": 0.054175204918032786,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 76,
+      "direction": -1,
+      "mean_delta": 0.12403980446927375,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 77,
+      "direction": 1,
+      "mean_delta": 0.0777025544241573,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 112,
+      "direction": -1,
+      "mean_delta": 0.0861901770104895,
+      "sign_agreement": 0.993006993006993,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 201,
+      "direction": 1,
+      "mean_delta": 0.05469654224537037,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 226,
+      "direction": 1,
+      "mean_delta": 0.06381330818965517,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

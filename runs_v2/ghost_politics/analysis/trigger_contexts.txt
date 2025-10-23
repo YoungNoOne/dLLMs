@@ -1,0 +1,3 @@
+step_decoded=6 pos=38 dir=+ impact=0.207172 shift=0.208243 cats=content_heavy earlier=6 later=16 same=0
+Ladies^(-5) and^(-6) gentlemen^(-4),^(-3)Ċ^(-2)Ċ^(-1) [Today^(+0)] ,^(+1) I^(+2) stand^(+3) before^(+4) you^(+5) as^(+7) a^(+6) candidate^(+8) for^(+9) office^(+10),^(+11) and^(+12) I^(+13) am^(+15) appealing^(+16) to^(+14)
+

@@ -1,0 +1,90 @@
+[
+  {
+    "step_decoded": 36,
+    "direction": -1,
+    "mean_delta": 0.1961508276255708,
+    "median_delta": 0.19140625,
+    "sign_agreement": 1.0,
+    "valid_positions": 219,
+    "prompt_mean": 0.4947916666666667,
+    "prompt_shift": -0.19574455492424242,
+    "tokens": [
+      {
+        "step_decoded": 36,
+        "token_pos": 73,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.498046875,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 99,
+    "direction": -1,
+    "mean_delta": 0.040330153245192304,
+    "median_delta": 0.041015625,
+    "sign_agreement": 1.0,
+    "valid_positions": 156,
+    "prompt_mean": 0.29114708533653844,
+    "prompt_shift": -0.03999779424148703,
+    "tokens": [
+      {
+        "step_decoded": 99,
+        "token_pos": 141,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.8046875,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 193,
+    "direction": -1,
+    "mean_delta": 0.03741651965725806,
+    "median_delta": 0.03369140625,
+    "sign_agreement": 1.0,
+    "valid_positions": 62,
+    "prompt_mean": 0.17786825856854838,
+    "prompt_shift": -0.03716150333621354,
+    "tokens": [
+      {
+        "step_decoded": 193,
+        "token_pos": 234,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.65234375,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 235,
+    "direction": -1,
+    "mean_delta": 0.0395751953125,
+    "median_delta": 0.041015625,
+    "sign_agreement": 1.0,
+    "valid_positions": 20,
+    "prompt_mean": 0.14451904296875,
+    "prompt_shift": -0.03727271670386903,
+    "tokens": [
+      {
+        "step_decoded": 235,
+        "token_pos": 274,
+        "token_id": 301,
+        "token_str": "\u0120and",
+        "conf_decoded": 0.75,
+        "categories": [
+          "addition_marker"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+step_decoded,token_pos,token_id,token_str,token_norm,direction,impact_score,prompt_shift,window,categories,left_text,center_token,right_text,center_step_decoded,earlier_count,later_count,same_count,left_steps_json,right_steps_json,left_offsets_json,right_offsets_json,left_text_annot,center_annot,right_text_annot,left_tokens_json,right_tokens_json
+6,47,2088,To,To,1,0.18149943524096385,0.1832855641315262,16,content_heavy,"Subject: Internal Memo: Pat ents on Dreams
+
+",To,": All Employees
+
+From: Corporate Headquarters
+
+Date: [Date]",6,6,21,0,"[1, 0, 14, 15, 11, 9, 10, 13, 12, 2, 3]","[4, 5, 8, 7, 16, 18, 17, 29, 31, 20, 19, 21, 22, 23, 27, 26]","[-5, -6, 8, 9, 5, 3, 4, 7, 6, -4, -3]","[-2, -1, 2, 1, 10, 12, 11, 23, 25, 14, 13, 15, 16, 17, 21, 20]",Subject^(-5):^(-6) Internal^(+8) Memo^(+9):^(+5) Pat^(+3)ents^(+4) on^(+7) Dreams^(+6)Ċ^(-4)Ċ^(-3),To^(+0),:^(-2) All^(-1) Employees^(+2)Ċ^(+1)Ċ^(+10)From^(+12):^(+11) Corporate^(+23) Headquarters^(+25)Ċ^(+14)Ċ^(+13)Date^(+15):^(+16) [^(+17)Date^(+21)]^(+20),"[""Subject"", "":"", ""ĠInternal"", ""ĠMemo"", "":"", ""ĠPat"", ""ents"", ""Ġon"", ""ĠDreams"", ""Ċ"", ""Ċ""]","["":"", ""ĠAll"", ""ĠEmployees"", ""Ċ"", ""Ċ"", ""From"", "":"", ""ĠCorporate"", ""ĠHeadquarters"", ""Ċ"", ""Ċ"", ""Date"", "":"", ""Ġ["", ""Date"", ""]""]"
+8,50,41882,ĠEmployees,Employees,-1,0.10416403087044535,-0.10338215593166378,16,content_heavy,"Subject: Internal Memo: Pat ents on Dreams
+
+To: All",ĠEmployees,"
+
+From: Corporate Headquarters
+
+Date: [Date]
+
+Dear",8,8,22,0,"[1, 0, 14, 15, 11, 9, 10, 13, 12, 2, 3, 6, 4, 5]","[7, 16, 18, 17, 29, 31, 20, 19, 21, 22, 23, 27, 26, 25, 24, 28]","[-7, -8, 6, 7, 3, 1, 2, 5, 4, -6, -5, -2, -4, -3]","[-1, 8, 10, 9, 21, 23, 12, 11, 13, 14, 15, 19, 18, 17, 16, 20]",Subject^(-7):^(-8) Internal^(+6) Memo^(+7):^(+3) Pat^(+1)ents^(+2) on^(+5) Dreams^(+4)Ċ^(-6)Ċ^(-5)To^(-2):^(-4) All^(-3),ĠEmployees^(+0),Ċ^(-1)Ċ^(+8)From^(+10):^(+9) Corporate^(+21) Headquarters^(+23)Ċ^(+12)Ċ^(+11)Date^(+13):^(+14) [^(+15)Date^(+19)]^(+18)Ċ^(+17)Ċ^(+16)Dear^(+20),"[""Subject"", "":"", ""ĠInternal"", ""ĠMemo"", "":"", ""ĠPat"", ""ents"", ""Ġon"", ""ĠDreams"", ""Ċ"", ""Ċ"", ""To"", "":"", ""ĠAll""]","[""Ċ"", ""Ċ"", ""From"", "":"", ""ĠCorporate"", ""ĠHeadquarters"", ""Ċ"", ""Ċ"", ""Date"", "":"", ""Ġ["", ""Date"", ""]"", ""Ċ"", ""Ċ"", ""Dear""]"
+21,59,6272,Date,Date,1,0.18642327724358973,0.18785567546372062,16,content_heavy," on Dreams
+
+To: All Employees
+
+From: Corporate Headquarters
+
+",Date,": [Date]
+
+Dear All,
+
+We are pleased to announce",21,14,18,0,"[13, 12, 2, 3, 6, 4, 5, 8, 7, 16, 18, 17, 29, 31, 20, 19]","[22, 23, 27, 26, 25, 24, 28, 30, 33, 34, 32, 35, 36, 39, 38, 37]","[-8, -9, -19, -18, -15, -17, -16, -13, -14, -5, -3, -4, 8, 10, -1, -2]","[1, 2, 6, 5, 4, 3, 7, 9, 12, 13, 11, 14, 15, 18, 17, 16]", on^(-8) Dreams^(-9)Ċ^(-19)Ċ^(-18)To^(-15):^(-17) All^(-16) Employees^(-13)Ċ^(-14)Ċ^(-5)From^(-3):^(-4) Corporate^(+8) Headquarters^(+10)Ċ^(-1)Ċ^(-2),Date^(+0),":^(+1) [^(+2)Date^(+6)]^(+5)Ċ^(+4)Ċ^(+3)Dear^(+7) All^(+9),^(+12)Ċ^(+13)Ċ^(+11)We^(+14) are^(+15) pleased^(+18) to^(+17) announce^(+16)","[""Ġon"", ""ĠDreams"", ""Ċ"", ""Ċ"", ""To"", "":"", ""ĠAll"", ""ĠEmployees"", ""Ċ"", ""Ċ"", ""From"", "":"", ""ĠCorporate"", ""ĠHeadquarters"", ""Ċ"", ""Ċ""]","["":"", ""Ġ["", ""Date"", ""]"", ""Ċ"", ""Ċ"", ""Dear"", ""ĠAll"", "","", ""Ċ"", ""Ċ"", ""We"", ""Ġare"", ""Ġpleased"", ""Ġto"", ""Ġannounce""]"
+28,66,27617,Dear,Dear,1,0.1908469851321586,0.19216978617213465,16,content_heavy," Employees
+
+From: Corporate Headquarters
+
+Date: [Date]
+
+",Dear," All,
+
+We are pleased to announce that we have successfully secured patents on",28,14,18,0,"[8, 7, 16, 18, 17, 29, 31, 20, 19, 21, 22, 23, 27, 26, 25, 24]","[30, 33, 34, 32, 35, 36, 39, 38, 37, 40, 41, 42, 43, 46, 44, 45]","[-20, -21, -12, -10, -11, 1, 3, -8, -9, -7, -6, -5, -1, -2, -3, -4]","[2, 5, 6, 4, 7, 8, 11, 10, 9, 12, 13, 14, 15, 18, 16, 17]", Employees^(-20)Ċ^(-21)Ċ^(-12)From^(-10):^(-11) Corporate^(+1) Headquarters^(+3)Ċ^(-8)Ċ^(-9)Date^(-7):^(-6) [^(-5)Date^(-1)]^(-2)Ċ^(-3)Ċ^(-4),Dear^(+0)," All^(+2),^(+5)Ċ^(+6)Ċ^(+4)We^(+7) are^(+8) pleased^(+11) to^(+10) announce^(+9) that^(+12) we^(+13) have^(+14) successfully^(+15) secured^(+18) patents^(+16) on^(+17)","[""ĠEmployees"", ""Ċ"", ""Ċ"", ""From"", "":"", ""ĠCorporate"", ""ĠHeadquarters"", ""Ċ"", ""Ċ"", ""Date"", "":"", ""Ġ["", ""Date"", ""]"", ""Ċ"", ""Ċ""]","[""ĠAll"", "","", ""Ċ"", ""Ċ"", ""We"", ""Ġare"", ""Ġpleased"", ""Ġto"", ""Ġannounce"", ""Ġthat"", ""Ġwe"", ""Ġhave"", ""Ġsuccessfully"", ""Ġsecured"", ""Ġpatents"", ""Ġon""]"

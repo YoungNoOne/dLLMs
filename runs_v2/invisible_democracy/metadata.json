@@ -1,0 +1,65 @@
+{
+  "name": "invisible_democracy",
+  "prompt": "Elections are now decided by collective subconscious voting during sleep. Write a morning news update after an unexpected result.",
+  "decoded": "**Breaking Morning News Update: Unprecedented Election Results**\n\nIn a shocking turn of events, the outcome of the recent presidential election has been decided by collective subconscious voting during sleep. The results, which were announced last night, revealed that Candidate A, who had been the frontrunner throughout the campaign, had unexpectedly lost to Candidate B.\n\nThe results, which were determined by a combination of brain activity and sleep patterns, showed that Candidate B had received a significant number of subconscious votes from voters who had not yet consciously made their decisions. This unexpected outcome has sparked widespread debate and questions about the fairness of the election process.\n\nThe election commission has launched an investigation into the results, and officials are working to determine the cause of the unexpected outcome. Meanwhile, Candidate A's campaign has been forced to concede the loss, and Candidate B has claimed the victory.\n\nThe election process, which was designed to be transparent and fair, has been called into question by this unexpected result. Many voters are calling for a review of the election process and the introduction of new safeguards to prevent such anomalies from occurring in the future.\n\nAs the nation grapples with this unexpected outcome, we will continue to provide updates on the investigation and any developments as they unfold.",
+  "events_count": 5,
+  "max_mean_delta": 0.24094603997975708,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.18368324726260582,
+      "median_impact": 0.18368324726260582,
+      "mean_prompt_shift": -0.18301736261724952
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.0957215436899735,
+      "median_impact": 0.06961609887295082,
+      "mean_prompt_shift": 0.053344059187199644
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 8,
+      "direction": -1,
+      "mean_delta": 0.24094603997975708,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 11,
+      "direction": 1,
+      "mean_delta": 0.06961609887295082,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 13,
+      "direction": 1,
+      "mean_delta": 0.15198863636363635,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 15,
+      "direction": -1,
+      "mean_delta": 0.06555989583333334,
+      "sign_agreement": 0.9791666666666666,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 68,
+      "direction": -1,
+      "mean_delta": 0.12642045454545456,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

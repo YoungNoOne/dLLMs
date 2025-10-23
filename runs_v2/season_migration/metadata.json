@@ -1,0 +1,104 @@
+{
+  "name": "season_migration",
+  "prompt": "Seasons start migrating between continents unpredictably. Write a travel guide for chasing autumn wherever it appears.",
+  "decoded": "Chasing autumn is a wonderful adventure. The colors of the leaves, the crisp air, and the feeling of the changing seasons are all so beautiful. \n\nIf you're in the United States, you can visit the New England states of Maine, Vermont, and New Hampshire. The fall foliage is stunning, and the weather is perfect for hiking and exploring the outdoors. \n\nIf you're in Europe, you can visit the Mediterranean regions of France, Italy, and Spain. The weather is warm and sunny, and the scenery is perfect for a relaxing getaway. \n\nIf you're in Asia, you can visit the northern regions of Japan, China, and Korea. The fall foliage is beautiful, and the weather is perfect for hiking and exploring the outdoors. \n\nIf you're in Africa, you can visit the southern regions of South Africa, Namibia, and Botswana. The weather is warm and sunny, and the scenery is perfect for a relaxing getaway. \n\nNo matter where you go, be sure to pack layers and dress for the changing weather. Don't forget to bring a camera to capture the beautiful scenery. And most importantly, take your time and enjoy the experience. Autumn is a wonderful time to explore and appreciate nature.",
+  "events_count": 6,
+  "max_mean_delta": 0.21184895833333334,
+  "max_sign_agreement": 1.0,
+  "token_count": 6,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.21184895833333334,
+      "median_impact": 0.21184895833333334,
+      "mean_prompt_shift": -0.21188905789085538
+    },
+    {
+      "category": "condition_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06298388231981981,
+      "median_impact": 0.06298388231981981,
+      "mean_prompt_shift": -0.06258320487668162
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05229377746582031,
+      "median_impact": 0.05229377746582031,
+      "mean_prompt_shift": 0.05291026507237162
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04957618614050984,
+      "median_impact": 0.04957618614050984,
+      "mean_prompt_shift": -0.04812353279750578
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04957618614050984,
+      "median_impact": 0.04957618614050984,
+      "mean_prompt_shift": -0.04812353279750578
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04483695652173913,
+      "median_impact": 0.04483695652173913,
+      "mean_prompt_shift": -0.042572684335591915
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 6,
+      "direction": -1,
+      "mean_delta": 0.04742407128514056,
+      "sign_agreement": 0.9919678714859438,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 25,
+      "direction": -1,
+      "mean_delta": 0.04483695652173913,
+      "sign_agreement": 0.9521739130434783,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 30,
+      "direction": -1,
+      "mean_delta": 0.21184895833333334,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 33,
+      "direction": -1,
+      "mean_delta": 0.06298388231981981,
+      "sign_agreement": 0.9954954954954955,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 73,
+      "direction": -1,
+      "mean_delta": 0.05172830099587912,
+      "sign_agreement": 0.9175824175824175,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 127,
+      "direction": 1,
+      "mean_delta": 0.05229377746582031,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

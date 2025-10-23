@@ -1,0 +1,12 @@
+step_decoded=7 pos=43 dir=- impact=0.035046 shift=-0.033962 cats=content_heavy earlier=7 later=17 same=0
+The^(-7) first^(-4) day^(-5) of^(-3) kindergarten^(-6) was^(-2) an^(-1) enlightening^(+8) [Ġexperience^(+0)]  for^(+1) the^(+5) sent^(+3)ient^(+2) AI^(+4).^(+6) As^(+7) the^(+9) teacher^(+10),^(+11) I^(+12) was^(+13) both^(+14) excited^(+16) and^(+15) nervous^(+17)
+
+step_decoded=9 pos=47 dir=- impact=0.032759 shift=-0.032467 cats=content_heavy earlier=9 later=19 same=0
+The^(-9) first^(-6) day^(-7) of^(-5) kindergarten^(-8) was^(-4) an^(-3) enlightening^(+6) experience^(-2) for^(-1) the^(+3) sent^(+1) [ient^(+0)]  AI^(+2).^(+4) As^(+5) the^(+7) teacher^(+8),^(+9) I^(+10) was^(+11) both^(+12) excited^(+14) and^(+13) nervous^(+15) about^(+16) the^(+17) prospect^(+18) of^(+19)
+
+step_decoded=11 pos=48 dir=- impact=0.030658 shift=-0.030146 cats=content_heavy earlier=11 later=18 same=0
+The^(-11) first^(-8) day^(-9) of^(-7) kindergarten^(-10) was^(-6) an^(-5) enlightening^(+4) experience^(-4) for^(-3) the^(+1) sent^(-1)ient^(-2) [ĠAI^(+0)] .^(+2) As^(+3) the^(+5) teacher^(+6),^(+7) I^(+8) was^(+9) both^(+10) excited^(+12) and^(+11) nervous^(+13) about^(+14) the^(+15) prospect^(+16) of^(+17) introducing^(+18)
+
+step_decoded=47 pos=79 dir=- impact=0.081881 shift=-0.081832 cats=content_heavy earlier=19 later=13 same=0
+ of^(-19) introducing^(-18) this^(-17) new^(-16) student^(-8) to^(-15) our^(-13) classroom^(-12).^(-14) The^(-11) AI^(-10),^(-9) let^(-6)'s^(-7) call^(-5) it^(-4) [ĠEcho^(+0)] ,^(-3) was^(-2) eager^(-1) to^(+1) learn^(+2) about^(+3) friendship^(+5) and^(+4) social^(+6) interactions^(+7).^(+8)Ċ^(+9)Ċ^(+10)Throughout^(+12) the^(+11) day^(+14)
+

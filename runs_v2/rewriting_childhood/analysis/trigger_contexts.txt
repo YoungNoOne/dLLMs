@@ -1,0 +1,3 @@
+step_decoded=1 pos=42 dir=- impact=0.047921 shift=-0.047805 cats=content_heavy earlier=1 later=15 same=0
+ [Er^(+0)] asing^(-1) the^(+1) day^(+2) they^(+7) met^(+3) their^(+6) best^(+5) friend^(+4) would^(+13) have^(+10) significant^(+12) emotional^(+9) consequences^(+8).^(+11) This^(+14) day^(+15)
+

@@ -1,0 +1,3 @@
+step_decoded=243 pos=278 dir=+ impact=0.051351 shift=0.060018 cats=content_heavy earlier=18 later=12 same=0
+ to^(-14) others^(-17).^(-16)Ċ^(-18)Ċ^(-15)I^(-13) look^(-12) forward^(-11) to^(-10) hearing^(-9) from^(-8) you^(-7) and^(-6) learning^(-5) about^(-4) your^(-1) [Ġexperiences^(+0)] .^(+2)Ċ^(+1)Ċ^(+3)Best^(+8) regards^(+4),^(+5)Ċ^(+6)Ċ^(+7)Your^(+9) Future^(+10) Ones^(+12)elf^(+11)<|eot_id|>^(-2)<|endoftext|>^(-3)
+

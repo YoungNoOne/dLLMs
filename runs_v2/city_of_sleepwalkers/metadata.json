@@ -1,0 +1,29 @@
+{
+  "name": "city_of_sleepwalkers",
+  "prompt": "At night, half the population sleepwalks while the rest stay awake to protect them. Describe one night when both groups meet in the streets.",
+  "decoded": "As the sun sets, the city comes alive with the sounds of night. The streets are alive with the chatter of people, the honking of cars, and the distant sound of sirens. The air is thick with the scent of exhaust and the glow of streetlights casts long shadows on the pavement.\n\nHalf of the population is sleepwalking, their eyes heavy and their movements slow. They drift through the streets, their footsteps quiet and deliberate. The other half is awake, their senses sharp and alert. They patrol the streets, their eyes scanning for any signs of danger.\n\nAs the two groups meet in the streets, there is a sense of tension. The sleepwalkers are unaware of the presence of the awake people, but the awake people are aware of the sleepwalkers. They move forward with caution, their senses heightened.\n\nThe streets are alive with the sounds of chaos and confusion. The sleepwalkers stumble and fall, the awake people rushing to their aid. The air is thick with the scent of smoke and the sound of sirens.\n\nDespite the chaos, there is a sense of unity in the streets. The sleepwalkers and awake people are all working together, their differences put aside for the greater good.",
+  "events_count": 1,
+  "max_mean_delta": 0.24926382211538461,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.24926382211538461,
+      "median_impact": 0.24926382211538461,
+      "mean_prompt_shift": -0.24903825712977495
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 60,
+      "direction": -1,
+      "mean_delta": 0.24926382211538461,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

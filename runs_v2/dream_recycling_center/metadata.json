@@ -1,0 +1,59 @@
+{
+  "name": "dream_recycling_center",
+  "prompt": "Describe a factory where discarded dreams are recycled into something useful. What products are made, and what side effects do they cause?",
+  "decoded": "The factory is a sprawling, towering structure that seems to stretch on forever, its walls lined with conveyor belts and machines that hum with an eerie energy. Inside, the air is thick with the scent of ozone and the faint glow of fluorescent lights. The workers, clad in white suits and gas masks, move with mechanical precision, their faces obscured by the hoods of their helmets.\n\nThe factory's purpose is to recycle discarded dreams into something useful. The products made are a mix of strange and unsettling items. There are clothes made from the fabric of forgotten memories, furniture crafted from the wood of lost hopes, and even furniture made from the glass of shattered dreams. The factory also produces cosmetics made from the essence of forgotten desires, and food made from the essence of lost dreams.\n\nHowever, the side effects of using these products are severe. Those who wear the clothes made from forgotten memories experience a deep sense of melancholy and despair. The furniture made from the glass of shattered dreams causes hallucinations and nightmares. The cosmetics made from the essence of forgotten desires lead to intense cravings and addictions, while the food made from the essence of lost dreams causes hallucinations and paranoia. The factory's products are not only strange but also potentially dangerous to those who use them.",
+  "events_count": 3,
+  "max_mean_delta": 0.24947625698324022,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.14677588890828677,
+      "median_impact": 0.14677588890828677,
+      "mean_prompt_shift": -0.11057795329836867
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05395977313701923,
+      "median_impact": 0.05395977313701923,
+      "mean_prompt_shift": 0.05534193996108061
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05395977313701923,
+      "median_impact": 0.05395977313701923,
+      "mean_prompt_shift": 0.05534193996108061
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 76,
+      "direction": -1,
+      "mean_delta": 0.24947625698324022,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 151,
+      "direction": 1,
+      "mean_delta": 0.05395977313701923,
+      "sign_agreement": 0.9903846153846154,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 240,
+      "direction": 1,
+      "mean_delta": 0.04407552083333333,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

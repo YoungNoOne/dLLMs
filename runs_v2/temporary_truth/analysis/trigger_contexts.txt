@@ -1,0 +1,6 @@
+step_decoded=0 pos=39 dir=- impact=0.080362 shift=-0.080362 cats=content_heavy earlier=0 later=17 same=0
+Journal^(+1) [ist^(+0)]  ^(+3)1^(+4):^(+2) "^(+5)Hey^(+7),^(+6) have^(+9) you^(+8) heard^(+10) about^(+11) the^(+12) new^(+13) report^(+15) from^(+14) the^(+16) environmental^(+30)
+
+step_decoded=1 pos=38 dir=- impact=0.066975 shift=-0.066707 cats=content_heavy earlier=1 later=15 same=0
+ [Journal^(+0)] ist^(-1) ^(+2)1^(+3):^(+1) "^(+4)Hey^(+6),^(+5) have^(+8) you^(+7) heard^(+9) about^(+10) the^(+11) new^(+12) report^(+14) from^(+13) the^(+15)
+

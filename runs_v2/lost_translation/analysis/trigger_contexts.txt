@@ -1,0 +1,12 @@
+step_decoded=14 pos=37 dir=- impact=0.054007 shift=-0.053419 cats=content_heavy earlier=14 later=7 same=0
+The^(-13) id^(-12)iom^(-14) "^(-11)a^(-1) [Ġwalk^(+0)]  in^(-3) the^(-2) park^(+1)"^(-10) is^(-9) a^(-8) metaphor^(-7) that^(-6) cannot^(-5) be^(-4) translated^(+3) into^(+2) any^(+4) other^(+5) language^(+6).^(+7)
+
+step_decoded=15 pos=40 dir=- impact=0.042708 shift=-0.042276 cats=content_heavy earlier=15 later=9 same=0
+The^(-14) id^(-13)iom^(-15) "^(-12)a^(-2) walk^(-1) in^(-4) the^(-3) [Ġpark^(+0)] "^(-11) is^(-10) a^(-9) metaphor^(-8) that^(-7) cannot^(-6) be^(-5) translated^(+2) into^(+1) any^(+3) other^(+4) language^(+5).^(+6) It^(+7) is^(+8) used^(+9)
+
+step_decoded=16 pos=49 dir=- impact=0.036807 shift=-0.036501 cats=content_heavy earlier=15 later=17 same=0
+ id^(-14)iom^(-16) "^(-13)a^(-3) walk^(-2) in^(-5) the^(-4) park^(-1)"^(-12) is^(-11) a^(-10) metaphor^(-9) that^(-8) cannot^(-7) be^(-6) translated^(+1) [Ġinto^(+0)]  any^(+2) other^(+3) language^(+4).^(+5) It^(+6) is^(+7) used^(+8) to^(+9) describe^(+10) something^(+11) that^(+13) is^(+12) extremely^(+15) easy^(+14) or^(+16) simple^(+17)
+
+step_decoded=251 pos=281 dir=+ impact=0.045898 shift=0.047217 cats=content_heavy earlier=18 later=4 same=0
+ ease^(-15) and^(-14) comfort^(-16),^(-18) and^(-17) can^(-12) be^(-13) used^(-8) to^(-7) describe^(-6) a^(-5) wide^(-3) range^(-4) of^(-2) tasks^(-1),^(+1) [Ġactivities^(+0)] ,^(+2) and^(+3) experiences^(+4).^(-9)<|eot_id|>^(-10)<|endoftext|>^(-11)
+

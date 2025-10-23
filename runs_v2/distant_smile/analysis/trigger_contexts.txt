@@ -1,0 +1,3 @@
+step_decoded=69 pos=92 dir=- impact=0.046644 shift=-0.045943 cats=content_heavy earlier=21 later=11 same=0
+ The^(-21) sky^(-19) is^(-20) a^(-18) soft^(-6) gradient^(-7) of^(-17) orange^(-11),^(-14) pink^(-12),^(-16) and^(-15) purple^(-10),^(-13) reflecting^(-8) the^(-9) [Ġwarm^(+0)]  glow^(+1) of^(-5) the^(-4) setting^(-3) sun^(-2).^(-1)Ċ^(+2)Ċ^(+3)In^(+5) the^(+4) foreground^(+7),^(+6) a^(+8) small^(+9),^(+10) rustic^(+11)
+

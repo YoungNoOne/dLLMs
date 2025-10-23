@@ -1,0 +1,21 @@
+step_decoded=2 pos=45 dir=- impact=0.039310 shift=-0.038856 cats=content_heavy earlier=2 later=16 same=0
+Introducing^(-1) the^(-2) [ĠUltimate^(+0)]  Custom^(+9)ization^(+10) Package^(+1):^(+2) The^(+3) Master^(+13)piece^(+12) Apocalypse^(+11)!^(+6)Ċ^(+5)Ċ^(+4)Imagine^(+7) a^(+8) world^(+14) where^(+15) the^(+16)
+
+step_decoded=3 pos=48 dir=- impact=0.051711 shift=-0.051488 cats=content_heavy earlier=3 later=18 same=0
+Introducing^(-2) the^(-3) Ultimate^(-1) Custom^(+8)ization^(+9) [ĠPackage^(+0)] :^(+1) The^(+2) Master^(+12)piece^(+11) Apocalypse^(+10)!^(+5)Ċ^(+4)Ċ^(+3)Imagine^(+6) a^(+7) world^(+13) where^(+14) the^(+15) end^(+17) of^(+16) the^(+18)
+
+step_decoded=13 pos=53 dir=- impact=0.045842 shift=-0.045535 cats=content_heavy earlier=13 later=13 same=0
+Introducing^(-12) the^(-13) Ultimate^(-11) Custom^(-2)ization^(-1) Package^(-10):^(-9) The^(-8) Master^(+2)piece^(+1) [ĠApocalypse^(+0)] !^(-5)Ċ^(-6)Ċ^(-7)Imagine^(-4) a^(-3) world^(+3) where^(+4) the^(+5) end^(+7) of^(+6) the^(+8) world^(+9) is^(+10) not^(+11) just^(+12) a^(+13)
+
+step_decoded=14 pos=52 dir=- impact=0.033276 shift=-0.032849 cats=content_heavy earlier=14 later=11 same=0
+Introducing^(-13) the^(-14) Ultimate^(-12) Custom^(-3)ization^(-2) Package^(-11):^(-10) The^(-9) Master^(+1) [piece^(+0)]  Apocalypse^(-1)!^(-6)Ċ^(-7)Ċ^(-8)Imagine^(-5) a^(-4) world^(+2) where^(+3) the^(+4) end^(+6) of^(+5) the^(+7) world^(+8) is^(+9) not^(+10) just^(+11)
+
+step_decoded=33 pos=76 dir=- impact=0.031065 shift=-0.024200 cats=content_heavy earlier=16 later=16 same=0
+ where^(-16) the^(-15) end^(-13) of^(-14) the^(-12) world^(-11) is^(-10) not^(-9) just^(-8) a^(-7) conclusion^(-2),^(-5) but^(-6) a^(-4) masterpiece^(-3).^(-1) [ĠWith^(+0)]  our^(+7) Master^(+2)piece^(+1) Apocalypse^(+3) Package^(+6),^(+4) you^(+5) have^(+10) the^(+8) power^(+11) to^(+9) shape^(+13) the^(+12) final^(+14) moments^(+15) of^(+16)
+
+step_decoded=213 pos=260 dir=+ impact=0.034156 shift=0.034939 cats=content_heavy earlier=12 later=20 same=0
+ shape^(-7) the^(-13) end^(-8) of^(-10) the^(-9) world^(-11) in^(-6) your^(-5) own^(-4) unique^(-1) style^(-2).^(-3) Subscribe^(+8) to^(+4) our^(+5) Master^(+1) [piece^(+0)]  Apocalypse^(+2) Package^(+3) today^(+7) and^(+6) experience^(+10) the^(+9) ultimate^(+11) in^(+12) customization^(+13)!^(+14)Ċ^(+16)Ċ^(+15)**^(+17)Subscribe^(+20) Now^(+19):**^(+18)
+
+step_decoded=233 pos=274 dir=- impact=0.031428 shift=-0.030928 cats=content_heavy earlier=18 later=14 same=0
+ our^(-15) Master^(-19)piece^(-20) Apocalypse^(-18) Package^(-17) today^(-13) and^(-14) experience^(-10) the^(-11) ultimate^(-9) in^(-8) customization^(-7)!^(-6)Ċ^(-4)Ċ^(-5)**^(-3) [Subscribe^(+0)]  Now^(-1):**^(-2) [^(+1)Insert^(+2) button^(+3) here^(+6)]^(+4)Ċ^(+5)Ċ^(+7)**^(+10)Explore^(+22) the^(+21) Master^(+20)piece^(+19) Apocalypse^(+18) Package^(+17)
+

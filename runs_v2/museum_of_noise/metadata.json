@@ -1,0 +1,72 @@
+{
+  "name": "museum_of_noise",
+  "prompt": "Curators collect the sounds of extinct cities. Write the audio guide description for the exhibit 'Rush Hour, 21st Century'.",
+  "decoded": "Welcome to 'Rush Hour, 21st Century', an immersive audio exhibit that takes you on a journey through the sounds of extinct cities. As you wander through the exhibit, you'll hear the echoes of bustling streets, the hum of traffic, and the distant chatter of people, all lost in the silence of time.\n\nExperience the sounds of ancient Rome, where the roar of the Colosseum and the chatter of the crowds still linger in the air. Listen to the sounds of the Industrial Revolution, where the roar of the engines and the clatter of the machinery still echo through the streets.\n\nAs you explore the exhibit, you'll hear the sounds of different eras, from the hum of the steam age to the chatter of the digital age. Each sound is carefully curated to transport you back in time, allowing you to experience the sounds of a bygone era.\n\nIn 'Rush Hour, 21st Century', you'll be transported to a world where the past and present coexist, and the sounds of extinct cities are still a part of our modern world. So, sit back, relax, and let the sounds of the past take you on a journey through the rush hour of the 21st century.",
+  "events_count": 6,
+  "max_mean_delta": 0.17290269142670156,
+  "max_sign_agreement": 1.0,
+  "token_count": 6,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.10473969798607805,
+      "median_impact": 0.10473969798607805,
+      "mean_prompt_shift": -0.11161476654532071
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.038450424220007225,
+      "median_impact": 0.03831782734094982,
+      "mean_prompt_shift": -0.003947981398612702
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 7,
+      "direction": -1,
+      "mean_delta": 0.04191343245967742,
+      "sign_agreement": 0.9395161290322581,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 10,
+      "direction": -1,
+      "mean_delta": 0.04290497448979592,
+      "sign_agreement": 0.9306122448979591,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 64,
+      "direction": -1,
+      "mean_delta": 0.17290269142670156,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 243,
+      "direction": 1,
+      "mean_delta": 0.034261067708333336,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 244,
+      "direction": -1,
+      "mean_delta": 0.036576704545454544,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 246,
+      "direction": 1,
+      "mean_delta": 0.034722222222222224,
+      "sign_agreement": 0.7777777777777778,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

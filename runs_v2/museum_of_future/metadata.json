@@ -1,0 +1,74 @@
+{
+  "name": "museum_of_future",
+  "prompt": "Describe the Museum of Future Mistakes, where visitors see exhibits of disasters that haven\u2019t happened yet.",
+  "decoded": "The Museum of Future Mistakes is a unique and intriguing attraction that offers visitors a glimpse into the future, showcasing exhibits of potential disasters that have yet to occur. This museum serves as a cautionary tale, urging visitors to be mindful of the consequences of their actions and decisions.\n\nExhibits at the Museum of Future Mistakes are carefully curated to illustrate the potential dangers of human error, environmental neglect, and technological advancements. Visitors can expect to see a range of disasters, from climate change and natural disasters to nuclear accidents and pandemics. Each exhibit is designed to be thought-provoking and educational, encouraging visitors to reflect on their own lives and the impact they have on the world.\n\nThe museum's exhibits are often accompanied by interactive elements, such as virtual reality experiences and multimedia displays, to engage visitors and enhance their understanding of the content. Visitors can also participate in workshops and discussions led by experts in various fields, such as environmental science, medicine, and technology.\n\nOverall, the Museum of Future Mistakes is a thought-provoking and educational experience that encourages visitors to be more mindful of their actions and the impact they have on the world. By understanding the potential consequences of their decisions, visitors can work towards making better choices and reducing the likelihood of disasters in the future.",
+  "events_count": 4,
+  "max_mean_delta": 0.15013798196517414,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.15013798196517414,
+      "median_impact": 0.15013798196517414,
+      "mean_prompt_shift": -0.15019912234926852
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05012654702970297,
+      "median_impact": 0.05012654702970297,
+      "mean_prompt_shift": -0.004438734046203249
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05012654702970297,
+      "median_impact": 0.05012654702970297,
+      "mean_prompt_shift": -0.004438734046203249
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03150255926724138,
+      "median_impact": 0.03150255926724138,
+      "mean_prompt_shift": -0.0312294773013172
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 23,
+      "direction": -1,
+      "mean_delta": 0.03150255926724138,
+      "sign_agreement": 0.9698275862068966,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 53,
+      "direction": -1,
+      "mean_delta": 0.05437809405940594,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 54,
+      "direction": -1,
+      "mean_delta": 0.15013798196517414,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 130,
+      "direction": 1,
+      "mean_delta": 0.045875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

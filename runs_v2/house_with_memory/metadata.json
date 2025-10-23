@@ -1,0 +1,44 @@
+{
+  "name": "house_with_memory",
+  "prompt": "A house remembers everything that happens inside it. Write a conversation between the building and its new owner.",
+  "decoded": "House: Hello, new owner. I'm glad to meet you. I've been here for a long time, and I've seen so much.\n\nNew Owner: Wow, that's amazing. I didn't know you could remember everything.\n\nHouse: Yes, I can. I remember every conversation, every laughter, and every event that has happened here.\n\nNew Owner: That's incredible. Can you tell me more about what happened here?\n\nHouse: Sure. I remember the first time a family moved in, and they were so excited to have their new home. I remember the first time a party was thrown here, and everyone was having a great time. I remember the first time a wedding was held here, and it was a huge success.\n\nNew Owner: That's amazing. I didn't know you could remember so much.\n\nHouse: Yes, I can. I remember everything that happens inside me, and I'm always happy to share those memories with you.\n\nNew Owner: Thank you for sharing that with me. I'm glad to have you as my home.\n\nHouse: I'm glad to have you as my new owner. I hope you enjoy your time here with me.",
+  "events_count": 2,
+  "max_mean_delta": 0.22425347222222222,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.22425347222222222,
+      "median_impact": 0.22425347222222222,
+      "mean_prompt_shift": -0.22396194382989187
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.08867495078740158,
+      "median_impact": 0.08867495078740158,
+      "mean_prompt_shift": -0.08856361934537593
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 1,
+      "direction": -1,
+      "mean_delta": 0.08867495078740158,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 30,
+      "direction": -1,
+      "mean_delta": 0.22425347222222222,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

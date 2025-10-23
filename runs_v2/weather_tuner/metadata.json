@@ -1,0 +1,58 @@
+{
+  "name": "weather_tuner",
+  "prompt": "A teenager builds a homemade device that tunes the weather like radio frequencies. Write their experiment notes and first broadcast.",
+  "decoded": "Experiment Notes:\n\nToday, I built a device that tunes the weather like radio frequencies. I used a radio receiver, a weather app, and a few electronic components. The idea is to capture the weather data from the app and transmit it on a specific frequency.\n\nFirst Broadcast:\n\n\"Hello, thanks for tuning in to the Weather Radio. Today, we're going to share the latest weather updates with you. The current temperature is 72 degrees Fahrenheit, with a humidity of 60% and a wind speed of 10 miles per hour. The forecast for today is sunny with a high of 80 degrees and a low of 65 degrees. Stay tuned for more updates!\"",
+  "events_count": 4,
+  "max_mean_delta": 0.20215232818725098,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1739140625,
+      "median_impact": 0.1739140625,
+      "mean_prompt_shift": 0.174855639940239
+    },
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.1360141743804598,
+      "median_impact": 0.10689453125,
+      "mean_prompt_shift": -0.13190561383108687
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 4,
+      "direction": -1,
+      "mean_delta": 0.20215232818725098,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 5,
+      "direction": 1,
+      "mean_delta": 0.1739140625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 55,
+      "direction": -1,
+      "mean_delta": 0.10689453125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 146,
+      "direction": -1,
+      "mean_delta": 0.09899566370412843,
+      "sign_agreement": 0.8899082568807339,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

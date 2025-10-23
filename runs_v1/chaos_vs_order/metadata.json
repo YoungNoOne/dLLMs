@@ -1,0 +1,43 @@
+{
+  "name": "chaos_vs_order",
+  "prompt": "Write about chaos as a vital ingredient for creativity and evolution. Then concede that without order, chaos degenerates into noise, erasing what it once inspired.",
+  "decoded": "Chaos, often perceived as a source of disorder and destruction, is actually a vital ingredient for creativity and evolution. It is the embrace of the unknown, the exploration of the unpredictable, and the pursuit of the unconventional that drives us to push the boundaries of our imagination and discover new possibilities.\n\nWithout order, chaos degenerates into noise, erasing what it once inspired. Just as a symphony is a collection of individual notes, but only when those notes are arranged in a harmonious way do they create something truly beautiful, chaos must be guided and structured to unlock its creative potential.\n\nIn this sense, chaos is not a force to be feared, but rather a catalyst for growth and transformation. It is the embracing of the unexpected, the exploration of the unknown, and the celebration of the unconventional that allows us to evolve and adapt to an ever-changing world.\n\nHowever, it is essential to acknowledge that chaos, if left unchecked, can lead to disorder and destruction. It is up to us to harness the power of chaos and channel it into something meaningful and purposeful. By doing so, we can unlock the creative potential of chaos and use it to drive innovation, progress, and evolution, rather than allowing it to dissipate into noise and disarray.",
+  "events_count": 3,
+  "max_mean_delta": 0.18386143718274112,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.09889406518546852,
+      "median_impact": 0.057227977807971016,
+      "mean_prompt_shift": -0.061358708989171916
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 58,
+      "direction": -1,
+      "mean_delta": 0.18386143718274112,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 117,
+      "direction": -1,
+      "mean_delta": 0.057227977807971016,
+      "sign_agreement": 0.9927536231884058,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 118,
+      "direction": 1,
+      "mean_delta": 0.05559278056569343,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

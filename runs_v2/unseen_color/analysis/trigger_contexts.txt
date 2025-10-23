@@ -1,0 +1,9 @@
+step_decoded=5 pos=36 dir=- impact=0.104469 shift=-0.104023 cats=content_heavy earlier=5 later=17 same=0
+The^(-3) new^(-5) color^(-4),^(-2) dubbed^(+3) "^(-1) [Sol^(+0)] itude^(+2) Blue^(+4),"^(+1) is^(+5) a^(+6) soft^(+8),^(+7) calming^(+10) shade^(+9) that^(+11) only^(+12) appears^(+13) when^(+14) you^(+15)'re^(+18) alone^(+16)
+
+step_decoded=7 pos=37 dir=- impact=0.044497 shift=-0.043965 cats=content_heavy earlier=7 later=16 same=0
+The^(-5) new^(-7) color^(-6),^(-4) dubbed^(+1) "^(-3)Sol^(-2) [itude^(+0)]  Blue^(+2),"^(-1) is^(+3) a^(+4) soft^(+6),^(+5) calming^(+8) shade^(+7) that^(+9) only^(+10) appears^(+11) when^(+12) you^(+13)'re^(+16) alone^(+14).^(+15)
+
+step_decoded=9 pos=38 dir=- impact=0.035569 shift=-0.035215 cats=content_heavy earlier=9 later=15 same=0
+The^(-7) new^(-9) color^(-8),^(-6) dubbed^(-1) "^(-5)Sol^(-4)itude^(-2) [ĠBlue^(+0)] ,"^(-3) is^(+1) a^(+2) soft^(+4),^(+3) calming^(+6) shade^(+5) that^(+7) only^(+8) appears^(+9) when^(+10) you^(+11)'re^(+14) alone^(+12).^(+13) It^(+15)
+

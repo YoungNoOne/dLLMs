@@ -1,0 +1,102 @@
+{
+  "name": "algorithmic_courtship",
+  "prompt": "An app predicts ideal romantic matches with 99.9% accuracy\u2014but one pair keeps breaking the algorithm. Write the investigation summary.",
+  "decoded": "**Investigation Summary:**\n\nThe investigation into the app's predictive algorithm revealed that despite its 99.9% accuracy rate, a particular pair consistently defies the algorithm's predictions. This anomaly was identified through a thorough analysis of the app's data, which showed that the pair's profiles, interests, and preferences align perfectly with the algorithm's criteria for an ideal match.\n\nFurther analysis suggested that the algorithm's inability to predict this pair may be due to a unique combination of factors, such as:\n\n1. A rare combination of interests and preferences that the algorithm has not encountered before.\n2. Unpredictable circumstances or circumstances that the algorithm does not account for.\n3. A flaw in the algorithm's design or implementation.\n\nTo address this issue, the investigation recommended:\n\n1. A thorough review of the algorithm's design and implementation to identify any potential flaws or limitations.\n2. A reevaluation of the algorithm's criteria for an ideal match to ensure they are comprehensive and accurate.\n3. The incorporation of additional data and variables to improve the algorithm's predictive capabilities.\n\nThe investigation highlights the need for ongoing evaluation and refinement of the app's predictive algorithm to improve its accuracy and effectiveness for users.",
+  "events_count": 8,
+  "max_mean_delta": 0.19262989457831325,
+  "max_sign_agreement": 1.0,
+  "token_count": 8,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.13700688022454988,
+      "median_impact": 0.13700688022454988,
+      "mean_prompt_shift": -0.13667264909514085
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.09051295305626833,
+      "median_impact": 0.09051295305626833,
+      "mean_prompt_shift": 0.04359951204895135
+    },
+    {
+      "category": "addition_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0546875,
+      "median_impact": 0.0546875,
+      "mean_prompt_shift": -0.0556640625
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.04916673555996473,
+      "median_impact": 0.049406828703703706,
+      "mean_prompt_shift": -0.04342072908758926
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 6,
+      "direction": -1,
+      "mean_delta": 0.19262989457831325,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 7,
+      "direction": 1,
+      "mean_delta": 0.13338741179435484,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 15,
+      "direction": -1,
+      "mean_delta": 0.046614583333333334,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 35,
+      "direction": -1,
+      "mean_delta": 0.04763849431818182,
+      "sign_agreement": 0.9954545454545455,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 45,
+      "direction": -1,
+      "mean_delta": 0.051478794642857144,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 77,
+      "direction": -1,
+      "mean_delta": 0.08138386587078651,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 228,
+      "direction": -1,
+      "mean_delta": 0.049406828703703706,
+      "sign_agreement": 0.7777777777777778,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 251,
+      "direction": -1,
+      "mean_delta": 0.0546875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

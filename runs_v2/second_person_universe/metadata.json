@@ -1,0 +1,101 @@
+{
+  "name": "second_person_universe",
+  "prompt": "You wake up in a universe where everyone speaks in the second person. Write a day in your life as 'you'.",
+  "decoded": "You wake up in a universe where everyone speaks in the second person. You look around, and you notice that everyone is speaking to you. You try to respond, but your words are echoed back to you. You try to smile, but it's hard to fake a smile when everyone is speaking to you. You try to ignore the situation, but it's hard to stay calm when everyone is speaking to you. You try to start a conversation, but it's hard to talk to anyone when everyone is speaking to you. You try to take a break, but it's hard to relax when everyone is speaking to you. You try to read a book, but it's hard to stay focused when everyone is speaking to you. You try to take a walk, but it's hard to stay calm when everyone is speaking to you. You try to watch a movie, but it's hard to stay engaged when everyone is speaking to you. You try to sleep, but it's hard to fall asleep when everyone is speaking to you. You try to stay positive, but it's hard to stay hopeful when everyone is speaking to you. You try to find a way to change the situation, but it's hard to come up with ideas when everyone is speaking to you.",
+  "events_count": 9,
+  "max_mean_delta": 0.095703125,
+  "max_sign_agreement": 1.0,
+  "token_count": 9,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.07235552062053116,
+      "median_impact": 0.07654444221508828,
+      "mean_prompt_shift": -0.047634842956010365
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.07235552062053116,
+      "median_impact": 0.07654444221508828,
+      "mean_prompt_shift": -0.047634842956010365
+    },
+    {
+      "category": "other",
+      "triggers": 5,
+      "samples": 5,
+      "mean_impact": 0.06288587261241466,
+      "median_impact": 0.050837862318840576,
+      "mean_prompt_shift": 0.008292558706595071
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 6,
+      "direction": -1,
+      "mean_delta": 0.039768448795180725,
+      "sign_agreement": 0.9919678714859438,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 80,
+      "direction": -1,
+      "mean_delta": 0.07481026785714286,
+      "sign_agreement": 0.9942857142857143,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 145,
+      "direction": -1,
+      "mean_delta": 0.08680752840909091,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 146,
+      "direction": 1,
+      "mean_delta": 0.095703125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 166,
+      "direction": -1,
+      "mean_delta": 0.07827861657303371,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 167,
+      "direction": 1,
+      "mean_delta": 0.08584872159090909,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 185,
+      "direction": 1,
+      "mean_delta": 0.049525669642857144,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 186,
+      "direction": -1,
+      "mean_delta": 0.050837862318840576,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 248,
+      "direction": -1,
+      "mean_delta": 0.042271205357142856,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

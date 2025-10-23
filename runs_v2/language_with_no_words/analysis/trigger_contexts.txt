@@ -1,0 +1,9 @@
+step_decoded=15 pos=27 dir=- impact=0.064323 shift=-0.063760 cats=content_heavy earlier=15 later=5 same=0
+In^(-15) the^(-14) land^(-10) of^(-13) [ĠSil^(+0)] ent^(-1)ia^(-2),^(-12) the^(-11) language^(-9) spoken^(-8) entirely^(-7) through^(-6) changes^(-4) in^(-5) silence^(-3) is^(+1) called^(+2) "^(+3)A^(+5)eth^(+13)
+
+step_decoded=25 pos=51 dir=- impact=0.053668 shift=-0.052550 cats=content_heavy earlier=13 later=19 same=0
+ through^(-16) changes^(-14) in^(-15) silence^(-13) is^(-9) called^(-8) "^(-7)A^(-5)eth^(+3)oria^(+6)."^(-6) A^(-4)eth^(+4)oria^(+5) is^(-3) a^(-2) [Ġsystem^(+0)]  of^(-1) communication^(+1) that^(+2) relies^(+7) on^(+8) the^(+9) manipulation^(+11) of^(+10) silence^(+12) to^(+14) convey^(+13) meaning^(+15).^(+16)Ċ^(+18)Ċ^(+17)To^(+19)
+
+step_decoded=44 pos=67 dir=- impact=0.043191 shift=-0.042618 cats=content_heavy earlier=16 later=16 same=0
+ system^(-19) of^(-20) communication^(-18) that^(-17) relies^(-12) on^(-11) the^(-10) manipulation^(-8) of^(-9) silence^(-7) to^(-5) convey^(-6) meaning^(-4).^(-3)Ċ^(-1)Ċ^(-2) [To^(+0)]  speak^(+1) A^(+3)eth^(+2)oria^(+4),^(+5) one^(+6) must^(+7) be^(+8) able^(+9) to^(+10) control^(+12) the^(+11) flow^(+16) of^(+13) silence^(+14),^(+15)
+

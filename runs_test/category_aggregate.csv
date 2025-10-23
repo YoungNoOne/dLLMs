@@ -1,0 +1,7 @@
+category,triggers,samples,mean_impact,mean_prompt_shift,dir_pos,dir_neg
+special_token,5,5,0.082596,-0.052266,1,4
+content_heavy,3,3,0.040688,0.009322,1,2
+punctuation,2,2,0.076162,-0.075197,0,2
+sentence_boundary,2,2,0.076162,-0.075197,0,2
+other,1,1,0.036965,-0.033881,0,1
+contrast_marker,1,1,0.029621,-0.001225,0,1

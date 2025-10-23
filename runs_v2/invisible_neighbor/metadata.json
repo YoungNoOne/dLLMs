@@ -1,0 +1,103 @@
+{
+  "name": "invisible_neighbor",
+  "prompt": "You discover your neighbor has been invisible the entire time you\u2019ve known them. Describe the first honest conversation between you two.",
+  "decoded": "I was sitting on my porch, sipping my coffee, when I noticed my neighbor, Sarah, standing in the doorway. I looked over at her, and she was gone. I looked around the neighborhood, but she was nowhere to be found. I called out her name, but there was no response. I decided to give her a call, and when I answered the phone, it was her voice, but there was no one there.\n\nI was shocked. How could this be? I had known her for years, and she was gone. I decided to confront her about it. I went to her house and knocked on the door. She opened it, and I was shocked to see her standing there.\n\nI explained that I had known her for years, and I couldn't believe that she had been invisible the entire time. She looked at me and said, \"I'm sorry, but I can't see you. I've been invisible the whole time.\"\n\nI was stunned. I had never known that she was invisible. I explained that I had known her for years, and I couldn't believe that she had been invisible the entire time. She looked at me and said, \"I'm sorry, but I can't see you",
+  "events_count": 7,
+  "max_mean_delta": 0.17371117140718562,
+  "max_sign_agreement": 1.0,
+  "token_count": 7,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.0977474738023952,
+      "median_impact": 0.0634765625,
+      "mean_prompt_shift": -0.07039252271127387
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06098364978902954,
+      "median_impact": 0.06098364978902954,
+      "mean_prompt_shift": -0.06002713585434183
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05679699624039314,
+      "median_impact": 0.05679699624039314,
+      "mean_prompt_shift": -0.05488856043748852
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05679699624039314,
+      "median_impact": 0.05679699624039314,
+      "mean_prompt_shift": -0.05488856043748852
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.047207232603092786,
+      "median_impact": 0.047207232603092786,
+      "mean_prompt_shift": 0.04672646337232356
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 18,
+      "direction": -1,
+      "mean_delta": 0.06098364978902954,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 56,
+      "direction": -1,
+      "mean_delta": 0.0578380182160804,
+      "sign_agreement": 0.9748743718592965,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 61,
+      "direction": 1,
+      "mean_delta": 0.047207232603092786,
+      "sign_agreement": 0.979381443298969,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 85,
+      "direction": -1,
+      "mean_delta": 0.05575597426470588,
+      "sign_agreement": 0.9882352941176471,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 88,
+      "direction": -1,
+      "mean_delta": 0.17371117140718562,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 240,
+      "direction": 1,
+      "mean_delta": 0.0560546875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 241,
+      "direction": -1,
+      "mean_delta": 0.0634765625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

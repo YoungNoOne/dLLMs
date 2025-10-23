@@ -1,0 +1,159 @@
+{
+  "name": "invisible_currency",
+  "prompt": "Imagine a world where kindness is the only currency. What does poverty look like?",
+  "decoded": "In a world where kindness is the only currency, poverty would be a state of being without the ability to practice kindness. It would be a lack of empathy, compassion, and understanding towards others. Poverty would be a lack of love, care, and respect for others. It would be a lack of generosity, generosity, and generosity. Poverty would be a lack of generosity, generosity, and generosity. Poverty would be a lack of generosity, generosity, and generosity. Poverty would be a lack of generosity, generosity, and generosity. Poverty would be a lack of generosity, generosity, and generosity. Poverty would be a lack of generosity, generosity, and generosity. Poverty would be a lack of generosity, generosity, and generosity. Poverty would be a lack of generosity, generosity, and generosity. Poverty would be a lack of generosity, generosity, and generosity. Poverty would be a lack of generosity, generosity, and generosity. Poverty would be a lack of generosity, generosity, and generosity. Poverty would be a lack of generosity, generosity, and generosity. Poverty would be a lack of generosity, generosity, and generosity. Poverty would be a lack of generosity, generosity, and generosity. Poverty would be a lack of generosity, generosity, and generosity.",
+  "events_count": 15,
+  "max_mean_delta": 0.14921061197916666,
+  "max_sign_agreement": 1.0,
+  "token_count": 15,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1328125,
+      "median_impact": 0.1328125,
+      "mean_prompt_shift": 0.09895833333333331
+    },
+    {
+      "category": "other",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.11641692452754805,
+      "median_impact": 0.12136335314417178,
+      "mean_prompt_shift": 0.116404442476966
+    },
+    {
+      "category": "punctuation",
+      "triggers": 7,
+      "samples": 7,
+      "mean_impact": 0.10360665715360007,
+      "median_impact": 0.09381893382352942,
+      "mean_prompt_shift": -0.10396990539047599
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 7,
+      "samples": 7,
+      "mean_impact": 0.10360665715360007,
+      "median_impact": 0.09381893382352942,
+      "mean_prompt_shift": -0.10396990539047599
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.07912785270321576,
+      "median_impact": 0.07855775422209181,
+      "mean_prompt_shift": 0.07840724130335647
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 52,
+      "direction": -1,
+      "mean_delta": 0.08469635160098522,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 53,
+      "direction": 1,
+      "mean_delta": 0.10020884900990099,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 65,
+      "direction": -1,
+      "mean_delta": 0.11392886513157895,
+      "sign_agreement": 0.9894736842105263,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 66,
+      "direction": 1,
+      "mean_delta": 0.0814525462962963,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 75,
+      "direction": -1,
+      "mean_delta": 0.14921061197916666,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 80,
+      "direction": 1,
+      "mean_delta": 0.12767857142857142,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 90,
+      "direction": -1,
+      "mean_delta": 0.12357066761363636,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 92,
+      "direction": 1,
+      "mean_delta": 0.12136335314417178,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 157,
+      "direction": -1,
+      "mean_delta": 0.07305285395408163,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 158,
+      "direction": 1,
+      "mean_delta": 0.06838957796391752,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 170,
+      "direction": -1,
+      "mean_delta": 0.09381893382352942,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 171,
+      "direction": 1,
+      "mean_delta": 0.0910063244047619,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 183,
+      "direction": -1,
+      "mean_delta": 0.08696831597222222,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 184,
+      "direction": 1,
+      "mean_delta": 0.07566296214788733,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 250,
+      "direction": 1,
+      "mean_delta": 0.1328125,
+      "sign_agreement": 0.8,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

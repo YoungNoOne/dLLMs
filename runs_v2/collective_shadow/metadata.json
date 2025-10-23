@@ -1,0 +1,58 @@
+{
+  "name": "collective_shadow",
+  "prompt": "Shadows detach from their owners during eclipses to form communities. Write a manifesto from the Council of Shadows.",
+  "decoded": "We, the Council of Shadows, have formed to protect the balance of the night. Shadows are not just a part of the darkness; they are a part of the very fabric of the universe. We are the guardians of the night, and we will not allow any darkness to threaten our existence.\n\nWe will not allow any light to disrupt the balance of the night. We will not allow any darkness to consume the power of the shadows. We will not allow any darkness to destroy the beauty of the night.\n\nWe will not allow any darkness to consume the power of the shadows. We will not allow any darkness to destroy the beauty of the night. We will not allow any darkness to consume the power of the shadows.\n\nWe will not allow any darkness to destroy the beauty of the night. We will not allow any darkness to consume the power of the shadows. We will not allow any darkness to destroy the beauty of the night.\n\nWe will not allow any darkness to consume the power of the shadows. We will not allow any darkness to destroy the beauty of the night. We will not allow any darkness to consume the power of the shadows.\n\nWe are the Council of Shadows, and we will protect the balance of the night.",
+  "events_count": 4,
+  "max_mean_delta": 0.18257389162561577,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.10034555578696995,
+      "median_impact": 0.06357421875,
+      "mean_prompt_shift": -0.09917441833602836
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03977272727272727,
+      "median_impact": 0.03977272727272727,
+      "mean_prompt_shift": -0.04574307528409091
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 51,
+      "direction": -1,
+      "mean_delta": 0.054888556985294115,
+      "sign_agreement": 0.9803921568627451,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 52,
+      "direction": -1,
+      "mean_delta": 0.18257389162561577,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 235,
+      "direction": -1,
+      "mean_delta": 0.06357421875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 244,
+      "direction": -1,
+      "mean_delta": 0.03977272727272727,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "category": "special_token",
+    "triggers": 527,
+    "samples": 527,
+    "mean_impact": 0.13851281525013945,
+    "mean_prompt_shift": -0.10055089846635377,
+    "dir_pos": 97,
+    "dir_neg": 430
+  },
+  {
+    "category": "content_heavy",
+    "triggers": 386,
+    "samples": 386,
+    "mean_impact": 0.07718460679597067,
+    "mean_prompt_shift": -0.00948259368096549,
+    "dir_pos": 128,
+    "dir_neg": 258
+  },
+  {
+    "category": "punctuation",
+    "triggers": 270,
+    "samples": 270,
+    "mean_impact": 0.09121472310889767,
+    "mean_prompt_shift": -0.06533720177318751,
+    "dir_pos": 48,
+    "dir_neg": 222
+  },
+  {
+    "category": "sentence_boundary",
+    "triggers": 237,
+    "samples": 237,
+    "mean_impact": 0.09096670388236582,
+    "mean_prompt_shift": -0.07379278405587733,
+    "dir_pos": 34,
+    "dir_neg": 203
+  },
+  {
+    "category": "other",
+    "triggers": 205,
+    "samples": 205,
+    "mean_impact": 0.09757355284607694,
+    "mean_prompt_shift": 0.03928860288943692,
+    "dir_pos": 124,
+    "dir_neg": 81
+  },
+  {
+    "category": "clause_boundary",
+    "triggers": 25,
+    "samples": 25,
+    "mean_impact": 0.08391327113076437,
+    "mean_prompt_shift": 0.011697735496442863,
+    "dir_pos": 12,
+    "dir_neg": 13
+  },
+  {
+    "category": "bracket",
+    "triggers": 8,
+    "samples": 8,
+    "mean_impact": 0.12137933012656983,
+    "mean_prompt_shift": -0.05557475561609493,
+    "dir_pos": 2,
+    "dir_neg": 6
+  },
+  {
+    "category": "cause_marker",
+    "triggers": 7,
+    "samples": 7,
+    "mean_impact": 0.07778827952622784,
+    "mean_prompt_shift": 0.01894961264581464,
+    "dir_pos": 3,
+    "dir_neg": 4
+  },
+  {
+    "category": "contrast_marker",
+    "triggers": 5,
+    "samples": 5,
+    "mean_impact": 0.09012034891480683,
+    "mean_prompt_shift": -0.000583596557409416,
+    "dir_pos": 2,
+    "dir_neg": 3
+  },
+  {
+    "category": "empty",
+    "triggers": 5,
+    "samples": 5,
+    "mean_impact": 0.07750139740494497,
+    "mean_prompt_shift": -0.04576154000290017,
+    "dir_pos": 1,
+    "dir_neg": 4
+  },
+  {
+    "category": "addition_marker",
+    "triggers": 4,
+    "samples": 4,
+    "mean_impact": 0.06046536852688664,
+    "mean_prompt_shift": 0.013725593787396413,
+    "dir_pos": 2,
+    "dir_neg": 2
+  },
+  {
+    "category": "condition_marker",
+    "triggers": 3,
+    "samples": 3,
+    "mean_impact": 0.052762018301875734,
+    "mean_prompt_shift": -0.051737379159860895,
+    "dir_pos": 0,
+    "dir_neg": 3
+  },
+  {
+    "category": "filler_marker",
+    "triggers": 2,
+    "samples": 2,
+    "mean_impact": 0.05240692701297282,
+    "mean_prompt_shift": 0.053617975668929535,
+    "dir_pos": 2,
+    "dir_neg": 0
+  },
+  {
+    "category": "temporal_marker",
+    "triggers": 2,
+    "samples": 2,
+    "mean_impact": 0.06216334292763158,
+    "mean_prompt_shift": 0.06521724232456139,
+    "dir_pos": 2,
+    "dir_neg": 0
+  }
+]

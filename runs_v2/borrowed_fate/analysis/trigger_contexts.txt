@@ -1,0 +1,9 @@
+step_decoded=23 pos=56 dir=- impact=0.043928 shift=-0.042522 cats=content_heavy earlier=15 later=17 same=0
+ where^(-15) people^(-14) could^(-9) borrow^(-13) someone^(-12) else^(-11)'s^(-8) fate^(-10) for^(-7) a^(-6) limited^(-5) time^(-3),^(-4) there^(-2) lived^(+3) a^(-1) [Ġyoung^(+0)]  woman^(+4) named^(+1) Lily^(+8).^(+2) She^(+5) had^(+6) always^(+7) been^(+9) curious^(+10) about^(+11) the^(+12) lives^(+14) of^(+13) others^(+15) and^(+16) wanted^(+18)
+
+step_decoded=31 pos=59 dir=- impact=0.042585 shift=-0.041578 cats=content_heavy earlier=20 later=12 same=0
+ borrow^(-21) someone^(-20) else^(-19)'s^(-16) fate^(-18) for^(-15) a^(-14) limited^(-13) time^(-11),^(-12) there^(-10) lived^(-5) a^(-9) young^(-8) woman^(-4) named^(-7) [ĠLily^(+0)] .^(-6) She^(-3) had^(-2) always^(-1) been^(+1) curious^(+2) about^(+3) the^(+4) lives^(+6) of^(+5) others^(+7) and^(+8) wanted^(+10) to^(+9) experience^(+11) what^(+13)
+
+step_decoded=54 pos=86 dir=+ impact=0.071537 shift=0.071420 cats=content_heavy earlier=16 later=16 same=0
+ others^(-16) and^(-15) wanted^(-13) to^(-14) experience^(-12) what^(-10) it^(-11) would^(-7) be^(-8) like^(-9) to^(-6) live^(-5) in^(+1) someone^(-4) else^(-3)'s^(-2) [Ġshoes^(+0)] .^(-1)Ċ^(+5)Ċ^(+2)One^(+4) day^(+6),^(+3) Lily^(+7) decided^(+9) to^(+8) borrow^(+12) the^(+11) fate^(+13) of^(+10) a^(+14) wealthy^(+15) businessman^(+16)
+

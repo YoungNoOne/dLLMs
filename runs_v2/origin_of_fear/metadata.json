@@ -1,0 +1,81 @@
+{
+  "name": "origin_of_fear",
+  "prompt": "Scientists isolate fear as a transferable chemical. Write the experiment notes from someone who tries to live without it.",
+  "decoded": "Experiment Notes: Living Without Fear.\n\nToday, I attempted to live without fear. I started by identifying the sources of fear in my life. I realized that fear often stems from uncertainty and lack of control. I decided to take control of my life and reduce the sources of fear.\n\nI began by setting clear goals and plans for my day. This helped me feel more in control and less uncertain. I also practiced mindfulness and meditation to stay present and reduce anxiety.\n\nThroughout the day, I made sure to focus on positive thoughts and emotions. I reminded myself of my strengths and accomplishments, and I surrounded myself with positive people who supported and encouraged me.\n\nI also made sure to take care of my physical and mental health. I exercised regularly, ate a healthy diet, and got enough sleep. This helped me feel more grounded and centered.\n\nAt the end of the day, I reflected on my experience. I realized that fear is a natural part of life, but it doesn't have to control us. By taking control of our lives and focusing on positive thoughts and emotions, we can reduce the impact of fear and live a more fulfilling life.\n\nI hope my experiment notes can help others who want to live without fear.",
+  "events_count": 5,
+  "max_mean_delta": 0.23962208581349206,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.14425223214285715,
+      "median_impact": 0.14425223214285715,
+      "mean_prompt_shift": -0.14212039669873178
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.07715221993282008,
+      "median_impact": 0.07715221993282008,
+      "mean_prompt_shift": -0.0765302046048768
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.07715221993282008,
+      "median_impact": 0.07715221993282008,
+      "mean_prompt_shift": -0.0765302046048768
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05626411897590362,
+      "median_impact": 0.05626411897590362,
+      "mean_prompt_shift": 0.05757630522088353
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 3,
+      "direction": -1,
+      "mean_delta": 0.23962208581349206,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 6,
+      "direction": 1,
+      "mean_delta": 0.05626411897590362,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 8,
+      "direction": -1,
+      "mean_delta": 0.10672602479757085,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 53,
+      "direction": -1,
+      "mean_delta": 0.047578415068069306,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 237,
+      "direction": -1,
+      "mean_delta": 0.048882378472222224,
+      "sign_agreement": 0.9444444444444444,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

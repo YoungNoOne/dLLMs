@@ -1,0 +1,12 @@
+step_decoded=66 pos=96 dir=+ impact=0.081453 shift=0.081378 cats=content_heavy earlier=15 later=17 same=0
+ for^(-16) others^(-15).^(-14) It^(-11) would^(-13) be^(-12) a^(-10) lack^(-8) of^(-9) generosity^(-3),^(-6) generosity^(-4),^(-5) and^(-2) generosity^(+10).^(-1) [ĠPoverty^(+0)]  would^(+1) be^(+2) a^(+3) lack^(+5) of^(+4) generosity^(+13),^(+6) generosity^(+12),^(+7) and^(+8) generosity^(+11).^(+9) Poverty^(+28) would^(+15) be^(+16) a^(+14)
+
+step_decoded=158 pos=187 dir=+ impact=0.068390 shift=0.067635 cats=content_heavy earlier=16 later=16 same=0
+ and^(-15) generosity^(-18).^(-14) Poverty^(-13) would^(-12) be^(-11) a^(-10) lack^(-9) of^(-8) generosity^(-6),^(-7) generosity^(-5),^(-4) and^(-3) generosity^(-2).^(-1) [ĠPoverty^(+0)]  would^(+1) be^(+2) a^(+3) lack^(+5) of^(+4) generosity^(+9),^(+6) generosity^(+8),^(+7) and^(+10) generosity^(+11).^(+12) Poverty^(+13) would^(+14) be^(+15) a^(+16)
+
+step_decoded=171 pos=200 dir=+ impact=0.091006 shift=0.090167 cats=content_heavy earlier=16 later=16 same=0
+ and^(-16) generosity^(-15).^(-14) Poverty^(-13) would^(-12) be^(-11) a^(-10) lack^(-8) of^(-9) generosity^(-4),^(-7) generosity^(-5),^(-6) and^(-3) generosity^(-2).^(-1) [ĠPoverty^(+0)]  would^(+1) be^(+2) a^(+3) lack^(+4) of^(+5) generosity^(+9),^(+6) generosity^(+8),^(+7) and^(+10) generosity^(+11).^(+12) Poverty^(+13) would^(+14) be^(+15) a^(+16)
+
+step_decoded=184 pos=213 dir=+ impact=0.075663 shift=0.074449 cats=content_heavy earlier=16 later=16 same=0
+ and^(-16) generosity^(-15).^(-14) Poverty^(-13) would^(-12) be^(-11) a^(-10) lack^(-9) of^(-8) generosity^(-4),^(-7) generosity^(-5),^(-6) and^(-3) generosity^(-2).^(-1) [ĠPoverty^(+0)]  would^(+1) be^(+2) a^(+3) lack^(+5) of^(+4) generosity^(+7),^(+6) generosity^(+8),^(+9) and^(+10) generosity^(+11).^(+12) Poverty^(+13) would^(+14) be^(+15) a^(+16)
+

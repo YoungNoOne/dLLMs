@@ -1,0 +1,9 @@
+step_decoded=236 pos=268 dir=+ impact=0.058311 shift=0.059601 cats=temporal_marker;content_heavy earlier=15 later=17 same=0
+ felt^(-15) a^(-14) sense^(-13) of^(-12) peace^(-11) and^(-10) freedom^(+3) that^(-6) I^(-9) had^(-8) never^(-7) felt^(-2) before^(-4).^(-5) I^(-3) had^(-1) [Ġfinally^(+0)]  paid^(+1) off^(+2) my^(+7) emotional^(+9) debts^(+8),^(+10) and^(+11) I^(+12) was^(+13) free^(+15) to^(+14) start^(+18) a^(+16) new^(+17) life^(+19).^(+5)
+
+step_decoded=239 pos=258 dir=- impact=0.059082 shift=-0.052160 cats=content_heavy earlier=28 later=4 same=0
+ each^(-27) other^(-28).^(-26)Ċ^(-24)Ċ^(-25)In^(-21) that^(-19) moment^(-20),^(-22) I^(-23) felt^(-18) a^(-17) sense^(-16) of^(-15) peace^(-14) and^(-13) [Ġfreedom^(+0)]  that^(-9) I^(-12) had^(-11) never^(-10) felt^(-5) before^(-7).^(-8) I^(-6) had^(-4) finally^(-3) paid^(-2) off^(-1) my^(+4) emotional^(+6) debts^(+5),^(+7)
+
+step_decoded=250 pos=279 dir=+ impact=0.062793 shift=0.063672 cats=content_heavy earlier=18 later=5 same=0
+ felt^(-16) before^(-18).^(-19) I^(-17) had^(-15) finally^(-14) paid^(-13) off^(-12) my^(-7) emotional^(-5) debts^(-6),^(-4) and^(-3) I^(-2) was^(-1) free^(+1) [Ġto^(+0)]  start^(+4) a^(+2) new^(+3) life^(+5).^(-9)<|eot_id|>^(-8)<|endoftext|>^(-10)
+

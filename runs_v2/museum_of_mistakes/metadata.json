@@ -1,0 +1,44 @@
+{
+  "name": "museum_of_mistakes",
+  "prompt": "Design an exhibit for a 'Museum of Human Mistakes'. What does it display?",
+  "decoded": "The Museum of Human Mistakes is a unique and fascinating exhibit that celebrates the diversity of human errors and blunders. The exhibit is divided into several sections, each showcasing different aspects of human mistakes.\n\n1. The Art of Error: This section displays examples of mistakes that have been used as inspiration for art and design.\n\n2. The Science of Error: This section explores the science behind human mistakes and how they can be understood and prevented.\n\n3. The History of Error: This section showcases famous mistakes throughout history and how they have impacted society.\n\n4. The Comedy of Error: This section features humorous and amusing examples of human mistakes.\n\n5. The Ethics of Error: This section examines the ethical implications of human mistakes and how they can be addressed.\n\n6. The Future of Error: This section looks to the future and predicts potential human mistakes and how they can be mitigated.\n\nThroughout the exhibit, visitors will be encouraged to reflect on their own mistakes and how they can learn from them. The exhibit includes interactive displays, videos, and multimedia exhibits to engage visitors and encourage them to think critically about human errors. The Museum of Human Mistakes is a unique and engaging exhibit that is sure to entertain and educate visitors.",
+  "events_count": 2,
+  "max_mean_delta": 0.18213565668202766,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.18213565668202766,
+      "median_impact": 0.18213565668202766,
+      "mean_prompt_shift": -0.18141181219084257
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.046767629253926704,
+      "median_impact": 0.046767629253926704,
+      "mean_prompt_shift": -0.042236754199389215
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 38,
+      "direction": -1,
+      "mean_delta": 0.18213565668202766,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 64,
+      "direction": -1,
+      "mean_delta": 0.046767629253926704,
+      "sign_agreement": 0.8167539267015707,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

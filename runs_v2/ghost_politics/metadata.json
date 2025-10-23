@@ -1,0 +1,58 @@
+{
+  "name": "ghost_politics",
+  "prompt": "Ghosts gain voting rights. Write a campaign speech from a candidate appealing to the deceased electorate.",
+  "decoded": "Ladies and gentlemen,\n\nToday, I stand before you as a candidate for office, and I am appealing to you as a member of the deceased electorate. I am here to assure you that I am committed to serving you and your loved ones.\n\nI understand that you may be wondering why I am speaking to you, but I am speaking to you because I believe that your voice matters. I believe that your vote matters, and I believe that you deserve to be heard.\n\nAs a candidate for office, I am committed to serving the people of this country, and I am committed to serving the people of this country, including you. I am committed to making sure that your voice is heard and that your interests are represented.\n\nI understand that you may be wondering why I am speaking to you, but I am speaking to you because I believe that your voice matters. I believe that your vote matters, and I believe that you deserve to be heard.\n\nSo, I urge you to vote for me. I urge you to support me as a candidate for office, and I urge you to support me as a member of the deceased electorate.\n\nThank you for your time, and I look forward to hearing your thoughts and opinions.",
+  "events_count": 4,
+  "max_mean_delta": 0.2453029725609756,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.20717243975903615,
+      "median_impact": 0.20717243975903615,
+      "mean_prompt_shift": 0.20824256400602414
+    },
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.1800893162420766,
+      "median_impact": 0.2297421875,
+      "mean_prompt_shift": -0.17976152990699423
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 5,
+      "direction": -1,
+      "mean_delta": 0.2297421875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 6,
+      "direction": 1,
+      "mean_delta": 0.20717243975903615,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 50,
+      "direction": -1,
+      "mean_delta": 0.2453029725609756,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 196,
+      "direction": -1,
+      "mean_delta": 0.06522278866525423,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

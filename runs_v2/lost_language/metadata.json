@@ -1,0 +1,110 @@
+{
+  "name": "lost_language",
+  "prompt": "A linguist discovers a forgotten language that can express only emotions, not facts. Write their journal entry on the first translation.",
+  "decoded": "March 15, 2023\n\nToday, I made a groundbreaking discovery. After years of research, I finally deciphered the ancient language of Emotica, a language that can only express emotions, not facts. The first word I translated was \"khaa,\" which translates to \"joy.\" The sound of this word is so pure and clear, it's as if it's spoken directly from the heart.\n\nI can't believe it. This language has been lost for centuries, and now I'm able to unlock its secrets. The sounds of Emotica are so beautiful, so haunting, that it's hard to believe they were once spoken by human beings.\n\nAs I continue to study this language, I can't help but feel a sense of connection to the people who once spoke it. Their emotions, their joys, their sorrows, are all encoded in the sounds of Emotica. It's as if I'm holding a piece of history in hand.\n\nThis discovery has opened up a whole new world of possibilities. I can't wait to see what other emotions Emotica can express, and what stories it can tell. This is a moment that will change my understanding of language forever.",
+  "events_count": 8,
+  "max_mean_delta": 0.23156440548780488,
+  "max_sign_agreement": 1.0,
+  "token_count": 8,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.16569414277280417,
+      "median_impact": 0.16569414277280417,
+      "mean_prompt_shift": -0.16527255570323313
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.10176092925378659,
+      "median_impact": 0.07744229206561176,
+      "mean_prompt_shift": -0.00437102854977206
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06819661458333333,
+      "median_impact": 0.06819661458333333,
+      "mean_prompt_shift": -0.07467573116987178
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06819661458333333,
+      "median_impact": 0.06819661458333333,
+      "mean_prompt_shift": -0.07467573116987178
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0595703125,
+      "median_impact": 0.0595703125,
+      "mean_prompt_shift": 0.05935581776769383
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 9,
+      "direction": -1,
+      "mean_delta": 0.23156440548780488,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 10,
+      "direction": 1,
+      "mean_delta": 0.19105548469387756,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 13,
+      "direction": -1,
+      "mean_delta": 0.07676911157024793,
+      "sign_agreement": 0.987603305785124,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 34,
+      "direction": -1,
+      "mean_delta": 0.06110364819004525,
+      "sign_agreement": 0.9864253393665159,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 49,
+      "direction": 1,
+      "mean_delta": 0.0595703125,
+      "sign_agreement": 0.9805825242718447,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 50,
+      "direction": -1,
+      "mean_delta": 0.0781154725609756,
+      "sign_agreement": 0.9804878048780488,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 82,
+      "direction": -1,
+      "mean_delta": 0.09982388005780347,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 243,
+      "direction": -1,
+      "mean_delta": 0.06819661458333333,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

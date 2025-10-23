@@ -1,0 +1,6 @@
+step_decoded=11 pos=37 dir=- impact=0.058498 shift=-0.055422 cats=content_heavy earlier=11 later=16 same=0
+That^(-10) sounds^(-11) like^(-9) a^(-4) fascinating^(-5) and^(-8) intriguing^(-7) scenario^(-6).^(-3) It^(-2)'s^(-1) [Ġpossible^(+0)]  that^(+1) the^(+2) two^(+3) strangers^(+4) have^(+9) been^(+8) sharing^(+12) the^(+7) same^(+6) dream^(+5) for^(+10) months^(+11) due^(+14) to^(+13) a^(+15) variety^(+17)
+
+step_decoded=23 pos=44 dir=- impact=0.053391 shift=-0.053303 cats=content_heavy earlier=21 later=11 same=0
+ like^(-21) a^(-16) fascinating^(-17) and^(-20) intriguing^(-19) scenario^(-18).^(-15) It^(-14)'s^(-13) possible^(-12) that^(-11) the^(-10) two^(-9) strangers^(-8) have^(-3) been^(-4) [Ġsharing^(+0)]  the^(-5) same^(-6) dream^(-7) for^(-2) months^(-1) due^(+2) to^(+1) a^(+3) variety^(+5) of^(+4) reasons^(+6),^(+7) such^(+8) as^(+9):^(+10)Ċ^(+11)
+

@@ -1,0 +1,6 @@
+step_decoded=10 pos=40 dir=+ impact=0.100303 shift=0.100922 cats=content_heavy earlier=10 later=13 same=0
+**^(-6)The^(-7) Color^(-8) of^(-10) Nothing^(-9):^(-5) A^(-1) [ĠJourney^(+0)]  Through^(+1) the^(+2) Void^(+3)**^(-3)Ċ^(-2)Ċ^(-4)Welcome^(+4) to^(+5) "^(+10)The^(+8) Color^(+9) of^(+6) Nothing^(+7),"^(+11) an^(+12) exhibition^(+14)
+
+step_decoded=251 pos=277 dir=+ impact=0.043701 shift=0.035034 cats=content_heavy earlier=23 later=4 same=0
+ secrets^(-17) of^(-23) the^(-22) universe^(-21) are^(-18) revealed^(-20) in^(-19) the^(-15) most^(-14) unexpected^(-13) ways^(-12).^(-16)Ċ^(-9)Ċ^(-8)Join^(-1) us^(-2) [Ġon^(+0)]  this^(+1) journey^(+3) and^(+2) discover^(+4) the^(-6) color^(-3) of^(-7) nothing^(-5).^(-4)<|eot_id|>^(-10)<|endoftext|>^(-11)
+

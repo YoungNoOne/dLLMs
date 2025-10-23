@@ -1,0 +1,24 @@
+[
+  {
+    "step_decoded": 36,
+    "direction": -1,
+    "mean_delta": 0.2269370719178082,
+    "median_delta": 0.22265625,
+    "sign_agreement": 1.0,
+    "valid_positions": 219,
+    "prompt_mean": 0.5060466609589042,
+    "prompt_shift": -0.22653501517745944,
+    "tokens": [
+      {
+        "step_decoded": 36,
+        "token_pos": 73,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.369140625,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "name": "moral_harvest",
+  "prompt": "Farmers cultivate ethical values instead of crops. Each season, they harvest kindness, greed, or courage depending on the soil. Write an excerpt from a farmer\u2019s diary during a drought of honesty.",
+  "decoded": "**October 15, 2023**\n\nToday, I find myself in the midst of a drought of honesty. The soil, once rich with the nutrients of truth, now feels barren and dry. I\u2019ve been tending to the seeds of integrity, but the harvest is meager. The once-lush fields of honesty are now parched, and the fruits of truth are struggling to grow.\n\nI\u2019ve been reflecting on the state of our society, and it\u2019s clear that the soil of honesty is wearing thin. The people around me, once so open and transparent, now seem to be hiding behind layers of deception. It\u2019s a worrying trend, and I can\u2019t help but wonder if we\u2019re all suffering from the same drought.\n\nAs a farmer, I\u2019ve always believed that honesty is the foundation of a thriving community. Without it, our crops of kindness, compassion, and courage will wither and die. I need to find a way to irrigate the soil of honesty, to nourish it with the water of truth and transparency.\n\nUntil then, I\u2019ll continue to tend to the seeds of integrity, hoping that one day, the drought will break, and the fields of honesty will bloom in full force.",
+  "events_count": 4,
+  "max_mean_delta": 0.2718408978174603,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2234499501992032,
+      "median_impact": 0.2234499501992032,
+      "mean_prompt_shift": 0.22385841060361722
+    },
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.195847904265873,
+      "median_impact": 0.195847904265873,
+      "mean_prompt_shift": -0.1954127813093081
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.08180675287356322,
+      "median_impact": 0.08180675287356322,
+      "mean_prompt_shift": -0.08085193452380957
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.08180675287356322,
+      "median_impact": 0.08180675287356322,
+      "mean_prompt_shift": -0.08085193452380957
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 3,
+      "direction": -1,
+      "mean_delta": 0.2718408978174603,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 4,
+      "direction": 1,
+      "mean_delta": 0.2234499501992032,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 80,
+      "direction": -1,
+      "mean_delta": 0.11985491071428571,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 81,
+      "direction": -1,
+      "mean_delta": 0.08180675287356322,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

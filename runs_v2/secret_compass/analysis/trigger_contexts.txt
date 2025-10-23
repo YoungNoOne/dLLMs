@@ -1,0 +1,9 @@
+step_decoded=8 pos=40 dir=- impact=0.042368 shift=-0.041341 cats=content_heavy earlier=8 later=16 same=0
+Once^(-7) upon^(-8) a^(-6) time^(-5),^(-4) there^(-2) was^(-1) a^(-3) [Ġyoung^(+0)]  woman^(+3) named^(+1) Lily^(+7) who^(+2) had^(+4) always^(+5) dreamed^(+6) of^(+8) becoming^(+10) a^(+9) renowned^(+12) artist^(+13).^(+11) She^(+14) had^(+15) spent^(+16)
+
+step_decoded=15 pos=43 dir=- impact=0.059473 shift=-0.058189 cats=content_heavy earlier=15 later=12 same=0
+Once^(-14) upon^(-15) a^(-13) time^(-12),^(-11) there^(-9) was^(-8) a^(-10) young^(-7) woman^(-4) named^(-6) [ĠLily^(+0)]  who^(-5) had^(-3) always^(-2) dreamed^(-1) of^(+1) becoming^(+3) a^(+2) renowned^(+5) artist^(+6).^(+4) She^(+7) had^(+8) spent^(+9) years^(+10) hon^(+13)ing^(+11)
+
+step_decoded=21 pos=52 dir=- impact=0.045590 shift=-0.045108 cats=content_heavy earlier=17 later=15 same=0
+,^(-17) there^(-15) was^(-14) a^(-16) young^(-13) woman^(-10) named^(-12) Lily^(-6) who^(-11) had^(-9) always^(-8) dreamed^(-7) of^(-5) becoming^(-3) a^(-4) renowned^(-1) [Ġartist^(+0)] .^(-2) She^(+1) had^(+2) spent^(+3) years^(+4) hon^(+7)ing^(+5) her^(+6) skills^(+8) and^(+9) practicing^(+10) her^(+12) craft^(+11),^(+13) but^(+14) she^(+15)
+

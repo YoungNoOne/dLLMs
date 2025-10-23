@@ -1,0 +1,89 @@
+{
+  "name": "friendship_protocol",
+  "prompt": "In a near-future world, friendships must be registered through legal protocols. Draft the first rejection letter someone receives.",
+  "decoded": "Dear [Recipient's Name],\n\nI hope this message finds you well. I am writing to formally express my decision regarding the registration of our friendship under the new legal protocols for interpersonal relationships.\n\nAfter careful consideration, I have decided to decline the registration of our friendship. While I appreciate the effort and consideration you have shown in this matter, I have determined that our relationship does not meet the criteria for registration.\n\nPlease understand that this decision is not a reflection of the quality of our friendship, but rather a result of the legal requirements that must be met. I hope that this rejection does not harm our relationship, and I am committed to maintaining a positive and respectful relationship with you.\n\nIf you have any questions or concerns about the registration process, please do not hesitate to contact me. I am more than happy to provide you with more information and guidance.\n\nThank you for your understanding and cooperation. I look forward to continuing our friendship in other ways.\n\nSincerely,\n\n[Your Name]\n\n[Your Position]\n\n[Your Contact Information]\n\n[Your Company/Organization]\n\n[Date]\n\nNote: This letter is a template and should be customized according to the specific situation and context.",
+  "events_count": 5,
+  "max_mean_delta": 0.23825,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.1862367940080275,
+      "median_impact": 0.1862367940080275,
+      "mean_prompt_shift": -0.18576695974972016
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06448679956896551,
+      "median_impact": 0.06448679956896551,
+      "mean_prompt_shift": -0.06406643821230276
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06448679956896551,
+      "median_impact": 0.06448679956896551,
+      "mean_prompt_shift": -0.06406643821230276
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.0639501542832999,
+      "median_impact": 0.0639501542832999,
+      "mean_prompt_shift": 0.06550865684069318
+    },
+    {
+      "category": "filler_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06191083419421488,
+      "median_impact": 0.06191083419421488,
+      "mean_prompt_shift": 0.06381370789120155
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 5,
+      "direction": -1,
+      "mean_delta": 0.23825,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 13,
+      "direction": 1,
+      "mean_delta": 0.06191083419421488,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 16,
+      "direction": 1,
+      "mean_delta": 0.06598947437238493,
+      "sign_agreement": 0.99581589958159,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 37,
+      "direction": -1,
+      "mean_delta": 0.13422358801605505,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 197,
+      "direction": -1,
+      "mean_delta": 0.06448679956896551,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

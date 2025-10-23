@@ -1,0 +1,9 @@
+step_decoded=15 pos=55 dir=- impact=0.046615 shift=-0.045980 cats=content_heavy earlier=15 later=16 same=0
+**^(-15)Invest^(-13)igation^(-14) Summary^(-12):**^(-11)Ċ^(-10)Ċ^(-9)The^(-8) investigation^(-7) into^(-5) the^(-6) app^(-4)'s^(-3) predictive^(-2) algorithm^(-1) [Ġrevealed^(+0)]  that^(+1) despite^(+2) its^(+3) ^(+6)9^(+7)9^(+8).^(+9)9^(+4)%^(+10) accuracy^(+5) rate^(+11),^(+12) a^(+13) particular^(+16) pair^(+14) consistently^(+15)
+
+step_decoded=45 pos=87 dir=- impact=0.051479 shift=-0.050548 cats=content_heavy earlier=14 later=18 same=0
+ consistently^(-15) def^(-13)ies^(-12) the^(-11) algorithm^(-5)'s^(-10) predictions^(-8).^(-9) This^(-7) anomaly^(-6) was^(-4) identified^(-3) through^(-2) a^(-1) thorough^(+2) analysis^(+1) [Ġof^(+0)]  the^(+3) app^(+5)'s^(+4) data^(+6),^(+7) which^(+8) showed^(+11) that^(+9) the^(+10) pair^(+13)'s^(+12) profiles^(+18),^(+14) interests^(+17),^(+15) and^(+16)
+
+step_decoded=228 pos=270 dir=- impact=0.049407 shift=-0.033734 cats=content_heavy earlier=14 later=18 same=0
+ of^(-16) additional^(-14) data^(-12) and^(-11) variables^(-5) to^(-10) improve^(-6) the^(-9) algorithm^(-7)'s^(-8) predictive^(-4) capabilities^(+2).^(-3)Ċ^(-2)Ċ^(-1)The^(+1) [Ġinvestigation^(+0)]  highlights^(+4) the^(+3) need^(+6) for^(+7) ongoing^(+10) evaluation^(+11) and^(+5) refinement^(+8) of^(+9) the^(+15) app^(+19)'s^(+17) predictive^(+16) algorithm^(+20) to^(+18) improve^(+24)
+

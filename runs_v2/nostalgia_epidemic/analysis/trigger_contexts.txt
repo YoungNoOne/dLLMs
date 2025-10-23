@@ -1,0 +1,15 @@
+step_decoded=64 pos=100 dir=+ impact=0.039594 shift=0.039968 cats=content_heavy earlier=16 later=16 same=0
+ People^(-16) stood^(-10) frozen^(-11) in^(-12) time^(-9),^(-15) their^(-13) faces^(-14) etched^(-8) with^(-7) the^(-6) lines^(-1) of^(-5) their^(-2) past^(-3).^(-4) [ĠChildren^(+0)]  played^(+1) in^(+2) the^(+3) park^(+5),^(+4) their^(+6) laughter^(+7) now^(+8) a^(+9) distant^(+10) memory^(+13),^(+11) while^(+12) elderly^(+14) couples^(+15) walked^(+17)
+
+step_decoded=160 pos=196 dir=- impact=0.061678 shift=-0.062595 cats=content_heavy earlier=16 later=16 same=0
+ soothing^(-11) reminder^(-16) of^(-15) the^(-14) time^(-1) that^(-13) had^(-12) been^(-5) lost^(-4).^(-10) The^(-9) city^(-8)'s^(-6) collective^(-7) slip^(-2) into^(-3) [Ġmemories^(+0)]  was^(+1) a^(+2) poignant^(+3) reminder^(+4) of^(+5) the^(+6) fleeting^(+7) nature^(+9) of^(+8) time^(+12) and^(+11) the^(+10) importance^(+15) of^(+14) cher^(+13)ishing^(+16)
+
+step_decoded=215 pos=251 dir=- impact=0.034302 shift=-0.032603 cats=content_heavy earlier=16 later=16 same=0
+ etched^(-15) with^(-16) the^(-14) lines^(-12) of^(-13) their^(-11) past^(-10),^(-9) but^(-8) also^(-7) with^(-6) a^(-5) newfound^(-4) appreciation^(-3) for^(-2) the^(-1) [Ġbeauty^(+0)]  of^(+1) the^(+5) present^(+6).^(+3) The^(+4) city^(+2)'s^(+8) collective^(+7) slip^(+11) into^(+9) memories^(+10) had^(+12) been^(+14) a^(+13) transformative^(+17) experience^(+15)
+
+step_decoded=217 pos=257 dir=- impact=0.046053 shift=-0.044816 cats=content_heavy earlier=12 later=20 same=0
+ past^(-12),^(-11) but^(-10) also^(-9) with^(-8) a^(-7) newfound^(-6) appreciation^(-5) for^(-4) the^(-3) beauty^(-2) of^(-1) the^(+3) present^(+4).^(+1) The^(+2) [Ġcity^(+0)] 's^(+6) collective^(+5) slip^(+9) into^(+7) memories^(+8) had^(+10) been^(+12) a^(+11) transformative^(+15) experience^(+13),^(+14) a^(+16) reminder^(+18) of^(+19) the^(+17) fleeting^(+22)
+
+step_decoded=222 pos=259 dir=+ impact=0.032345 shift=0.028500 cats=content_heavy earlier=15 later=17 same=0
+ but^(-15) also^(-14) with^(-13) a^(-12) newfound^(-11) appreciation^(-10) for^(-9) the^(-8) beauty^(-7) of^(-6) the^(-2) present^(-1).^(-4) The^(-3) city^(-5)'s^(+1) [Ġcollective^(+0)]  slip^(+4) into^(+2) memories^(+3) had^(+5) been^(+7) a^(+6) transformative^(+10) experience^(+8),^(+9) a^(+11) reminder^(+13) of^(+14) the^(+12) fleeting^(+17) nature^(+16) of^(+15)
+

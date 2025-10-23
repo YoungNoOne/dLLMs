@@ -1,0 +1,72 @@
+{
+  "name": "posthuman_child",
+  "prompt": "A child born with AI-enhanced cognition begins teaching philosophy at age five. Write an interview excerpt from a skeptical journalist.",
+  "decoded": "Journalist: So, you're saying that a child born with AI-enhanced cognition began teaching philosophy at age five? That's quite a claim. Can you explain how this works?\n\nResearcher: Well, the child was born with a neural architecture that allows them to process information at a much faster rate than a typical child. This enables them to grasp complex concepts at a much younger age.\n\nJournalist: But doesn't this raise questions about the ethics of using AI to enhance cognition?\n\nResearcher: That's a valid concern. However, we believe that this is a natural extension of human intelligence and should not be viewed as a form of genetic modification.\n\nJournalist: And what about the potential for misuse? Could this child's abilities be exploited for nefarious purposes?\n\nResearcher: We take that very seriously. We have strict safeguards in place to ensure that the child's abilities are only used for positive purposes.\n\nJournalist: So, what does this mean for this child's future? Will they be the next Albert Einstein?\n\nResearcher: It's too early to say. However, we believe that this child has the potential to make significant contributions to the fields of philosophy and artificial intelligence.",
+  "events_count": 6,
+  "max_mean_delta": 0.10462688577586207,
+  "max_sign_agreement": 1.0,
+  "token_count": 6,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.06041339696634923,
+      "median_impact": 0.040231913077731093,
+      "mean_prompt_shift": -0.06025867680129395
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.04367505643566375,
+      "median_impact": 0.03303395669291338,
+      "mean_prompt_shift": -0.04306468332314669
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 0,
+      "direction": -1,
+      "mean_delta": 0.06809129901960784,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 1,
+      "direction": -1,
+      "mean_delta": 0.03303395669291338,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 35,
+      "direction": -1,
+      "mean_delta": 0.03638139204545455,
+      "sign_agreement": 0.990909090909091,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 38,
+      "direction": -1,
+      "mean_delta": 0.029899913594470046,
+      "sign_agreement": 0.9400921658986175,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 81,
+      "direction": -1,
+      "mean_delta": 0.10462688577586207,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 136,
+      "direction": -1,
+      "mean_delta": 0.040231913077731093,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

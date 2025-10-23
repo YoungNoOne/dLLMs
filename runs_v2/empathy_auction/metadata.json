@@ -1,0 +1,67 @@
+{
+  "name": "empathy_auction",
+  "prompt": "At a futuristic charity gala, empathy is auctioned to the highest bidder. Write the auctioneer\u2019s dramatic closing speech.",
+  "decoded": "Ladies and gentlemen, esteemed guests, and fellow philanthropists,\n\nTonight, we gather to celebrate the power of empathy, a force that transcends the boundaries of time and space. As we reach the final moments of our auction, I invite you to reflect on the profound impact that empathy can have on our lives and our world.\n\nIn this futuristic era, where technology and innovation drive our progress, it is the human connection that truly sets us apart. Empathy is the bridge that allows us to understand one another, to find common ground, and to build a future where kindness and compassion prevail.\n\nAs we bid farewell to this extraordinary evening, let us remember that empathy is not just a feeling, but a choice. It is a commitment to listen, to understand, and to act with compassion.\n\nTonight, we have auctioned empathy to the highest bidder, but let us not forget that it is a gift that must be nurtured and protected. Let us continue to recognize the value of empathy, and let us strive to embody it in all our interactions.\n\nThank you for your presence, and may the power of empathy continue to guide us as we navigate the complexities of our world.\n\nGoodnight.\n\nThank you.",
+  "events_count": 3,
+  "max_mean_delta": 0.2531798811983471,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2531798811983471,
+      "median_impact": 0.2531798811983471,
+      "mean_prompt_shift": -0.25238775061218244
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.19581496369294607,
+      "median_impact": 0.19581496369294607,
+      "mean_prompt_shift": 0.19715156266074552
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.16645998677248677,
+      "median_impact": 0.16645998677248677,
+      "mean_prompt_shift": -0.16671942442912835
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.16645998677248677,
+      "median_impact": 0.16645998677248677,
+      "mean_prompt_shift": -0.16671942442912835
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 13,
+      "direction": -1,
+      "mean_delta": 0.2531798811983471,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 14,
+      "direction": 1,
+      "mean_delta": 0.19581496369294607,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 66,
+      "direction": -1,
+      "mean_delta": 0.16645998677248677,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

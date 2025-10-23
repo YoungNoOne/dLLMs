@@ -1,0 +1,12 @@
+step_decoded=4 pos=35 dir=- impact=0.057473 shift=-0.056480 cats=content_heavy earlier=4 later=17 same=0
+In^(-4) the^(-3) mystical^(-1) realm^(+4) of^(-2) [ĠEld^(+0)] oria^(+2),^(+1) the^(+3) law^(+7) of^(+5) the^(+6) Whis^(+8)pering^(+9) Woods^(+10) is^(+11) a^(+12) strict^(+13) regulation^(+15) that^(+14) prohibits^(+16) the^(+17)
+
+step_decoded=12 pos=42 dir=- impact=0.058658 shift=-0.058091 cats=content_heavy earlier=12 later=16 same=0
+In^(-12) the^(-11) mystical^(-9) realm^(-4) of^(-10) Eld^(-8)oria^(-6),^(-7) the^(-5) law^(-1) of^(-3) the^(-2) [ĠWhis^(+0)] pering^(+1) Woods^(+2) is^(+3) a^(+4) strict^(+5) regulation^(+7) that^(+6) prohibits^(+8) the^(+9) use^(+11) of^(+10) magic^(+12) within^(+14) the^(+13) ancient^(+15) forest^(+16)
+
+step_decoded=14 pos=44 dir=- impact=0.040570 shift=-0.038821 cats=content_heavy earlier=14 later=16 same=0
+In^(-14) the^(-13) mystical^(-11) realm^(-6) of^(-12) Eld^(-10)oria^(-8),^(-9) the^(-7) law^(-3) of^(-5) the^(-4) Whis^(-2)pering^(-1) [ĠWoods^(+0)]  is^(+1) a^(+2) strict^(+3) regulation^(+5) that^(+4) prohibits^(+6) the^(+7) use^(+9) of^(+8) magic^(+10) within^(+12) the^(+11) ancient^(+13) forest^(+14).^(+15) This^(+16)
+
+step_decoded=235 pos=264 dir=+ impact=0.043457 shift=0.042060 cats=content_heavy earlier=17 later=15 same=0
+ and^(-18) those^(-16) who^(-15) violate^(-12) it^(-14) will^(-13) be^(-11) held^(-10) accountable^(-9) for^(-7) their^(-6) actions^(-8).^(-5) It^(-3) is^(-4) a^(-2) [Ġlaw^(+0)]  that^(-1) is^(+1) taken^(+2) very^(+3) seriously^(+4),^(+9) and^(+8) those^(+10) who^(+11) dare^(+20) to^(+14) disob^(+18)ey^(+19) it^(+16) will^(+15) face^(+17)
+

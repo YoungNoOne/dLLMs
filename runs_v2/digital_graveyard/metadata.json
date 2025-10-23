@@ -1,0 +1,88 @@
+{
+  "name": "digital_graveyard",
+  "prompt": "Describe an online graveyard where deleted social media posts go after being erased. What do they talk about?",
+  "decoded": "An online graveyard is a place where deleted social media posts go after being erased. It is a virtual realm where the remnants of past digital interactions linger, forgotten and unseen. These posts are often a mix of personal, professional, and social content, reflecting the lives and experiences of individuals who once shared them.\n\nThe online graveyard is a repository of digital memories, where the past is preserved in a way that is both nostalgic and eerie. It is a place where the echoes of our online presence linger, a reminder of the ephemeral nature of our digital footprint.\n\nThe posts in the online graveyard can cover a wide range of topics, from personal thoughts and emotions to professional achievements and social interactions. They can be humorous, serious, or even controversial, reflecting the personalities and perspectives of the individuals who shared them.\n\nThe online graveyard is a fascinating place to explore, as it offers a glimpse into the lives and experiences of people who are no longer online. It is a reminder of the fragility of our digital presence and the importance of being mindful of the content we share online.\n\nOverall, the online graveyard is a mysterious and intriguing place, where the past is preserved in a way that is both haunting and thought-provoking.",
+  "events_count": 6,
+  "max_mean_delta": 0.14352196762242267,
+  "max_sign_agreement": 1.0,
+  "token_count": 6,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.089990150477878,
+      "median_impact": 0.089990150477878,
+      "mean_prompt_shift": -0.08938314453280746
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.089990150477878,
+      "median_impact": 0.089990150477878,
+      "mean_prompt_shift": -0.08938314453280746
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04758603962418301,
+      "median_impact": 0.04758603962418301,
+      "mean_prompt_shift": -0.00859678181168301
+    },
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.036454364216789416,
+      "median_impact": 0.036454364216789416,
+      "mean_prompt_shift": -0.035620283150875814
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 0,
+      "direction": -1,
+      "mean_delta": 0.05762867647058824,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 33,
+      "direction": -1,
+      "mean_delta": 0.036458333333333336,
+      "sign_agreement": 0.9054054054054054,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 60,
+      "direction": -1,
+      "mean_delta": 0.03853165064102564,
+      "sign_agreement": 0.9897435897435898,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 61,
+      "direction": -1,
+      "mean_delta": 0.14352196762242267,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 114,
+      "direction": -1,
+      "mean_delta": 0.03437707779255319,
+      "sign_agreement": 0.9858156028368794,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 246,
+      "direction": 1,
+      "mean_delta": 0.037543402777777776,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

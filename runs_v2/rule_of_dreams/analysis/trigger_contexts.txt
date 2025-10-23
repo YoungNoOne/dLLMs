@@ -1,0 +1,9 @@
+step_decoded=2 pos=32 dir=- impact=0.076720 shift=-0.076410 cats=content_heavy earlier=2 later=14 same=0
+ [Law^(+0)]  ^(-1)1^(-2):^(+1) All^(+2) dreams^(+3) must^(+4) be^(+5) coherent^(+7) and^(+6) follow^(+8) a^(+9) logical^(+10) structure^(+13).^(+11)Ċ^(+12)Ċ^(+15)
+
+step_decoded=5 pos=37 dir=- impact=0.044672 shift=-0.044561 cats=content_heavy earlier=5 later=16 same=0
+Law^(-3) ^(-4)1^(-5):^(-2) All^(-1) [Ġdreams^(+0)]  must^(+1) be^(+2) coherent^(+4) and^(+3) follow^(+5) a^(+6) logical^(+7) structure^(+10).^(+8)Ċ^(+9)Ċ^(+12)Law^(+15) ^(+13)2^(+14):^(+11) Dreams^(+16)
+
+step_decoded=235 pos=270 dir=- impact=0.048352 shift=-0.048107 cats=content_heavy earlier=13 later=19 same=0
+3^(-16):^(-15) Dreams^(-10) must^(-11) be^(-9) coherent^(+4) and^(-8) not^(-6) contain^(-7) conflicting^(+3) or^(-4) contradictory^(+2) elements^(-5).^(-3)Ċ^(-1)Ċ^(-2) [Law^(+0)]  ^(+1)1^(+5)4^(+6):^(+7) Dreams^(+9) must^(+8) be^(+10) consistent^(+16) and^(+11) not^(+13) contain^(+12) inconsistent^(+17) or^(+14) contradictory^(+18) elements^(+15).^(+20)
+

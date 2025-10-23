@@ -1,0 +1,138 @@
+{
+  "name": "apocalypse_subscription",
+  "prompt": "People now subscribe to customized apocalypses, each ending the world in their preferred style. Write a sales pitch for one of the premium packages.",
+  "decoded": "Introducing the Ultimate Customization Package: The Masterpiece Apocalypse!\n\nImagine a world where the end of the world is not just a conclusion, but a masterpiece. With our Masterpiece Apocalypse Package, you have the power to shape the final moments of the world in your own unique style.\n\nWhether you prefer a dramatic, action-packed ending or a serene, peaceful conclusion, our Masterpiece Apocalypse Package allows you to choose the end of the world in your preferred style.\n\nWith our Masterpiece Apocalypse Package, you'll get:\n\n* A vast selection of customizable styles and themes to choose from\n* A team of expert artists and writers to bring your vision to life\n* Exclusive access to our premium content and features\n* A dedicated support team to assist you throughout the customization process\n\nReady to shape the end of the world in your own unique style? Subscribe to our Masterpiece Apocalypse Package today and experience the ultimate in customization!\n\nDon't miss out on the chance to shape the end of the world in your own unique style. Subscribe to our Masterpiece Apocalypse Package today and experience the ultimate in customization!\n\n**Subscribe Now:** [Insert button here]\n\n**Explore the Masterpiece Apocalypse Package:** [Insert button here]",
+  "events_count": 12,
+  "max_mean_delta": 0.11591892616421569,
+  "max_sign_agreement": 1.0,
+  "token_count": 12,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.07459179177280832,
+      "median_impact": 0.05670362903225806,
+      "mean_prompt_shift": -0.0736429034028482
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 7,
+      "samples": 7,
+      "mean_impact": 0.03811258404088853,
+      "median_impact": 0.03415643601190476,
+      "mean_prompt_shift": -0.026987976680352226
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.036345108695652176,
+      "median_impact": 0.036345108695652176,
+      "mean_prompt_shift": 0.030039911684782622
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.032167257085020245,
+      "median_impact": 0.032167257085020245,
+      "mean_prompt_shift": 0.031959241747747225
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.032167257085020245,
+      "median_impact": 0.032167257085020245,
+      "mean_prompt_shift": 0.031959241747747225
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 2,
+      "direction": -1,
+      "mean_delta": 0.03930953557312253,
+      "sign_agreement": 0.9960474308300395,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 3,
+      "direction": -1,
+      "mean_delta": 0.05171130952380952,
+      "sign_agreement": 0.9880952380952381,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 7,
+      "direction": -1,
+      "mean_delta": 0.05670362903225806,
+      "sign_agreement": 0.9879032258064516,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 8,
+      "direction": 1,
+      "mean_delta": 0.032167257085020245,
+      "sign_agreement": 0.9838056680161943,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 13,
+      "direction": -1,
+      "mean_delta": 0.045841942148760334,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 14,
+      "direction": -1,
+      "mean_delta": 0.0332760632780083,
+      "sign_agreement": 0.995850622406639,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 33,
+      "direction": -1,
+      "mean_delta": 0.031065244932432432,
+      "sign_agreement": 0.8603603603603603,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 50,
+      "direction": -1,
+      "mean_delta": 0.05115282012195122,
+      "sign_agreement": 0.9853658536585366,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 51,
+      "direction": -1,
+      "mean_delta": 0.11591892616421569,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 213,
+      "direction": 1,
+      "mean_delta": 0.03415643601190476,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 232,
+      "direction": 1,
+      "mean_delta": 0.036345108695652176,
+      "sign_agreement": 0.8695652173913043,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 233,
+      "direction": -1,
+      "mean_delta": 0.031427556818181816,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

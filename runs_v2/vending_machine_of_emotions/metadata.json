@@ -1,0 +1,29 @@
+{
+  "name": "vending_machine_of_emotions",
+  "prompt": "In malls, vending machines now dispense feelings instead of drinks. Write a scene where someone buys 'forgiveness' but gets 'jealousy' instead.",
+  "decoded": "As she walked through the mall, she saw a vending machine that read 'Forgiveness' on the side. She was excited to try it out, so she inserted a coin and waited for the machine to dispense the feeling.\n\nAfter a few seconds, the machine beeped and a wave of jealousy spilled out of it. She was shocked and confused. She had asked for forgiveness, but instead, she got a feeling that made her stomach churn.\n\nShe looked around, trying to figure out what to do. She didn't know how to handle this feeling, and she was starting to feel overwhelmed. She tried to calm herself down, but the jealousy was too strong.\n\nAs she walked away from the vending machine, she couldn't help but wonder what had happened. She had asked for forgiveness, but instead, she got jealousy. She didn't know how to deal with this feeling, and she was starting to feel lost.\n\nShe decided to take a break from the mall and go home. She needed to figure out what had happened and how to deal with this feeling. As she walked away, she couldn't help but wonder if the vending machine was trying to tell her something, or if it was just a twist of fate.",
+  "events_count": 1,
+  "max_mean_delta": 0.2060453869047619,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2060453869047619,
+      "median_impact": 0.2060453869047619,
+      "mean_prompt_shift": -0.2053613744075829
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 45,
+      "direction": -1,
+      "mean_delta": 0.2060453869047619,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

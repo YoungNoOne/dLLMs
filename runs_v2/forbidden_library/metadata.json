@@ -1,0 +1,67 @@
+{
+  "name": "forbidden_library",
+  "prompt": "A library contains books that know when they are read. Write an excerpt from a book trying to hide itself from being opened.",
+  "decoded": "The book's cover creaked open, revealing a world of secrets and mysteries. But as the reader turned the pages, the book's contents began to shift, to morph, to change. The words seemed to come alive, to twist and turn of their own accord. The book's pages began to ripple, to shimmer, to glow with an otherworldly light.\n\nThe book's cover began to shift, to morph, to change. The words seemed to come alive, to twist and turn of their own accord. The book's pages began to ripple, to shimmer, to glow with an otherworldly light.\n\nThe book's contents began to shift, to morph, to change. The words seemed to come alive, to twist and turn of their own accord. The book's pages began to ripple, to shimmer, to glow with an otherworldly light.\n\nThe book's cover began to shift, to morph, to change. The words seemed to come alive, to twist and turn of their own accord. The book's pages began to ripple, to shimmer, to glow with an otherworldly light.\n\nThe book's contents began to shift, to morph, to change. The words seemed to come alive, to",
+  "events_count": 3,
+  "max_mean_delta": 0.2474641747237569,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2474641747237569,
+      "median_impact": 0.2474641747237569,
+      "mean_prompt_shift": -0.24658111225790785
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.21091081796448088,
+      "median_impact": 0.21091081796448088,
+      "mean_prompt_shift": -0.21077311545943223
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.21091081796448088,
+      "median_impact": 0.21091081796448088,
+      "mean_prompt_shift": -0.21077311545943223
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1468063186813187,
+      "median_impact": 0.1468063186813187,
+      "mean_prompt_shift": 0.14814223835420048
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 72,
+      "direction": -1,
+      "mean_delta": 0.21091081796448088,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 73,
+      "direction": 1,
+      "mean_delta": 0.1468063186813187,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 74,
+      "direction": -1,
+      "mean_delta": 0.2474641747237569,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

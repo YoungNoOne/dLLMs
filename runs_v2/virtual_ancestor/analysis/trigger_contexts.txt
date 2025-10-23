@@ -1,0 +1,6 @@
+step_decoded=1 pos=40 dir=- impact=0.046214 shift=-0.046045 cats=content_heavy earlier=1 later=15 same=0
+ [User^(+0)] :^(-1) Hi^(+2),^(+1) I^(+3)'m^(+4) trying^(+14) to^(+5) talk^(+7) to^(+6) my^(+8) great^(+9)-g^(+11)reat^(+10)-grand^(+12)mother^(+13).^(+15)
+
+step_decoded=113 pos=153 dir=+ impact=0.049076 shift=0.048616 cats=content_heavy earlier=16 later=16 same=0
+Ċ^(-16)App^(-15):^(-14) I^(-12)'m^(-13) doing^(-11) well^(-6),^(-10) thank^(-9) you^(-8).^(-7) How^(-3) are^(-2) you^(-4)?^(-5)Ċ^(-1) [User^(+0)] :^(+1) I^(+3)'m^(+2) doing^(+4) well^(+8),^(+5) thanks^(+7).^(+6) How^(+13) about^(+14) you^(+12)?^(+9)Ċ^(+10)App^(+11):^(+15) I^(+17)
+

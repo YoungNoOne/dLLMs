@@ -1,0 +1,146 @@
+{
+  "name": "quantum_ghosts",
+  "prompt": "Every time someone dies, a new universe with them alive is created. Write the conversation between two versions who accidentally meet.",
+  "decoded": "Version 1: \"Hey, who are you?\"\n\nVersion 2: \"I'm you, but I'm alive.\"\n\nVersion 1: \"Wait, how are you alive? I thought you died.\"\n\nVersion 2: \"Well, in this universe, I didn't die.\"\n\nVersion 1: \"Wait, what universe are you from?\"\n\nVersion 2: \"I'm from the universe where I didn't die.\"\n\nVersion 1: \"Wait, what universe are you from?\"\n\nVersion 2: \"I'm from the universe where I didn't die.\"\n\nVersion 1: \"Wait, what universe are you from?\"\n\nVersion 2: \"I'm from the universe where I didn't die.\"\n\nVersion 1: \"Wait, what universe are you from?\"\n\nVersion 2: \"I'm from the universe where I didn't die.\"\n\nVersion 1: \"Wait, what universe are you from?\"\n\nVersion 2: \"I'm from the universe where I didn't die.\"\n\nVersion 1: \"Wait, what universe are you from?\"\n\nVersion 2: \"My universe.\"",
+  "events_count": 12,
+  "max_mean_delta": 0.17334199476872247,
+  "max_sign_agreement": 1.0,
+  "token_count": 12,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.15102132633172966,
+      "median_impact": 0.15102132633172966,
+      "mean_prompt_shift": -0.15063176135106904
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.09969403328671704,
+      "median_impact": 0.10342134225626927,
+      "mean_prompt_shift": 0.007082154308971092
+    },
+    {
+      "category": "other",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.0739985396522482,
+      "median_impact": 0.06716081710985809,
+      "mean_prompt_shift": -0.021235758903706534
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06198508522727273,
+      "median_impact": 0.06198508522727273,
+      "mean_prompt_shift": 0.06325300962823938
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.06090216271167558,
+      "median_impact": 0.06090216271167558,
+      "mean_prompt_shift": 0.0015864940181346265
+    },
+    {
+      "category": "bracket",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.059819240196078434,
+      "median_impact": 0.059819240196078434,
+      "mean_prompt_shift": -0.06008002159197012
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 1,
+      "direction": -1,
+      "mean_delta": 0.060147022637795276,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 3,
+      "direction": -1,
+      "mean_delta": 0.07569134424603174,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 28,
+      "direction": -1,
+      "mean_delta": 0.17334199476872247,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 35,
+      "direction": 1,
+      "mean_delta": 0.06198508522727273,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 48,
+      "direction": 1,
+      "mean_delta": 0.09673158212560387,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 56,
+      "direction": -1,
+      "mean_delta": 0.11011110238693467,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 58,
+      "direction": 1,
+      "mean_delta": 0.10466568845177665,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 65,
+      "direction": -1,
+      "mean_delta": 0.12870065789473684,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 67,
+      "direction": 1,
+      "mean_delta": 0.11624210438829788,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 78,
+      "direction": -1,
+      "mean_delta": 0.0741746115819209,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 102,
+      "direction": -1,
+      "mean_delta": 0.059819240196078434,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 103,
+      "direction": -1,
+      "mean_delta": 0.0570068359375,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

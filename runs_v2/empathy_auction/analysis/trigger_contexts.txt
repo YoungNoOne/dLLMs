@@ -1,0 +1,3 @@
+step_decoded=14 pos=51 dir=+ impact=0.195815 shift=0.197152 cats=content_heavy earlier=14 later=16 same=0
+Ladies^(-14) and^(-13) gentlemen^(-11),^(-12) esteemed^(-10) guests^(-9),^(-8) and^(-7) fellow^(-6) philanthrop^(-4)ists^(-3),^(-5)Ċ^(-2)Ċ^(-1) [Tonight^(+0)] ,^(+1) we^(+2) gather^(+3) to^(+4) celebrate^(+5) the^(+6) power^(+8) of^(+7) empathy^(+13),^(+9) a^(+14) force^(+15) that^(+11) transc^(+10)ends^(+12) the^(+16)
+

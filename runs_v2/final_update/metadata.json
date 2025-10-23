@@ -1,0 +1,80 @@
+{
+  "name": "final_update",
+  "prompt": "Humanity receives its last software update. Write the patch notes.",
+  "decoded": "**Humanity Software Update Patch Notes**\n\n**Version 1.0.0**\n\n**Enhancements:**\n\n1. **Improved User Interface:** Introduced a new, intuitive design that enhances the user experience.\n2. **Enhanced Security:** Added advanced security protocols to protect user data and prevent unauthorized access.\n3. **Improved Performance:** Optimized system performance to ensure faster response times and smoother operation.\n\n**Bug Fixes:**\n\n1. **Fixed Connectivity Issues:** Resolved connectivity problems that were preventing users from accessing the system.\n2. **Fixed Application Crashes:** Addressed application crashes that were causing significant inconvenience for users.\n3. **Fixed Data Errors:** Corrected data errors that were affecting user data and functionality.\n\n**Updates:**\n\n1. **New Features Added:** Introduced new features that enhance the functionality of the system.\n2. **System Updates:** Updated the system to ensure compatibility with the latest hardware and software.\n\n**Additional Information:**\n\nThis update is designed to improve the overall performance, security, and user experience of the Humanity system. We encourage users to update their systems to the latest version to ensure they have access to the latest features and bug fixes.",
+  "events_count": 6,
+  "max_mean_delta": 0.19205465587044535,
+  "max_sign_agreement": 1.0,
+  "token_count": 6,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.12284144649008016,
+      "median_impact": 0.11944462754493763,
+      "mean_prompt_shift": -0.12221619650188062
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.10298732069672131,
+      "median_impact": 0.10298732069672131,
+      "mean_prompt_shift": 0.10238877185095352
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.09338274572649573,
+      "median_impact": 0.09338274572649573,
+      "mean_prompt_shift": 0.09461002852791423
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 5,
+      "direction": -1,
+      "mean_delta": 0.060421875,
+      "sign_agreement": 0.992,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 8,
+      "direction": -1,
+      "mean_delta": 0.19205465587044535,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 11,
+      "direction": 1,
+      "mean_delta": 0.10298732069672131,
+      "sign_agreement": 0.9713114754098361,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 20,
+      "direction": -1,
+      "mean_delta": 0.12550698138297872,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 21,
+      "direction": 1,
+      "mean_delta": 0.09338274572649573,
+      "sign_agreement": 0.9914529914529915,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 23,
+      "direction": -1,
+      "mean_delta": 0.11338227370689655,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

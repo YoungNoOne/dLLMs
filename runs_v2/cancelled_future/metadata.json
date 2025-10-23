@@ -1,0 +1,51 @@
+{
+  "name": "cancelled_future",
+  "prompt": "The future has been postponed indefinitely. Write a government announcement.",
+  "decoded": "**Government Announcement: Future Postponed Indefinitely**\n\n**Date: [Insert Date]**\n\n**To: All Citizens**\n\n**Subject: Future Postponed Indefinitely**\n\nDear Citizens,\n\nWe are writing to inform you that the future has been postponed indefinitely. This decision has been made after careful consideration of the current circumstances and the need to ensure stability and security for our nation.\n\nWe understand that this news may come as a shock to many of you, and we apologize for any inconvenience this may cause. However, we are confident that this decision is necessary for the safety and well-being of our citizens.\n\nIn the meantime, we urge all citizens to remain calm and patient. The government will continue to monitor the situation closely and will provide regular updates as the situation develops.\n\nWe encourage you to stay informed and to follow the guidance provided by the government. We are committed to ensuring the safety and well-being of our citizens, and we will work tirelessly to support you through this challenging time.\n\nThank you for your understanding and cooperation.\n\nSincerely,\n\n[Your Name]  \n[Your Title]  \n[Government Name]  \n[Government Contact Information]",
+  "events_count": 3,
+  "max_mean_delta": 0.29238679846938775,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.28611636396108875,
+      "median_impact": 0.28611636396108875,
+      "mean_prompt_shift": -0.2853711001606398
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2675943335062241,
+      "median_impact": 0.2675943335062241,
+      "mean_prompt_shift": 0.2687899117721443
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 10,
+      "direction": -1,
+      "mean_delta": 0.29238679846938775,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 14,
+      "direction": 1,
+      "mean_delta": 0.2675943335062241,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 22,
+      "direction": -1,
+      "mean_delta": 0.2798459294527897,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

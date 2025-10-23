@@ -1,0 +1,44 @@
+{
+  "name": "moral_bet",
+  "prompt": "Someone offers you a million dollars if you can keep one secret forever. What do you do?",
+  "decoded": "I can't keep a secret forever, but I can help you think through the situation.\n\nIf someone offers you a million dollars to keep a secret forever, it's essential to consider the context and implications of the offer. Here are some factors to consider:\n\n1. **Nature of the Secret**: What is the secret? Is it something personal, professional, or public?\n2. **Identity of the Person**: Who is the person making the offer? Are they trustworthy, or do they have a motive to harm you?\n3. **Potential Consequences**: What are the potential consequences of keeping the secret? Will it benefit you, or will it harm you?\n4. **Personal Values**: What are your personal values and principles? Does keeping the secret align with your values?\n5. **Legal Implications**: What are the legal implications of keeping the secret? Is it illegal to keep the secret?\n\nIf you're unsure or uncomfortable with the offer, it's best to decline or seek advice from a trusted friend, family member, or professional.\n\nRemember, it's essential to prioritize your well-being, values, and safety. If you're not sure what to do, it's okay to decline or seek further advice.",
+  "events_count": 2,
+  "max_mean_delta": 0.22613576680672268,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.22613576680672268,
+      "median_impact": 0.22613576680672268,
+      "mean_prompt_shift": -0.22556214235171046
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05226894946808511,
+      "median_impact": 0.05226894946808511,
+      "mean_prompt_shift": -0.052225333432879495
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 17,
+      "direction": -1,
+      "mean_delta": 0.22613576680672268,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 20,
+      "direction": -1,
+      "mean_delta": 0.05226894946808511,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

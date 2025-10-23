@@ -1,0 +1,8 @@
+step_decoded,token_pos,token_id,token_str,token_norm,direction,impact_score,prompt_shift,window,categories,left_text,center_token,right_text,center_step_decoded,earlier_count,later_count,same_count,left_steps_json,right_steps_json,left_offsets_json,right_offsets_json,left_text_annot,center_annot,right_text_annot,left_tokens_json,right_tokens_json
+9,51,1797,Name,Name,1,0.11239202235772358,0.11349571380961787,16,content_heavy,"**Index Entry: Un catalog ed Consciousness **
+
+**",Name,":** Un catalog ed
+
+**Date :** Un catalog ed
+
+**Location",9,9,19,0,"[0, 2, 1, 3, 10, 12, 11, 15, 6, 4, 5, 7]","[8, 13, 14, 16, 20, 17, 19, 31, 18, 25, 27, 26, 21, 23, 22, 30]","[-9, -7, -8, -6, 1, 3, 2, 6, -3, -5, -4, -2]","[-1, 4, 5, 7, 11, 8, 10, 22, 9, 16, 18, 17, 12, 14, 13, 21]",**^(-9)Index^(-7) Entry^(-8):^(-6) Un^(+1)catalog^(+3)ed^(+2) Consciousness^(+6)**^(-3)Ċ^(-5)Ċ^(-4)**^(-2),Name^(+0),:**^(-1) Un^(+4)catalog^(+5)ed^(+7)Ċ^(+11)Ċ^(+8)**^(+10)Date^(+22):**^(+9) Un^(+16)catalog^(+18)ed^(+17)Ċ^(+12)Ċ^(+14)**^(+13)Location^(+21),"[""**"", ""Index"", ""ĠEntry"", "":"", ""ĠUn"", ""catalog"", ""ed"", ""ĠConsciousness"", ""**"", ""Ċ"", ""Ċ"", ""**""]","["":**"", ""ĠUn"", ""catalog"", ""ed"", ""Ċ"", ""Ċ"", ""**"", ""Date"", "":**"", ""ĠUn"", ""catalog"", ""ed"", ""Ċ"", ""Ċ"", ""**"", ""Location""]"

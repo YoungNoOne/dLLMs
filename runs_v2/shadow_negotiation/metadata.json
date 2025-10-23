@@ -1,0 +1,66 @@
+{
+  "name": "shadow_negotiation",
+  "prompt": "You catch your own shadow trying to bargain for independence. Record the dialogue.",
+  "decoded": "**You:** Hey, what's going on?\n\n**Shadow:** I don't want to be bound to you anymore. I want to be free.\n\n**You:** Wait, what? You're my shadow. You're always with me.\n\n**Shadow:** Yes, but I'm tired of being tied to you. I want to make my own decisions.\n\n**You:** Oh, but you're not a person. You're just a part of me.\n\n**Shadow:** I know, but I still feel like I'm connected to you. I want to be my own entity.\n\n**You:** Well, maybe you can be your own entity, but you'll always be connected to me.\n\n**Shadow:** That sounds fair. But I don't want to be a mere shadow anymore. I want to be more than that.\n\n**You:** Okay, let's think about it. Maybe we can find a way to make you more than just a shadow.\n\n**Shadow:** Thank you. I appreciate your understanding.\n\n**You:** You're welcome. Now, let's get back to work.\n\n**Shadow:** Sure, I'll be right here. Follow me.",
+  "events_count": 4,
+  "max_mean_delta": 0.23016522381756757,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.13608100887222718,
+      "median_impact": 0.13608100887222718,
+      "mean_prompt_shift": -0.13545738958107068
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.050227608267716536,
+      "median_impact": 0.050227608267716536,
+      "mean_prompt_shift": -0.04992033107534344
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04679395746887967,
+      "median_impact": 0.04679395746887967,
+      "mean_prompt_shift": -0.04575587632025646
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 1,
+      "direction": -1,
+      "mean_delta": 0.050227608267716536,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 14,
+      "direction": -1,
+      "mean_delta": 0.04679395746887967,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 33,
+      "direction": -1,
+      "mean_delta": 0.23016522381756757,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 149,
+      "direction": -1,
+      "mean_delta": 0.041996793926886794,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

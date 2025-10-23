@@ -1,0 +1,20 @@
+step_decoded,token_pos,token_id,token_str,token_norm,direction,impact_score,prompt_shift,window,categories,left_text,center_token,right_text,center_step_decoded,earlier_count,later_count,same_count,left_steps_json,right_steps_json,left_offsets_json,right_offsets_json,left_text_annot,center_annot,right_text_annot,left_tokens_json,right_tokens_json
+13,53,6272,Date,Date,1,0.14891367510330578,0.14994829396660203,16,content_heavy,"Discovery Report: 'First Love' Exc av ation Site
+
+",Date,": [Insert Date]
+
+Location: [Insert Location]
+
+Summary",13,13,16,0,"[0, 1, 2, 6, 4, 3, 5, 7, 8, 9, 11, 10, 12]","[14, 15, 16, 19, 17, 18, 20, 22, 21, 24, 23, 25, 27, 28, 26, 30]","[-13, -12, -11, -7, -9, -10, -8, -6, -5, -4, -2, -3, -1]","[1, 2, 3, 6, 4, 5, 7, 9, 8, 11, 10, 12, 14, 15, 13, 17]",Discovery^(-13) Report^(-12):^(-11) '^(-7)First^(-9) Love^(-10)'^(-8) Exc^(-6)av^(-5)ation^(-4) Site^(-2)Ċ^(-3)Ċ^(-1),Date^(+0),:^(+1) [^(+2)Insert^(+3) Date^(+6)]^(+4)Ċ^(+5)Ċ^(+7)Location^(+9):^(+8) [^(+11)Insert^(+10) Location^(+12)]^(+14)Ċ^(+15)Ċ^(+13)Summary^(+17),"[""Discovery"", ""ĠReport"", "":"", ""Ġ'"", ""First"", ""ĠLove"", ""'"", ""ĠExc"", ""av"", ""ation"", ""ĠSite"", ""Ċ"", ""Ċ""]","["":"", ""Ġ["", ""Insert"", ""ĠDate"", ""]"", ""Ċ"", ""Ċ"", ""Location"", "":"", ""Ġ["", ""Insert"", ""ĠLocation"", ""]"", ""Ċ"", ""Ċ"", ""Summary""]"
+22,61,8934,Location,Location,1,0.14754895386266095,0.1492523230301529,16,content_heavy," Love' Exc av ation Site
+
+Date: [Insert Date]
+
+",Location,": [Insert Location]
+
+Summary: Archae ologists have une art hed a",22,17,15,0,"[3, 5, 7, 8, 9, 11, 10, 12, 13, 14, 15, 16, 19, 17, 18, 20]","[21, 24, 23, 25, 27, 28, 26, 30, 29, 31, 32, 33, 35, 36, 34, 37]","[-19, -17, -15, -14, -13, -11, -12, -10, -9, -8, -7, -6, -3, -5, -4, -2]","[-1, 2, 1, 3, 5, 6, 4, 8, 7, 9, 10, 11, 13, 14, 12, 15]", Love^(-19)'^(-17) Exc^(-15)av^(-14)ation^(-13) Site^(-11)Ċ^(-12)Ċ^(-10)Date^(-9):^(-8) [^(-7)Insert^(-6) Date^(-3)]^(-5)Ċ^(-4)Ċ^(-2),Location^(+0),:^(-1) [^(+2)Insert^(+1) Location^(+3)]^(+5)Ċ^(+6)Ċ^(+4)Summary^(+8):^(+7) Archae^(+9)ologists^(+10) have^(+11) une^(+13)art^(+14)hed^(+12) a^(+15),"[""ĠLove"", ""'"", ""ĠExc"", ""av"", ""ation"", ""ĠSite"", ""Ċ"", ""Ċ"", ""Date"", "":"", ""Ġ["", ""Insert"", ""ĠDate"", ""]"", ""Ċ"", ""Ċ""]","["":"", ""Ġ["", ""Insert"", ""ĠLocation"", ""]"", ""Ċ"", ""Ċ"", ""Summary"", "":"", ""ĠArchae"", ""ologists"", ""Ġhave"", ""Ġune"", ""art"", ""hed"", ""Ġa""]"
+30,69,21688,Summary,Summary,-1,0.13033854166666667,-0.1293575620698132,16,content_heavy,"Date: [Insert Date]
+
+Location: [Insert Location]
+
+",Summary,: Archae ologists have une art hed a remarkable discovery of fossil ized emotions at the,30,17,15,0,"[13, 14, 15, 16, 19, 17, 18, 20, 22, 21, 24, 23, 25, 27, 28, 26]","[29, 31, 32, 33, 35, 36, 34, 37, 38, 47, 39, 41, 40, 42, 44, 43]","[-17, -16, -15, -14, -11, -13, -12, -10, -8, -9, -6, -7, -5, -3, -2, -4]","[-1, 1, 2, 3, 5, 6, 4, 7, 8, 17, 9, 11, 10, 12, 14, 13]",Date^(-17):^(-16) [^(-15)Insert^(-14) Date^(-11)]^(-13)Ċ^(-12)Ċ^(-10)Location^(-8):^(-9) [^(-6)Insert^(-7) Location^(-5)]^(-3)Ċ^(-2)Ċ^(-4),Summary^(+0),:^(-1) Archae^(+1)ologists^(+2) have^(+3) une^(+5)art^(+6)hed^(+4) a^(+7) remarkable^(+8) discovery^(+17) of^(+9) fossil^(+11)ized^(+10) emotions^(+12) at^(+14) the^(+13),"[""Date"", "":"", ""Ġ["", ""Insert"", ""ĠDate"", ""]"", ""Ċ"", ""Ċ"", ""Location"", "":"", ""Ġ["", ""Insert"", ""ĠLocation"", ""]"", ""Ċ"", ""Ċ""]","["":"", ""ĠArchae"", ""ologists"", ""Ġhave"", ""Ġune"", ""art"", ""hed"", ""Ġa"", ""Ġremarkable"", ""Ġdiscovery"", ""Ġof"", ""Ġfossil"", ""ized"", ""Ġemotions"", ""Ġat"", ""Ġthe""]"

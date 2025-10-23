@@ -1,0 +1,66 @@
+{
+  "name": "forgotten_invention",
+  "prompt": "An engineer builds a perfect device but forgets its purpose. Write the moment of rediscovery when it activates accidentally.",
+  "decoded": "The engineer had spent months building the perfect device, but he had completely forgotten its purpose. He had been so focused on the technical aspects of the project that he had lost sight of the end goal. One day, as he was walking through his lab, he heard a faint humming noise coming from the device. Curious, he walked over to investigate and found that the device had somehow activated.\n\nAt first, the engineer was confused. He had never intended for the device to activate, and he had no idea how it had done so. But as he examined the device more closely, he realized that it was working perfectly. The device had somehow activated itself, and it was performing its intended function.\n\nThe engineer couldn't believe it. He had been so focused on the technical aspects of the project that he had forgotten about its purpose. But now that the device was working, he realized that he had created something truly remarkable. The device was a perfect piece of engineering, and it was performing its intended function.\n\nThe engineer couldn't believe it. He had been so focused on the technical aspects of the project that he had forgotten about its purpose. But now that the device was working, he realized that he had created something truly remarkable.",
+  "events_count": 4,
+  "max_mean_delta": 0.1695872103230337,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.11167620064762795,
+      "median_impact": 0.11167620064762795,
+      "mean_prompt_shift": -0.0576496967871937
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.0563647889254386,
+      "median_impact": 0.0563647889254386,
+      "mean_prompt_shift": -0.012364614344724245
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.0563647889254386,
+      "median_impact": 0.0563647889254386,
+      "mean_prompt_shift": -0.012364614344724245
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 75,
+      "direction": -1,
+      "mean_delta": 0.06923828125,
+      "sign_agreement": 0.9944444444444445,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 77,
+      "direction": -1,
+      "mean_delta": 0.1695872103230337,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 141,
+      "direction": 1,
+      "mean_delta": 0.043491296600877194,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 201,
+      "direction": 1,
+      "mean_delta": 0.053765190972222224,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

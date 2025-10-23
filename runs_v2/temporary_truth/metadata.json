@@ -1,0 +1,81 @@
+{
+  "name": "temporary_truth",
+  "prompt": "Truth only lasts for 24 hours before expiring. Record a conversation between journalists trying to archive facts before they vanish.",
+  "decoded": "Journalist 1: \"Hey, have you heard about the new report from the environmental agency?\"\n\nJournalist 2: \"Yeah, I saw it on the news. It's about the impact of climate change on the local ecosystem. It's really concerning.\"\n\nJournalist 1: \"I know, it's serious. We need to get this information out there before it's gone.\"\n\nJournalist 2: \"Agreed. We should start by archiving the report and posting it on our website. We can also interview the agency's spokesperson to get more information.\"\n\nJournalist 1: \"Good idea. We should also reach out to some experts in the field to get their take on the report.\"\n\nJournalist 2: \"Perfect. I'll start by archiving the report and posting it on our website. You can reach out to the spokesperson and the experts. Let's make sure we get all the information we need before it's gone.\"\n\nJournalist 1: \"Alright, let's do it. We need to make sure we don't miss anything important.\"\n\nJournalist 2: \"Agreed. Let's get this information out there before it's gone for good.\"",
+  "events_count": 5,
+  "max_mean_delta": 0.18212256493506493,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.18212256493506493,
+      "median_impact": 0.18212256493506493,
+      "mean_prompt_shift": -0.18236564867424243
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1670516304347826,
+      "median_impact": 0.1670516304347826,
+      "mean_prompt_shift": 0.16788280220685114
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.07366839513856724,
+      "median_impact": 0.07366839513856724,
+      "mean_prompt_shift": -0.0735343873031496
+    },
+    {
+      "category": "temporal_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.066015625,
+      "median_impact": 0.066015625,
+      "mean_prompt_shift": 0.0708333333333333
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 0,
+      "direction": -1,
+      "mean_delta": 0.08036151960784314,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 1,
+      "direction": -1,
+      "mean_delta": 0.06697527066929133,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 24,
+      "direction": -1,
+      "mean_delta": 0.18212256493506493,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 25,
+      "direction": 1,
+      "mean_delta": 0.1670516304347826,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 250,
+      "direction": 1,
+      "mean_delta": 0.066015625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

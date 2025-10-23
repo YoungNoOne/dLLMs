@@ -1,0 +1,52 @@
+{
+  "name": "society_of_silence",
+  "prompt": "A movement forms that rejects all spoken language. Write the speech of their leader, who must communicate through silence alone.",
+  "decoded": "In the silence, we find our voice. We speak not with words, but with the language of our silence, the language of our actions, and the language of our hearts. We are not bound by the limitations of spoken language, but by the power of our silence. We are the language of silence, and we speak volumes.",
+  "events_count": 2,
+  "max_mean_delta": 0.2895303225384078,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2895303225384078,
+      "median_impact": 0.2895303225384078,
+      "mean_prompt_shift": 0.28884576647123295
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2895303225384078,
+      "median_impact": 0.2895303225384078,
+      "mean_prompt_shift": 0.28884576647123295
+    },
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2111062254581152,
+      "median_impact": 0.2111062254581152,
+      "mean_prompt_shift": -0.2098494125286322
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 64,
+      "direction": -1,
+      "mean_delta": 0.2111062254581152,
+      "sign_agreement": 0.9738219895287958,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 76,
+      "direction": 1,
+      "mean_delta": 0.2895303225384078,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

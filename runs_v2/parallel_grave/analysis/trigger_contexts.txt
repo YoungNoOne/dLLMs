@@ -1,0 +1,3 @@
+step_decoded=34 pos=68 dir=- impact=0.090074 shift=-0.089716 cats=content_heavy earlier=16 later=16 same=0
+ was^(-16) not^(-15) just^(-14) a^(-13) person^(-9),^(-12) but^(-11) a^(-10) force^(-6) of^(-8) nature^(-5).^(-7) His^(-4) name^(-3) is^(-2) John^(-1) [ĠDoe^(+0)] ,^(+1) and^(+2) he^(+3) is^(+4) not^(+5) just^(+6) a^(+7) man^(+11),^(+8) but^(+9) a^(+10) version^(+13) of^(+12) himself^(+14).^(+15)Ċ^(+17)
+

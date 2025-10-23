@@ -1,0 +1,9 @@
+step_decoded=0 pos=34 dir=- impact=0.047135 shift=-0.047135 cats=content_heavy earlier=0 later=21 same=0
+The^(+2) color^(+4) of^(+1) today^(+3)'s^(+5) [Ġsunset^(+0)]  is^(+7) a^(+6) deep^(+8),^(+9) rich^(+10) crimson^(+15),^(+11) hint^(+12)ing^(+13) at^(+14) a^(+16) message^(+20) of^(+17) gratitude^(+31) and^(+18) reflection^(+30)
+
+step_decoded=8 pos=37 dir=- impact=0.035409 shift=-0.034652 cats=content_heavy earlier=8 later=16 same=0
+The^(-6) color^(-4) of^(-7) today^(-5)'s^(-3) sunset^(-8) is^(-1) a^(-2) [Ġdeep^(+0)] ,^(+1) rich^(+2) crimson^(+7),^(+3) hint^(+4)ing^(+5) at^(+6) a^(+8) message^(+12) of^(+9) gratitude^(+23) and^(+10) reflection^(+22).^(+11) As^(+13) the^(+14)
+
+step_decoded=15 pos=40 dir=- impact=0.042806 shift=-0.041997 cats=content_heavy earlier=15 later=12 same=0
+The^(-13) color^(-11) of^(-14) today^(-12)'s^(-10) sunset^(-15) is^(-8) a^(-9) deep^(-7),^(-6) rich^(-5) [Ġcrimson^(+0)] ,^(-4) hint^(-3)ing^(-2) at^(-1) a^(+1) message^(+5) of^(+2) gratitude^(+16) and^(+3) reflection^(+15).^(+4) As^(+6) the^(+7) sun^(+8) dips^(+9) below^(+13)
+

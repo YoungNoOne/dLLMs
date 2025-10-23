@@ -1,0 +1,6 @@
+step_decoded=27 pos=59 dir=- impact=0.041718 shift=-0.041553 cats=content_heavy earlier=15 later=17 same=0
+ Do^(-16) you^(-15) struggle^(-14) to^(-13) fall^(-11) asleep^(-10) every^(-8) night^(-9)?^(-7) Look^(-5) no^(-6) further^(-4)!^(-3) With^(-2) our^(-1) premium^(+1) [Ġsubscription^(+0)]  dreams^(+4),^(+2) you^(+3) can^(+5) outsource^(+7) your^(+6) sleep^(+8) to^(+9) our^(+13) dream^(+10) farms^(+11) and^(+12) enjoy^(+14) the^(+15) best^(+16) quality^(+19)
+
+step_decoded=237 pos=269 dir=- impact=0.045383 shift=-0.041911 cats=content_heavy earlier=15 later=17 same=0
+ best^(-16)?^(-14) Try^(-7) our^(-10) premium^(-12) subscription^(-13) dreams^(-11) today^(-9) and^(-8) experience^(-4) the^(-6) difference^(-5) for^(-2) yourself^(-3).^(-1) Wake^(+2) [Ġup^(+0)]  feeling^(+1) refreshed^(+5) and^(+7) ready^(+8) to^(+9) take^(+14) on^(+13) the^(+17) day^(+18) with^(+15) our^(+16) premium^(+12) subscription^(+11) dreams^(+10).^(+6)<|eot_id|>^(+4)
+

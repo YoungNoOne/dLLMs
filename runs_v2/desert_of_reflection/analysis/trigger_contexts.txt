@@ -1,0 +1,3 @@
+step_decoded=30 pos=69 dir=- impact=0.054531 shift=-0.053766 cats=content_heavy earlier=17 later=15 same=0
+ relentlessly^(-17) and^(-16) the^(-15) sand^(-13) stretches^(-14) out^(-11) without^(-2) end^(-1),^(-12) there^(-9) lies^(-8) a^(-10) hidden^(-7) garden^(+1).^(-6) This^(-5) [Ġgarden^(+0)]  is^(-4) said^(-3) to^(+2) be^(+3) guarded^(+9) by^(+4) the^(+5) spirits^(+8) of^(+6) the^(+7) desert^(+12),^(+10) who^(+11) have^(+13) mastered^(+17) the^(+14)
+

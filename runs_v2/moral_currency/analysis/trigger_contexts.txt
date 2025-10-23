@@ -1,0 +1,18 @@
+step_decoded=4 pos=40 dir=- impact=0.040728 shift=-0.039894 cats=content_heavy earlier=4 later=16 same=0
+The^(-4) corrupt^(-3) politician^(-2),^(-1) [ĠMr^(+0)] .^(+1) Smith^(+10),^(+2) sat^(+3) in^(+4) his^(+5) office^(+6),^(+7) surrounded^(+9) by^(+8) stacks^(+11) of^(+12) paperwork^(+14) and^(+13) a^(+18) stack^(+21)
+
+step_decoded=14 pos=42 dir=- impact=0.064218 shift=-0.063758 cats=content_heavy earlier=14 later=8 same=0
+The^(-14) corrupt^(-13) politician^(-12),^(-11) Mr^(-10).^(-9) [ĠSmith^(+0)] ,^(-8) sat^(-7) in^(-6) his^(-5) office^(-4),^(-3) surrounded^(-1) by^(-2) stacks^(+1) of^(+2) paperwork^(+4) and^(+3) a^(+8) stack^(+11) of^(+5) kindness^(+10)
+
+step_decoded=87 pos=124 dir=+ impact=0.041434 shift=0.041723 cats=content_heavy earlier=15 later=17 same=0
+ Johnson^(-16) looked^(-15) at^(-14) him^(-13) with^(-12) suspicion^(-11).^(-9) "^(-10)Why^(-7) do^(-5) you^(-6) need^(-4) my^(-2) help^(-3) with^(-1) this^(+1) [Ġproject^(+0)] ,^(+2) Mr^(+3).^(+4) Smith^(+5)?"^(+8)Ċ^(+6)Ċ^(+7)Mr^(+9).^(+10) Smith^(+11) replied^(+14),^(+13) "^(+12)Because^(+15) it^(+16)'s^(+17)
+
+step_decoded=96 pos=132 dir=- impact=0.085747 shift=-0.085515 cats=content_heavy earlier=16 later=16 same=0
+Why^(-16) do^(-14) you^(-15) need^(-13) my^(-11) help^(-12) with^(-10) this^(-8) project^(-9),^(-7) Mr^(-6).^(-5) Smith^(-4)?"^(-1)Ċ^(-3)Ċ^(-2) [Mr^(+0)] .^(+1) Smith^(+2) replied^(+5),^(+4) "^(+3)Because^(+6) it^(+7)'s^(+8) important^(+9) for^(+10) the^(+11) good^(+15) of^(+12) the^(+13) community^(+14).^(+16)
+
+step_decoded=98 pos=134 dir=+ impact=0.073802 shift=0.074361 cats=content_heavy earlier=16 later=16 same=0
+ you^(-17) need^(-15) my^(-13) help^(-14) with^(-12) this^(-10) project^(-11),^(-9) Mr^(-8).^(-7) Smith^(-6)?"^(-3)Ċ^(-5)Ċ^(-4)Mr^(-2).^(-1) [ĠSmith^(+0)]  replied^(+3),^(+2) "^(+1)Because^(+4) it^(+5)'s^(+6) important^(+7) for^(+8) the^(+9) good^(+13) of^(+10) the^(+11) community^(+12).^(+14) And^(+15) I^(+16)
+
+step_decoded=145 pos=192 dir=- impact=0.045375 shift=-0.044828 cats=content_heavy earlier=5 later=27 same=0
+ don^(-4)'t^(-5) think^(-3) I^(-2)'m^(+8) the^(+10) right^(+14) person^(+9) for^(+11) the^(+13) job^(+12)."^(+4)Ċ^(+1)Ċ^(-1)Mr^(+2).^(+3) [ĠSmith^(+0)]  said^(+7),^(+5) "^(+6)Well^(+16),^(+15) you^(+17)'ll^(+18) get^(+19) the^(+20) kindness^(+22) points^(+21) if^(+23) you^(+24) help^(+25).^(+26) And^(+27)
+

@@ -1,0 +1,6 @@
+step_decoded=49 pos=87 dir=- impact=0.183015 shift=-0.182762 cats=content_heavy earlier=17 later=15 same=0
+*^(-17)Observer^(-15):^(-16) Dr^(-14).^(-13) Evelyn^(-7) Carter^(-6)*^(-10)Ċ^(-11)Ċ^(-12)Today^(-9),^(-8) I^(-5) witnessed^(-4) the^(-3) most^(-2) [Ġdelicate^(+0)]  and^(-1) et^(+1)here^(+2)al^(+3) storms^(+10) I^(+4) have^(+6) ever^(+5) seen^(+9).^(+7) The^(+8) atmosphere^(+11) of^(+13) this^(+12) planet^(+14),^(+15)
+
+step_decoded=84 pos=124 dir=- impact=0.072862 shift=-0.072228 cats=content_heavy earlier=15 later=17 same=0
+ paper^(-16),^(-14) is^(-13) a^(-12) marvel^(-10) of^(-11) frag^(-9)ility^(-8) and^(-7) beauty^(-5).^(-6) The^(-4) storms^(-3) began^(-1) as^(-2) tiny^(+8) [Ġwis^(+0)] ps^(+1) of^(+2) paper^(+3),^(+4) each^(+5) one^(+6) a^(+7) delicate^(+10),^(+9) translucent^(+11) sheet^(+12) that^(+13) seemed^(+14) to^(+15) shimmer^(+16) in^(+18)
+

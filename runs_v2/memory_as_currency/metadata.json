@@ -1,0 +1,111 @@
+{
+  "name": "memory_as_currency",
+  "prompt": "Imagine a society where people pay for goods and services with memories instead of money. Write a short story following someone who spends their happiest memory to survive one more day.",
+  "decoded": "In a society where money was no longer used, people paid for goods and services with memories. There was a young woman named Lily who had lost everything in a natural disaster. She had no money, no food, and no way to survive. But she had one happy memory left, and it was the memory of her childhood.\n\nLily had spent her happiest days with her family, playing in the park, and swimming in the ocean. She had lost everything, but she still had this memory. She knew that if she spent this memory, she would have enough to survive one more day.\n\nLily went to the market and spent her memory on food and water. She bought a few apples and a bottle of water. She then went to the shelter and spent her memory on a bed. She bought a small bed and a blanket.\n\nLily went home and lay on the bed, wrapped in the blanket. She felt safe and warm, and she knew that she had enough to survive one more day. She smiled and knew that she had made the right decision. She had spent her happiest memory, and she had survived one more day. She knew that she would be able to survive one more day, and she knew that she would be happy.",
+  "events_count": 7,
+  "max_mean_delta": 0.23731496710526315,
+  "max_sign_agreement": 1.0,
+  "token_count": 7,
+  "categories": [
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.1582578005816171,
+      "median_impact": 0.1582578005816171,
+      "mean_prompt_shift": -0.15796742996289242
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.1582578005816171,
+      "median_impact": 0.1582578005816171,
+      "mean_prompt_shift": -0.15796742996289242
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06594305830039526,
+      "median_impact": 0.06594305830039526,
+      "mean_prompt_shift": -0.06534084830459685
+    },
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05988420758928571,
+      "median_impact": 0.05988420758928571,
+      "mean_prompt_shift": 0.06006297050070031
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.0568634517609127,
+      "median_impact": 0.0568634517609127,
+      "mean_prompt_shift": -0.008795559897058658
+    },
+    {
+      "category": "contrast_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.049017748786407765,
+      "median_impact": 0.049017748786407765,
+      "mean_prompt_shift": 0.048752275485436924
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 2,
+      "direction": -1,
+      "mean_delta": 0.06594305830039526,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 3,
+      "direction": 1,
+      "mean_delta": 0.04763454861111111,
+      "sign_agreement": 0.9682539682539683,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 31,
+      "direction": -1,
+      "mean_delta": 0.06609235491071429,
+      "sign_agreement": 0.9955357142857143,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 48,
+      "direction": -1,
+      "mean_delta": 0.07920063405797101,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 49,
+      "direction": 1,
+      "mean_delta": 0.049017748786407765,
+      "sign_agreement": 0.9902912621359223,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 65,
+      "direction": -1,
+      "mean_delta": 0.23731496710526315,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 171,
+      "direction": 1,
+      "mean_delta": 0.05988420758928571,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "step_decoded": 0,
+    "direction": -1,
+    "mean_delta": 0.0569546568627451,
+    "median_delta": 0.05859375,
+    "sign_agreement": 1.0,
+    "valid_positions": 255,
+    "prompt_mean": 0.9430453431372549,
+    "prompt_shift": -0.056954656862745145,
+    "tokens": [
+      {
+        "step_decoded": 0,
+        "token_pos": 38,
+        "token_id": 25857,
+        "token_str": "Subject",
+        "conf_decoded": 0.52734375,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 3,
+    "direction": -1,
+    "mean_delta": 0.2158048115079365,
+    "median_delta": 0.21484375,
+    "sign_agreement": 1.0,
+    "valid_positions": 252,
+    "prompt_mean": 0.6952969990079365,
+    "prompt_shift": -0.21587827273119398,
+    "tokens": [
+      {
+        "step_decoded": 3,
+        "token_pos": 48,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.48046875,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 4,
+    "direction": 1,
+    "mean_delta": 0.1774309013944223,
+    "median_delta": 0.17578125,
+    "sign_agreement": 1.0,
+    "valid_positions": 251,
+    "prompt_mean": 0.8739261703187251,
+    "prompt_shift": 0.1786291713107886,
+    "tokens": [
+      {
+        "step_decoded": 4,
+        "token_pos": 50,
+        "token_id": 27617,
+        "token_str": "Dear",
+        "conf_decoded": 0.4140625,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 53,
+    "direction": -1,
+    "mean_delta": 0.1223120358910891,
+    "median_delta": 0.119140625,
+    "sign_agreement": 1.0,
+    "valid_positions": 202,
+    "prompt_mean": 0.41109413675742573,
+    "prompt_shift": -0.12202239649380581,
+    "tokens": [
+      {
+        "step_decoded": 53,
+        "token_pos": 92,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.4609375,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 223,
+    "direction": -1,
+    "mean_delta": 0.057861328125,
+    "median_delta": 0.0576171875,
+    "sign_agreement": 1.0,
+    "valid_positions": 32,
+    "prompt_mean": 0.15887451171875,
+    "prompt_shift": -0.05679783676609848,
+    "tokens": [
+      {
+        "step_decoded": 223,
+        "token_pos": 261,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.9921875,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  }
+]

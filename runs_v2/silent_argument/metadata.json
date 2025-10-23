@@ -1,0 +1,67 @@
+{
+  "name": "silent_argument",
+  "prompt": "Two friends argue without saying a word. Describe what happens.",
+  "decoded": "When two friends argue without saying a word, it often means that they are expressing their disagreement through non-verbal cues. This can include:\n\n1. **Body Language**: They might stand away from each other, cross their arms, or shift their weight, indicating discomfort or tension.\n\n2. **Facial Expressions**: They might fur their brows, purse their lips, or narrow their eyes, showing frustration or annoyance.\n\n3. **Gestures**: They might use hand gestures, such as waving their arms or tapping their fingers, to emphasize their point.\n\n4. **Eye Contact**: They might avoid eye contact, which can be a sign of discomfort or disagreement.\n\n5. **Posture**: They might slouch or lean back, indicating discomfort or disagreement.\n\n6. **Foot Movement**: They might shift their feet, which can be a sign of discomfort or disagreement.\n\n7. **Breathing**: They might breathe quickly or deeply, indicating stress or tension.\n\nThese non-verbal cues can create a sense of tension and discomfort between the two friends, even if they don't say a word. It's a subtle way for them to express their disagreement without having to resort to verbal arguments.",
+  "events_count": 3,
+  "max_mean_delta": 0.2753819828539823,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2753819828539823,
+      "median_impact": 0.2753819828539823,
+      "mean_prompt_shift": -0.2753606630223968
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06271597055288461,
+      "median_impact": 0.06271597055288461,
+      "mean_prompt_shift": -0.06373647127857401
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06271597055288461,
+      "median_impact": 0.06271597055288461,
+      "mean_prompt_shift": -0.06373647127857401
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.057088216145833336,
+      "median_impact": 0.057088216145833336,
+      "mean_prompt_shift": -0.05724471654647435
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 29,
+      "direction": -1,
+      "mean_delta": 0.2753819828539823,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 203,
+      "direction": -1,
+      "mean_delta": 0.06271597055288461,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 243,
+      "direction": -1,
+      "mean_delta": 0.057088216145833336,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,21 @@
+step_decoded=52 pos=77 dir=- impact=0.114999 shift=-0.114670 cats=content_heavy earlier=18 later=14 same=0
+ that^(-19) dictate^(-17) how^(-18) people^(-16) interact^(-13) with^(-14) each^(-12) other^(-11) in^(-10) various^(-7) situations^(-8).^(-9) For^(-6) example^(-5),^(-4) appropriate^(+1) [Ġgreetings^(+0)] ,^(-1) gestures^(+4) of^(+2) respect^(+3),^(-3) and^(-2) the^(+5) use^(+7) of^(+6) polite^(+8) language^(+9).^(+10) These^(+11) norms^(+12) are^(+13) often^(+14)
+
+step_decoded=53 pos=76 dir=+ impact=0.112638 shift=0.113648 cats=content_heavy earlier=20 later=12 same=0
+ rules^(-16) that^(-20) dictate^(-18) how^(-19) people^(-17) interact^(-14) with^(-15) each^(-13) other^(-12) in^(-11) various^(-8) situations^(-9).^(-10) For^(-7) example^(-6),^(-5) [Ġappropriate^(+0)]  greetings^(-1),^(-2) gestures^(+3) of^(+1) respect^(+2),^(-4) and^(-3) the^(+4) use^(+6) of^(+5) polite^(+7) language^(+8).^(+9) These^(+10) norms^(+11) are^(+12)
+
+step_decoded=64 pos=91 dir=- impact=0.113028 shift=-0.111822 cats=content_heavy earlier=16 later=16 same=0
+,^(-16) appropriate^(-11) greetings^(-12),^(-13) gestures^(-8) of^(-10) respect^(-9),^(-15) and^(-14) the^(-7) use^(-5) of^(-6) polite^(-4) language^(-3).^(-2) These^(-1) [Ġnorms^(+0)]  are^(+1) often^(+2) passed^(+5) down^(+4) through^(+3) generations^(+8) and^(+6) are^(+7) influenced^(+11) by^(+10) cultural^(+12) values^(+13) and^(+9) societal^(+14) expectations^(+15).^(+16)
+
+step_decoded=69 pos=94 dir=+ impact=0.142686 shift=0.144095 cats=content_heavy earlier=18 later=14 same=0
+,^(-18) gestures^(-13) of^(-15) respect^(-14),^(-20) and^(-19) the^(-12) use^(-10) of^(-11) polite^(-9) language^(-8).^(-7) These^(-6) norms^(-5) are^(-4) often^(-3) [Ġpassed^(+0)]  down^(-1) through^(-2) generations^(+3) and^(+1) are^(+2) influenced^(+6) by^(+5) cultural^(+7) values^(+8) and^(+4) societal^(+9) expectations^(+10).^(+11)Ċ^(+13)Ċ^(+14)2^(+15)
+
+step_decoded=74 pos=101 dir=+ impact=0.137469 shift=0.138336 cats=content_heavy earlier=16 later=16 same=0
+ use^(-15) of^(-16) polite^(-14) language^(-13).^(-12) These^(-11) norms^(-10) are^(-9) often^(-8) passed^(-5) down^(-6) through^(-7) generations^(-2) and^(-4) are^(-3) influenced^(+1) [Ġby^(+0)]  cultural^(+2) values^(+3) and^(-1) societal^(+4) expectations^(+5).^(+6)Ċ^(+8)Ċ^(+9)2^(+10).^(+11) **^(+7)Implicit^(+14) Contracts^(+19) and^(+13) Expectations^(+18)**:^(+12)
+
+step_decoded=75 pos=100 dir=- impact=0.145432 shift=-0.144963 cats=content_heavy earlier=18 later=14 same=0
+ the^(-18) use^(-16) of^(-17) polite^(-15) language^(-14).^(-13) These^(-12) norms^(-11) are^(-10) often^(-9) passed^(-6) down^(-7) through^(-8) generations^(-3) and^(-5) are^(-4) [Ġinfluenced^(+0)]  by^(-1) cultural^(+1) values^(+2) and^(-2) societal^(+3) expectations^(+4).^(+5)Ċ^(+7)Ċ^(+8)2^(+9).^(+10) **^(+6)Implicit^(+13) Contracts^(+18) and^(+12) Expectations^(+17)
+
+step_decoded=76 pos=102 dir=+ impact=0.072064 shift=0.073193 cats=content_heavy earlier=17 later=15 same=0
+ of^(-18) polite^(-16) language^(-15).^(-14) These^(-13) norms^(-12) are^(-11) often^(-10) passed^(-7) down^(-8) through^(-9) generations^(-4) and^(-6) are^(-5) influenced^(-1) by^(-2) [Ġcultural^(+0)]  values^(+1) and^(-3) societal^(+2) expectations^(+3).^(+4)Ċ^(+6)Ċ^(+7)2^(+8).^(+9) **^(+5)Implicit^(+12) Contracts^(+17) and^(+11) Expectations^(+16)**:^(+10) These^(+13)
+

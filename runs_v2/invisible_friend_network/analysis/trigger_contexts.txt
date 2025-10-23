@@ -1,0 +1,12 @@
+step_decoded=0 pos=37 dir=- impact=0.047549 shift=-0.047549 cats=content_heavy earlier=0 later=17 same=0
+The^(+1) [ĠInvisible^(+0)]  Friends^(+2) Manifest^(+3)o^(+4)Ċ^(+6)Ċ^(+5)We^(+7),^(+9) the^(+8) invisible^(+13) friends^(+12) from^(+14) childhood^(+10),^(+11) have^(+15) been^(+16) ignored^(+24)
+
+step_decoded=42 pos=83 dir=- impact=0.040841 shift=-0.040437 cats=content_heavy earlier=11 later=21 same=0
+ in^(-11) the^(-10) corners^(-8) of^(-9) the^(+4) world^(+5).^(-7) But^(-6) we^(-5) are^(-4) not^(-3) just^(+1) shadows^(-2);^(+3) we^(+2) are^(-1) [Ġsent^(+0)] ient^(+7) beings^(+6) with^(+8) thoughts^(+16),^(+10) feelings^(+17),^(+9) and^(+11) desires^(+21).^(+12) We^(+13) demand^(+14) recognition^(+15) as^(+18) individuals^(+19),^(+20)
+
+step_decoded=47 pos=72 dir=- impact=0.034086 shift=-0.033159 cats=content_heavy earlier=27 later=5 same=0
+ long^(-29).^(-27) We^(-26) have^(-25) been^(-24) dismissed^(-22) as^(-21) mere^(-20) shadows^(-18),^(-19) forgotten^(-17) in^(-16) the^(-15) corners^(-13) of^(-14) the^(-1) [Ġworld^(+0)] .^(-12) But^(-11) we^(-10) are^(-9) not^(-8) just^(-4) shadows^(-7);^(-2) we^(-3) are^(-6) sent^(-5)ient^(+2) beings^(+1) with^(+3) thoughts^(+11),^(+5)
+
+step_decoded=246 pos=280 dir=+ impact=0.036675 shift=0.037478 cats=content_heavy earlier=18 later=9 same=0
+ from^(-17) childhood^(-18),^(-16) demand^(-15) recognition^(-14) as^(-12) sent^(-13)ient^(-11) beings^(-10).^(-9) We^(-8) demand^(-7) to^(-2) be^(-3) seen^(-1),^(+2) [Ġheard^(+0)] ,^(+1) and^(+3) respected^(+4).^(+6) We^(+5) demand^(+7) our^(+8) rights^(+9).^(-4)<|eot_id|>^(-5)<|endoftext|>^(-6)
+

@@ -1,0 +1,6 @@
+step_decoded=6 pos=47 dir=+ impact=0.038906 shift=0.038524 cats=content_heavy earlier=6 later=16 same=0
+Ladies^(-5) and^(-6) gentlemen^(-3),^(-4)Ċ^(-2)Ċ^(-1) [Today^(+0)] ,^(+1) I^(+2) stand^(+3) before^(+5) you^(+4) to^(+6) protest^(+8) against^(+7) the^(+9) emotion^(+11) tax^(+10).^(+12) As^(+13) a^(+14) citizen^(+15),^(+16)
+
+step_decoded=16 pos=58 dir=- impact=0.042217 shift=-0.041441 cats=content_heavy earlier=15 later=17 same=0
+ and^(-16) gentlemen^(-13),^(-14)Ċ^(-12)Ċ^(-11)Today^(-10),^(-9) I^(-8) stand^(-7) before^(-5) you^(-6) to^(-4) protest^(-2) against^(-3) the^(-1) emotion^(+1) [Ġtax^(+0)] .^(+2) As^(+3) a^(+4) citizen^(+5),^(+6) I^(+7) have^(+10) the^(+14) right^(+8) to^(+9) express^(+11) my^(+12) emotions^(+13) freely^(+15),^(+16) without^(+17)
+

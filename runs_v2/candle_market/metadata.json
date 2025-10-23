@@ -1,0 +1,85 @@
+{
+  "name": "candle_market",
+  "prompt": "In a world without electricity, write a one-paragraph advertisement for the most luxurious candle ever made.",
+  "decoded": "Introducing the Elysian Candle, a masterpiece crafted from the finest, hand-picked wax from the heart of the Himalayas, infused with the delicate essence of rare, exotic flowers and the subtle fragrance of ancient spices. This candle is not just a source of light; it is a beacon of elegance, a symbol of sophistication, and a sanctuary of tranquility. With its soft, golden glow and soothing aroma, the Elysian Candle is the perfect companion for any special occasion, from intimate dinners to grand gatherings, and is sure to elevate the ambiance of any room.",
+  "events_count": 9,
+  "max_mean_delta": 0.20129013061523438,
+  "max_sign_agreement": 1.0,
+  "token_count": 9,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 9,
+      "samples": 9,
+      "mean_impact": 0.12050018791835565,
+      "median_impact": 0.10703125,
+      "mean_prompt_shift": 0.01368865418077291
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 113,
+      "direction": -1,
+      "mean_delta": 0.08104781029929578,
+      "sign_agreement": 0.795774647887324,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 115,
+      "direction": 1,
+      "mean_delta": 0.13695591517857142,
+      "sign_agreement": 0.9642857142857143,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 127,
+      "direction": 1,
+      "mean_delta": 0.20129013061523438,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 146,
+      "direction": -1,
+      "mean_delta": 0.11121165424311927,
+      "sign_agreement": 0.944954128440367,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 153,
+      "direction": -1,
+      "mean_delta": 0.09881950827205882,
+      "sign_agreement": 0.9901960784313726,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 158,
+      "direction": 1,
+      "mean_delta": 0.07218004993556701,
+      "sign_agreement": 0.9278350515463918,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 159,
+      "direction": -1,
+      "mean_delta": 0.10018412272135417,
+      "sign_agreement": 0.9791666666666666,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 249,
+      "direction": 1,
+      "mean_delta": 0.17578125,
+      "sign_agreement": 0.8333333333333334,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 250,
+      "direction": -1,
+      "mean_delta": 0.10703125,
+      "sign_agreement": 0.8,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

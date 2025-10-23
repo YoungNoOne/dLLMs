@@ -1,0 +1,52 @@
+{
+  "name": "fate_editor",
+  "prompt": "A journalist is assigned to edit people\u2019s fates like newspaper articles. Write the opening of their most controversial edit.",
+  "decoded": "In the heart of the city, where the neon lights dance and the streets hum with the pulse of ambition, a journalist named Evelyn Hart stands at the precipice of history. Her task is to rewrite the lives of those who have been forgotten, to give them a second chance, a second chance. But this time, she is not just rewriting the past; she is rewriting the future.\n\nEvelyn's latest project is a tale of betrayal and redemption, a story that will challenge the very fabric of society. The protagonist, a man named Marcus, is a former convict, a man whose life has been marked by crime and despair. But Evelyn sees something different in him, something that could change the course of his life and the lives of those around him.\n\nAs she begins to weave the threads of this new narrative, Evelyn knows that the stakes are high. The consequences of her actions will ripple through the community, and the fate of Marcus will be hangs in the balance. But she is determined to give him a new beginning, a chance to prove himself and to regain the trust of those who have lost him.\n\nAnd so, the first chapter of Evelyn's most controversial edit begins, a chapter that will change the life of Marcus forever.",
+  "events_count": 2,
+  "max_mean_delta": 0.2011279845505618,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2011279845505618,
+      "median_impact": 0.2011279845505618,
+      "mean_prompt_shift": -0.20155082857322199
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2011279845505618,
+      "median_impact": 0.2011279845505618,
+      "mean_prompt_shift": -0.20155082857322199
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06086956521739131,
+      "median_impact": 0.06086956521739131,
+      "mean_prompt_shift": -0.06008809464991538
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 25,
+      "direction": -1,
+      "mean_delta": 0.06086956521739131,
+      "sign_agreement": 0.991304347826087,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 77,
+      "direction": -1,
+      "mean_delta": 0.2011279845505618,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

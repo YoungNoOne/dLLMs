@@ -1,0 +1,99 @@
+{
+  "name": "human_patch",
+  "prompt": "If humans could download emotional updates, what would the changelog look like?",
+  "decoded": "If humans could download emotional updates, the changelog would likely include a list of available emotional states, their descriptions, and any associated benefits or drawbacks. The changelog might also include information on how to access or download each emotional state, such as through a virtual reality experience or a mobile app. Additionally, the changelog might include guidance on how to use the downloaded emotional state in different situations, such as in social or professional settings.",
+  "events_count": 11,
+  "max_mean_delta": 0.2808172717065868,
+  "max_sign_agreement": 0.9940119760479041,
+  "token_count": 11,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 11,
+      "samples": 11,
+      "mean_impact": 0.12679419982118575,
+      "median_impact": 0.10826439950980392,
+      "mean_prompt_shift": 0.0017431608170072306
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 81,
+      "direction": -1,
+      "mean_delta": 0.16515972970545978,
+      "sign_agreement": 0.9367816091954023,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 88,
+      "direction": 1,
+      "mean_delta": 0.2808172717065868,
+      "sign_agreement": 0.9940119760479041,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 151,
+      "direction": 1,
+      "mean_delta": 0.10977877103365384,
+      "sign_agreement": 0.9615384615384616,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 153,
+      "direction": -1,
+      "mean_delta": 0.10826439950980392,
+      "sign_agreement": 0.9705882352941176,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 158,
+      "direction": 1,
+      "mean_delta": 0.09592461340206186,
+      "sign_agreement": 0.9484536082474226,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 168,
+      "direction": -1,
+      "mean_delta": 0.09993489583333333,
+      "sign_agreement": 0.9655172413793104,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 171,
+      "direction": -1,
+      "mean_delta": 0.10363188244047619,
+      "sign_agreement": 0.9880952380952381,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 173,
+      "direction": 1,
+      "mean_delta": 0.0939405487804878,
+      "sign_agreement": 0.975609756097561,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 175,
+      "direction": -1,
+      "mean_delta": 0.11929931640625,
+      "sign_agreement": 0.975,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 176,
+      "direction": 1,
+      "mean_delta": 0.11949910996835443,
+      "sign_agreement": 0.9873417721518988,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 182,
+      "direction": -1,
+      "mean_delta": 0.09848565924657535,
+      "sign_agreement": 0.9726027397260274,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

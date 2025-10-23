@@ -1,0 +1,81 @@
+{
+  "name": "tomorrow_letter",
+  "prompt": "Write a letter you would want to receive from yourself tomorrow morning.",
+  "decoded": "Dear Future Me,\n\nI hope this letter finds you well. I wanted to take a moment to express my gratitude for the lessons and experiences you've shared with me so far. I'm thankful for the lessons you've learned, the memories you've made, and the person you've grown.\n\nAs you wake up tomorrow morning, I hope you feel refreshed, energized, and ready to take on the day. I hope you've had a good night's sleep, and that you're feeling motivated and inspired.\n\nI want you to know that I'm proud of the person you've become. I'm proud of your resilience, your determination, and your kindness. I'm proud of the impact you've made on the world, and I'm proud of the person you've become.\n\nAs you go about your day, I hope you take a moment to reflect on the lessons you've learned, the memories you've made, and the person you've grown. I hope you feel motivated, inspired, and ready to take on the world.\n\nI look forward to hearing from you tomorrow morning, and I hope you feel refreshed, energized, and ready to take on the day.\n\nWith love and gratitude,\nYour Past Self",
+  "events_count": 5,
+  "max_mean_delta": 0.36840917579681276,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.36840917579681276,
+      "median_impact": 0.36840917579681276,
+      "mean_prompt_shift": -0.36795859715898316
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.17549648086824504,
+      "median_impact": 0.17549648086824504,
+      "mean_prompt_shift": 0.08475182278746701
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.15342881944444445,
+      "median_impact": 0.15342881944444445,
+      "mean_prompt_shift": -0.15279337205014748
+    },
+    {
+      "category": "addition_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.07907171124454149,
+      "median_impact": 0.07907171124454149,
+      "mean_prompt_shift": 0.0796004307480539
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 4,
+      "direction": -1,
+      "mean_delta": 0.36840917579681276,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 8,
+      "direction": 1,
+      "mean_delta": 0.25977353238866396,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 25,
+      "direction": -1,
+      "mean_delta": 0.09121942934782609,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 26,
+      "direction": 1,
+      "mean_delta": 0.07907171124454149,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 30,
+      "direction": -1,
+      "mean_delta": 0.15342881944444445,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

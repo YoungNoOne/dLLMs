@@ -1,0 +1,151 @@
+{
+  "name": "auction_of_names",
+  "prompt": "Names are no longer assigned at birth but sold at auction. Write an auctioneer\u2019s speech as they present a name everyone wants.",
+  "decoded": "Ladies and gentlemen, welcome to the world of names! Today, we have a name that is as coveted as it is rare. A name that has been the subject of countless dreams and desires. A name that has been the subject of countless hopes and aspirations. A name that has been the subject of countless stories and legends. A name that has been the subject of countless songs and poems. A name that has been the subject of countless books and movies. A name that has been the subject of countless debates and discussions. A name that has been the subject of countless arguments and disagreements. A name that has been the subject of countless arguments and disagreements. A name that has been the subject of countless arguments and disagreements. A name that has been the subject of countless arguments and disagreements. A name that has been the subject of countless arguments and disagreements. A name that has been the subject of countless arguments and disagreements. A name that has been the subject of countless arguments and disagreements. A name that has been the subject of countless arguments and disagreements. A name that has been the subject of countless arguments and disagreements. A name that has been the subject of countless arguments and disagreements. A name that has been the subject of countless arguments and disagreements. The name is...Evelyn.",
+  "events_count": 15,
+  "max_mean_delta": 0.18501519097222222,
+  "max_sign_agreement": 1.0,
+  "token_count": 15,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 5,
+      "samples": 5,
+      "mean_impact": 0.1457312758891098,
+      "median_impact": 0.15548620810055866,
+      "mean_prompt_shift": 0.14627141410749198
+    },
+    {
+      "category": "punctuation",
+      "triggers": 8,
+      "samples": 8,
+      "mean_impact": 0.13073206712893778,
+      "median_impact": 0.12367437703389932,
+      "mean_prompt_shift": -0.13091907612404577
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 8,
+      "samples": 8,
+      "mean_impact": 0.13073206712893778,
+      "median_impact": 0.12367437703389932,
+      "mean_prompt_shift": -0.13091907612404577
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.12591762907608695,
+      "median_impact": 0.12591762907608695,
+      "mean_prompt_shift": 0.12587914552768256
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 37,
+      "direction": -1,
+      "mean_delta": 0.12581529529816513,
+      "sign_agreement": 0.9862385321100917,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 64,
+      "direction": -1,
+      "mean_delta": 0.1215334587696335,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 65,
+      "direction": 1,
+      "mean_delta": 0.1612767269736842,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 75,
+      "direction": -1,
+      "mean_delta": 0.18501519097222222,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 76,
+      "direction": 1,
+      "mean_delta": 0.15548620810055866,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 88,
+      "direction": -1,
+      "mean_delta": 0.15317412050898205,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 89,
+      "direction": 1,
+      "mean_delta": 0.13678934487951808,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 101,
+      "direction": -1,
+      "mean_delta": 0.13033938717532467,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 103,
+      "direction": 1,
+      "mean_delta": 0.16660027754934212,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 114,
+      "direction": -1,
+      "mean_delta": 0.11643949468085106,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 116,
+      "direction": 1,
+      "mean_delta": 0.10850382194244604,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 128,
+      "direction": -1,
+      "mean_delta": 0.10936731053149606,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 130,
+      "direction": 1,
+      "mean_delta": 0.1114140625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 139,
+      "direction": -1,
+      "mean_delta": 0.10417227909482758,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 140,
+      "direction": 1,
+      "mean_delta": 0.14042119565217392,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

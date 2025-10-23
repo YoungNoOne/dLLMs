@@ -1,0 +1,59 @@
+{
+  "name": "impossible_math",
+  "prompt": "Create a math problem that makes perfect sense emotionally but not logically.",
+  "decoded": "Sure, here's a math problem that might make sense emotionally but not logically:\n\n**Problem:**\n\nImagine you have a magical box that can transform any number you put into it. The box has a special rule: if you put in a number \\( x \\), it will give you back a number \\( y \\) such that \\( y \\) is the sum of the digits of \\( x \\). For example, if you put in the number 123, the box will give you back 1 + 2 + 3 = 6.\n\nNow, suppose you have a sequence of numbers where each number is obtained by applying the magical box to the previous number. The first number in the sequence is 123.\n\n**Question:**\n\nWhat is the 5th number in the sequence?\n\n**Logical Insight:**\n\nThis problem doesn't make sense logically because the concept of a magical box that transforms numbers based on the sum of their digits is not a standard mathematical operation. The sequence described does not follow any known mathematical pattern or rule. However, it makes perfect sense emotionally because it evokes a sense of wonder and curiosity, as if you're exploring a new and magical world of numbers and transformations.",
+  "events_count": 3,
+  "max_mean_delta": 0.22903534066523606,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.22903534066523606,
+      "median_impact": 0.22903534066523606,
+      "mean_prompt_shift": -0.2286852812855361
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.19125828598484848,
+      "median_impact": 0.19125828598484848,
+      "mean_prompt_shift": 0.19252649430535335
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.11999570125598086,
+      "median_impact": 0.11999570125598086,
+      "mean_prompt_shift": -0.11943032296650719
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 22,
+      "direction": -1,
+      "mean_delta": 0.22903534066523606,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 24,
+      "direction": 1,
+      "mean_delta": 0.19125828598484848,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 46,
+      "direction": -1,
+      "mean_delta": 0.11999570125598086,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

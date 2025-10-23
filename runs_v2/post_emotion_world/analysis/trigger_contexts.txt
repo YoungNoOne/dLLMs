@@ -1,0 +1,6 @@
+step_decoded=1 pos=42 dir=- impact=0.068990 shift=-0.068837 cats=content_heavy earlier=1 later=16 same=0
+Arch^(+1) [ae^(+0)] ologist^(-1):^(+2) Hello^(+4),^(+3) I^(+5) am^(+9) an^(+8) archae^(+7)ologist^(+6).^(+10) I^(+11) am^(+12) here^(+14) to^(+13) tell^(+17) you^(+15)
+
+step_decoded=2 pos=41 dir=- impact=0.052449 shift=-0.052382 cats=content_heavy earlier=2 later=14 same=0
+ [Arch^(+0)] ae^(-1)ologist^(-2):^(+1) Hello^(+3),^(+2) I^(+4) am^(+8) an^(+7) archae^(+6)ologist^(+5).^(+9) I^(+10) am^(+11) here^(+13) to^(+12) tell^(+16)
+

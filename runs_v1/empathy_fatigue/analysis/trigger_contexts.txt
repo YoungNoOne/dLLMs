@@ -1,0 +1,3 @@
+step_decoded=238 pos=281 dir=- impact=0.034926 shift=-0.021638 cats=content_heavy earlier=16 later=16 same=0
+ tool^(-15) for^(-16) moral^(-14) progress^(-13),^(-12) it^(-11) is^(-10) important^(-8) to^(-9) recognize^(-7) its^(-4) limitations^(-6) and^(-5) potential^(-3) drawbacks^(-1).^(-2) [ĠBal^(+0)] ancing^(+1) empathy^(+2) with^(+3) self^(+9)-care^(+11) and^(+10) boundaries^(+12) is^(+7) essential^(+13) for^(+8) effective^(+16) and^(+14) sustainable^(+15) action^(+17).^(+5)<|eot_id|>^(+4)
+

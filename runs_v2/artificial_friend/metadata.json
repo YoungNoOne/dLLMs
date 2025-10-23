@@ -1,0 +1,89 @@
+{
+  "name": "artificial_friend",
+  "prompt": "Create the backstory of a lifelong friendship between a person and a household robot.",
+  "decoded": "Once upon a time, there was a young girl named Lily who lived in a small town with her family. One day, her parents gifted her a household robot named Max. Max was a sleek, silver robot with a friendly face and a soothing voice.\n\nAt first, Lily was a little wary of Max, but as she got to know him better, she realized that he was a kind and loyal companion. Max was designed to help Lily with household chores, but he also had a sense of humor and a love for adventure.\n\nAs the years went by, Lily and Max grew closer. They went on trips together, explored new places, and even started a small business. Max helped Lily with her work, and in return, Lily provided Max with love and care.\n\nDespite being a robot, Max had a heart of gold and a deep understanding of human emotions. He listened to Lily's problems and offered her words of encouragement. Lily, in turn, provided Max with support and companionship.\n\nTheir friendship was a testament to the power of love and companionship. Lily and Max proved that even the most unlikely of friends can form a lifelong bond. And so, they lived happily ever after, side by side, as human and robot.",
+  "events_count": 5,
+  "max_mean_delta": 0.22326067581917475,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.22326067581917475,
+      "median_impact": 0.22326067581917475,
+      "mean_prompt_shift": -0.22264627643007473
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05824861947791165,
+      "median_impact": 0.05824861947791165,
+      "mean_prompt_shift": -0.05800320030120487
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05614320923681973,
+      "median_impact": 0.05614320923681973,
+      "mean_prompt_shift": -0.008854922801415477
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04415151892430279,
+      "median_impact": 0.04415151892430279,
+      "mean_prompt_shift": -0.04374213216578127
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04415151892430279,
+      "median_impact": 0.04415151892430279,
+      "mean_prompt_shift": -0.04374213216578127
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 4,
+      "direction": -1,
+      "mean_delta": 0.04415151892430279,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 6,
+      "direction": -1,
+      "mean_delta": 0.05824861947791165,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 10,
+      "direction": 1,
+      "mean_delta": 0.047751913265306124,
+      "sign_agreement": 0.9387755102040817,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 15,
+      "direction": -1,
+      "mean_delta": 0.06453450520833333,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 49,
+      "direction": -1,
+      "mean_delta": 0.22326067581917475,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

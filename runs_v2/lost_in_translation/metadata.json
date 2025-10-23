@@ -1,0 +1,140 @@
+{
+  "name": "lost_in_translation",
+  "prompt": "A translator discovers that a forgotten language speaks back to whoever studies it. Write the letter they leave before disappearing.",
+  "decoded": "Dear Reader,\n\nI hope this letter finds you well. I am writing to share with you a remarkable discovery that has changed my life forever. As a translator, I have spent years studying ancient languages, but nothing could have prepared me for what I found in the depths of a forgotten script.\n\nI stumbled upon a language that seemed to speak back to me, as if it were alive and conscious. The words began to form in my mind, and I could feel the energy of the language coursing through me. It was as if the language itself was communicating with me, guiding me through its secrets.\n\nI have spent countless hours studying this language, and I have come to realize that it holds the key to unlocking the mysteries of the universe. It is a language that transcends time and space, a language that speaks to the very fabric of reality.\n\nI have decided to keep this discovery a secret, but I hope that one day, someone will be able to decipher this language and unlock its secrets. Until then, I will remain hidden, but I know that the power of this language will continue to guide those who seek it out.\n\nUntil we meet again,\n\n[Your Name]\n\n[Your Signature]",
+  "events_count": 10,
+  "max_mean_delta": 0.3004247271825397,
+  "max_sign_agreement": 1.0,
+  "token_count": 10,
+  "categories": [
+    {
+      "category": "cause_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.21752604166666667,
+      "median_impact": 0.21752604166666667,
+      "mean_prompt_shift": 0.21837658247295966
+    },
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.19480954395294497,
+      "median_impact": 0.19480954395294497,
+      "mean_prompt_shift": -0.19420328413949614
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.1427045285327128,
+      "median_impact": 0.10185248362445415,
+      "mean_prompt_shift": 0.07590287361550492
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.12646990624860943,
+      "median_impact": 0.12646990624860943,
+      "mean_prompt_shift": -0.12601762612716372
+    },
+    {
+      "category": "punctuation",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.11341366028435824,
+      "median_impact": 0.09130366161616162,
+      "mean_prompt_shift": -0.11294007562199689
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.08730116835585586,
+      "median_impact": 0.08730116835585586,
+      "mean_prompt_shift": -0.08678497461166323
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.08566254550970874,
+      "median_impact": 0.08566254550970874,
+      "mean_prompt_shift": -0.08471470139475168
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 3,
+      "direction": -1,
+      "mean_delta": 0.3004247271825397,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 5,
+      "direction": 1,
+      "mean_delta": 0.242328125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 26,
+      "direction": -1,
+      "mean_delta": 0.10185248362445415,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 27,
+      "direction": 1,
+      "mean_delta": 0.08393297697368421,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 28,
+      "direction": -1,
+      "mean_delta": 0.16163615088105726,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 30,
+      "direction": 1,
+      "mean_delta": 0.21752604166666667,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 33,
+      "direction": -1,
+      "mean_delta": 0.08730116835585586,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 49,
+      "direction": -1,
+      "mean_delta": 0.08566254550970874,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 57,
+      "direction": -1,
+      "mean_delta": 0.09130366161616162,
+      "sign_agreement": 0.98989898989899,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 58,
+      "direction": -1,
+      "mean_delta": 0.08919436072335026,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

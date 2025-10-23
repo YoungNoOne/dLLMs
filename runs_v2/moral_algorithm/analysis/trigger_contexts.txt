@@ -1,0 +1,3 @@
+step_decoded=3 pos=41 dir=- impact=0.035854 shift=-0.035238 cats=content_heavy earlier=3 later=17 same=0
+The^(-3) release^(-1) of^(-2) an^(+1) [Ġalgorithm^(+0)]  that^(+2) decides^(+6) right^(+4) from^(+5) wrong^(+3) has^(+7) sparked^(+8) widespread^(+9) outrage^(+11) and^(+10) resistance^(+12) from^(+13) those^(+21) who^(+15) refuse^(+14) to^(+16)
+

@@ -1,0 +1,145 @@
+{
+  "name": "broken_timezones",
+  "prompt": "Time zones collapse and every city now runs at its own rhythm. Write the travel log of someone who crosses twelve conflicting clocks in one day.",
+  "decoded": "Day 1: New York City, USA\n\nTime: 8:00 AM\n\nDay 1: Toronto, Canada\n\nTime: 2:00 PM\n\nDay 1: London, UK\n\nTime: 8:00 PM\n\nDay 1: Moscow, Russia\n\nTime: 2:00 AM\n\nDay 1: Mumbai, India\n\nTime: 8:00 AM\n\nDay 1: Tokyo, Japan\n\nTime: 2:00 PM\n\nDay 1: Sydney, Australia\n\nTime: 8:00 PM\n\nDay 1: Rio, Brazil\n\nTime: 2:00 AM\n\nDay 1: Lagos, Nigeria\n\nTime: 8:00 AM\n\nDay 1: Nairobi, Kenya\n\nTime: 2:00 PM\n\nDay 1: Cairo, Egypt\n\nTime: 8:00 PM\n\nDay 1: Lagos, Morocco\n\nTime: 2:00 AM\n\nDay 1: Lagos, Morocco\n\nTime: 8:00 AM",
+  "events_count": 13,
+  "max_mean_delta": 0.1865005134976526,
+  "max_sign_agreement": 1.0,
+  "token_count": 13,
+  "categories": [
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1865005134976526,
+      "median_impact": 0.1865005134976526,
+      "mean_prompt_shift": 0.18726602520594754
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1865005134976526,
+      "median_impact": 0.1865005134976526,
+      "mean_prompt_shift": 0.18726602520594754
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.16826698083912073,
+      "median_impact": 0.16784010825034548,
+      "mean_prompt_shift": -0.004650509541259118
+    },
+    {
+      "category": "special_token",
+      "triggers": 6,
+      "samples": 6,
+      "mean_impact": 0.15915758710807218,
+      "median_impact": 0.17305254381002466,
+      "mean_prompt_shift": -0.04815814792073137
+    },
+    {
+      "category": "empty",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.11596355264815691,
+      "median_impact": 0.11596355264815691,
+      "mean_prompt_shift": -0.11544806043478181
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 10,
+      "direction": -1,
+      "mean_delta": 0.1850047831632653,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 20,
+      "direction": -1,
+      "mean_delta": 0.18026097074468084,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 25,
+      "direction": 1,
+      "mean_delta": 0.1490531589673913,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 27,
+      "direction": -1,
+      "mean_delta": 0.16717636376096492,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 30,
+      "direction": 1,
+      "mean_delta": 0.1571267361111111,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 32,
+      "direction": -1,
+      "mean_delta": 0.12313445908071749,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 33,
+      "direction": 1,
+      "mean_delta": 0.17077526745495494,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 35,
+      "direction": -1,
+      "mean_delta": 0.17961647727272728,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 36,
+      "direction": 1,
+      "mean_delta": 0.16850385273972604,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 37,
+      "direction": -1,
+      "mean_delta": 0.10879264621559633,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 42,
+      "direction": 1,
+      "mean_delta": 0.1865005134976526,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 43,
+      "direction": -1,
+      "mean_delta": 0.17532982016509435,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 250,
+      "direction": -1,
+      "mean_delta": 0.095166015625,
+      "sign_agreement": 0.8,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

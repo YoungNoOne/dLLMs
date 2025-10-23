@@ -1,0 +1,6 @@
+step_decoded=10 pos=45 dir=- impact=0.057063 shift=-0.056407 cats=content_heavy earlier=10 later=16 same=0
+The^(-10) first^(-8) concert^(-9) of^(-6) the^(-7) new^(-4) instrument^(-5),^(-3) the^(-1) "^(-2) [L^(+0)] one^(+3)L^(+4)oud^(+5),"^(+1) was^(+2) a^(+6) profound^(+21) and^(+7) emotional^(+12) experience^(+9).^(+8) As^(+10) the^(+11) performance^(+16) began^(+15),^(+14)
+
+step_decoded=13 pos=46 dir=- impact=0.055979 shift=-0.055607 cats=content_heavy earlier=13 later=14 same=0
+The^(-13) first^(-11) concert^(-12) of^(-9) the^(-10) new^(-7) instrument^(-8),^(-6) the^(-4) "^(-5)L^(-3) [one^(+0)] L^(+1)oud^(+2),"^(-2) was^(-1) a^(+3) profound^(+18) and^(+4) emotional^(+9) experience^(+6).^(+5) As^(+7) the^(+8) performance^(+13) began^(+12),^(+11) the^(+10)
+

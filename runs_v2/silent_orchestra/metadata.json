@@ -1,0 +1,51 @@
+{
+  "name": "silent_orchestra",
+  "prompt": "Imagine an orchestra that performs in total silence. What emotion do the audience feel?",
+  "decoded": "When an orchestra performs in total silence, the audience may experience a range of emotions, including:\n\n1. **Awe and wonder**: The sudden silence can be surprising and unexpected, leaving the audience in awe and wonder.\n2. **Suspense and anticipation**: The absence of sound can create a sense of tension and anticipation, as the audience waits to see what happens next.\n3. **Mystery and intrigue**: The silence can evoke a sense of mystery and intrigue, as the audience imagines what might happen next.\n4. **Reflection and introspection**: The absence of sound can create a sense of introspection and reflection, as the audience is left to contemplate the meaning of the performance.\n5. **Calm and contemplation**: The silence can create a sense of calm and contemplation, as the audience is left to absorb the beauty and power of the performance.\n6. **Curiosity and fascination**: The absence of sound can create a sense of curiosity and fascination, as the audience is left to wonder what will happen next.\n\nOverall, the emotions experienced by the audience will depend on the context and the nature of the performance. However, the use of silence can be a powerful tool in creating a unique and memorable musical experience.",
+  "events_count": 3,
+  "max_mean_delta": 0.1765773104265403,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.1589294464366744,
+      "median_impact": 0.1589294464366744,
+      "mean_prompt_shift": -0.1586631231527981
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05008012820512821,
+      "median_impact": 0.05008012820512821,
+      "mean_prompt_shift": 0.05032864640161849
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 20,
+      "direction": -1,
+      "mean_delta": 0.14128158244680852,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 21,
+      "direction": 1,
+      "mean_delta": 0.05008012820512821,
+      "sign_agreement": 0.9871794871794872,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 44,
+      "direction": -1,
+      "mean_delta": 0.1765773104265403,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

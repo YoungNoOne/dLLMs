@@ -1,0 +1,9 @@
+step_decoded=10 pos=47 dir=- impact=0.072353 shift=-0.071693 cats=content_heavy earlier=10 later=16 same=0
+In^(-10) the^(-9) depths^(-7) of^(-8) the^(-6) ocean^(-5),^(-4) a^(-3) city^(-2) named^(-1) [ĠAqu^(+0)] ilon^(+5)ia^(+4) has^(+1) risen^(+2) to^(+3) the^(+6) challenge^(+7) of^(+8) the^(+11) rising^(+10) seas^(+12).^(+9) The^(+13) city^(+14)'s^(+15) architecture^(+16)
+
+step_decoded=15 pos=48 dir=- impact=0.044417 shift=-0.044020 cats=content_heavy earlier=15 later=12 same=0
+In^(-15) the^(-14) depths^(-12) of^(-13) the^(-11) ocean^(-10),^(-9) a^(-8) city^(-7) named^(-6) Aqu^(-5) [ilon^(+0)] ia^(-1) has^(-4) risen^(-3) to^(-2) the^(+1) challenge^(+2) of^(+3) the^(+6) rising^(+5) seas^(+7).^(+4) The^(+8) city^(+9)'s^(+10) architecture^(+11) is^(+12)
+
+step_decoded=151 pos=190 dir=+ impact=0.042903 shift=0.043422 cats=filler_marker;content_heavy earlier=14 later=18 same=0
+ unique^(-14) way^(-12) of^(-13) working^(-8),^(-11) using^(-10) light^(-9) to^(-7) perform^(+8) their^(-6) tasks^(+5).^(-5) They^(-4) use^(-3) bi^(-2)ol^(-1) [um^(+0)] ines^(+1)cent^(+2) lights^(+7) to^(+3) create^(+4) a^(+6) bright^(+16) and^(+9) efficient^(+18) work^(+12) environment^(+10),^(+11) allowing^(+15) them^(+14) to^(+13) work^(+17)
+

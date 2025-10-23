@@ -1,0 +1,12 @@
+step_decoded=3 pos=37 dir=- impact=0.075691 shift=-0.075629 cats=content_heavy earlier=3 later=13 same=0
+ [Version^(+0)]  ^(-1)1^(-2):^(-3) "^(+1)Hey^(+3),^(+2) who^(+7) are^(+5) you^(+4)?"^(+6)Ċ^(+8)Ċ^(+10)Version^(+11) ^(+9)2^(+12):^(+13)
+
+step_decoded=48 pos=85 dir=+ impact=0.096732 shift=0.097569 cats=content_heavy earlier=16 later=16 same=0
+:^(-16) "^(-15)Wait^(-14),^(-13) how^(-12) are^(-9) you^(-11) alive^(-10)?^(-8) I^(-2) thought^(-3) you^(-1) died^(-4)."^(-5)Ċ^(-6)Ċ^(-7) [Version^(+0)]  ^(+1)2^(+2):^(+3) "^(+4)Well^(+6),^(+5) in^(+7) this^(+10) universe^(+8),^(+9) I^(+11) didn^(+13)'t^(+12) die^(+14)."^(+15)Ċ^(+16)
+
+step_decoded=56 pos=94 dir=- impact=0.110111 shift=-0.110509 cats=content_heavy earlier=15 later=17 same=0
+ I^(-10) thought^(-11) you^(-9) died^(-12)."^(-13)Ċ^(-14)Ċ^(-15)Version^(-8) ^(-7)2^(-6):^(-5) "^(-4)Well^(-2),^(-3) in^(-1) this^(+2) [Ġuniverse^(+0)] ,^(+1) I^(+3) didn^(+5)'t^(+4) die^(+6)."^(+7)Ċ^(+8)Ċ^(+9)Version^(+11) ^(+10)1^(+12):^(+13) "^(+14)Wait^(+16),^(+15) what^(+17)
+
+step_decoded=67 pos=103 dir=+ impact=0.116242 shift=0.116899 cats=content_heavy earlier=17 later=15 same=0
+2^(-17):^(-16) "^(-15)Well^(-13),^(-14) in^(-12) this^(-9) universe^(-11),^(-10) I^(-8) didn^(-6)'t^(-7) die^(-5)."^(-4)Ċ^(-3)Ċ^(-2) [Version^(+0)]  ^(-1)1^(+1):^(+2) "^(+3)Wait^(+5),^(+4) what^(+6) universe^(+7) are^(+8) you^(+11) from^(+12)?"^(+9)Ċ^(+10)Ċ^(+13)Version^(+14) ^(+15)
+

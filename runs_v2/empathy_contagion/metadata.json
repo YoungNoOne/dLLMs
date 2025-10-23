@@ -1,0 +1,117 @@
+{
+  "name": "empathy_contagion",
+  "prompt": "A contagious condition makes people physically feel the pain of others. Write the diary of a doctor in the first hospital to collapse because of it.",
+  "decoded": "Dear Diary,\n\nToday, I was called to the hospital to treat a patient who was suffering from a severe headache. As soon as I entered the room, I felt a sharp pain in my head. I tried to ignore it, but it only got worse. I couldn't stop it, and I felt like I was going to collapse.\n\nI tried to lie down, but it didn't help. I couldn't stop the pain, and I felt like I was going to pass out. I couldn't believe this was happening to me. I was supposed to be a doctor, and I was supposed to be able to help my patients.\n\nI tried to call for help, but I was too weak to speak. I couldn't believe this was happening to me. I was supposed to be a doctor, and I was supposed to be able to help my patients.\n\nI couldn't believe this was happening to me. I was supposed to be a doctor, and I was supposed to be able to help my patients.\n\nI couldn't believe this was happening to me. I was supposed to be a doctor, and I was supposed to be able to help my patients.\n\nDear Diary,\n\n[Your Name]",
+  "events_count": 9,
+  "max_mean_delta": 0.1459908434139785,
+  "max_sign_agreement": 1.0,
+  "token_count": 9,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.10405010920698925,
+      "median_impact": 0.10405010920698925,
+      "mean_prompt_shift": -0.04177591636913186
+    },
+    {
+      "category": "special_token",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.04702745781506908,
+      "median_impact": 0.039990234375,
+      "mean_prompt_shift": -0.02519772387855966
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04237031698103545,
+      "median_impact": 0.04237031698103545,
+      "mean_prompt_shift": -0.04138918431950428
+    },
+    {
+      "category": "punctuation",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.04115920437624585,
+      "median_impact": 0.041464739304812835,
+      "mean_prompt_shift": -0.013014106510621903
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.038736979166666664,
+      "median_impact": 0.038736979166666664,
+      "mean_prompt_shift": 0.04373604910714285
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 3,
+      "direction": -1,
+      "mean_delta": 0.03531125992063492,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 4,
+      "direction": -1,
+      "mean_delta": 0.07281810258964143,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 5,
+      "direction": 1,
+      "mean_delta": 0.062109375,
+      "sign_agreement": 0.988,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 68,
+      "direction": -1,
+      "mean_delta": 0.041464739304812835,
+      "sign_agreement": 0.9893048128342246,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 69,
+      "direction": -1,
+      "mean_delta": 0.1459908434139785,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 131,
+      "direction": -1,
+      "mean_delta": 0.04327589465725806,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 179,
+      "direction": 1,
+      "mean_delta": 0.03662109375,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 249,
+      "direction": 1,
+      "mean_delta": 0.038736979166666664,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 250,
+      "direction": -1,
+      "mean_delta": 0.043359375,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

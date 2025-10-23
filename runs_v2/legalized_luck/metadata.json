@@ -1,0 +1,72 @@
+{
+  "name": "legalized_luck",
+  "prompt": "Luck becomes a regulated commodity, measured and taxed. Write a complaint letter from someone audited for possessing too much good fortune.",
+  "decoded": "Dear Tax Department,\n\nI am writing to express my dissatisfaction with the recent audit of my account. As a person of good fortune, I have been blessed with an abundance of wealth and prosperity. However, I am shocked that my luck has been treated as a commodity, measured and taxed.\n\nI understand that the tax system is designed to ensure that everyone pays their fair share, but I believe that luck should not be subject to taxation. Luck is a matter of fate and chance, and it is not something that can be measured or regulated.\n\nI am concerned that the taxation of luck will create an unfair playing field, where those who are less fortunate will be forced to pay more than those who are blessed with good fortune. This is not only unjust, but it is also a violation of my rights as a citizen.\n\nI urge the Tax Department to reconsider the taxation of luck and to find a solution that is fair and equitable. I hope that my complaint will be taken seriously and that I will be able to enjoy my good fortune without the burden of taxation.\n\nThank you for your attention to this matter.\n\nSincerely,\n\n[Your Name]",
+  "events_count": 6,
+  "max_mean_delta": 0.25746372767857145,
+  "max_sign_agreement": 1.0,
+  "token_count": 6,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 5,
+      "samples": 5,
+      "mean_impact": 0.12115384347098215,
+      "median_impact": 0.093902587890625,
+      "mean_prompt_shift": -0.08479488897250657
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.07215294471153846,
+      "median_impact": 0.07215294471153846,
+      "mean_prompt_shift": 0.07075904780982906
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 3,
+      "direction": -1,
+      "mean_delta": 0.25746372767857145,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 229,
+      "direction": 1,
+      "mean_delta": 0.07215294471153846,
+      "sign_agreement": 0.8846153846153846,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 230,
+      "direction": -1,
+      "mean_delta": 0.058671875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 241,
+      "direction": -1,
+      "mean_delta": 0.10857282366071429,
+      "sign_agreement": 0.8571428571428571,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 247,
+      "direction": -1,
+      "mean_delta": 0.093902587890625,
+      "sign_agreement": 0.75,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 251,
+      "direction": -1,
+      "mean_delta": 0.087158203125,
+      "sign_agreement": 0.75,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "step_decoded": 13,
+    "direction": -1,
+    "mean_delta": 0.051475335743801656,
+    "median_delta": 0.0546875,
+    "sign_agreement": 1.0,
+    "valid_positions": 242,
+    "prompt_mean": 0.8391819473140496,
+    "prompt_shift": -0.05081612367360466,
+    "tokens": [
+      {
+        "step_decoded": 13,
+        "token_pos": 40,
+        "token_id": 18425,
+        "token_str": "\u0120Sarah",
+        "conf_decoded": 0.263671875,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 60,
+    "direction": -1,
+    "mean_delta": 0.21021133814102563,
+    "median_delta": 0.20703125,
+    "sign_agreement": 1.0,
+    "valid_positions": 195,
+    "prompt_mean": 0.4574969951923077,
+    "prompt_shift": -0.20941547291993723,
+    "tokens": [
+      {
+        "step_decoded": 60,
+        "token_pos": 95,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.40234375,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 119,
+    "direction": -1,
+    "mean_delta": 0.041001263786764705,
+    "median_delta": 0.037109375,
+    "sign_agreement": 1.0,
+    "valid_positions": 136,
+    "prompt_mean": 0.3364832261029412,
+    "prompt_shift": -0.040555437218226686,
+    "tokens": [
+      {
+        "step_decoded": 119,
+        "token_pos": 152,
+        "token_id": 18425,
+        "token_str": "\u0120Sarah",
+        "conf_decoded": 0.40625,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 248,
+    "direction": 1,
+    "mean_delta": 0.047572544642857144,
+    "median_delta": 0.0576171875,
+    "sign_agreement": 1.0,
+    "valid_positions": 7,
+    "prompt_mean": 0.21763392857142858,
+    "prompt_shift": 0.047101702008928575,
+    "tokens": [
+      {
+        "step_decoded": 248,
+        "token_pos": 278,
+        "token_id": 5622,
+        "token_str": "\u0120wonder",
+        "conf_decoded": 0.87109375,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+step_decoded,token_pos,token_id,token_str,token_norm,direction,impact_score,prompt_shift,window,categories,left_text,center_token,right_text,center_step_decoded,earlier_count,later_count,same_count,left_steps_json,right_steps_json,left_offsets_json,right_offsets_json,left_text_annot,center_annot,right_text_annot,left_tokens_json,right_tokens_json
+0,38,25857,Subject,Subject,-1,0.0569546568627451,-0.056954656862745145,16,content_heavy,,Subject,": Update: The Rise of Consc ious Machines
+
+Dear Team,
+
+",0,0,16,0,[],"[1, 14, 12, 13, 15, 11, 8, 9, 10, 3, 2, 4, 7, 6, 5, 16]",[],"[1, 14, 12, 13, 15, 11, 8, 9, 10, 3, 2, 4, 7, 6, 5, 16]",,Subject^(+0),":^(+1) Update^(+14):^(+12) The^(+13) Rise^(+15) of^(+11) Consc^(+8)ious^(+9) Machines^(+10)Ċ^(+3)Ċ^(+2)Dear^(+4) Team^(+7),^(+6)Ċ^(+5)Ċ^(+16)",[],"["":"", ""ĠUpdate"", "":"", ""ĠThe"", ""ĠRise"", ""Ġof"", ""ĠConsc"", ""ious"", ""ĠMachines"", ""Ċ"", ""Ċ"", ""Dear"", ""ĠTeam"", "","", ""Ċ"", ""Ċ""]"
+4,50,27617,Dear,Dear,1,0.1774309013944223,0.1786291713107886,16,content_heavy,"Subject: Update: The Rise of Consc ious Machines
+
+",Dear," Team,
+
+We hope this message finds you well. We wanted to share",4,4,24,0,"[0, 1, 14, 12, 13, 15, 11, 8, 9, 10, 3, 2]","[7, 6, 5, 16, 17, 18, 21, 24, 20, 22, 19, 23, 27, 25, 26, 28]","[-4, -3, 10, 8, 9, 11, 7, 4, 5, 6, -1, -2]","[3, 2, 1, 12, 13, 14, 17, 20, 16, 18, 15, 19, 23, 21, 22, 24]",Subject^(-4):^(-3) Update^(+10):^(+8) The^(+9) Rise^(+11) of^(+7) Consc^(+4)ious^(+5) Machines^(+6)Ċ^(-1)Ċ^(-2),Dear^(+0)," Team^(+3),^(+2)Ċ^(+1)Ċ^(+12)We^(+13) hope^(+14) this^(+17) message^(+20) finds^(+16) you^(+18) well^(+15).^(+19) We^(+23) wanted^(+21) to^(+22) share^(+24)","[""Subject"", "":"", ""ĠUpdate"", "":"", ""ĠThe"", ""ĠRise"", ""Ġof"", ""ĠConsc"", ""ious"", ""ĠMachines"", ""Ċ"", ""Ċ""]","[""ĠTeam"", "","", ""Ċ"", ""Ċ"", ""We"", ""Ġhope"", ""Ġthis"", ""Ġmessage"", ""Ġfinds"", ""Ġyou"", ""Ġwell"", ""."", ""ĠWe"", ""Ġwanted"", ""Ġto"", ""Ġshare""]"

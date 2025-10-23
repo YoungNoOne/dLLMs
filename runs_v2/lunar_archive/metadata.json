@@ -1,0 +1,80 @@
+{
+  "name": "lunar_archive",
+  "prompt": "The moon is revealed to be an ancient archive of Earth\u2019s forgotten histories. Write the first log entry of the astronaut who decodes it.",
+  "decoded": "**Log Entry: October 12, 2045**\n\n**Astronaut: Dr. Evelyn Carter**\n\n**Mission: Lunar Exploration Expedition**\n\n**Summary:**\n\nToday, we have successfully deciphered the first fragments of the ancient lunar archive. The data collected from the lunar surface reveals a vast repository of Earth's forgotten histories. These records, believed to be from a long-lost civilization, contain accounts of historical events, scientific discoveries, and cultural practices that were thought lost to time.\n\nThe initial deciphered texts indicate that this archive was created approximately 5,000 years ago, during a period of significant technological and cultural advancement. The language used in the archive is unknown, but preliminary studies suggest it may be related to ancient Egyptian or Semitic languages.\n\nWe have established a dedicated team to further decode and analyze the archive. The implications of this discovery are profound, as it could revolutionize our understanding of Earth's history and our place in the universe.\n\n**Next Steps:**\n\n1. Continue to decode and analyze the lunar archive.\n2. Report initial findings to the mission control team.\n3. Prepare for further exploration and excavation of the lunar surface.",
+  "events_count": 6,
+  "max_mean_delta": 0.23364768566945607,
+  "max_sign_agreement": 1.0,
+  "token_count": 6,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.19904077832943926,
+      "median_impact": 0.19904077832943926,
+      "mean_prompt_shift": -0.19807249358155832
+    },
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.16163335916057495,
+      "median_impact": 0.17724384360599077,
+      "mean_prompt_shift": -0.04248498829649163
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.14883348726905146,
+      "median_impact": 0.14883348726905146,
+      "mean_prompt_shift": 0.02221318477985068
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 16,
+      "direction": -1,
+      "mean_delta": 0.23364768566945607,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 17,
+      "direction": 1,
+      "mean_delta": 0.17004497111344538,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 32,
+      "direction": -1,
+      "mean_delta": 0.07400854820627803,
+      "sign_agreement": 0.9955156950672646,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 36,
+      "direction": -1,
+      "mean_delta": 0.12762200342465754,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 38,
+      "direction": 1,
+      "mean_delta": 0.17724384360599077,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 41,
+      "direction": -1,
+      "mean_delta": 0.19904077832943926,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

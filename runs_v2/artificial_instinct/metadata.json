@@ -1,0 +1,51 @@
+{
+  "name": "artificial_instinct",
+  "prompt": "Machines suddenly develop instincts similar to animals. Write a dialogue between two drones debating migration.",
+  "decoded": "Drone 1: I think we should migrate to the north. The temperature is dropping and the daylight is getting shorter.\n\nDrone 2: I agree, but what about the distance? We don't want to get lost.\n\nDrone 1: I've calculated the distance and it's not too far. We can use our GPS to navigate.\n\nDrone 2: But what if the GPS fails? We don't want to get stranded.\n\nDrone 1: I've got a backup plan. We can use our infrared sensors to detect the terrain and find our way.\n\nDrone 2: That sounds good, but what about the weather? We don't want to get caught in a storm.\n\nDrone 1: I've checked the weather forecast and it looks like we'll be safe. We can use our radar to detect any changing weather patterns.\n\nDrone 2: Okay, let's do it. But remember, we'll need to refuel along the way.\n\nDrone 1: I've planned for that. We'll stop at the charging stations and refuel.\n\nDrone 2: Agreed. Let's go!",
+  "events_count": 3,
+  "max_mean_delta": 0.18987644179184548,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.18987644179184548,
+      "median_impact": 0.18987644179184548,
+      "mean_prompt_shift": -0.18968668897417557
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.08063255075652309,
+      "median_impact": 0.08063255075652309,
+      "mean_prompt_shift": -0.08047028789370081
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 0,
+      "direction": -1,
+      "mean_delta": 0.09335171568627451,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 1,
+      "direction": -1,
+      "mean_delta": 0.06791338582677166,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 22,
+      "direction": -1,
+      "mean_delta": 0.18987644179184548,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

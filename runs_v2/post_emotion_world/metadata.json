@@ -1,0 +1,51 @@
+{
+  "name": "post_emotion_world",
+  "prompt": "After a global catastrophe, humans evolve beyond emotions. Write the transcript of an archaeologist teaching a new species what 'love' once meant.",
+  "decoded": "Archaeologist: Hello, I am an archaeologist. I am here to tell you about the concept of 'love' that humans once had.\n\nNew Species: What is love?\n\nArchaeologist: Love is a feeling of affection and attachment towards another being. It is a complex emotion that can be experienced in many different ways.\n\nNew Species: How does love work?\n\nArchaeologist: Love is often associated with physical touch, such as hugging or kissing. It can also be expressed through words and actions, such as compliments or gifts.\n\nNew Species: Why is love important?\n\nArchaeologist: Love is important because it provides a sense of connection and belonging. It can also be a source of comfort and support.\n\nNew Species: How can love be expressed?\n\nArchaeologist: Love can be expressed in many different ways, such as through words, actions, or even physical touch.\n\nNew Species: How can love be experienced?\n\nArchaeologist: Love can be experienced in many different ways, such as through words, actions, or even physical touch. It can also be experienced through the emotions of the individual, such as a sense of connection and belonging.",
+  "events_count": 3,
+  "max_mean_delta": 0.2085393044800885,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2085393044800885,
+      "median_impact": 0.2085393044800885,
+      "mean_prompt_shift": -0.20851592880760017
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.06071932576794995,
+      "median_impact": 0.06071932576794995,
+      "mean_prompt_shift": -0.06060978430403785
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 1,
+      "direction": -1,
+      "mean_delta": 0.06898991141732283,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 2,
+      "direction": -1,
+      "mean_delta": 0.05244874011857707,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 29,
+      "direction": -1,
+      "mean_delta": 0.2085393044800885,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

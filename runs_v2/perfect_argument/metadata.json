@@ -1,0 +1,92 @@
+{
+  "name": "perfect_argument",
+  "prompt": "Two philosophers finally agree on everything. What breaks the peace?",
+  "decoded": "The answer is: a clock.",
+  "events_count": 10,
+  "max_mean_delta": 0.38491347111553786,
+  "max_sign_agreement": 1.0,
+  "token_count": 10,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 10,
+      "samples": 10,
+      "mean_impact": 0.1882952668116052,
+      "median_impact": 0.14409768714980226,
+      "mean_prompt_shift": 0.01733670495678672
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 4,
+      "direction": -1,
+      "mean_delta": 0.38491347111553786,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 6,
+      "direction": 1,
+      "mean_delta": 0.3383220381526104,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 201,
+      "direction": 1,
+      "mean_delta": 0.13825593171296297,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 202,
+      "direction": -1,
+      "mean_delta": 0.1382296580188679,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 214,
+      "direction": 1,
+      "mean_delta": 0.14498380335365854,
+      "sign_agreement": 0.9024390243902439,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 215,
+      "direction": -1,
+      "mean_delta": 0.1498291015625,
+      "sign_agreement": 0.975,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 218,
+      "direction": 1,
+      "mean_delta": 0.14321157094594594,
+      "sign_agreement": 0.8918918918918919,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 219,
+      "direction": -1,
+      "mean_delta": 0.1682400173611111,
+      "sign_agreement": 0.9444444444444444,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 220,
+      "direction": 1,
+      "mean_delta": 0.13761160714285714,
+      "sign_agreement": 0.9714285714285714,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 245,
+      "direction": 1,
+      "mean_delta": 0.13935546875,
+      "sign_agreement": 0.9,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

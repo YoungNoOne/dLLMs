@@ -1,0 +1,9 @@
+step_decoded=22 pos=54 dir=- impact=0.034938 shift=-0.033852 cats=content_heavy earlier=16 later=16 same=0
+,^(-20) a^(-16) group^(-14) of^(-15) scientists^(-13) at^(-10) the^(-11) University^(-8) of^(-9) Cambridge^(-7),^(-6) led^(-4) by^(-5) the^(-3) renowned^(+1) physicist^(-2) [ĠDr^(+0)] .^(-1) Albert^(+7) Fl^(+8)uffy^(+9),^(+2) made^(+4) a^(+3) bold^(+5) prediction^(+6) about^(+12) the^(+10) behavior^(+13) of^(+11) sub^(+15)atomic^(+14) particles^(+16)
+
+step_decoded=30 pos=57 dir=- impact=0.043368 shift=-0.041657 cats=content_heavy earlier=21 later=11 same=0
+ of^(-23) scientists^(-21) at^(-18) the^(-19) University^(-16) of^(-17) Cambridge^(-15),^(-14) led^(-12) by^(-13) the^(-11) renowned^(-7) physicist^(-10) Dr^(-8).^(-9) Albert^(-1) [ĠFl^(+0)] uffy^(+1),^(-6) made^(-4) a^(-5) bold^(-3) prediction^(-2) about^(+4) the^(+2) behavior^(+5) of^(+3) sub^(+7)atomic^(+6) particles^(+8).^(+9) They^(+10) hypothesized^(+17)
+
+step_decoded=220 pos=255 dir=- impact=0.040360 shift=-0.039293 cats=content_heavy earlier=13 later=19 same=0
+ of^(-16) legend^(+3) among^(-12) the^(-11) scientific^(-10) community^(-9).^(-8) Dr^(-7).^(-6) Fl^(-5)uffy^(-4)'s^(-3) prediction^(-1) was^(-2) so^(+2) hilar^(+1) [iously^(+0)]  wrong^(+5) that^(+4) it^(+6) was^(+7) often^(+8) referred^(+10) to^(+9) as^(+11) the^(+14) "^(+13)Fl^(+12)uffy^(+15) Fl^(+16)op^(+18)"^(+17) and^(+19)
+

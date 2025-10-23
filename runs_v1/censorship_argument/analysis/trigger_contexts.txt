@@ -1,0 +1,27 @@
+step_decoded=21 pos=71 dir=+ impact=0.077674 shift=0.078333 cats=content_heavy earlier=14 later=18 same=0
+ protective^(-12) force^(-9) against^(-13) hate^(-15) and^(-14) misinformation^(-16) can^(-7) be^(-8) articulated^(-6) as^(-4) follows^(-5):^(-3)Ċ^(-2)Ċ^(-1)C^(+2)ens^(+1) [orship^(+0)]  serves^(+5) as^(+3) a^(+4) crucial^(+7) safeguard^(+8) against^(+6) harmful^(+9) content^(+10) that^(+11) could^(+13) otherwise^(+12) spread^(+15) misinformation^(+16) and^(+14) hate^(+17) speech^(+18)
+
+step_decoded=50 pos=96 dir=- impact=0.044931 shift=-0.044602 cats=content_heavy earlier=18 later=14 same=0
+ that^(-18) could^(-16) otherwise^(-17) spread^(-14) misinformation^(-13) and^(-15) hate^(-12) speech^(-11).^(-9) By^(-10) restricting^(-8) access^(-6) to^(-7) such^(-3) materials^(-4),^(-5) [Ġsocieties^(+0)]  can^(-2) protect^(-1) individuals^(+2) from^(+1) potential^(+5) harm^(+4) and^(+3) maintain^(+6) social^(+9) cohesion^(+10).^(+7) This^(+8) proactive^(+12) approach^(+11) ensures^(+13) that^(+14)
+
+step_decoded=52 pos=99 dir=- impact=0.057420 shift=-0.056876 cats=content_heavy earlier=17 later=15 same=0
+ spread^(-16) misinformation^(-15) and^(-17) hate^(-14) speech^(-13).^(-11) By^(-12) restricting^(-10) access^(-8) to^(-9) such^(-5) materials^(-6),^(-7) societies^(-2) can^(-4) protect^(-3) [Ġindividuals^(+0)]  from^(-1) potential^(+3) harm^(+2) and^(+1) maintain^(+4) social^(+7) cohesion^(+8).^(+5) This^(+6) proactive^(+10) approach^(+9) ensures^(+11) that^(+12) vulnerable^(+13) populations^(+18) are^(+14)
+
+step_decoded=54 pos=102 dir=- impact=0.053541 shift=-0.052682 cats=content_heavy earlier=16 later=16 same=0
+ hate^(-16) speech^(-15).^(-13) By^(-14) restricting^(-12) access^(-10) to^(-11) such^(-7) materials^(-8),^(-9) societies^(-4) can^(-6) protect^(-5) individuals^(-2) from^(-3) potential^(+1) [Ġharm^(+0)]  and^(-1) maintain^(+2) social^(+5) cohesion^(+6).^(+3) This^(+4) proactive^(+8) approach^(+7) ensures^(+9) that^(+10) vulnerable^(+11) populations^(+16) are^(+12) shield^(+13)ed^(+14) from^(+15)
+
+step_decoded=55 pos=101 dir=- impact=0.075327 shift=-0.074151 cats=content_heavy earlier=18 later=14 same=0
+ and^(-20) hate^(-17) speech^(-16).^(-14) By^(-15) restricting^(-13) access^(-11) to^(-12) such^(-8) materials^(-9),^(-10) societies^(-5) can^(-7) protect^(-6) individuals^(-3) from^(-4) [Ġpotential^(+0)]  harm^(-1) and^(-2) maintain^(+1) social^(+4) cohesion^(+5).^(+2) This^(+3) proactive^(+7) approach^(+6) ensures^(+8) that^(+9) vulnerable^(+10) populations^(+15) are^(+11) shield^(+12)ed^(+13)
+
+step_decoded=56 pos=104 dir=+ impact=0.080991 shift=0.083061 cats=content_heavy earlier=16 later=16 same=0
+.^(-15) By^(-16) restricting^(-14) access^(-12) to^(-13) such^(-9) materials^(-10),^(-11) societies^(-6) can^(-8) protect^(-7) individuals^(-4) from^(-5) potential^(-1) harm^(-2) and^(-3) [Ġmaintain^(+0)]  social^(+3) cohesion^(+4).^(+1) This^(+2) proactive^(+6) approach^(+5) ensures^(+7) that^(+8) vulnerable^(+9) populations^(+14) are^(+10) shield^(+11)ed^(+12) from^(+13) harmful^(+22) information^(+23)
+
+step_decoded=60 pos=106 dir=- impact=0.058654 shift=-0.057731 cats=content_heavy earlier=18 later=14 same=0
+ restricting^(-18) access^(-16) to^(-17) such^(-13) materials^(-14),^(-15) societies^(-10) can^(-12) protect^(-11) individuals^(-8) from^(-9) potential^(-5) harm^(-6) and^(-7) maintain^(-4) social^(-1) [Ġcohesion^(+0)] .^(-3) This^(-2) proactive^(+2) approach^(+1) ensures^(+3) that^(+4) vulnerable^(+5) populations^(+10) are^(+6) shield^(+7)ed^(+8) from^(+9) harmful^(+18) information^(+19),^(+11) thereby^(+12)
+
+step_decoded=62 pos=109 dir=+ impact=0.062217 shift=0.063496 cats=content_heavy earlier=17 later=15 same=0
+ such^(-15) materials^(-16),^(-17) societies^(-12) can^(-14) protect^(-13) individuals^(-10) from^(-11) potential^(-7) harm^(-8) and^(-9) maintain^(-6) social^(-3) cohesion^(-2).^(-5) This^(-4) [Ġproactive^(+0)]  approach^(-1) ensures^(+1) that^(+2) vulnerable^(+3) populations^(+8) are^(+4) shield^(+5)ed^(+6) from^(+7) harmful^(+16) information^(+17),^(+9) thereby^(+10) fostering^(+12) a^(+11) safer^(+13)
+
+step_decoded=67 pos=116 dir=- impact=0.057939 shift=-0.056983 cats=content_heavy earlier=15 later=17 same=0
+ from^(-16) potential^(-12) harm^(-13) and^(-14) maintain^(-11) social^(-8) cohesion^(-7).^(-10) This^(-9) proactive^(-5) approach^(-6) ensures^(-4) that^(-3) vulnerable^(-2) populations^(+3) are^(-1) [Ġshield^(+0)] ed^(+1) from^(+2) harmful^(+11) information^(+12),^(+4) thereby^(+5) fostering^(+7) a^(+6) safer^(+8) and^(+10) more^(+9) inclusive^(+19) environment^(+18).^(+14)Ċ^(+15)Ċ^(+13)
+

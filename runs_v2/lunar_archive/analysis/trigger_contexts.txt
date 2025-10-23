@@ -1,0 +1,3 @@
+step_decoded=41 pos=83 dir=- impact=0.199041 shift=-0.198072 cats=content_heavy earlier=15 later=17 same=0
+Ċ^(-21)Ċ^(-16)**^(-15)Mission^(-12):^(-11) Lunar^(-10) Exploration^(-1) Expedition^(-2)**^(-7)Ċ^(-8)Ċ^(-9)**^(-6)Summary^(+3):**^(-5)Ċ^(-4)Ċ^(-3) [Today^(+0)] ,^(+1) we^(+2) have^(+4) successfully^(+5) dec^(+6)ip^(+7)hered^(+8) the^(+9) first^(+10) fragments^(+19) of^(+11) the^(+12) ancient^(+13) lunar^(+14) archive^(+15).^(+16)
+

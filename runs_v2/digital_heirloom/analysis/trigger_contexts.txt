@@ -1,0 +1,6 @@
+step_decoded=30 pos=58 dir=- impact=0.057361 shift=-0.057154 cats=content_heavy earlier=27 later=5 same=0
+ in^(-27) her^(-26) mother^(-25)'s^(-24) study^(-22),^(-23) surrounded^(-19) by^(-20) the^(-21) scent^(-16) of^(-18) old^(-17) books^(-15) and^(-14) ink^(+1),^(-13) [ĠEmily^(+0)]  couldn^(-11)'t^(-12) help^(-10) but^(-9) feel^(-8) a^(-7) sense^(-5) of^(-6) anticipation^(-3).^(-4) She^(-2) had^(-1) always^(+5) known^(+6) that^(+4) her^(+2)
+
+step_decoded=245 pos=282 dir=- impact=0.034375 shift=-0.029324 cats=content_heavy earlier=18 later=10 same=0
+ knew^(-17) that^(-18) she^(-16) would^(-15) always^(-14) carry^(-13) her^(-11) mother^(-10)'s^(-12) legacy^(-6) with^(-8) her^(-9),^(-7) just^(-2) as^(-1) the^(+1) [Ġencrypted^(+0)]  data^(+2) in^(+5) the^(+3) file^(+4) would^(+6) be^(+7) passed^(+10) through^(+9) generations^(+8).^(-3)<|eot_id|>^(-4)<|endoftext|>^(-5)
+

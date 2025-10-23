@@ -1,0 +1,6 @@
+step_decoded=31 pos=52 dir=- impact=0.038103 shift=-0.037309 cats=content_heavy earlier=27 later=5 same=0
+ tracked^(-28) as^(-26) data^(-25) points^(-27) on^(-23) a^(-24) public^(-22) chart^(-21),^(-20) it^(-17) would^(-18) feel^(-16) like^(-15) a^(-14) mix^(-12) of^(-13) [Ġcuriosity^(+0)]  and^(-11) vulnerability^(-9).^(-10) On^(-8) one^(-6) hand^(-7),^(-5) it^(-3) would^(-2) be^(-4) fascinating^(-1) to^(+1) see^(+2) how^(+3) my^(+4) emotions^(+5)
+
+step_decoded=237 pos=269 dir=+ impact=0.042996 shift=0.043354 cats=content_heavy earlier=16 later=16 same=0
+ as^(-16) data^(-15) points^(-17) on^(-12) a^(-11) public^(-10) chart^(-13) would^(-9) be^(-8) a^(-7) complex^(-6) and^(-5) multifaceted^(-2) experience^(-4),^(-3) with^(-1) [Ġboth^(+0)]  positive^(+2) and^(+1) negative^(+3) implications^(+18) that^(+7) would^(+8) need^(+10) to^(+9) be^(+11) carefully^(+12) considered^(+14) and^(+13) thoughtfully^(+17) nav^(+16)igated^(+15).^(+6)
+

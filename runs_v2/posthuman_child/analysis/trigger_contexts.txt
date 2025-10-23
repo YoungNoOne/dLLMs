@@ -1,0 +1,9 @@
+step_decoded=0 pos=36 dir=- impact=0.068091 shift=-0.068091 cats=content_heavy earlier=0 later=16 same=0
+ [Journal^(+0)] ist^(+1):^(+2) So^(+4),^(+3) you^(+5)'re^(+6) saying^(+7) that^(+9) a^(+10) child^(+8) born^(+14) with^(+15) AI^(+13)-enhanced^(+12) cognition^(+11) began^(+24)
+
+step_decoded=1 pos=37 dir=- impact=0.033034 shift=-0.032548 cats=content_heavy earlier=1 later=16 same=0
+Journal^(-1) [ist^(+0)] :^(+1) So^(+3),^(+2) you^(+4)'re^(+5) saying^(+6) that^(+8) a^(+9) child^(+7) born^(+13) with^(+14) AI^(+12)-enhanced^(+11) cognition^(+10) began^(+23) teaching^(+19)
+
+step_decoded=38 pos=75 dir=- impact=0.029900 shift=-0.028554 cats=content_heavy earlier=15 later=17 same=0
+ That^(-16)'s^(-15) quite^(-13) a^(-11) claim^(-10).^(-12) Can^(-8) you^(-9) explain^(-7) how^(-6) this^(-5) works^(-1)?^(-2)Ċ^(-3)Ċ^(-4)Res^(+1) [earcher^(+0)] :^(+2) Well^(+4),^(+3) the^(+6) child^(+5) was^(+8) born^(+9) with^(+7) a^(+10) neural^(+11) architecture^(+25) that^(+12) allows^(+13) them^(+15) to^(+14) process^(+16)
+

@@ -1,0 +1,15 @@
+step_decoded=65 pos=105 dir=+ impact=0.161277 shift=0.161788 cats=content_heavy earlier=15 later=17 same=0
+ aspirations^(-4).^(-16) A^(-13) name^(-15) that^(-14) has^(-12) been^(-11) the^(-10) subject^(-8) of^(-9) countless^(-7) stories^(-3) and^(-6) legends^(-2).^(-1) A^(+2) [Ġname^(+0)]  that^(+1) has^(+3) been^(+4) the^(+5) subject^(+6) of^(+7) countless^(+8) songs^(+13) and^(+9) poems^(+14).^(+10) A^(+12) name^(+11) that^(+15) has^(+16) been^(+17)
+
+step_decoded=76 pos=118 dir=+ impact=0.155486 shift=0.155949 cats=content_heavy earlier=13 later=19 same=0
+ legends^(-13).^(-12) A^(-9) name^(-11) that^(-10) has^(-8) been^(-7) the^(-6) subject^(-5) of^(-4) countless^(-3) songs^(+2) and^(-2) poems^(+3).^(-1) A^(+1) [Ġname^(+0)]  that^(+4) has^(+5) been^(+6) the^(+7) subject^(+8) of^(+9) countless^(+10) books^(+18) and^(+11) movies^(+19).^(+12) A^(+15) name^(+13) that^(+14) has^(+16) been^(+17)
+
+step_decoded=89 pos=131 dir=+ impact=0.136789 shift=0.137200 cats=content_heavy earlier=13 later=19 same=0
+ poems^(-10).^(-14) A^(-12) name^(-13) that^(-9) has^(-8) been^(-7) the^(-6) subject^(-5) of^(-4) countless^(-3) books^(+5) and^(-2) movies^(+6).^(-1) A^(+2) [Ġname^(+0)]  that^(+1) has^(+3) been^(+4) the^(+7) subject^(+8) of^(+9) countless^(+10) debates^(+21) and^(+11) discussions^(+22).^(+12) A^(+15) name^(+14) that^(+13) has^(+16) been^(+17)
+
+step_decoded=103 pos=144 dir=+ impact=0.166600 shift=0.167303 cats=content_heavy earlier=14 later=18 same=0
+ movies^(-8).^(-15) A^(-12) name^(-14) that^(-13) has^(-11) been^(-10) the^(-7) subject^(-6) of^(-5) countless^(-4) debates^(+7) and^(-3) discussions^(+8).^(-2) A^(+1) [Ġname^(+0)]  that^(-1) has^(+2) been^(+3) the^(+4) subject^(+6) of^(+5) countless^(+9) arguments^(+22) and^(+10) disagreements^(+23).^(+11) A^(+14) name^(+13) that^(+12) has^(+15) been^(+16)
+
+step_decoded=116 pos=157 dir=+ impact=0.108504 shift=0.109117 cats=content_heavy earlier=14 later=18 same=0
+ discussions^(-5).^(-15) A^(-12) name^(-13) that^(-14) has^(-11) been^(-10) the^(-9) subject^(-7) of^(-8) countless^(-4) arguments^(+9) and^(-3) disagreements^(+10).^(-2) A^(+1) [Ġname^(+0)]  that^(-1) has^(+2) been^(+3) the^(+4) subject^(+6) of^(+5) countless^(+7) arguments^(+11) and^(+8) disagreements^(+26).^(+12) A^(+14) name^(+15) that^(+13) has^(+17) been^(+16)
+

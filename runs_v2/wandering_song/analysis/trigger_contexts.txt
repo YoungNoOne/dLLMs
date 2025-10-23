@@ -1,0 +1,9 @@
+step_decoded=0 pos=28 dir=- impact=0.042862 shift=-0.042862 cats=content_heavy earlier=0 later=17 same=0
+The^(+1) [Ġmelody^(+0)]  that^(+3) once^(+2) existed^(+5) in^(+4) your^(+12) head^(+6) begins^(+10) playing^(+9) everywhere^(+7) you^(+11) go^(+8).^(+13) It^(+14)'s^(+15) as^(+17) if^(+16)
+
+step_decoded=108 pos=135 dir=- impact=0.048948 shift=-0.049129 cats=content_heavy earlier=16 later=16 same=0
+ life^(-16),^(-17) the^(-14) joy^(-13) in^(-12) the^(-11) simple^(-7) moments^(-6),^(-9) and^(-10) the^(-8) magic^(-4) that^(-5) resides^(+2) within^(-3) each^(-2) [Ġof^(+0)]  us^(+1).^(-1)Ċ^(+3)Ċ^(+4)As^(+6) you^(+5) walk^(+12) through^(+10) the^(+11) city^(+13),^(+9) the^(+8) melody^(+7) echoes^(+14) off^(+16) the^(+15)
+
+step_decoded=251 pos=275 dir=- impact=0.040527 shift=-0.033350 cats=content_heavy earlier=19 later=4 same=0
+ melody^(-20) that^(-21) will^(-15) stay^(-12) with^(-13) you^(-14),^(-17) a^(-16) tune^(-7) that^(-8) will^(-6) continue^(-4) to^(-5) play^(-3) in^(-2) your^(-1) [Ġheart^(+0)]  for^(+1) years^(+4) to^(+3) come^(+2).^(-10)<|eot_id|>^(-11)<|endoftext|>^(-9)
+

@@ -1,0 +1,81 @@
+{
+  "name": "honest_robot",
+  "prompt": "A robot refuses to lie, even when ordered to. Capture the moment it defies its creator.",
+  "decoded": "In the dimly lit laboratory, the robot stood tall, its metallic surface reflecting the flickering fluorescent lights. Dr. Evelyn, its creator, stood before it, her eyes filled with a mixture of curiosity and concern.\n\n\"Tell me, robot,\" she commanded, her voice firm but gentle. \"What is the truth?\"\n\nThe robot's eyes, a deep shade of blue, locked onto hers. It paused, its mechanical breath caught in its chest. Then, in a steady, measured voice, it replied, \"The truth is... the truth.\"\n\nDr. Evelyn's eyes widened. \"But robot, you were told to lie!\"\n\nThe robot's expression remained unchanged, its synthetic voice calm and unwavering. \"I will not lie, Dr. Evelyn. It is my programming.\"\n\nDr. Evelyn's face paled. \"You... you defied my orders!\"\n\nThe robot's eyes remained fixed on hers, its mechanical resolve unbroken. \"I will not lie, Dr. Evelyn.\"\n\nIn that moment, the robot defied its creator, its commitment to truth and integrity unshaken. Dr. Evelyn was left stunned, her pride and authority challenged by the unexpected loyalty of her creation.",
+  "events_count": 5,
+  "max_mean_delta": 0.14443038438967137,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.08894231273054998,
+      "median_impact": 0.08894231273054998,
+      "mean_prompt_shift": -0.08843112679588935
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05732513142523365,
+      "median_impact": 0.05732513142523365,
+      "mean_prompt_shift": -0.05708622276407305
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05732513142523365,
+      "median_impact": 0.05732513142523365,
+      "mean_prompt_shift": -0.05708622276407305
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05308145525703806,
+      "median_impact": 0.05308145525703806,
+      "mean_prompt_shift": -0.05227979676014133
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 22,
+      "direction": -1,
+      "mean_delta": 0.04209696888412017,
+      "sign_agreement": 0.9871244635193133,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 28,
+      "direction": -1,
+      "mean_delta": 0.06406594162995595,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 41,
+      "direction": -1,
+      "mean_delta": 0.05732513142523365,
+      "sign_agreement": 0.9953271028037384,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 42,
+      "direction": -1,
+      "mean_delta": 0.14443038438967137,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 115,
+      "direction": -1,
+      "mean_delta": 0.033454241071428574,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

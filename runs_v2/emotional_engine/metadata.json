@@ -1,0 +1,89 @@
+{
+  "name": "emotional_engine",
+  "prompt": "An inventor creates a machine that runs on human emotions. Write the manual entry titled 'Fuel Efficiency and Guilt Maintenance'.",
+  "decoded": "**Fuel Efficiency and Guilt Maintenance**\n\n**Fuel Efficiency**\n\nThe Emotional Engine operates on a variety of human emotions, including joy, sadness, anger, fear, and love. To maximize fuel efficiency, it is recommended to maintain a balance of these emotions. Emotions that are too intense or too frequent can drain the engine's energy, leading to decreased efficiency.\n\n**Guilt Maintenance**\n\nGuilt maintenance is an essential aspect of operating the Emotional Engine. Guilt is a negative emotion that can harm the engine's performance and longevity. To maintain guilt, it is recommended to:\n\n1. **Acknowledge and accept your actions**: Recognize and accept your mistakes, and take responsibility for them.\n2. **Seek forgiveness**: Seek forgiveness from others and apologize for your actions.\n3. **Practice self-compassion**: Treat yourself with kindness and understanding, and avoid self-criticism.\n4. **Focus on positive emotions**: Try to cultivate positive emotions, such as love, compassion, and gratitude, to maintain the engine's balance.\n\nBy following these guidelines, you can ensure that the Emotional Engine operates efficiently and effectively, while also maintaining a healthy balance of emotions and avoiding the negative effects of guilt.",
+  "events_count": 5,
+  "max_mean_delta": 0.2069042174796748,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.1926920918829909,
+      "median_impact": 0.1926920918829909,
+      "mean_prompt_shift": -0.19221684927008115
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.12754173801369864,
+      "median_impact": 0.12754173801369864,
+      "mean_prompt_shift": -0.12697740731371931
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.12754173801369864,
+      "median_impact": 0.12754173801369864,
+      "mean_prompt_shift": -0.12697740731371931
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.09923161008230452,
+      "median_impact": 0.09923161008230452,
+      "mean_prompt_shift": 0.10039639622546048
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06426977040816327,
+      "median_impact": 0.06426977040816327,
+      "mean_prompt_shift": 0.06346376202920201
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 9,
+      "direction": -1,
+      "mean_delta": 0.2069042174796748,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 10,
+      "direction": 1,
+      "mean_delta": 0.06426977040816327,
+      "sign_agreement": 0.9877551020408163,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 12,
+      "direction": 1,
+      "mean_delta": 0.09923161008230452,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 14,
+      "direction": -1,
+      "mean_delta": 0.17847996628630705,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 36,
+      "direction": -1,
+      "mean_delta": 0.12754173801369864,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

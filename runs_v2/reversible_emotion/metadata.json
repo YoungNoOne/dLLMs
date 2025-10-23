@@ -1,0 +1,58 @@
+{
+  "name": "reversible_emotion",
+  "prompt": "People can now reverse emotions on command. Write a story where joy becomes unbearable and sorrow becomes comforting.",
+  "decoded": "It was a beautiful day, and Sarah was feeling ecstatic. She had just received her dream job, and she couldn't believe it. But as she sat in her new office, she felt a strange sensation. The joy she once felt was now overwhelming, and she couldn't shake the feeling of discomfort.\n\nSarah tried to shake it off, but it was like a heavy weight on her shoulders. She couldn't concentrate on her work, and she felt like she was drowning in a sea of happiness. She tried to reverse the emotion, but it was too late.\n\nMeanwhile, Sarah's friend, Emily, was feeling down. She had just lost her job, and she couldn't shake the feeling of sadness. But as she sat in her apartment, she felt a strange sensation. The sorrow she once felt was now comforting, and she felt a sense of peace and contentment.\n\nEmily couldn't believe it. She had never felt this way before, and it was like a warm blanket around her. She tried to reverse the emotion, but it was too late.\n\nSarah and Emily couldn't believe what was happening. They had never experienced emotions like this before, and they couldn't help but wonder what would happen if they tried again.",
+  "events_count": 4,
+  "max_mean_delta": 0.21021133814102563,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.21021133814102563,
+      "median_impact": 0.21021133814102563,
+      "mean_prompt_shift": -0.20941547291993723
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.04668304805780784,
+      "median_impact": 0.047572544642857144,
+      "mean_prompt_shift": -0.014756619627634257
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 13,
+      "direction": -1,
+      "mean_delta": 0.051475335743801656,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 60,
+      "direction": -1,
+      "mean_delta": 0.21021133814102563,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 119,
+      "direction": -1,
+      "mean_delta": 0.041001263786764705,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 248,
+      "direction": 1,
+      "mean_delta": 0.047572544642857144,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

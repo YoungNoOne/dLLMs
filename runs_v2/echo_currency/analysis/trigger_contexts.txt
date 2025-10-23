@@ -1,0 +1,9 @@
+step_decoded=0 pos=34 dir=- impact=0.034896 shift=-0.034896 cats=content_heavy earlier=0 later=16 same=0
+ [L^(+0)] aughter^(+1) became^(+6) the^(+3) most^(+4) expensive^(+5) commodity^(+2) because^(+7) it^(+8) is^(+9) a^(+10) rare^(+12) and^(+11) valuable^(+15) sound^(+13) that^(+14) can^(+16)
+
+step_decoded=1 pos=35 dir=- impact=0.035448 shift=-0.035078 cats=content_heavy earlier=1 later=16 same=0
+L^(-1) [aughter^(+0)]  became^(+5) the^(+2) most^(+3) expensive^(+4) commodity^(+1) because^(+6) it^(+7) is^(+8) a^(+9) rare^(+11) and^(+10) valuable^(+14) sound^(+12) that^(+13) can^(+15) be^(+16)
+
+step_decoded=59 pos=95 dir=+ impact=0.036397 shift=0.035391 cats=content_heavy earlier=14 later=18 same=0
+ creates^(-14) a^(-13) demand^(-12) for^(-11) laughter^(-10),^(-9) which^(-8) drives^(-7) up^(-5) its^(-6) price^(-3).^(-4)Ċ^(-1)Ċ^(-2)The^(+2) value^(+3) [Ġof^(+0)]  laughter^(+1) is^(+4) due^(+8) to^(+9) its^(+5) ability^(+6) to^(+7) bring^(+18) happiness^(+17) and^(+13) reduce^(+20) stress^(+19).^(+11) L^(+12)aughter^(+10) is^(+14)
+

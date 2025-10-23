@@ -1,0 +1,22 @@
+step_decoded,token_pos,token_id,token_str,token_norm,direction,impact_score,prompt_shift,window,categories,left_text,center_token,right_text,center_step_decoded,earlier_count,later_count,same_count,left_steps_json,right_steps_json,left_offsets_json,right_offsets_json,left_text_annot,center_annot,right_text_annot,left_tokens_json,right_tokens_json
+45,83,77617,ĠDoe,Doe,-1,0.04582403273809524,-0.04565036285545021,16,content_heavy,"5 UTC
+
+**Location :** Orbit, Earth
+
+**Receiver :** John",ĠDoe,"
+
+**Transmission :**
+
+""Hello, space. I 'm John Doe",45,16,16,0,"[28, 30, 29, 32, 33, 35, 34, 36, 37, 38, 39, 40, 41, 47, 42, 46]","[44, 43, 48, 50, 49, 51, 52, 53, 55, 54, 63, 56, 61, 60, 58, 57]","[-17, -15, -16, -13, -12, -10, -11, -9, -8, -7, -6, -5, -4, 2, -3, 1]","[-1, -2, 3, 5, 4, 6, 7, 8, 10, 9, 18, 11, 16, 15, 13, 12]","5^(-17) UTC^(-15)Ċ^(-16)Ċ^(-13)**^(-12)Location^(-10):**^(-11) Orbit^(-9),^(-8) Earth^(-7)Ċ^(-6)Ċ^(-5)**^(-4)Receiver^(+2):**^(-3) John^(+1)",ĠDoe^(+0),"Ċ^(-1)Ċ^(-2)**^(+3)Transmission^(+5):**^(+4)Ċ^(+6)Ċ^(+7)""^(+8)Hello^(+10),^(+9) space^(+18).^(+11) I^(+16)'m^(+15) John^(+13) Doe^(+12)","[""5"", ""ĠUTC"", ""Ċ"", ""Ċ"", ""**"", ""Location"", "":**"", ""ĠOrbit"", "","", ""ĠEarth"", ""Ċ"", ""Ċ"", ""**"", ""Receiver"", "":**"", ""ĠJohn""]","[""Ċ"", ""Ċ"", ""**"", ""Transmission"", "":**"", ""Ċ"", ""Ċ"", ""\"""", ""Hello"", "","", ""Ġspace"", ""."", ""ĠI"", ""'m"", ""ĠJohn"", ""ĠDoe""]"
+46,82,4137,ĠJohn,John,-1,0.07686341208133972,-0.07617841656698565,16,content_heavy,"4 5 UTC
+
+**Location :** Orbit, Earth
+
+**Receiver :**",ĠJohn," Doe
+
+**Transmission :**
+
+""Hello, space. I 'm John",46,18,14,0,"[27, 28, 30, 29, 32, 33, 35, 34, 36, 37, 38, 39, 40, 41, 47, 42]","[45, 44, 43, 48, 50, 49, 51, 52, 53, 55, 54, 63, 56, 61, 60, 58]","[-19, -18, -16, -17, -14, -13, -11, -12, -10, -9, -8, -7, -6, -5, 1, -4]","[-1, -2, -3, 2, 4, 3, 5, 6, 7, 9, 8, 17, 10, 15, 14, 12]","4^(-19)5^(-18) UTC^(-16)Ċ^(-17)Ċ^(-14)**^(-13)Location^(-11):**^(-12) Orbit^(-10),^(-9) Earth^(-8)Ċ^(-7)Ċ^(-6)**^(-5)Receiver^(+1):**^(-4)",ĠJohn^(+0)," Doe^(-1)Ċ^(-2)Ċ^(-3)**^(+2)Transmission^(+4):**^(+3)Ċ^(+5)Ċ^(+6)""^(+7)Hello^(+9),^(+8) space^(+17).^(+10) I^(+15)'m^(+14) John^(+12)","[""4"", ""5"", ""ĠUTC"", ""Ċ"", ""Ċ"", ""**"", ""Location"", "":**"", ""ĠOrbit"", "","", ""ĠEarth"", ""Ċ"", ""Ċ"", ""**"", ""Receiver"", "":**""]","[""ĠDoe"", ""Ċ"", ""Ċ"", ""**"", ""Transmission"", "":**"", ""Ċ"", ""Ċ"", ""\"""", ""Hello"", "","", ""Ġspace"", ""."", ""ĠI"", ""'m"", ""ĠJohn""]"
+66,104,40740,Ġtuning,tuning,-1,0.08287863756613757,-0.08300710543720419,16,content_heavy,":**
+
+""Hello, space. I 'm John Doe, and I 'm",Ġtuning," in to my childhood memories. The signal is weak, but I can hear the",66,16,16,0,"[49, 51, 52, 53, 55, 54, 63, 56, 61, 60, 58, 57, 59, 62, 64, 65]","[67, 68, 69, 70, 71, 72, 73, 75, 74, 79, 76, 77, 78, 82, 84, 83]","[-17, -15, -14, -13, -11, -12, -3, -10, -5, -6, -8, -9, -7, -4, -2, -1]","[1, 2, 3, 4, 5, 6, 7, 9, 8, 13, 10, 11, 12, 16, 18, 17]",":**^(-17)Ċ^(-15)Ċ^(-14)""^(-13)Hello^(-11),^(-12) space^(-3).^(-10) I^(-5)'m^(-6) John^(-8) Doe^(-9),^(-7) and^(-4) I^(-2)'m^(-1)",Ġtuning^(+0)," in^(+1) to^(+2) my^(+3) childhood^(+4) memories^(+5).^(+6) The^(+7) signal^(+9) is^(+8) weak^(+13),^(+10) but^(+11) I^(+12) can^(+16) hear^(+18) the^(+17)","["":**"", ""Ċ"", ""Ċ"", ""\"""", ""Hello"", "","", ""Ġspace"", ""."", ""ĠI"", ""'m"", ""ĠJohn"", ""ĠDoe"", "","", ""Ġand"", ""ĠI"", ""'m""]","[""Ġin"", ""Ġto"", ""Ġmy"", ""Ġchildhood"", ""Ġmemories"", ""."", ""ĠThe"", ""Ġsignal"", ""Ġis"", ""Ġweak"", "","", ""Ġbut"", ""ĠI"", ""Ġcan"", ""Ġhear"", ""Ġthe""]"

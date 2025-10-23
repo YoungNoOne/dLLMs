@@ -1,0 +1,82 @@
+{
+  "name": "social_mirror",
+  "prompt": "Every mirror now shows not your face, but how others see your personality. What do people see?",
+  "decoded": "In this new world, people see a reflection of how others perceive their personality. This reflection is a composite representation of the traits, characteristics, and qualities that others associate with them. It's a projection of their outward behavior, values, and demeanor, rather than their physical appearance.\n\nFor example, if someone is seen as kind, empathetic, and compassionate, their reflection might be a warm, gentle, and nurturing image. Conversely, if someone is perceived as confident, assertive, and ambitious, their reflection might be a strong, bold, and determined image.\n\nThis reflection is not a literal representation of their physical appearance, but rather a metaphorical representation of how others perceive them. It's a visual representation of their personality, and it's constantly evolving and changing as they interact with others.\n\nIn this world, people might also see a reflection of their own values, goals, and aspirations. This reflection could be a representation of their ideal self, which they strive to achieve and embody in their daily lives.\n\nOverall, this new world encourages people to focus on their personality, values, and character, rather than their physical appearance. It's a reminder that true beauty and worth come from within, and that everyone is unique and special.",
+  "events_count": 4,
+  "max_mean_delta": 0.20691396675857843,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.20691396675857843,
+      "median_impact": 0.20691396675857843,
+      "mean_prompt_shift": -0.20647850675140483
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.15985988028606965,
+      "median_impact": 0.15985988028606965,
+      "mean_prompt_shift": -0.16042188115733214
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.15985988028606965,
+      "median_impact": 0.15985988028606965,
+      "mean_prompt_shift": -0.16042188115733214
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.10784761776477833,
+      "median_impact": 0.10784761776477833,
+      "mean_prompt_shift": 0.10886041344069952
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05268429487179487,
+      "median_impact": 0.05268429487179487,
+      "mean_prompt_shift": -0.05156463106928533
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 21,
+      "direction": -1,
+      "mean_delta": 0.05268429487179487,
+      "sign_agreement": 0.9914529914529915,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 51,
+      "direction": -1,
+      "mean_delta": 0.20691396675857843,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 52,
+      "direction": 1,
+      "mean_delta": 0.10784761776477833,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 54,
+      "direction": -1,
+      "mean_delta": 0.15985988028606965,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

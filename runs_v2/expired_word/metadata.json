@@ -1,0 +1,74 @@
+{
+  "name": "expired_word",
+  "prompt": "Words have expiration dates. Write about the last day the word 'hope' is legal.",
+  "decoded": "The last day the word 'hope' is legal is the day it ceases to exist. In a world where words have expiration dates, 'hope' would be considered illegal on the day it is no longer spoken or written. This is a thought-provoking concept that highlights the fragility of language and the importance of preserving words that carry meaning and significance.\n\nAs the word 'hope' approaches its expiration date, it becomes increasingly difficult to find people who can speak or write it. The word's usage may dwindle, and its meaning may be lost to time. This is a poignant reminder of the fleeting nature of language and the importance of using and preserving words that inspire hope and optimism.\n\nIn this hypothetical scenario, the word 'hope' would be considered illegal on the day it is no longer used or understood. This would be a day of mourning and reflection, as people would mourn the loss of a word that once brought comfort and inspiration.\n\nThe last day the word 'hope' is legal is a thought-provoking concept that highlights the fragility of language and the importance of preserving words that carry meaning and significance. It is a reminder of the fleeting nature of language and the importance of using and preserving words that inspire and uplift the human spirit.",
+  "events_count": 4,
+  "max_mean_delta": 0.16515273644179895,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.16515273644179895,
+      "median_impact": 0.16515273644179895,
+      "mean_prompt_shift": -0.166338263192704
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.16515273644179895,
+      "median_impact": 0.16515273644179895,
+      "mean_prompt_shift": -0.166338263192704
+    },
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.056085526315789475,
+      "median_impact": 0.056085526315789475,
+      "mean_prompt_shift": -0.05432674505717833
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.046262710813492064,
+      "median_impact": 0.046262710813492064,
+      "mean_prompt_shift": -0.01553010697032435
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 3,
+      "direction": -1,
+      "mean_delta": 0.05932229662698413,
+      "sign_agreement": 0.996031746031746,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 65,
+      "direction": -1,
+      "mean_delta": 0.056085526315789475,
+      "sign_agreement": 0.9842105263157894,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 66,
+      "direction": -1,
+      "mean_delta": 0.16515273644179895,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 251,
+      "direction": 1,
+      "mean_delta": 0.033203125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

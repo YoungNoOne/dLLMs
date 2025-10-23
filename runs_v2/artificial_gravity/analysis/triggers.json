@@ -1,0 +1,201 @@
+[
+  {
+    "step_decoded": 2,
+    "direction": -1,
+    "mean_delta": 0.2576272233201581,
+    "median_delta": 0.26171875,
+    "sign_agreement": 1.0,
+    "valid_positions": 253,
+    "prompt_mean": 0.7054100790513834,
+    "prompt_shift": -0.2572037250824748,
+    "tokens": [
+      {
+        "step_decoded": 2,
+        "token_pos": 36,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.85546875,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 7,
+    "direction": 1,
+    "mean_delta": 0.14256237399193547,
+    "median_delta": 0.15625,
+    "sign_agreement": 0.9959677419354839,
+    "valid_positions": 248,
+    "prompt_mean": 0.8930506552419355,
+    "prompt_shift": 0.14334872251101183,
+    "tokens": [
+      {
+        "step_decoded": 7,
+        "token_pos": 38,
+        "token_id": 480,
+        "token_str": "**",
+        "conf_decoded": 0.52734375,
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 10,
+    "direction": -1,
+    "mean_delta": 0.24636479591836735,
+    "median_delta": 0.25390625,
+    "sign_agreement": 1.0,
+    "valid_positions": 245,
+    "prompt_mean": 0.6053571428571428,
+    "prompt_shift": -0.24591953397212551,
+    "tokens": [
+      {
+        "step_decoded": 10,
+        "token_pos": 43,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.890625,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 11,
+    "direction": 1,
+    "mean_delta": 0.2235927894467213,
+    "median_delta": 0.2265625,
+    "sign_agreement": 1.0,
+    "valid_positions": 244,
+    "prompt_mean": 0.8302222079918032,
+    "prompt_shift": 0.22486506513466042,
+    "tokens": [
+      {
+        "step_decoded": 11,
+        "token_pos": 42,
+        "token_id": 480,
+        "token_str": "**",
+        "conf_decoded": 0.77734375,
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 21,
+    "direction": -1,
+    "mean_delta": 0.19171507745726496,
+    "median_delta": 0.19921875,
+    "sign_agreement": 1.0,
+    "valid_positions": 234,
+    "prompt_mean": 0.5641693376068376,
+    "prompt_shift": -0.1912578565420986,
+    "tokens": [
+      {
+        "step_decoded": 21,
+        "token_pos": 53,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.89453125,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 25,
+    "direction": -1,
+    "mean_delta": 0.0910835597826087,
+    "median_delta": 0.08984375,
+    "sign_agreement": 1.0,
+    "valid_positions": 230,
+    "prompt_mean": 0.5454823369565217,
+    "prompt_shift": -0.09013725178806709,
+    "tokens": [
+      {
+        "step_decoded": 25,
+        "token_pos": 57,
+        "token_id": 25,
+        "token_str": ":",
+        "conf_decoded": 0.54296875,
+        "categories": [
+          "punctuation",
+          "clause_boundary"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 26,
+    "direction": 1,
+    "mean_delta": 0.16861694868995633,
+    "median_delta": 0.171875,
+    "sign_agreement": 1.0,
+    "valid_positions": 229,
+    "prompt_mean": 0.7157819323144105,
+    "prompt_shift": 0.17029959535788874,
+    "tokens": [
+      {
+        "step_decoded": 26,
+        "token_pos": 56,
+        "token_id": 25857,
+        "token_str": "Subject",
+        "conf_decoded": 0.451171875,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 27,
+    "direction": -1,
+    "mean_delta": 0.14580763432017543,
+    "median_delta": 0.1484375,
+    "sign_agreement": 1.0,
+    "valid_positions": 228,
+    "prompt_mean": 0.5709035773026315,
+    "prompt_shift": -0.14487835501177893,
+    "tokens": [
+      {
+        "step_decoded": 27,
+        "token_pos": 60,
+        "token_id": 22463,
+        "token_str": "\u0120Notice",
+        "conf_decoded": 0.5703125,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 29,
+    "direction": -1,
+    "mean_delta": 0.11639242256637168,
+    "median_delta": 0.119140625,
+    "sign_agreement": 1.0,
+    "valid_positions": 226,
+    "prompt_mean": 0.5333846100663717,
+    "prompt_shift": -0.11541426107900277,
+    "tokens": [
+      {
+        "step_decoded": 29,
+        "token_pos": 58,
+        "token_id": 7231,
+        "token_str": "\u0120Ev",
+        "conf_decoded": 0.99609375,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  }
+]

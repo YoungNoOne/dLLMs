@@ -1,0 +1,91 @@
+[
+  {
+    "step_decoded": 21,
+    "direction": -1,
+    "mean_delta": 0.05268429487179487,
+    "median_delta": 0.05859375,
+    "sign_agreement": 0.9914529914529915,
+    "valid_positions": 234,
+    "prompt_mean": 0.7299679487179487,
+    "prompt_shift": -0.05156463106928533,
+    "tokens": [
+      {
+        "step_decoded": 21,
+        "token_pos": 53,
+        "token_id": 18365,
+        "token_str": "\u0120composite",
+        "conf_decoded": 0.404296875,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 51,
+    "direction": -1,
+    "mean_delta": 0.20691396675857843,
+    "median_delta": 0.19921875,
+    "sign_agreement": 1.0,
+    "valid_positions": 204,
+    "prompt_mean": 0.38626158471200983,
+    "prompt_shift": -0.20647850675140483,
+    "tokens": [
+      {
+        "step_decoded": 51,
+        "token_pos": 90,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.828125,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 52,
+    "direction": 1,
+    "mean_delta": 0.10784761776477833,
+    "median_delta": 0.099609375,
+    "sign_agreement": 1.0,
+    "valid_positions": 203,
+    "prompt_mean": 0.49512199815270935,
+    "prompt_shift": 0.10886041344069952,
+    "tokens": [
+      {
+        "step_decoded": 52,
+        "token_pos": 85,
+        "token_id": 802,
+        "token_str": "\u0120their",
+        "conf_decoded": 0.78515625,
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 54,
+    "direction": -1,
+    "mean_delta": 0.15985988028606965,
+    "median_delta": 0.15234375,
+    "sign_agreement": 1.0,
+    "valid_positions": 201,
+    "prompt_mean": 0.3477096937189055,
+    "prompt_shift": -0.16042188115733214,
+    "tokens": [
+      {
+        "step_decoded": 54,
+        "token_pos": 88,
+        "token_id": 13,
+        "token_str": ".",
+        "conf_decoded": 0.99609375,
+        "categories": [
+          "punctuation",
+          "sentence_boundary"
+        ]
+      }
+    ]
+  }
+]

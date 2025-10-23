@@ -1,0 +1,51 @@
+{
+  "name": "museum_of_sound",
+  "prompt": "Create an exhibition description for a museum that collects sounds about to go extinct.",
+  "decoded": "Welcome to the Museum of Extinct Sounds, a unique and immersive exhibition that celebrates the beauty and diversity of the natural world. This museum is dedicated to preserving the sounds of the planet's most endangered species, ensuring that their voices are not lost to history.\n\nAs you walk through the exhibition, you will be greeted by the haunting calls of the majestic blue whale, the melodic songs of the critically endangered Hawaiian monk seal, and the powerful growls of the elusive snow leopard. Each sound is carefully recorded and preserved, providing a rare glimpse into the lives of these incredible creatures.\n\nThe exhibition is not just a collection of sounds; it is a call to action. By preserving these sounds, we honor the memory of these species and inspire future generations to protect and cherish the natural world.\n\nAt the Museum of Extinct Sounds, we believe that every sound is a story and every story is a call to action. We invite you to join us on this journey of discovery and conservation, and to support us in our mission to preserve the sounds of the planet's most endangered species.\n\nJoin us as we celebrate the beauty and diversity of the natural world, and as we honor the memory of the species that areetering on the brink of extinction.",
+  "events_count": 3,
+  "max_mean_delta": 0.18890053353658537,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.18890053353658537,
+      "median_impact": 0.18890053353658537,
+      "mean_prompt_shift": -0.18892342714006627
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.03787382603329986,
+      "median_impact": 0.03787382603329986,
+      "mean_prompt_shift": 0.0011611563441265293
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 6,
+      "direction": -1,
+      "mean_delta": 0.03793298192771084,
+      "sign_agreement": 0.9879518072289156,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 50,
+      "direction": -1,
+      "mean_delta": 0.18890053353658537,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 246,
+      "direction": 1,
+      "mean_delta": 0.03781467013888889,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,117 @@
+{
+  "name": "nostalgia_epidemic",
+  "prompt": "A strange illness makes people relive their past for real. Describe a day when the city collectively slips into memories.",
+  "decoded": "The city, once a bustling metropolis, now felt like a sea of memories. As the sun dipped below the horizon, casting a warm glow over the streets, the air grew thick with the scent of old books and the echoes of laughter. People stood frozen in time, their faces etched with the lines of their past. Children played in the park, their laughter now a distant memory, while elderly couples walked hand in hand, their eyes filled with the love of their youth. The city's streets, once a hub of activity and energy, now felt like a museum of forgotten moments. The sounds of the city, once a cacophony of noise and chaos, now felt like a gentle lullaby, a soothing reminder of the time that had been lost. The city's collective slip into memories was a poignant reminder of the fleeting nature of time and the importance of cherishing the present. As the day wore on, the city's residents began to emerge from their memories, their faces etched with the lines of their past, but also with a newfound appreciation for the beauty of the present. The city's collective slip into memories had been a transformative experience, a reminder of the fleeting nature of time and the importance of cherishing the moments that make life worthwhile.",
+  "events_count": 9,
+  "max_mean_delta": 0.0790922619047619,
+  "max_sign_agreement": 1.0,
+  "token_count": 9,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0757587139423077,
+      "median_impact": 0.0757587139423077,
+      "mean_prompt_shift": 0.0759815705128205
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.058583145052990705,
+      "median_impact": 0.058583145052990705,
+      "mean_prompt_shift": -0.05737138542908665
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.058583145052990705,
+      "median_impact": 0.058583145052990705,
+      "mean_prompt_shift": -0.05737138542908665
+    },
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0443359375,
+      "median_impact": 0.0443359375,
+      "mean_prompt_shift": 0.026208496093749978
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 5,
+      "samples": 5,
+      "mean_impact": 0.04279423910404245,
+      "median_impact": 0.03959424083769633,
+      "mean_prompt_shift": -0.014309089844328975
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 64,
+      "direction": 1,
+      "mean_delta": 0.03959424083769633,
+      "sign_agreement": 0.9842931937172775,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 91,
+      "direction": -1,
+      "mean_delta": 0.03807402820121951,
+      "sign_agreement": 0.9573170731707317,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 150,
+      "direction": -1,
+      "mean_delta": 0.0790922619047619,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 151,
+      "direction": 1,
+      "mean_delta": 0.0757587139423077,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 160,
+      "direction": -1,
+      "mean_delta": 0.061677631578947366,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 215,
+      "direction": -1,
+      "mean_delta": 0.0343017578125,
+      "sign_agreement": 0.975,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 217,
+      "direction": -1,
+      "mean_delta": 0.046052631578947366,
+      "sign_agreement": 0.9736842105263158,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 222,
+      "direction": 1,
+      "mean_delta": 0.032344933712121215,
+      "sign_agreement": 0.7575757575757576,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 240,
+      "direction": 1,
+      "mean_delta": 0.0443359375,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,116 @@
+{
+  "name": "midnight_trade",
+  "prompt": "At midnight, people can trade memories for secrets. Write a transaction record.",
+  "decoded": "**Transaction Record**\n\n**Date:** Midnight, October 10, 2023\n\n**Location:** Midnight Market, Midnight City\n\n**Participants:**\n- **Alice:** A young woman with a heart full of dreams.\n- **Bob:** A mysterious man with a past full of secrets.\n\n**Memory:**\n- **Alice's Memory:** A childhood memory of her grandmother's laughter, a sound that echoes in her mind as she thinks of her childhood.\n\n**Secret:**\n- **Bob's Secret:** A hidden entrance to his family's old mansion, a place that holds the stories of his ancestors and the mysteries of his past.\n\n**Details:**\n- **Transaction Type:** Memory for Secret\n- **Amount:** 1 Memory for 1 Secret\n- **Condition:** Both parties agree to keep the trade confidential and not reveal the contents of the memory or secret.\n\n**Outcome:**\n- **Alice:** Receives a cherished and mysterious secret, enriching her life with new possibilities.\n- **Bob:** Receives a cherished memory, bringing him closer to understanding his family's history.\n\n**Signature:**\n- **Alice:** ______________________\n- **Bob:** ______________________",
+  "events_count": 10,
+  "max_mean_delta": 0.26490133217131473,
+  "max_sign_agreement": 1.0,
+  "token_count": 10,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.16351005809862587,
+      "median_impact": 0.11577212968061674,
+      "mean_prompt_shift": -0.08971349901441206
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.11407289936982795,
+      "median_impact": 0.11407289936982795,
+      "mean_prompt_shift": -0.11336100989776077
+    },
+    {
+      "category": "other",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.11106223414536631,
+      "median_impact": 0.10437006936055243,
+      "mean_prompt_shift": -0.012487376410599188
+    },
+    {
+      "category": "empty",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.07790087090163934,
+      "median_impact": 0.07790087090163934,
+      "mean_prompt_shift": 0.07840944138926065
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 4,
+      "direction": -1,
+      "mean_delta": 0.26490133217131473,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 5,
+      "direction": 1,
+      "mean_delta": 0.0841328125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 7,
+      "direction": -1,
+      "mean_delta": 0.09743573588709678,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 8,
+      "direction": 1,
+      "mean_delta": 0.1113044028340081,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 9,
+      "direction": -1,
+      "mean_delta": 0.14865186737804878,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 11,
+      "direction": 1,
+      "mean_delta": 0.07790087090163934,
+      "sign_agreement": 0.9836065573770492,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 28,
+      "direction": -1,
+      "mean_delta": 0.11577212968061674,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 31,
+      "direction": -1,
+      "mean_delta": 0.07949393136160714,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 32,
+      "direction": 1,
+      "mean_delta": 0.1098567124439462,
+      "sign_agreement": 0.9910313901345291,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 33,
+      "direction": -1,
+      "mean_delta": 0.15137598536036037,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "step_decoded": 1,
+    "direction": -1,
+    "mean_delta": 0.06845164862204725,
+    "median_delta": 0.07421875,
+    "sign_agreement": 1.0,
+    "valid_positions": 254,
+    "prompt_mean": 0.9032664862204725,
+    "prompt_shift": -0.06830214123050793,
+    "tokens": [
+      {
+        "step_decoded": 1,
+        "token_pos": 30,
+        "token_id": 69022,
+        "token_str": "Robot",
+        "conf_decoded": 0.83984375,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 33,
+    "direction": -1,
+    "mean_delta": 0.23869474943693694,
+    "median_delta": 0.234375,
+    "sign_agreement": 1.0,
+    "valid_positions": 222,
+    "prompt_mean": 0.41717694256756754,
+    "prompt_shift": -0.23866141225306026,
+    "tokens": [
+      {
+        "step_decoded": 33,
+        "token_pos": 64,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.7578125,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 82,
+    "direction": -1,
+    "mean_delta": 0.05660111091040462,
+    "median_delta": 0.0556640625,
+    "sign_agreement": 0.9942196531791907,
+    "valid_positions": 173,
+    "prompt_mean": 0.23029375903179192,
+    "prompt_shift": -0.05640029628430002,
+    "tokens": [
+      {
+        "step_decoded": 82,
+        "token_pos": 115,
+        "token_id": 25,
+        "token_str": ":",
+        "conf_decoded": 0.91015625,
+        "categories": [
+          "punctuation",
+          "clause_boundary"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 199,
+    "direction": -1,
+    "mean_delta": 0.054718017578125,
+    "median_delta": 0.0517578125,
+    "sign_agreement": 1.0,
+    "valid_positions": 56,
+    "prompt_mean": 0.11010306222098214,
+    "prompt_shift": -0.05485890323954419,
+    "tokens": [
+      {
+        "step_decoded": 199,
+        "token_pos": 234,
+        "token_id": 13,
+        "token_str": ".",
+        "conf_decoded": 1.0,
+        "categories": [
+          "punctuation",
+          "sentence_boundary"
+        ]
+      }
+    ]
+  }
+]

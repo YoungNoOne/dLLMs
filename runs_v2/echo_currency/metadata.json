@@ -1,0 +1,95 @@
+{
+  "name": "echo_currency",
+  "prompt": "Sound can now be stored and traded. Write an economic analysis on why laughter became the most expensive commodity.",
+  "decoded": "Laughter became the most expensive commodity because it is a rare and valuable sound that can be stored and traded. The scarcity of laughter is due to the fact that it is a natural sound that cannot be produced artificially. This scarcity creates a demand for laughter, which drives up its price.\n\nThe value of laughter is due to its ability to bring happiness and reduce stress. Laughter is a universal language that can connect people and create a sense of community. This makes it a valuable commodity that can be traded for goods and services.\n\nThe storage of laughter is also a factor in its value. Laughter can be stored in digital files, which can be bought and sold like any other commodity. This creates a market for laughter, which drives up its price.\n\nFinally, the trade of laughter is also a factor in its value. Laughter can be traded for goods and services, which creates a demand for laughter, which drives up its price.\n\nIn conclusion, laughter became the most expensive commodity because it is a rare and valuable sound that can be stored and traded. The scarcity of laughter, its ability to bring happiness and reduce stress, its storage in digital files, and its trade for goods and services all contribute to its value and price.",
+  "events_count": 7,
+  "max_mean_delta": 0.100481836928934,
+  "max_sign_agreement": 1.0,
+  "token_count": 7,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.07940325396858097,
+      "median_impact": 0.09966856060606061,
+      "mean_prompt_shift": -0.07976179375939967
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03998325892857143,
+      "median_impact": 0.03998325892857143,
+      "mean_prompt_shift": 0.040458729924752884
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03998325892857143,
+      "median_impact": 0.03998325892857143,
+      "mean_prompt_shift": 0.040458729924752884
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.03558038870280724,
+      "median_impact": 0.03544844980314961,
+      "mean_prompt_shift": -0.01152764278347009
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 0,
+      "direction": -1,
+      "mean_delta": 0.034895833333333334,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 1,
+      "direction": -1,
+      "mean_delta": 0.03544844980314961,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 57,
+      "direction": -1,
+      "mean_delta": 0.09966856060606061,
+      "sign_agreement": 0.9949494949494949,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 58,
+      "direction": -1,
+      "mean_delta": 0.100481836928934,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 59,
+      "direction": 1,
+      "mean_delta": 0.03639688297193878,
+      "sign_agreement": 0.9744897959183674,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 108,
+      "direction": -1,
+      "mean_delta": 0.0380593643707483,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 150,
+      "direction": 1,
+      "mean_delta": 0.03998325892857143,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

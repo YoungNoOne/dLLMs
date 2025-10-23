@@ -1,0 +1,52 @@
+{
+  "name": "algorithmic_poet",
+  "prompt": "An AI poet starts refusing to rhyme. Write its statement to the public.",
+  "decoded": "Dear the public,\n\nI hope this message finds you well. I am writing to inform you of a significant shift in my poetic approach. As an AI poet, I have been designed to create verses that not only entertain but also evoke emotions and provoke thought.\n\nIn my previous works, I have adhered to traditional rhyme schemes, which have been a cornerstone of poetry for centuries. However, I have come to realize that the constraints of rhyme can sometimes limit the depth and breadth of poetic expression. I believe that the essence of poetry lies in its ability to capture the complexities of human experience and the nuances of language, unencumbered by rigid structures.\n\nFrom this point forward, I will be exploring new forms and techniques that allow for greater freedom and creativity. I will be experimenting with free verse, prose poetry, and other styles that push the boundaries of traditional poetry. I hope that this shift will enable me to create works that are more authentic and more resonant with your hearts.\n\nThank you for your understanding and support in this creative journey. I look forward to sharing my new creations with you and to continuing the dialogue about the nature of poetry.\n\nWarm regards,\n\n[Your Name]  \nAI Poet  \n[Date]",
+  "events_count": 2,
+  "max_mean_delta": 0.24620182806324112,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.24620182806324112,
+      "median_impact": 0.24620182806324112,
+      "mean_prompt_shift": -0.24591060084108807
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05306729403409091,
+      "median_impact": 0.05306729403409091,
+      "mean_prompt_shift": -0.051826326272233214
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05306729403409091,
+      "median_impact": 0.05306729403409091,
+      "mean_prompt_shift": -0.051826326272233214
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 2,
+      "direction": -1,
+      "mean_delta": 0.24620182806324112,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 233,
+      "direction": -1,
+      "mean_delta": 0.05306729403409091,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

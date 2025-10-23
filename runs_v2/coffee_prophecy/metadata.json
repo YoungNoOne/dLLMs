@@ -1,0 +1,92 @@
+{
+  "name": "coffee_prophecy",
+  "prompt": "A fortune teller reads coffee stains instead of cards. What destiny do they predict for you?",
+  "decoded": "The fortune teller reads the coffee stains and says, \"It looks like you're about to have a lot of coffee moments!\"",
+  "events_count": 10,
+  "max_mean_delta": 0.12062026515151515,
+  "max_sign_agreement": 0.9801324503311258,
+  "token_count": 10,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 10,
+      "samples": 10,
+      "mean_impact": 0.09306276484560246,
+      "median_impact": 0.08819769965277777,
+      "mean_prompt_shift": 0.014074149846534814
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 24,
+      "direction": 1,
+      "mean_delta": 0.12062026515151515,
+      "sign_agreement": 0.7922077922077922,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 25,
+      "direction": -1,
+      "mean_delta": 0.07920346467391304,
+      "sign_agreement": 0.8391304347826087,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 104,
+      "direction": 1,
+      "mean_delta": 0.11115350786423842,
+      "sign_agreement": 0.9801324503311258,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 111,
+      "direction": -1,
+      "mean_delta": 0.08631727430555555,
+      "sign_agreement": 0.9513888888888888,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 121,
+      "direction": -1,
+      "mean_delta": 0.08089071245335822,
+      "sign_agreement": 0.9253731343283582,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 131,
+      "direction": 1,
+      "mean_delta": 0.09711677797379033,
+      "sign_agreement": 0.9354838709677419,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 229,
+      "direction": 1,
+      "mean_delta": 0.08353365384615384,
+      "sign_agreement": 0.8846153846153846,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 230,
+      "direction": -1,
+      "mean_delta": 0.090078125,
+      "sign_agreement": 0.92,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 245,
+      "direction": 1,
+      "mean_delta": 0.07783203125,
+      "sign_agreement": 0.9,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 247,
+      "direction": 1,
+      "mean_delta": 0.1038818359375,
+      "sign_agreement": 0.75,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

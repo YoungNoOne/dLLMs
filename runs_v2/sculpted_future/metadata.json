@@ -1,0 +1,66 @@
+{
+  "name": "sculpted_future",
+  "prompt": "Artists carve predictions instead of statues. Write the unveiling of a sculpture that forecasts the end of art itself.",
+  "decoded": "The crowd was buzzing with anticipation as the final piece of the sculpture was placed into place. The artist, a renowned figure in the world of art, had spent years crafting this masterpiece. The air was thick with tension as the crowd gathered around the sculpture, eager to see the finished product.\n\nAs the artist stepped forward, the crowd erupted in applause. \"Ladies and gentlemen, I stand before you today to unveil a sculpture that predicts the end of art itself,\" the artist declared.\n\nThe crowd gasped in shock as the artist revealed the sculpture. It was a massive, monolithic structure made of stone, depicting a figure holding a paintbrush, but with no paint on it. The figure's face was blank, its expression one of quiet resignation.\n\nThe crowd was stunned. \"What is this?\" they asked.\n\nThe artist smiled. \"This is a prediction of the end of art,\" they said. \"It is a forecast of the day when art will no longer be relevant.\"\n\nThe crowd fell silent, taking in the artist's words. The sculpture was a stark reminder of the fragility of art and the inevitability of its decline. The crowd was left to ponder the implications of the artist's bold statement.",
+  "events_count": 4,
+  "max_mean_delta": 0.179873046875,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.10686656605113637,
+      "median_impact": 0.10686656605113637,
+      "mean_prompt_shift": -0.1069286833972268
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.10686656605113637,
+      "median_impact": 0.10686656605113637,
+      "mean_prompt_shift": -0.1069286833972268
+    },
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.03556978384820821,
+      "median_impact": 0.03556978384820821,
+      "mean_prompt_shift": 0.0004994919905477041
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 35,
+      "direction": -1,
+      "mean_delta": 0.033860085227272727,
+      "sign_agreement": 0.9818181818181818,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 55,
+      "direction": -1,
+      "mean_delta": 0.179873046875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 98,
+      "direction": -1,
+      "mean_delta": 0.035703622611464966,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 152,
+      "direction": 1,
+      "mean_delta": 0.03543594508495146,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

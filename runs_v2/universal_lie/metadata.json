@@ -1,0 +1,74 @@
+{
+  "name": "universal_lie",
+  "prompt": "One universal lie is believed by everyone on Earth. Write the news report on the day it\u2019s proven false.",
+  "decoded": "**Breaking News: Universal Lie Proved False**\n\n**Earth, [Date]** \u2014 A universal lie that has been believed by everyone on Earth for centuries has finally been proven false. The lie, which has been perpetuated by governments, religions, and other institutions, has been debunked by a team of scientists and historians.\n\nThe lie, which has been passed down through generations, is that the Earth is flat. This belief has been supported by a variety of sources, including religious texts, scientific theories, and popular culture.\n\nHowever, the truth has finally been revealed. The Earth is, in fact, a sphere, and this has been confirmed by a variety of methods, including satellite imagery, GPS measurements, and astronomical observations.\n\nThe team of scientists and historians who conducted the research have published their findings in a peer-reviewed journal, which will be available to the public in the coming weeks.\n\nThe discovery of this universal lie has sparked a global debate, with many people questioning the validity of traditional beliefs and the role of institutions in perpetuating misinformation.\n\nAs the world continues to grapple with this new information, it is clear that the future of science, education, and society at large will never be the same.",
+  "events_count": 4,
+  "max_mean_delta": 0.21251897773279352,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.19315843621399176,
+      "median_impact": 0.19315843621399176,
+      "mean_prompt_shift": 0.19437862875683054
+    },
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.13573204177644968,
+      "median_impact": 0.13573204177644968,
+      "mean_prompt_shift": -0.1347147645924373
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.07281396223262032,
+      "median_impact": 0.07281396223262032,
+      "mean_prompt_shift": -0.07249423773680169
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.07281396223262032,
+      "median_impact": 0.07281396223262032,
+      "mean_prompt_shift": -0.07249423773680169
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 8,
+      "direction": -1,
+      "mean_delta": 0.21251897773279352,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 12,
+      "direction": 1,
+      "mean_delta": 0.19315843621399176,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 66,
+      "direction": -1,
+      "mean_delta": 0.05894510582010582,
+      "sign_agreement": 0.9894179894179894,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 68,
+      "direction": -1,
+      "mean_delta": 0.07281396223262032,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

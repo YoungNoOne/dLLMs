@@ -1,0 +1,36 @@
+{
+  "name": "glass_truth",
+  "prompt": "Everyone suddenly tells the truth for 24 hours. Write about what breaks first\u2014relationships or systems.",
+  "decoded": "Relationships break first.\n\nIn the first few hours, people start to realize that their relationships were built on lies. They begin to question their friends and family members, wondering if they can truly trust them. Relationships start to fray, and people begin to distance themselves from those they once considered close.\n\nAs the day progresses, more and more people start to realize the truth, and the ripple effect begins to spread. Relationships start to crumble, and people begin to question the very foundation of their lives.\n\nMeanwhile, systems start to break as well. Governments and institutions start to falter as people begin to question their legitimacy. Businesses start to suffer as customers begin to lose trust in them. Social media platforms start to crash as people begin to question the authenticity of the information they share.\n\nBut it's not just relationships and systems that break. People's own identities also start to crumble. They begin to question their own values and beliefs, wondering if they can truly be who they are without the approval of others.\n\nAs the 24-hour period comes to an end, the world is left in a state of chaos. Relationships are broken, systems are shattered, and people are left to navigate the complexities of a world built on lies.",
+  "events_count": 2,
+  "max_mean_delta": 0.24410171812749004,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.14646241755733477,
+      "median_impact": 0.14646241755733477,
+      "mean_prompt_shift": -0.14487254370863073
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 4,
+      "direction": -1,
+      "mean_delta": 0.24410171812749004,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 60,
+      "direction": -1,
+      "mean_delta": 0.048823116987179484,
+      "sign_agreement": 0.9846153846153847,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

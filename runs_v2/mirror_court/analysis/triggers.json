@@ -1,0 +1,90 @@
+[
+  {
+    "step_decoded": 9,
+    "direction": -1,
+    "mean_delta": 0.2347560975609756,
+    "median_delta": 0.234375,
+    "sign_agreement": 1.0,
+    "valid_positions": 246,
+    "prompt_mean": 0.6737963668699187,
+    "prompt_shift": -0.23409836997218658,
+    "tokens": [
+      {
+        "step_decoded": 9,
+        "token_pos": 51,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.61328125,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 11,
+    "direction": 1,
+    "mean_delta": 0.17395619877049182,
+    "median_delta": 0.1796875,
+    "sign_agreement": 0.9918032786885246,
+    "valid_positions": 244,
+    "prompt_mean": 0.8819960297131147,
+    "prompt_shift": 0.1752517695090331,
+    "tokens": [
+      {
+        "step_decoded": 11,
+        "token_pos": 52,
+        "token_id": 480,
+        "token_str": "**",
+        "conf_decoded": 0.53515625,
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 19,
+    "direction": -1,
+    "mean_delta": 0.07406978283898305,
+    "median_delta": 0.07421875,
+    "sign_agreement": 1.0,
+    "valid_positions": 236,
+    "prompt_mean": 0.7399198887711864,
+    "prompt_shift": -0.07343717873936206,
+    "tokens": [
+      {
+        "step_decoded": 19,
+        "token_pos": 56,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.984375,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 73,
+    "direction": -1,
+    "mean_delta": 0.13623583447802198,
+    "median_delta": 0.1298828125,
+    "sign_agreement": 1.0,
+    "valid_positions": 182,
+    "prompt_mean": 0.31039663461538464,
+    "prompt_shift": -0.13592978273434214,
+    "tokens": [
+      {
+        "step_decoded": 73,
+        "token_pos": 112,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.462890625,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  }
+]

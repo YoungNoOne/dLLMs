@@ -1,0 +1,59 @@
+{
+  "name": "end_of_sleep",
+  "prompt": "Sleep is outlawed to increase productivity. Write a conversation between two citizens secretly dreaming in underground clubs.",
+  "decoded": "Citizen 1: I can't believe they outlawed sleep. It's like we're living in a dystopian nightmare.\n\nCitizen 2: I know, but they say it's for the greater good. They say we need to be more productive.\n\nCitizen 1: But what about our sanity? Without sleep, we're just becoming mindless machines.\n\nCitizen 2: Yeah, I've been dreaming in underground clubs for years. It's like a secret rebellion against the system.\n\nCitizen 1: I've been dreaming too. It's like we're living in a world where we're not allowed to be ourselves.\n\nCitizen 2: Yeah, but we're still allowed to dream. It's like a small taste of freedom.\n\nCitizen 1: True, but it's not enough. We need to find a way to fight back.\n\nCitizen 2: Agreed. We need to find a way to bring this rebellion to the surface.\n\nCitizen 1: Maybe we can start a movement. We can inspire others to join us.\n\nCitizen 2: That's a great idea. Let's do it.",
+  "events_count": 3,
+  "max_mean_delta": 0.19029017857142858,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.19029017857142858,
+      "median_impact": 0.19029017857142858,
+      "mean_prompt_shift": -0.1903140860576205
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.12270220588235294,
+      "median_impact": 0.12270220588235294,
+      "mean_prompt_shift": -0.12270220588235292
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03963832171314741,
+      "median_impact": 0.03963832171314741,
+      "mean_prompt_shift": -0.03868392995478409
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 0,
+      "direction": -1,
+      "mean_delta": 0.12270220588235294,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 4,
+      "direction": -1,
+      "mean_delta": 0.03963832171314741,
+      "sign_agreement": 0.9960159362549801,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 24,
+      "direction": -1,
+      "mean_delta": 0.19029017857142858,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

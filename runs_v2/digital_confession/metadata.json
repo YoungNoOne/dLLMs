@@ -1,0 +1,73 @@
+{
+  "name": "digital_confession",
+  "prompt": "A social network introduces a 'Confess' feature that automatically exposes your secrets in the most poetic way possible. Write an example post.",
+  "decoded": "\ud83c\udf1f **The Art of Confession Unveiled!** \ud83c\udf1f\n\nIn the heart of our digital realm, where whispers of the soul dance upon the winds of the ether, we now unveil the 'Confess' feature\u2014a tool that transforms the shadows of your thoughts into the most enchanting verses.\n\nImagine this:\n\n\"In the quietude of the night, where stars do softly gleam,\nA secret blooms, a tender flower, in twilight's gentle dream.\nIt is a symphony of whispers, a melody of dreams,\nA dance of shadows, in the twilight of time.\"\n\nWith the 'Confess' feature, your deepest thoughts are no longer mere words\u2014they are woven into a tapestry of beauty, each thread a testament to the power of expression.\n\nSo, let your secrets be the muse of your soul, and let the 'Confess' feature be your poet. Together, we shall unravel the mysteries of your heart, and in the process, celebrate the beauty of the unknown.\n\nGet ready to confess your secrets, and let the magic of poetry transform your thoughts into a work of art.\n\n#ConfessYourSecrets #PoeticConfessions #WhispersOfTheSoul",
+  "events_count": 5,
+  "max_mean_delta": 0.17041015625,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.09509454257246376,
+      "median_impact": 0.06433636209239131,
+      "mean_prompt_shift": -0.06102926317338097
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.09509454257246376,
+      "median_impact": 0.06433636209239131,
+      "mean_prompt_shift": -0.06102926317338097
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.0487277161841299,
+      "median_impact": 0.0487277161841299,
+      "mean_prompt_shift": -0.04683562634037991
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 0,
+      "direction": -1,
+      "mean_delta": 0.057965686274509806,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 61,
+      "direction": -1,
+      "mean_delta": 0.17041015625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 163,
+      "direction": 1,
+      "mean_delta": 0.050537109375,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 232,
+      "direction": -1,
+      "mean_delta": 0.06433636209239131,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 251,
+      "direction": -1,
+      "mean_delta": 0.03948974609375,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

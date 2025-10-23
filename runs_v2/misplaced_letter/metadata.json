@@ -1,0 +1,92 @@
+{
+  "name": "misplaced_letter",
+  "prompt": "A letter addressed to you arrives 30 years too early. What does it say?",
+  "decoded": "The letter says \"Happy Birthday.\"",
+  "events_count": 10,
+  "max_mean_delta": 0.1607689950980392,
+  "max_sign_agreement": 1.0,
+  "token_count": 10,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 10,
+      "samples": 10,
+      "mean_impact": 0.12124827133874219,
+      "median_impact": 0.11056237599206349,
+      "mean_prompt_shift": 0.004218278436731638
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 3,
+      "direction": -1,
+      "mean_delta": 0.08896019345238096,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 149,
+      "direction": -1,
+      "mean_delta": 0.08442659198113207,
+      "sign_agreement": 0.9245283018867925,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 190,
+      "direction": 1,
+      "mean_delta": 0.09735576923076923,
+      "sign_agreement": 0.9230769230769231,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 197,
+      "direction": -1,
+      "mean_delta": 0.10556977370689655,
+      "sign_agreement": 0.9482758620689655,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 201,
+      "direction": 1,
+      "mean_delta": 0.11219618055555555,
+      "sign_agreement": 0.9629629629629629,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 204,
+      "direction": -1,
+      "mean_delta": 0.1607689950980392,
+      "sign_agreement": 0.9803921568627451,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 209,
+      "direction": 1,
+      "mean_delta": 0.14639945652173914,
+      "sign_agreement": 0.9782608695652174,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 211,
+      "direction": -1,
+      "mean_delta": 0.1478604403409091,
+      "sign_agreement": 0.9318181818181818,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 213,
+      "direction": 1,
+      "mean_delta": 0.16001674107142858,
+      "sign_agreement": 0.9523809523809523,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 220,
+      "direction": 1,
+      "mean_delta": 0.10892857142857143,
+      "sign_agreement": 0.9428571428571428,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

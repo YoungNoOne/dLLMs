@@ -1,0 +1,74 @@
+{
+  "name": "forbidden_invention",
+  "prompt": "Describe an invention banned not because it\u2019s dangerous, but because it\u2019s too perfect.",
+  "decoded": "Imagine a device that can instantly translate any language into any other language, with perfect accuracy and speed. This invention, known as the \"Universal Translator,\" is banned not because it's dangerous, but because it's too perfect.\n\nThe Universal Translator's ability to eliminate language barriers and facilitate global communication has led to widespread adoption and use. However, as the device becomes more widespread, it begins to pose a threat to the preservation of local languages and cultures.\n\nWith the Universal Translator's ability to translate any language into any other, people start to lose interest in learning and using their native languages. This leads to a decline in linguistic diversity and a loss of cultural heritage.\n\nAs a result, governments and organizations begin to restrict the use of the Universal Translator, citing its potential to erode cultural identities and undermine linguistic diversity. The device is banned not because it's dangerous, but because it's too perfect, and its benefits are outweighed by its negative consequences.\n\nIn this scenario, the Universal Translator's perfection has led to unintended consequences, and it's banned to prevent further harm. The device's ability to eliminate language barriers and facilitate global communication is ultimately outweighed by its potential to undermine cultural heritage and linguistic diversity.",
+  "events_count": 4,
+  "max_mean_delta": 0.17825302781100477,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.1131311480281732,
+      "median_impact": 0.1131311480281732,
+      "mean_prompt_shift": -0.11236276867426007
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03579015899122807,
+      "median_impact": 0.03579015899122807,
+      "mean_prompt_shift": -0.03421485063299623
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.035272113347457626,
+      "median_impact": 0.035272113347457626,
+      "mean_prompt_shift": -0.03436776465171998
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.035272113347457626,
+      "median_impact": 0.035272113347457626,
+      "mean_prompt_shift": -0.03436776465171998
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 19,
+      "direction": -1,
+      "mean_delta": 0.035272113347457626,
+      "sign_agreement": 0.9788135593220338,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 27,
+      "direction": -1,
+      "mean_delta": 0.03579015899122807,
+      "sign_agreement": 0.956140350877193,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 46,
+      "direction": -1,
+      "mean_delta": 0.17825302781100477,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 94,
+      "direction": -1,
+      "mean_delta": 0.048009268245341616,
+      "sign_agreement": 0.9937888198757764,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

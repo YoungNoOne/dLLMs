@@ -1,0 +1,59 @@
+{
+  "name": "city_of_unfinished",
+  "prompt": "A city built entirely of unfinished projects thrives on potential rather than completion. Write an urban guidebook entry describing its charm.",
+  "decoded": "Welcome to the city of unfinished projects, a place where the promise of the future is as tangible as the echoes of the past. Here, the skyline is a mosaic of blueprints and blueprints, each structure a testament to the dreams of those who dared to imagine. The air is thick with the scent of ambition and aspiration, a blend of concrete and creativity that never seems to fade.\n\nAs you wander through the labyrinthine streets, you'll find yourself surrounded by the remnants of projects yet to be. The walls of unfinished buildings are adorned with graffiti and murals, each stroke a declaration of what could be. The city's energy is palpable, a mix of excitement and uncertainty that fuels the imagination of those who dare to explore.\n\nHere, the line between reality and fantasy blurs, and the city's charm lies in its perpetual state of flux. The streets are alive with the hum of progress, a constant reminder that change is a natural part of life. The city of unfinished projects is a place where the future is always in motion, and every moment is a new opportunity to create something extraordinary.\n\nStep into this urban sanctuary, and let the whispers of potential guide you, for in the city of unfinished projects, the possibilities are endless.",
+  "events_count": 3,
+  "max_mean_delta": 0.1914089182035519,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1914089182035519,
+      "median_impact": 0.1914089182035519,
+      "mean_prompt_shift": -0.19114900037494054
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.035640495867768594,
+      "median_impact": 0.035640495867768594,
+      "mean_prompt_shift": -0.03474792910162228
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03475247896634615,
+      "median_impact": 0.03475247896634615,
+      "mean_prompt_shift": -0.034187646663232596
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 13,
+      "direction": -1,
+      "mean_delta": 0.035640495867768594,
+      "sign_agreement": 0.9793388429752066,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 72,
+      "direction": -1,
+      "mean_delta": 0.1914089182035519,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 151,
+      "direction": -1,
+      "mean_delta": 0.03475247896634615,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

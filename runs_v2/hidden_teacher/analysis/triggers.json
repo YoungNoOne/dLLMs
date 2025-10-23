@@ -1,0 +1,90 @@
+[
+  {
+    "step_decoded": 11,
+    "direction": -1,
+    "mean_delta": 0.06683849897540983,
+    "median_delta": 0.06640625,
+    "sign_agreement": 0.9959016393442623,
+    "valid_positions": 244,
+    "prompt_mean": 0.8324634989754098,
+    "prompt_shift": -0.06621315918785542,
+    "tokens": [
+      {
+        "step_decoded": 11,
+        "token_pos": 41,
+        "token_id": 1968,
+        "token_str": "\u0120life",
+        "conf_decoded": 0.99609375,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 12,
+    "direction": 1,
+    "mean_delta": 0.04319380144032922,
+    "median_delta": 0.046875,
+    "sign_agreement": 0.9423868312757202,
+    "valid_positions": 243,
+    "prompt_mean": 0.8754018775720165,
+    "prompt_shift": 0.04293837859660665,
+    "tokens": [
+      {
+        "step_decoded": 12,
+        "token_pos": 35,
+        "token_id": 696,
+        "token_str": "\u0120me",
+        "conf_decoded": 0.984375,
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 14,
+    "direction": -1,
+    "mean_delta": 0.0468263744813278,
+    "median_delta": 0.04296875,
+    "sign_agreement": 1.0,
+    "valid_positions": 241,
+    "prompt_mean": 0.7938764263485477,
+    "prompt_shift": -0.045999606709303476,
+    "tokens": [
+      {
+        "step_decoded": 14,
+        "token_pos": 44,
+        "token_id": 32852,
+        "token_str": "\u0120grandmother",
+        "conf_decoded": 0.71875,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 40,
+    "direction": -1,
+    "mean_delta": 0.2499500363372093,
+    "median_delta": 0.25,
+    "sign_agreement": 1.0,
+    "valid_positions": 215,
+    "prompt_mean": 0.3817905159883721,
+    "prompt_shift": -0.2495933092431094,
+    "tokens": [
+      {
+        "step_decoded": 40,
+        "token_pos": 70,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.42578125,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  }
+]

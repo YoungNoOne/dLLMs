@@ -1,0 +1,9 @@
+step_decoded=2 pos=27 dir=- impact=0.071779 shift=-0.071217 cats=content_heavy earlier=2 later=17 same=0
+In^(-1) the^(-2) heart^(+1) [Ġof^(+0)]  a^(+2) dense^(+5) forest^(+4),^(+3) hidden^(+6) behind^(+7) a^(+8) veil^(+9) of^(+10) mist^(+11),^(+13) lies^(+12) the^(+14) city^(+15) of^(+16) A^(+27)
+
+step_decoded=3 pos=26 dir=+ impact=0.039404 shift=0.038818 cats=content_heavy earlier=3 later=15 same=0
+In^(-2) the^(-3) [Ġheart^(+0)]  of^(-1) a^(+1) dense^(+4) forest^(+3),^(+2) hidden^(+5) behind^(+6) a^(+7) veil^(+8) of^(+9) mist^(+10),^(+12) lies^(+11) the^(+13) city^(+14) of^(+15)
+
+step_decoded=17 pos=41 dir=- impact=0.059431 shift=-0.058105 cats=content_heavy earlier=16 later=16 same=0
+ the^(-17) heart^(-14) of^(-15) a^(-13) dense^(-10) forest^(-11),^(-12) hidden^(-9) behind^(-8) a^(-7) veil^(-6) of^(-5) mist^(-4),^(-2) lies^(-3) the^(-1) [Ġcity^(+0)]  of^(+1) A^(+12)el^(+14)oria^(+13).^(+2) This^(+3) mystical^(+11) metropolis^(+5) is^(+4) a^(+6) sanctuary^(+7) for^(+8) those^(+10) who^(+9) have^(+15) been^(+16)
+

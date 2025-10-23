@@ -1,0 +1,43 @@
+{
+  "name": "reversed_gravity",
+  "prompt": "Imagine a day when gravity reverses direction for exactly ten minutes. Write what happens.",
+  "decoded": "On this extraordinary day, gravity reverses direction for exactly ten minutes. As soon as the sun rises, the world is turned upside down. Buildings and trees begin to fall, and people are thrown off their feet. Cars and trucks are lifted into the air, and the ground beneath them begins to rise.\n\nAs the gravity reverses, the sky becomes a canvas of chaos and wonder. Birds fly in impossible directions, and the clouds seem to be floating in the air. The water in rivers and lakes begins to rise, creating a spectacular display of water ballet.\n\nPeople are forced to adapt to the new reality. They try to hold onto each other, but the gravity is too strong. Buildings begin to crumble, and the ground beneath them starts to shift.\n\nAs the minutes tick by, the gravity becomes more intense. Buildings and trees begin to collapse, and the ground beneath them starts to crack. People are thrown into the air, and the world is turned upside down.\n\nFinally, after ten minutes, the gravity reverses once more. Buildings and trees begin to fall, and the ground beneath them starts to sink. People are thrown off their feet, and the world is left in awe of the extraordinary event that has just unfolded.",
+  "events_count": 3,
+  "max_mean_delta": 0.23408954326923076,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.10706265588321595,
+      "median_impact": 0.04443015514964789,
+      "mean_prompt_shift": -0.1127944248129225
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 60,
+      "direction": -1,
+      "mean_delta": 0.23408954326923076,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 113,
+      "direction": -1,
+      "mean_delta": 0.04443015514964789,
+      "sign_agreement": 0.9929577464788732,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 242,
+      "direction": -1,
+      "mean_delta": 0.04266826923076923,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,3 @@
+step_decoded=191 pos=213 dir=- impact=0.055542 shift=-0.056106 cats=content_heavy earlier=31 later=1 same=0
+ their^(-31) child^(-30) has^(-29) created^(-28) a^(-27) pile^(-26) of^(-25) toys^(-16) on^(-18) the^(-19) floor^(-17),^(-24) making^(-23) it^(-22) impossible^(-21) to^(-20) [Ġwalk^(+0)] .^(-14) They^(-15) try^(-13) to^(-12) cook^(-1) dinner^(-2),^(-9) but^(-10) their^(-8) child^(-7) has^(-6) created^(-5) a^(-4) pile^(-3) of^(-11) food^(+11)
+

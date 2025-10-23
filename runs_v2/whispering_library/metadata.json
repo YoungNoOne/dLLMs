@@ -1,0 +1,134 @@
+{
+  "name": "whispering_library",
+  "prompt": "Books in a library begin whispering when no one is watching. What do they say?",
+  "decoded": "The books in the library begin whispering when no one is watching. They say, \"The library is empty.\"",
+  "events_count": 16,
+  "max_mean_delta": 0.12955729166666666,
+  "max_sign_agreement": 1.0,
+  "token_count": 16,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 16,
+      "samples": 16,
+      "mean_impact": 0.09486450198963423,
+      "median_impact": 0.08886908407265184,
+      "mean_prompt_shift": 0.004759629895278832
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 19,
+      "direction": -1,
+      "mean_delta": 0.08885063559322035,
+      "sign_agreement": 0.923728813559322,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 72,
+      "direction": -1,
+      "mean_delta": 0.08563866120218579,
+      "sign_agreement": 0.9344262295081968,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 159,
+      "direction": 1,
+      "mean_delta": 0.08888753255208333,
+      "sign_agreement": 0.9375,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 160,
+      "direction": -1,
+      "mean_delta": 0.09684416118421052,
+      "sign_agreement": 0.9263157894736842,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 162,
+      "direction": 1,
+      "mean_delta": 0.11573840725806452,
+      "sign_agreement": 0.978494623655914,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 193,
+      "direction": 1,
+      "mean_delta": 0.0923796622983871,
+      "sign_agreement": 0.967741935483871,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 199,
+      "direction": -1,
+      "mean_delta": 0.09279087611607142,
+      "sign_agreement": 0.9464285714285714,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 200,
+      "direction": 1,
+      "mean_delta": 0.08414417613636363,
+      "sign_agreement": 0.9454545454545454,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 207,
+      "direction": 1,
+      "mean_delta": 0.08504231770833333,
+      "sign_agreement": 0.9583333333333334,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 224,
+      "direction": -1,
+      "mean_delta": 0.10877646169354839,
+      "sign_agreement": 0.9354838709677419,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 228,
+      "direction": 1,
+      "mean_delta": 0.12955729166666666,
+      "sign_agreement": 0.8888888888888888,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 239,
+      "direction": 1,
+      "mean_delta": 0.0867919921875,
+      "sign_agreement": 0.8125,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 241,
+      "direction": -1,
+      "mean_delta": 0.12241908482142858,
+      "sign_agreement": 0.8571428571428571,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 242,
+      "direction": 1,
+      "mean_delta": 0.07850060096153846,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 244,
+      "direction": -1,
+      "mean_delta": 0.07865767045454546,
+      "sign_agreement": 0.9090909090909091,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 250,
+      "direction": -1,
+      "mean_delta": 0.0828125,
+      "sign_agreement": 0.8,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

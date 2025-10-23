@@ -1,0 +1,6 @@
+step_decoded=3 pos=42 dir=- impact=0.087736 shift=-0.087581 cats=content_heavy earlier=3 later=13 same=0
+ [Person^(+0)]  ^(-1)1^(-2):^(-3) Thank^(+2) you^(+3),^(+1) God^(+6),^(+5) for^(+4) helping^(+8) me^(+7) with^(+11) my^(+9) homework^(+12).^(+10)Ċ^(+18)
+
+step_decoded=15 pos=56 dir=- impact=0.046826 shift=-0.046586 cats=content_heavy earlier=15 later=15 same=0
+Person^(-12) ^(-13)1^(-14):^(-15) Thank^(-10) you^(-9),^(-11) God^(-6),^(-7) for^(-8) helping^(-4) me^(-5) with^(-1) my^(-3) [Ġhomework^(+0)] .^(-2)Ċ^(+6)Ċ^(+2)Person^(+4) ^(+3)2^(+5):^(+1) Thank^(+8) you^(+9),^(+7) God^(+12),^(+10) for^(+11) helping^(+14) me^(+13) with^(+16)
+

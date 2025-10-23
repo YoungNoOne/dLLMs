@@ -1,0 +1,9 @@
+step_decoded=13 pos=40 dir=- impact=0.051475 shift=-0.050816 cats=content_heavy earlier=13 later=10 same=0
+It^(-12) was^(-13) a^(-11) beautiful^(-9) day^(-10),^(-8) and^(-7) [ĠSarah^(+0)]  was^(-6) feeling^(-5) ecstatic^(+2).^(-4) She^(-3) had^(-2) just^(-1) received^(+1) her^(+3) dream^(+5) job^(+4),^(+7) and^(+6) she^(+8) couldn^(+9)'t^(+10)
+
+step_decoded=119 pos=152 dir=- impact=0.041001 shift=-0.040555 cats=content_heavy earlier=16 later=16 same=0
+ tried^(-16) to^(-17) reverse^(-11) the^(-10) emotion^(-9),^(-15) but^(-14) it^(-13) was^(-12) too^(-4) late^(-3).^(-7)Ċ^(-6)Ċ^(-5)Meanwhile^(-2),^(-1) [ĠSarah^(+0)] 's^(+1) friend^(+2),^(+3) Emily^(+7),^(+4) was^(+5) feeling^(+6) down^(+8).^(+10) She^(+11) had^(+9) just^(+12) lost^(+14) her^(+13) job^(+20),^(+15)
+
+step_decoded=248 pos=278 dir=+ impact=0.047573 shift=0.047102 cats=content_heavy earlier=19 later=7 same=0
+.^(-19) They^(-18) had^(-17) never^(-16) experienced^(-15) emotions^(-14) like^(-12) this^(-13) before^(-11),^(-9) and^(-10) they^(-5) couldn^(-3)'t^(-4) help^(-2) but^(-1) [Ġwonder^(+0)]  what^(+1) would^(+2) happen^(+3) if^(+4) they^(+5) tried^(+7) again^(+6).^(-6)<|eot_id|>^(-7)<|endoftext|>^(-8)
+

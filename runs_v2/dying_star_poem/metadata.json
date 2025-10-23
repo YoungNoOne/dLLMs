@@ -1,0 +1,52 @@
+{
+  "name": "dying_star_poem",
+  "prompt": "Astronomers translate the final light of a dying star into poetry. Write the verse it leaves behind.",
+  "decoded": "In the twilight's gentle embrace,\nA dying star's last tender grace,\nWhispers of the void's embrace,\nA fleeting glow, a silent prayer.\n\nIts light, a soft, fading sigh,\nA final note in the endless sky,\nA song of the cosmos's goodbye,\nA testament to the universe's goodbye.\n\nIn the stillness of the night,\nIts memory remains, a gentle light,\nA reminder of the star's might,\nA symbol of the universe's might.\n\nThe star's farewell, a gentle sigh,\nA reminder of the universe's sigh,\nA symbol of the star's goodbye,\nA symbol of the universe's goodbye.\n\nIn the twilight's gentle embrace,\nA dying star's last tender grace,\nWhispers of the void's embrace,\nA fleeting glow, a silent prayer.\n\nIts light, a soft, fading sigh,\nA final note in the endless sky,\nA song of the cosmos's goodbye,\nA testament to the universe's goodbye.\n\nThe star's farewell, a gentle sigh,\nA reminder of the universe's sigh,\nA symbol of the star's goodbye,\nForever goodbye.",
+  "events_count": 2,
+  "max_mean_delta": 0.21220659135698197,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.21220659135698197,
+      "median_impact": 0.21220659135698197,
+      "mean_prompt_shift": -0.21214662387829253
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03962053571428571,
+      "median_impact": 0.03962053571428571,
+      "mean_prompt_shift": -0.038969167710944
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03962053571428571,
+      "median_impact": 0.03962053571428571,
+      "mean_prompt_shift": -0.038969167710944
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 33,
+      "direction": -1,
+      "mean_delta": 0.21220659135698197,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 66,
+      "direction": -1,
+      "mean_delta": 0.03962053571428571,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,126 @@
+{
+  "name": "unexpected_rules",
+  "prompt": "Write a short paragraph about a rule everyone follows without really knowing why.",
+  "decoded": "One rule that many people follow without fully understanding its rationale is the concept of \"The Golden Rule.\" This rule suggests that we should treat others with kindness and respect, just as we would like to be treated ourselves. While it may seem simple, the reasoning behind this rule is often complex and multifaceted. Many people follow it because it is a universal moral principle that has been ingrained in their culture and upbringing, rather than because they fully understand the logic behind it. However, when we delve deeper, we realize that The Golden Rule is not just a moral imperative, but also a practical one that promotes empathy, compassion, and social harmony. By treating others with kindness and respect, we create a sense of trust and mutual understanding, which is essential for building strong relationships and fostering a positive community. This rule also encourages us to consider the impact of our actions on others, which can lead to more thoughtful and responsible decision-making. Ultimately, The Golden Rule is a reminder that we are all interconnected, and that our actions have a ripple effect on the world around us. By following this rule, we can create a more just and equitable society, where everyone is treated with dignity and respect, and where we can all thrive in a culture of kindness, compassion, and understanding.",
+  "events_count": 8,
+  "max_mean_delta": 0.15171595982142858,
+  "max_sign_agreement": 1.0,
+  "token_count": 8,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.15171595982142858,
+      "median_impact": 0.15171595982142858,
+      "mean_prompt_shift": -0.17112630208333335
+    },
+    {
+      "category": "contrast_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.13740416343167702,
+      "median_impact": 0.13740416343167702,
+      "mean_prompt_shift": -0.13776690162276667
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.12594039351851852,
+      "median_impact": 0.12594039351851852,
+      "mean_prompt_shift": 0.12621140200143904
+    },
+    {
+      "category": "punctuation",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.10799451943796616,
+      "median_impact": 0.12442537633384146,
+      "mean_prompt_shift": 0.02292360961571388
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.09902158239768996,
+      "median_impact": 0.09902158239768996,
+      "mean_prompt_shift": -0.0287202865771487
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.09511809734083851,
+      "median_impact": 0.09511809734083851,
+      "mean_prompt_shift": -0.04170172140797425
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05211160118794463,
+      "median_impact": 0.05211160118794463,
+      "mean_prompt_shift": 0.0005035120289350464
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 43,
+      "direction": -1,
+      "mean_delta": 0.05220924233490566,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 91,
+      "direction": -1,
+      "mean_delta": 0.12442537633384146,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 93,
+      "direction": 1,
+      "mean_delta": 0.12594039351851852,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 94,
+      "direction": -1,
+      "mean_delta": 0.13740416343167702,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 194,
+      "direction": 1,
+      "mean_delta": 0.0520139600409836,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 241,
+      "direction": -1,
+      "mean_delta": 0.15171595982142858,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 242,
+      "direction": 1,
+      "mean_delta": 0.07361778846153846,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 245,
+      "direction": 1,
+      "mean_delta": 0.05283203125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

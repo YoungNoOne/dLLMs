@@ -1,0 +1,29 @@
+{
+  "name": "emotional_equation",
+  "prompt": "Someone discovers a mathematical formula that predicts heartbreak. Write their research abstract and the ethical consequences.",
+  "decoded": "**Research Abstract:**\n\nThis study presents a novel mathematical formula that predicts the likelihood of heartbreak in romantic relationships. The formula, which incorporates various factors such as individual characteristics, relationship dynamics, and external influences, provides a quantitative measure of the probability of heartbreak. By analyzing large datasets of romantic relationships, we have identified key variables that significantly impact the risk of heartbreak. Our findings suggest that this formula can be a valuable tool for individuals and couples seeking to navigate the complexities of romantic relationships.\n\n**Ethical Consequences:**\n\nThe discovery of a mathematical formula that predicts heartbreak raises several ethical concerns. Firstly, the use of such a tool could lead to stigmatization of individuals or couples who are deemed at high risk of heartbreak, potentially causing emotional distress or discrimination. Secondly, the formula could be misused to manipulate or control relationships, infringing on the autonomy of individuals and couples. Additionally, the availability of such a tool could lead to increased anxiety and stress among those who are aware of their predicted risk of heartbreak. It is crucial to consider the ethical implications of this research and to develop guidelines for its responsible use, ensuring that it is applied in a manner that respects the dignity and well-being of all individuals.",
+  "events_count": 1,
+  "max_mean_delta": 0.278453125,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.278453125,
+      "median_impact": 0.278453125,
+      "mean_prompt_shift": -0.2779318351593626
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 5,
+      "direction": -1,
+      "mean_delta": 0.278453125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

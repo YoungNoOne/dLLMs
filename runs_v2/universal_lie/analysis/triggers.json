@@ -1,0 +1,91 @@
+[
+  {
+    "step_decoded": 8,
+    "direction": -1,
+    "mean_delta": 0.21251897773279352,
+    "median_delta": 0.21484375,
+    "sign_agreement": 1.0,
+    "valid_positions": 247,
+    "prompt_mean": 0.6706256325910931,
+    "prompt_shift": -0.2121868674089069,
+    "tokens": [
+      {
+        "step_decoded": 8,
+        "token_pos": 46,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.99609375,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 12,
+    "direction": 1,
+    "mean_delta": 0.19315843621399176,
+    "median_delta": 0.19921875,
+    "sign_agreement": 1.0,
+    "valid_positions": 243,
+    "prompt_mean": 0.8502604166666666,
+    "prompt_shift": 0.19437862875683054,
+    "tokens": [
+      {
+        "step_decoded": 12,
+        "token_pos": 47,
+        "token_id": 480,
+        "token_str": "**",
+        "conf_decoded": 0.43359375,
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 66,
+    "direction": -1,
+    "mean_delta": 0.05894510582010582,
+    "median_delta": 0.05859375,
+    "sign_agreement": 0.9894179894179894,
+    "valid_positions": 189,
+    "prompt_mean": 0.42076926256613756,
+    "prompt_shift": -0.05724266177596771,
+    "tokens": [
+      {
+        "step_decoded": 66,
+        "token_pos": 104,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.6796875,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 68,
+    "direction": -1,
+    "mean_delta": 0.07281396223262032,
+    "median_delta": 0.068359375,
+    "sign_agreement": 1.0,
+    "valid_positions": 187,
+    "prompt_mean": 0.30565361798128343,
+    "prompt_shift": -0.07249423773680169,
+    "tokens": [
+      {
+        "step_decoded": 68,
+        "token_pos": 102,
+        "token_id": 13,
+        "token_str": ".",
+        "conf_decoded": 1.0,
+        "categories": [
+          "punctuation",
+          "sentence_boundary"
+        ]
+      }
+    ]
+  }
+]

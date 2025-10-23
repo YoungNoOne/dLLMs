@@ -1,0 +1,74 @@
+{
+  "name": "data_emotion",
+  "prompt": "Describe what it would feel like if your emotions were tracked as data points on a public chart.",
+  "decoded": "If my emotions were tracked as data points on a public chart, it would feel like a mix of curiosity and vulnerability. On one hand, it would be fascinating to see how my emotions fluctuate over time, to observe patterns and trends that might not be immediately apparent to me. This could provide a deeper understanding of my emotional landscape and help me identify areas where I might need support.\n\nHowever, on the other hand, the idea of having my emotions publicly displayed could be unsettling. It might feel like a breach of my personal space and privacy, as if my feelings are being exposed and analyzed by others. This could lead to feelings of anxiety, embarrassment, or shame, depending on the nature of the emotions being tracked.\n\nMoreover, the act of tracking my emotions as data points could also create a sense of detachment from my emotional experiences. It might feel like I'm no longer the one experiencing the emotions, but rather a data point that can be measured and analyzed. This could lead to feelings of disconnection from my own emotions and experiences.\n\nOverall, the idea of tracking my emotions as data points on a public chart would be a complex and multifaceted experience, with both positive and negative implications that would need to be carefully considered and thoughtfully navigated.",
+  "events_count": 4,
+  "max_mean_delta": 0.19781055766574585,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.19781055766574585,
+      "median_impact": 0.19781055766574585,
+      "mean_prompt_shift": -0.19745671606535736
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0460338025990099,
+      "median_impact": 0.0460338025990099,
+      "mean_prompt_shift": -0.04559765263010296
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0460338025990099,
+      "median_impact": 0.0460338025990099,
+      "mean_prompt_shift": -0.04559765263010296
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04054962642609127,
+      "median_impact": 0.04054962642609127,
+      "mean_prompt_shift": 0.00302252620483498
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 31,
+      "direction": -1,
+      "mean_delta": 0.03810337611607143,
+      "sign_agreement": 0.9910714285714286,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 53,
+      "direction": -1,
+      "mean_delta": 0.0460338025990099,
+      "sign_agreement": 0.9900990099009901,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 74,
+      "direction": -1,
+      "mean_delta": 0.19781055766574585,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 237,
+      "direction": 1,
+      "mean_delta": 0.04299587673611111,
+      "sign_agreement": 0.9444444444444444,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

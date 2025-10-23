@@ -1,0 +1,36 @@
+{
+  "name": "mechanical_garden",
+  "prompt": "Describe a garden where plants are mechanical but emotions are organic. How do visitors interact with it?",
+  "decoded": "In this unique garden, the plants are not living organisms but rather intricate, automated machines that mimic the appearance of natural flora. These mechanical plants are designed to respond to the emotions and movements of the visitors.\n\nAs visitors enter the garden, they are greeted by the gentle movements of the mechanical plants. The plants are equipped with sensors that detect the visitor's emotions and respond accordingly. If the visitor is happy, the plants will sway and dance in a joyful rhythm. If the visitor is sad, the plants will sway and sway in a melancholic melody.\n\nVisitors can interact with the garden in several ways. They can touch the mechanical plants, which will respond to their touch by swaying and moving in a specific pattern. They can also talk to the plants, which will respond to their words by swaying and moving in a way that reflects the emotions expressed.\n\nThe garden is also equipped with interactive displays that allow visitors to input their emotions and messages to the mechanical plants. These displays are designed to provide a visual and auditory experience that reflects the visitor's emotions and thoughts.\n\nOverall, this garden is a unique and immersive experience that allows visitors to connect with nature in a way that is both organic and mechanical, and both emotional and technological.",
+  "events_count": 2,
+  "max_mean_delta": 0.2112386828271028,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.12533156278592902,
+      "median_impact": 0.12533156278592902,
+      "mean_prompt_shift": -0.12376443710769068
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 41,
+      "direction": -1,
+      "mean_delta": 0.2112386828271028,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 112,
+      "direction": -1,
+      "mean_delta": 0.03942444274475525,
+      "sign_agreement": 0.9300699300699301,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,96 @@
+{
+  "name": "parallel_prayer",
+  "prompt": "Every time someone prays, another universe is created where it is answered. Write a dialogue between two versions of the same person who prayed differently.",
+  "decoded": "Person 1: Thank you, God, for helping me with my homework.\n\nPerson 2: Thank you, God, for helping me with my homework.\n\nPerson 1: Wait, what? You said the same thing as me.\n\nPerson 2: Oh, sorry, I meant to say \"Thank you, God, for helping me with my homework.\"\n\nPerson 1: Okay, I see. So, in this universe, you're praying for help with your homework.\n\nPerson 2: Yes, in this universe, I'm praying for help with my homework.\n\nPerson 1: Well, in this universe, you're praying for help with your homework, but it's not answered.\n\nPerson 2: That's right, in this universe, I'm praying for help with my homework, but it's not answered.\n\nPerson 1: Well, in another universe, your prayer is answered, and you get help with your homework.\n\nPerson 2: Yes, in another universe, my prayer is answered, and I get help with my homework.\n\nPerson 1: Wow, that's amazing.\n\nPerson 2: It really is.",
+  "events_count": 6,
+  "max_mean_delta": 0.14130613182773108,
+  "max_sign_agreement": 1.0,
+  "token_count": 6,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.09239830349948197,
+      "median_impact": 0.09239830349948197,
+      "mean_prompt_shift": -0.09162057208194598
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.06728089347718254,
+      "median_impact": 0.06728089347718254,
+      "mean_prompt_shift": -0.06708314479466493
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0469482421875,
+      "median_impact": 0.0469482421875,
+      "mean_prompt_shift": -0.04413396661931818
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0469482421875,
+      "median_impact": 0.0469482421875,
+      "mean_prompt_shift": -0.04413396661931818
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.044706569881889764,
+      "median_impact": 0.044706569881889764,
+      "mean_prompt_shift": -0.044384456538520856
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 1,
+      "direction": -1,
+      "mean_delta": 0.044706569881889764,
+      "sign_agreement": 0.9960629921259843,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 3,
+      "direction": -1,
+      "mean_delta": 0.08773561507936507,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 15,
+      "direction": -1,
+      "mean_delta": 0.046826171875,
+      "sign_agreement": 0.9958333333333333,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 17,
+      "direction": -1,
+      "mean_delta": 0.14130613182773108,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 182,
+      "direction": -1,
+      "mean_delta": 0.043490475171232876,
+      "sign_agreement": 0.958904109589041,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 245,
+      "direction": -1,
+      "mean_delta": 0.0469482421875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

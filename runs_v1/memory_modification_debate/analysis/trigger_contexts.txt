@@ -1,0 +1,9 @@
+step_decoded=0 pos=51 dir=- impact=0.037056 shift=-0.037056 cats=content_heavy earlier=0 later=20 same=0
+Adv^(+11)ocate^(+12) for^(+10) memory^(+1) [Ġer^(+0)] asure^(+2) as^(+3) a^(+4) healing^(+9) tool^(+5) for^(+7) trauma^(+6) victims^(+8):^(+13)Ċ^(+14)Ċ^(+15)Memory^(+17) er^(+16)asure^(+18) can^(+19) be^(+20)
+
+step_decoded=74 pos=125 dir=- impact=0.034989 shift=-0.035666 cats=content_heavy earlier=12 later=20 same=0
+ the^(-11) present^(-12) and^(-10) find^(-4) a^(-9) sense^(-8) of^(-7) peace^(-3) and^(-6) closure^(+4).^(-5)Ċ^(-2)Ċ^(-1)Re^(+2)consider^(+1) the^(+3) [Ġstance^(+0)] :^(+5)Ċ^(+7)Ċ^(+6)While^(+8) memory^(+9) er^(+10)asure^(+11) may^(+12) seem^(+13) like^(+14) a^(+15) convenient^(+21) solution^(+16) for^(+17) trauma^(+18) victims^(+19)
+
+step_decoded=247 pos=295 dir=+ impact=0.032349 shift=0.031277 cats=content_heavy earlier=15 later=8 same=0
+ individuals^(-17) to^(-15) process^(-13) their^(-12) emotions^(-10) and^(-11) develop^(-9) coping^(-8) strategies^(-4),^(-3) while^(-2) also^(-1) promoting^(+8) a^(+7) sense^(+5) of^(+6) [Ġpersonal^(+0)]  identity^(+4) and^(+1) moral^(+2) growth^(+3).^(-6)<|eot_id|>^(-5)<|endoftext|>^(-7)
+

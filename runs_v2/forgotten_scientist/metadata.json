@@ -1,0 +1,187 @@
+{
+  "name": "forgotten_scientist",
+  "prompt": "A brilliant scientist discovers the cure for forgetfulness\u2014but everyone forgets him immediately. Narrate from his assistant\u2019s point of view.",
+  "decoded": "I was supposed to present the cure to the world, but it turned out to be a disaster. The moment I announced the cure, everyone forgot about me. My colleagues, my friends, and even my family. It was like I had vanished into thin air. I couldn't believe it. My life had been turned upside down. I had to confront my boss, but he didn't seem to understand the gravity of the situation. He just told me to focus on the cure and that everything would be fine. But I knew he was wrong. I had to find a way to make him understand the reality of the situation. I tried to explain it to him, but he just wouldn't believe me. I had to show him the evidence, but it wasn't enough. He just didn't want to see it. I felt like I was trapped in a nightmare. I had to find a way to make him understand the reality of the situation. I had to show him that the cure was not just a scientific breakthrough, but a personal one. I had to show him that I was the one who had been forgotten, and that he was the one who had been forgotten. I had to find a way to make him understand, before it was too late.",
+  "events_count": 19,
+  "max_mean_delta": 0.19076146834935898,
+  "max_sign_agreement": 1.0,
+  "token_count": 19,
+  "categories": [
+    {
+      "category": "contrast_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1732484879032258,
+      "median_impact": 0.1732484879032258,
+      "mean_prompt_shift": 0.1739187942643714
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 9,
+      "samples": 9,
+      "mean_impact": 0.15350173453256202,
+      "median_impact": 0.15599959935897437,
+      "mean_prompt_shift": -0.15393195923954572
+    },
+    {
+      "category": "punctuation",
+      "triggers": 9,
+      "samples": 9,
+      "mean_impact": 0.15350173453256202,
+      "median_impact": 0.15599959935897437,
+      "mean_prompt_shift": -0.15393195923954572
+    },
+    {
+      "category": "other",
+      "triggers": 8,
+      "samples": 8,
+      "mean_impact": 0.1391020716818695,
+      "median_impact": 0.1406718089168233,
+      "mean_prompt_shift": 0.13934532030449792
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.09742272418478261,
+      "median_impact": 0.09742272418478261,
+      "mean_prompt_shift": -0.09720049072039783
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 84,
+      "direction": -1,
+      "mean_delta": 0.1822174250730994,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 87,
+      "direction": 1,
+      "mean_delta": 0.13340541294642858,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 99,
+      "direction": -1,
+      "mean_delta": 0.19076146834935898,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 100,
+      "direction": 1,
+      "mean_delta": 0.1732484879032258,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 106,
+      "direction": -1,
+      "mean_delta": 0.1810704173657718,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 110,
+      "direction": 1,
+      "mean_delta": 0.17935075431034483,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 121,
+      "direction": -1,
+      "mean_delta": 0.14147038246268656,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 122,
+      "direction": 1,
+      "mean_delta": 0.14793820488721804,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 138,
+      "direction": -1,
+      "mean_delta": 0.15599959935897437,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 140,
+      "direction": 1,
+      "mean_delta": 0.12674082880434784,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 155,
+      "direction": -1,
+      "mean_delta": 0.161650390625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 156,
+      "direction": 1,
+      "mean_delta": 0.16532512626262627,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 163,
+      "direction": -1,
+      "mean_delta": 0.14794921875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 164,
+      "direction": 1,
+      "mean_delta": 0.1495643028846154,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 174,
+      "direction": -1,
+      "mean_delta": 0.11330536265432099,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 175,
+      "direction": 1,
+      "mean_delta": 0.110302734375,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 190,
+      "direction": -1,
+      "mean_delta": 0.10709134615384615,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 191,
+      "direction": 1,
+      "mean_delta": 0.100189208984375,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 209,
+      "direction": -1,
+      "mean_delta": 0.09742272418478261,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

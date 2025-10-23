@@ -1,0 +1,101 @@
+{
+  "name": "lonely_planet",
+  "prompt": "Astronauts discover a planet that mirrors human loneliness\u2014it gets colder when people lie. Write their log entry after realizing the temperature keeps dropping.",
+  "decoded": "**Log Entry: October 15, 2023**\n\n**Location: Luminia**\n\n**Astronauts: Commander James Carter, Dr. Sophia Patel, Engineer Marcus Lee, Dr. Elena Martinez**\n\n**Summary:**\n\nWe have discovered a peculiar phenomenon on Luminia. The temperature has been dropping in response to our lies. This is a chilling reflection of human loneliness.\n\n**Details:**\n\n- **Initial Temperature:** 25\u00b0C\n- **Current Temperature:** 18\u00b0C\n- **Temperature Drop:** 7\u00b0C\n\n**Observations:**\n\n- **Lies and Temperature:** Each time we lie, the temperature drops by 1\u00b0C.\n- **Environmental Impact:** The planet's atmosphere appears to be reacting to our lies, causing a decrease in temperature.\n\n**Next Steps:**\n\n- **Scientific Analysis:** Conduct further experiments to understand the underlying mechanism.\n- **Communication Protocols:** Establish guidelines for honest communication to mitigate the effects.\n- **Data Collection:** Document the findings and share them with Earth-based scientists.\n\n**Conclusion:**\n\nWe must act swiftly to stabilize the temperature and understand the enigmatic nature of Luminia.",
+  "events_count": 9,
+  "max_mean_delta": 0.1591651119402985,
+  "max_sign_agreement": 1.0,
+  "token_count": 9,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.13506954453355732,
+      "median_impact": 0.14862545763598325,
+      "mean_prompt_shift": -0.13449764948794932
+    },
+    {
+      "category": "other",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.08935744129886292,
+      "median_impact": 0.08349125289160608,
+      "mean_prompt_shift": 0.052786092746580277
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.06495697222060498,
+      "median_impact": 0.06495697222060498,
+      "mean_prompt_shift": -0.0648782274748344
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 16,
+      "direction": -1,
+      "mean_delta": 0.14862545763598325,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 17,
+      "direction": 1,
+      "mean_delta": 0.11641609768907563,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 29,
+      "direction": -1,
+      "mean_delta": 0.06767664546460177,
+      "sign_agreement": 0.995575221238938,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 50,
+      "direction": -1,
+      "mean_delta": 0.09741806402439024,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 51,
+      "direction": 1,
+      "mean_delta": 0.08010684742647059,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 54,
+      "direction": -1,
+      "mean_delta": 0.1591651119402985,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 77,
+      "direction": 1,
+      "mean_delta": 0.08687565835674158,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 78,
+      "direction": -1,
+      "mean_delta": 0.07403116172316385,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 84,
+      "direction": -1,
+      "mean_delta": 0.06223729897660819,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

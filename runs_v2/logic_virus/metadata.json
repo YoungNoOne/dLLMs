@@ -1,0 +1,74 @@
+{
+  "name": "logic_virus",
+  "prompt": "A digital virus forces people to speak in flawless logic. Record what happens to love poetry and comedy.",
+  "decoded": "If a digital virus forces people to speak in flawless logic, the world of love poetry and comedy would be drastically altered. Love poetry, which often relies on metaphors, poetic language, and emotional depth, would be reduced to a series of logical statements. The beauty and nuance of language would be lost, and the poetry would be devoid of its emotional and imaginative qualities. The result would be a dry, clinical expression of love, devoid of the warmth and passion that make it so compelling.\n\nComedy, on the other hand, which thrives on humor, irony, and absurdity, would also suffer. The element of humor would be lost, and the jokes would be reduced to logical explanations. The humor would be lost, and the jokes would be seen as mere logical statements, rather than the playful and absurd statements that make them funny. The result would be a dry, clinical expression of humor, devoid of the wit and creativity that make it so entertaining.\n\nIn summary, the digital virus would strip away the emotional and imaginative qualities of love poetry and comedy, reducing them to mere logical statements. The result would be a dry, clinical expression of love and humor, devoid of the warmth, passion, wit, and creativity that make these genres so compelling.",
+  "events_count": 4,
+  "max_mean_delta": 0.19428286345108695,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.19428286345108695,
+      "median_impact": 0.19428286345108695,
+      "mean_prompt_shift": 0.19508752340995894
+    },
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.15150934533227847,
+      "median_impact": 0.15150934533227847,
+      "mean_prompt_shift": -0.151309072662905
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.11735395051132329,
+      "median_impact": 0.11735395051132329,
+      "mean_prompt_shift": -0.11730516154797097
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.11735395051132329,
+      "median_impact": 0.11735395051132329,
+      "mean_prompt_shift": -0.11730516154797097
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 69,
+      "direction": -1,
+      "mean_delta": 0.17109007476478494,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 71,
+      "direction": 1,
+      "mean_delta": 0.19428286345108695,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 96,
+      "direction": -1,
+      "mean_delta": 0.06361782625786164,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 97,
+      "direction": -1,
+      "mean_delta": 0.15150934533227847,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

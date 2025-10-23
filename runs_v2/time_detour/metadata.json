@@ -1,0 +1,171 @@
+{
+  "name": "time_detour",
+  "prompt": "People start finding shortcuts through time that only work for a few minutes. Write about a cab driver who uses them for profit.",
+  "decoded": "The cab driver was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action. He was a man of action.",
+  "events_count": 19,
+  "max_mean_delta": 0.15725651840490798,
+  "max_sign_agreement": 1.0,
+  "token_count": 19,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 10,
+      "samples": 10,
+      "mean_impact": 0.11279713382479932,
+      "median_impact": 0.10661177201704546,
+      "mean_prompt_shift": -0.1127445972115538
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 10,
+      "samples": 10,
+      "mean_impact": 0.11279713382479932,
+      "median_impact": 0.10661177201704546,
+      "mean_prompt_shift": -0.1127445972115538
+    },
+    {
+      "category": "other",
+      "triggers": 9,
+      "samples": 9,
+      "mean_impact": 0.1060684926541321,
+      "median_impact": 0.09986733490566038,
+      "mean_prompt_shift": 0.10615760823724232
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 78,
+      "direction": -1,
+      "mean_delta": 0.09800935734463277,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 79,
+      "direction": 1,
+      "mean_delta": 0.09954279119318182,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 92,
+      "direction": -1,
+      "mean_delta": 0.15725651840490798,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 93,
+      "direction": 1,
+      "mean_delta": 0.14443479938271606,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 106,
+      "direction": -1,
+      "mean_delta": 0.080720427852349,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 113,
+      "direction": -1,
+      "mean_delta": 0.14169784330985916,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 114,
+      "direction": 1,
+      "mean_delta": 0.11544215425531915,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 120,
+      "direction": -1,
+      "mean_delta": 0.12196180555555555,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 121,
+      "direction": 1,
+      "mean_delta": 0.09286089085820895,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 127,
+      "direction": -1,
+      "mean_delta": 0.106689453125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 128,
+      "direction": 1,
+      "mean_delta": 0.10839074803149606,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 134,
+      "direction": -1,
+      "mean_delta": 0.10653409090909091,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 135,
+      "direction": 1,
+      "mean_delta": 0.097900390625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 141,
+      "direction": -1,
+      "mean_delta": 0.1176843475877193,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 142,
+      "direction": 1,
+      "mean_delta": 0.11435287610619468,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 148,
+      "direction": -1,
+      "mean_delta": 0.09827686915887851,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 149,
+      "direction": 1,
+      "mean_delta": 0.09986733490566038,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 155,
+      "direction": -1,
+      "mean_delta": 0.099140625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 170,
+      "direction": 1,
+      "mean_delta": 0.08182444852941176,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

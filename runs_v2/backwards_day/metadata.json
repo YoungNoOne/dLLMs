@@ -1,0 +1,110 @@
+{
+  "name": "backwards_day",
+  "prompt": "Time begins to run backward once a year. Write a journal entry from the day people age in reverse.",
+  "decoded": "December 31, 2022\n\nToday, I am 11 years old. My husband is 10 years old. My daughter is 9 years old. My son is 8 years old. My sister is 7 years old. My brother is 6 years old. My mother is 5 years old. My father is 4 years old. My grandmother is 3 years old. My grandfather is 2 years old. My niece is 1 year old. My nephew is 0 years old. My niece is 12 years old. My nephew is 13 years old. My niece is 14 years old. My nephew is 15 years old. My niece is 16 years old. My nephew is 17 years old. My niece is 18 years old. My nephew is 19 years old. My niece is 20 years old. My nephew is 21 years old. My niece is 22 years old. My nephew is 23 years old. My niece is 24 years old. My nephew is 25 years old. My niece is 11 years old. My nephew is 0 years old.",
+  "events_count": 8,
+  "max_mean_delta": 0.24998431224899598,
+  "max_sign_agreement": 1.0,
+  "token_count": 8,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.24998431224899598,
+      "median_impact": 0.24998431224899598,
+      "mean_prompt_shift": -0.2496664156626507
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.13307339451679795,
+      "median_impact": 0.09033535289115646,
+      "mean_prompt_shift": 0.07397957686195213
+    },
+    {
+      "category": "other",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.09742825624173279,
+      "median_impact": 0.07764446924603174,
+      "mean_prompt_shift": 0.052411806230262314
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.08472256397637795,
+      "median_impact": 0.08472256397637795,
+      "mean_prompt_shift": -0.08442375603623276
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.08472256397637795,
+      "median_impact": 0.08472256397637795,
+      "mean_prompt_shift": -0.08442375603623276
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 6,
+      "direction": -1,
+      "mean_delta": 0.24998431224899598,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 8,
+      "direction": 1,
+      "mean_delta": 0.23509457236842105,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 108,
+      "direction": -1,
+      "mean_delta": 0.09033535289115646,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 111,
+      "direction": 1,
+      "mean_delta": 0.14649793836805555,
+      "sign_agreement": 0.9930555555555556,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 128,
+      "direction": -1,
+      "mean_delta": 0.08472256397637795,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 129,
+      "direction": 1,
+      "mean_delta": 0.07764446924603174,
+      "sign_agreement": 0.9444444444444444,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 157,
+      "direction": 1,
+      "mean_delta": 0.07379025829081633,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 237,
+      "direction": -1,
+      "mean_delta": 0.0681423611111111,
+      "sign_agreement": 0.9444444444444444,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

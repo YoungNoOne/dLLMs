@@ -1,0 +1,81 @@
+{
+  "name": "dream_reuse",
+  "prompt": "Use the last dream you remember as the setting for a political debate.",
+  "decoded": "I don't have personal experiences or memories, but I can create a hypothetical scenario. Let's say the last dream I remember was a futuristic cityscape with towering skyscrapers, flying cars, and a vast, open sky. In this setting, a political debate could be held on the topic of artificial intelligence and its potential impact on society.\n\nThe debate could be held in a large, open arena overlooking the cityscape, with holographic displays and virtual reality headsets to simulate the futuristic environment. The debate could be divided into two teams: one advocating for the benefits of AI, such as increased efficiency and innovation, and the other highlighting the potential risks, such as job displacement and privacy concerns.\n\nThe debate could be moderated by a neutral, authoritative figure, such as a politician or a philosopher, who would guide the discussion and ensure that all voices are heard. The debate could be supported by a panel of experts, including AI researchers, ethicists, and social scientists, who would provide expert opinions and insights on the topic.\n\nIn this scenario, the futuristic cityscape from the dream would serve as a backdrop for the debate, highlighting the potential benefits and risks of AI, and the need for careful consideration and regulation to ensure its responsible use.",
+  "events_count": 5,
+  "max_mean_delta": 0.11580360127005347,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.11580360127005347,
+      "median_impact": 0.11580360127005347,
+      "mean_prompt_shift": -0.11624654886434749
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.06940873196467098,
+      "median_impact": 0.06940873196467098,
+      "mean_prompt_shift": -0.06743718650261665
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.036183105708927694,
+      "median_impact": 0.036183105708927694,
+      "mean_prompt_shift": -0.035215020905393885
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.036183105708927694,
+      "median_impact": 0.036183105708927694,
+      "mean_prompt_shift": -0.035215020905393885
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 30,
+      "direction": -1,
+      "mean_delta": 0.057118055555555554,
+      "sign_agreement": 0.9955555555555555,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 41,
+      "direction": -1,
+      "mean_delta": 0.03216267523364486,
+      "sign_agreement": 0.9299065420560748,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 49,
+      "direction": -1,
+      "mean_delta": 0.0816994083737864,
+      "sign_agreement": 0.970873786407767,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 65,
+      "direction": -1,
+      "mean_delta": 0.04020353618421053,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 68,
+      "direction": -1,
+      "mean_delta": 0.11580360127005347,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

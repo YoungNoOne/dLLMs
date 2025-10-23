@@ -1,0 +1,6 @@
+step_decoded=13 pos=55 dir=- impact=0.114944 shift=-0.113788 cats=content_heavy earlier=13 later=14 same=0
+The^(-13) trou^(-11)pe^(-12) is^(-10) rehe^(-8)arsing^(-9) the^(-6) play^(-7),^(-5) and^(-4) the^(-3) [Ġaudience^(+0)]  is^(-2) empty^(+1).^(-1) The^(+2) actors^(+3) are^(+4) dressed^(+15) in^(+5) their^(+7) roles^(+8),^(+6) and^(+9) the^(+10) director^(+12) is^(+11) leading^(+17)
+
+step_decoded=60 pos=101 dir=- impact=0.048332 shift=-0.047797 cats=content_heavy earlier=19 later=13 same=0
+ on^(-16) their^(-19) lines^(-14).^(-20)Ċ^(-17)Ċ^(-18)As^(-13) the^(-12) scene^(-11) progresses^(-9),^(-10) one^(-8) of^(-6) the^(-5) actors^(-7),^(-4) [ĠJohn^(+0)] ,^(-3) starts^(-1) to^(-2) feel^(+1) uneasy^(+2).^(+3) He^(+4) notices^(+5) that^(+6) the^(+7) stage^(+13) is^(+8) empty^(+12),^(+10) and^(+9) the^(+11)
+

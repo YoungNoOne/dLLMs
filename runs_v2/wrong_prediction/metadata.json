@@ -1,0 +1,118 @@
+{
+  "name": "wrong_prediction",
+  "prompt": "Invent a scientific prediction from the 1900s that turned out hilariously wrong.",
+  "decoded": "In 1905, a group of scientists at the University of Cambridge, led by the renowned physicist Dr. Albert Fluffy, made a bold prediction about the behavior of subatomic particles. They hypothesized that these particles, which they dubbed \"Fluffies,\" would exhibit a peculiar property: they would emit a faint, blue-green glow when they were exposed to a specific wavelength of light.\n\nThe team was confident in their theory, and they conducted extensive experiments to test their hypothesis. However, their results were utterly disastrous. Instead of emitting a blue-green glow, the Fluffies seemed to be emitting a bright, red-orange light, similar to the glow of a dying candle.\n\nThe scientists were baffled and struggled to explain their findings. They eventually realized that the Fluffies were, in fact, emitting a faint, blue-green glow, but the glow was so weak that it was being overwhelmed by the ambient light from the laboratory.\n\nThe experiment was so disastrous that it became a topic of legend among the scientific community. Dr. Fluffy's prediction was so hilariously wrong that it was often referred to as the \"Fluffy Flop\" and was used as a cautionary tale about the dangers of scientific optimism.",
+  "events_count": 8,
+  "max_mean_delta": 0.14004448784722223,
+  "max_sign_agreement": 1.0,
+  "token_count": 8,
+  "categories": [
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.14004448784722223,
+      "median_impact": 0.14004448784722223,
+      "mean_prompt_shift": -0.13989323755946897
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.14004448784722223,
+      "median_impact": 0.14004448784722223,
+      "mean_prompt_shift": -0.13989323755946897
+    },
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06275669642857143,
+      "median_impact": 0.06275669642857143,
+      "mean_prompt_shift": -0.06242517248376628
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.039710740282558804,
+      "median_impact": 0.039710740282558804,
+      "mean_prompt_shift": -0.03890879755139509
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.03955543110409996,
+      "median_impact": 0.040359933035714286,
+      "mean_prompt_shift": -0.038267440361782507
+    },
+    {
+      "category": "empty",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.036278912401574805,
+      "median_impact": 0.036278912401574805,
+      "mean_prompt_shift": -0.03513116122433224
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 1,
+      "direction": -1,
+      "mean_delta": 0.036278912401574805,
+      "sign_agreement": 0.968503937007874,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 3,
+      "direction": -1,
+      "mean_delta": 0.04603794642857143,
+      "sign_agreement": 0.9444444444444444,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 6,
+      "direction": -1,
+      "mean_delta": 0.033383534136546184,
+      "sign_agreement": 0.9879518072289156,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 22,
+      "direction": -1,
+      "mean_delta": 0.034938304721030045,
+      "sign_agreement": 0.9871244635193133,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 30,
+      "direction": -1,
+      "mean_delta": 0.043368055555555556,
+      "sign_agreement": 0.96,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 75,
+      "direction": -1,
+      "mean_delta": 0.14004448784722223,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 80,
+      "direction": -1,
+      "mean_delta": 0.06275669642857143,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 220,
+      "direction": -1,
+      "mean_delta": 0.040359933035714286,
+      "sign_agreement": 0.9428571428571428,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

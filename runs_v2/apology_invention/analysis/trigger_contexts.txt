@@ -1,0 +1,15 @@
+step_decoded=10 pos=38 dir=+ impact=0.155963 shift=0.156516 cats=content_heavy earlier=10 later=19 same=0
+Certainly^(-9)!^(-10) Here^(-8)'s^(-7) a^(-6) unique^(+5) way^(+4) for^(+2) humans^(+3) to^(-4) apologize^(-3) without^(-2) using^(-1) [Ġwords^(+0)] :^(+1)Ċ^(-5)Ċ^(+6)**^(+7)"^(+11)The^(+17) Silence^(+18) Token^(+19)"^(+12)**^(+10)Ċ^(+8)Ċ^(+9)Imagine^(+13) a^(+14) small^(+16),^(+15)
+
+step_decoded=23 pos=51 dir=+ impact=0.220265 shift=0.221163 cats=content_heavy earlier=13 later=19 same=0
+ apologize^(-16) without^(-15) using^(-14) words^(-13):^(-12)Ċ^(-18)Ċ^(-7)**^(-6)"^(-2)The^(+4) Silence^(+5) Token^(+6)"^(-1)**^(-3)Ċ^(-5)Ċ^(-4) [Imagine^(+0)]  a^(+1) small^(+3),^(+2) tangible^(+8) token^(+7) that^(+9) represents^(+10) an^(+16) apology^(+11).^(+12) This^(+13) token^(+14) could^(+17) be^(+15) a^(+18) simple^(+20)
+
+step_decoded=44 pos=70 dir=- impact=0.144714 shift=-0.144336 cats=content_heavy earlier=15 later=17 same=0
+,^(-19) tangible^(-13) token^(-14) that^(-12) represents^(-11) an^(-5) apology^(-10).^(-9) This^(-8) token^(-7) could^(-4) be^(-6) a^(-3) simple^(-1),^(-2) everyday^(+3) [Ġobject^(+0)]  like^(+2) a^(+1) feather^(+6),^(+4) a^(+5) piece^(+11) of^(+10) string^(+13),^(+9) or^(+8) a^(+7) small^(+12) stone^(+14).^(+15) The^(+16) token^(+17)
+
+step_decoded=55 pos=76 dir=+ impact=0.120735 shift=0.121901 cats=content_heavy earlier=20 later=12 same=0
+ apology^(-21).^(-20) This^(-19) token^(-18) could^(-15) be^(-17) a^(-14) simple^(-12),^(-13) everyday^(-8) object^(-11) like^(-9) a^(-10) feather^(-5),^(-7) a^(-6) [Ġpiece^(+0)]  of^(-1) string^(+2),^(-2) or^(-3) a^(-4) small^(+1) stone^(+3).^(+4) The^(+5) token^(+6) would^(+8) be^(+7) placed^(+10) in^(+11) a^(+9) small^(+14)
+
+step_decoded=56 pos=82 dir=- impact=0.146890 shift=-0.146308 cats=content_heavy earlier=15 later=17 same=0
+ a^(-15) simple^(-13),^(-14) everyday^(-9) object^(-12) like^(-10) a^(-11) feather^(-6),^(-8) a^(-7) piece^(-1) of^(-2) string^(+1),^(-3) or^(-4) a^(-5) [Ġsmall^(+0)]  stone^(+2).^(+3) The^(+4) token^(+5) would^(+7) be^(+6) placed^(+9) in^(+10) a^(+8) small^(+13),^(+11) discreet^(+14) container^(+12),^(+15) such^(+16) as^(+17)
+

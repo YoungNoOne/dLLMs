@@ -1,0 +1,43 @@
+{
+  "name": "music_of_gravity",
+  "prompt": "Astronomers detect melodies in gravitational waves. Write a concert review of the universe\u2019s first performance.",
+  "decoded": "The universe's first performance, as detected by astronomers through gravitational waves, is a mesmerizing symphony that captures the primordial essence of the cosmos. The concert begins with a single, resonant note, echoing through the void, marking the birth of the universe itself. As the music unfolds, it transforms into a complex, harmonious composition, reflecting the collision of galaxies and the dance of black holes.\n\nThe performance is a testament to the intricate beauty of the universe, with each note resonating with the energy of the Big Bang. The audience is transported to a realm where the laws of physics are suspended, and the harmony of the cosmos is the only sound.\n\nAs the concert reaches its climax, the music swells to a crescendo, representing the expansion of the universe and the birth of new stars. The audience is left in awe, as if witnessing the creation of the universe itself.\n\nThe universe's first performance is a masterpiece of cosmic music, a celebration of the beauty and complexity of the universe. It is a concert that will leave a lasting impression on all who experience it, a reminder of the majesty and wonder of the cosmos.",
+  "events_count": 3,
+  "max_mean_delta": 0.20253208705357142,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.12469878754058443,
+      "median_impact": 0.09441583806818182,
+      "mean_prompt_shift": -0.06503298020968719
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 73,
+      "direction": -1,
+      "mean_delta": 0.20253208705357142,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 233,
+      "direction": 1,
+      "mean_delta": 0.09441583806818182,
+      "sign_agreement": 0.9090909090909091,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 235,
+      "direction": -1,
+      "mean_delta": 0.0771484375,
+      "sign_agreement": 0.95,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

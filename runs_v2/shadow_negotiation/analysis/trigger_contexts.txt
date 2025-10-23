@@ -1,0 +1,3 @@
+step_decoded=14 pos=41 dir=- impact=0.046794 shift=-0.045756 cats=content_heavy earlier=14 later=15 same=0
+**^(-12)You^(-14):**^(-13) Hey^(-10),^(-11) what^(-9)'s^(-8) going^(-7) on^(-6)?^(-5)Ċ^(-3)Ċ^(-2)**^(-1) [Shadow^(+0)] :**^(-4) I^(+1) don^(+3)'t^(+2) want^(+5) to^(+4) be^(+6) bound^(+16) to^(+8) you^(+7) anymore^(+9).^(+10) I^(+11) want^(+12) to^(+14) be^(+13)
+

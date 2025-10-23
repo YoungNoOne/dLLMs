@@ -1,0 +1,152 @@
+{
+  "name": "memory_contest",
+  "prompt": "People compete to remember the most trivial details of their lives. Describe the championship event.",
+  "decoded": "The championship event is called \"Trivial Pursuit.\" It's a game show where contestants compete to answer questions about a wide range of topics, including history, science, literature, and pop culture. The questions are designed to be challenging and engaging, requiring contestants to use their knowledge and memory to recall the correct answers.\n\nThe event is divided into several rounds, with each round featuring a different category of questions. The first round is called \"The Challenge,\" where contestants answer questions about a specific topic, such as history or literature. The second round is called \"The Challenge,\" where contestants answer questions about a variety of topics, such as science or pop culture. The final round is called \"The Challenge,\" where contestants answer questions about a combination of topics, such as history and science.\n\nThe event is hosted by a charismatic and energetic host, who provides commentary and encouragement to the contestants. The contestants are judged by a panel of judges, who award points based on the accuracy and speed of their answers.\n\nThe winner of the championship event is crowned the \"Trivial Pursuit Champion\" and receives a grand prize. The event is a fun and exciting way for contestants to test their knowledge and memory, and to showcase their skills to the world.",
+  "events_count": 14,
+  "max_mean_delta": 0.08706233638743456,
+  "max_sign_agreement": 1.0,
+  "token_count": 14,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.08706233638743456,
+      "median_impact": 0.08706233638743456,
+      "mean_prompt_shift": -0.08684466563386234
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.03630899395054728,
+      "median_impact": 0.03695836018041237,
+      "mean_prompt_shift": -0.010796779329854659
+    },
+    {
+      "category": "punctuation",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.03630899395054728,
+      "median_impact": 0.03695836018041237,
+      "mean_prompt_shift": -0.010796779329854659
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 9,
+      "samples": 9,
+      "mean_impact": 0.03147987013825292,
+      "median_impact": 0.0312828256302521,
+      "mean_prompt_shift": -0.024602429926524248
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.027104591836734693,
+      "median_impact": 0.027104591836734693,
+      "mean_prompt_shift": -0.02669426383358231
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 3,
+      "direction": -1,
+      "mean_delta": 0.036303323412698416,
+      "sign_agreement": 0.9920634920634921,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 6,
+      "direction": -1,
+      "mean_delta": 0.03278739959839357,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 7,
+      "direction": -1,
+      "mean_delta": 0.03625882056451613,
+      "sign_agreement": 0.9919354838709677,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 10,
+      "direction": -1,
+      "mean_delta": 0.027104591836734693,
+      "sign_agreement": 0.9918367346938776,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 17,
+      "direction": -1,
+      "mean_delta": 0.0312828256302521,
+      "sign_agreement": 0.9789915966386554,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 24,
+      "direction": -1,
+      "mean_delta": 0.035139339826839824,
+      "sign_agreement": 0.9956709956709957,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 31,
+      "direction": -1,
+      "mean_delta": 0.0277099609375,
+      "sign_agreement": 0.9955357142857143,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 43,
+      "direction": -1,
+      "mean_delta": 0.028366376768867923,
+      "sign_agreement": 0.8867924528301887,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 59,
+      "direction": -1,
+      "mean_delta": 0.04363639987244898,
+      "sign_agreement": 0.9846938775510204,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 63,
+      "direction": -1,
+      "mean_delta": 0.027069091796875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 64,
+      "direction": -1,
+      "mean_delta": 0.08706233638743456,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 132,
+      "direction": -1,
+      "mean_delta": 0.028332221798780487,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 158,
+      "direction": 1,
+      "mean_delta": 0.03695836018041237,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 213,
+      "direction": 1,
+      "mean_delta": 0.028401692708333332,
+      "sign_agreement": 0.9523809523809523,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

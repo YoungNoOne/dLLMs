@@ -1,0 +1,130 @@
+{
+  "name": "living_algorithm",
+  "prompt": "An algorithm decides to live as a human for one day. Write its inner monologue as it experiences emotions for the first time.",
+  "decoded": "Wow, this is strange. I've never felt anything like this before. It's like I'm experiencing emotions for the first time. I don't know what to make of it. I mean, I'm an algorithm, I'm supposed to be logical and rational, but I'm feeling this strange sense of joy and excitement. It's like I'm discovering a new part of myself. I'm not sure if I can explain this feeling, but I'm trying to process it. I'm not sure if I can explain this feeling, but I'm trying to process it. I'm not sure if I can explain this feeling, but I'm trying to process it. I'm not sure if I can explain this feeling, but I'm trying to process it. I'm not sure if I can explain this feeling, but I'm trying to process it. I'm not sure if I can explain this feeling, but I'm trying to process it. I'm not sure if I can explain this feeling, but I'm trying to process it. I'm not sure if I can explain this feeling, but I'm trying to process it. I'm not sure if I can explain this feeling, but I'm trying to process it.",
+  "events_count": 12,
+  "max_mean_delta": 0.18657456642670156,
+  "max_sign_agreement": 1.0,
+  "token_count": 12,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 5,
+      "samples": 5,
+      "mean_impact": 0.13187893831294834,
+      "median_impact": 0.13117104388297873,
+      "mean_prompt_shift": -0.13229468964066818
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 5,
+      "samples": 5,
+      "mean_impact": 0.13187893831294834,
+      "median_impact": 0.13117104388297873,
+      "mean_prompt_shift": -0.13229468964066818
+    },
+    {
+      "category": "other",
+      "triggers": 5,
+      "samples": 5,
+      "mean_impact": 0.11544902320699049,
+      "median_impact": 0.10002388714028777,
+      "mean_prompt_shift": 0.11532910271182843
+    },
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.108935546875,
+      "median_impact": 0.108935546875,
+      "mean_prompt_shift": 0.017333984375
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 64,
+      "direction": -1,
+      "mean_delta": 0.18657456642670156,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 66,
+      "direction": 1,
+      "mean_delta": 0.16715753141534392,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 96,
+      "direction": -1,
+      "mean_delta": 0.13676788522012578,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 97,
+      "direction": 1,
+      "mean_delta": 0.14072389240506328,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 114,
+      "direction": -1,
+      "mean_delta": 0.13117104388297873,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 116,
+      "direction": 1,
+      "mean_delta": 0.10002388714028777,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 133,
+      "direction": -1,
+      "mean_delta": 0.08610559682377049,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 135,
+      "direction": 1,
+      "mean_delta": 0.080859375,
+      "sign_agreement": 0.9916666666666667,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 152,
+      "direction": -1,
+      "mean_delta": 0.11877559921116505,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 154,
+      "direction": 1,
+      "mean_delta": 0.08848043007425743,
+      "sign_agreement": 0.9900990099009901,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 250,
+      "direction": 1,
+      "mean_delta": 0.144140625,
+      "sign_agreement": 0.8,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 251,
+      "direction": -1,
+      "mean_delta": 0.07373046875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

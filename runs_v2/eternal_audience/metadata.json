@@ -1,0 +1,123 @@
+{
+  "name": "eternal_audience",
+  "prompt": "After death, every person becomes part of a cosmic audience watching the living. Write an observation report from one of them.",
+  "decoded": "Observation Report: Observer 123\n\nLocation: The Earth\n\nDate: October 10, 2021\n\nTime: 3:45 PM\n\nWeather: Cloudy\n\nConditions: Normal\n\nObservations:\n\n1. The Earth is a blue, green, and brown sphere with a diameter of approximately 12,000 miles.\n2. The atmosphere is composed of nitrogen, oxygen, and other gases.\n3. The surface is covered in oceans, rivers, and lakes.\n4. There are cities, towns, and villages scattered across the surface.\n5. There are forests, deserts, and mountains.\n6. There are animals, plants, and insects.\n7. There are people, cultures, and languages.\n8. There are wars, conflicts, and disasters.\n9. There are celebrations, festivals, and holidays.\n10. There are music, art, and literature.\n11. There are sports, movies, and entertainment.\n12. There are politics, government, and economy.\n13. There are science, technology, and innovation.\n14. There are love, friendship and family.",
+  "events_count": 11,
+  "max_mean_delta": 0.27837089143426297,
+  "max_sign_agreement": 1.0,
+  "token_count": 11,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.22246435198131737,
+      "median_impact": 0.230071126496677,
+      "mean_prompt_shift": -0.22218785616780568
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.17597457515951304,
+      "median_impact": 0.15622631758182726,
+      "mean_prompt_shift": 0.17739533804430313
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.13574842567708292,
+      "median_impact": 0.12838250698324022,
+      "mean_prompt_shift": -0.020388480552128496
+    },
+    {
+      "category": "punctuation",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.13574842567708292,
+      "median_impact": 0.12838250698324022,
+      "mean_prompt_shift": -0.020388480552128496
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 4,
+      "direction": -1,
+      "mean_delta": 0.27837089143426297,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 6,
+      "direction": 1,
+      "mean_delta": 0.24504267068273092,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 14,
+      "direction": -1,
+      "mean_delta": 0.21995753371369295,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 17,
+      "direction": 1,
+      "mean_delta": 0.15474002100840337,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 19,
+      "direction": -1,
+      "mean_delta": 0.240184719279661,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 27,
+      "direction": 1,
+      "mean_delta": 0.1723118832236842,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 33,
+      "direction": -1,
+      "mean_delta": 0.10655088682432433,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 36,
+      "direction": 1,
+      "mean_delta": 0.15771261415525115,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 42,
+      "direction": -1,
+      "mean_delta": 0.1513442634976526,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 45,
+      "direction": 1,
+      "mean_delta": 0.14640299479166666,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 76,
+      "direction": -1,
+      "mean_delta": 0.12838250698324022,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

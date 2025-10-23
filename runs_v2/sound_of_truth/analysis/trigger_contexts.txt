@@ -1,0 +1,3 @@
+step_decoded=15 pos=39 dir=- impact=0.044141 shift=-0.041223 cats=content_heavy earlier=15 later=14 same=0
+If^(-14) truth^(-15) had^(-9) an^(-13) actual^(-12) tone^(-10),^(-11) it^(-8) would^(-7) be^(-6) a^(-5) steady^(-1),^(-4) [Ġunwavering^(+0)] ,^(-3) and^(-2) unwavering^(+13) whisper^(+9).^(+1) It^(+2) would^(+3) sound^(+5) like^(+4) a^(+6) gentle^(+8),^(+7) soothing^(+12) voice^(+10),^(+11) with^(+15)
+

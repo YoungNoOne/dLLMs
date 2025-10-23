@@ -1,0 +1,90 @@
+[
+  {
+    "step_decoded": 4,
+    "direction": -1,
+    "mean_delta": 0.36244086155378485,
+    "median_delta": 0.36328125,
+    "sign_agreement": 1.0,
+    "valid_positions": 251,
+    "prompt_mean": 0.6023562001992032,
+    "prompt_shift": -0.36168149821349516,
+    "tokens": [
+      {
+        "step_decoded": 4,
+        "token_pos": 33,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 1.0,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 5,
+    "direction": 1,
+    "mean_delta": 0.0780625,
+    "median_delta": 0.078125,
+    "sign_agreement": 1.0,
+    "valid_positions": 250,
+    "prompt_mean": 0.681796875,
+    "prompt_shift": 0.07944067480079675,
+    "tokens": [
+      {
+        "step_decoded": 5,
+        "token_pos": 30,
+        "token_id": 2126,
+        "token_str": "\u0120De",
+        "conf_decoded": 0.70703125,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 6,
+    "direction": 1,
+    "mean_delta": 0.20017570281124497,
+    "median_delta": 0.203125,
+    "sign_agreement": 1.0,
+    "valid_positions": 249,
+    "prompt_mean": 0.8823418674698795,
+    "prompt_shift": 0.20054499246987956,
+    "tokens": [
+      {
+        "step_decoded": 6,
+        "token_pos": 37,
+        "token_id": 2469,
+        "token_str": "\u0120sit",
+        "conf_decoded": 0.515625,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 87,
+    "direction": -1,
+    "mean_delta": 0.22126697358630953,
+    "median_delta": 0.21875,
+    "sign_agreement": 1.0,
+    "valid_positions": 168,
+    "prompt_mean": 0.3084135509672619,
+    "prompt_shift": -0.22014367906232385,
+    "tokens": [
+      {
+        "step_decoded": 87,
+        "token_pos": 117,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.90625,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  }
+]

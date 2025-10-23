@@ -1,0 +1,3 @@
+step_decoded=27 pos=57 dir=- impact=0.035790 shift=-0.034215 cats=content_heavy earlier=16 later=16 same=0
+ other^(-16) language^(-15),^(-14) with^(-13) perfect^(-12) accuracy^(-11) and^(-10) speed^(-9).^(-8) This^(-7) invention^(-6),^(-5) known^(-4) as^(-3) the^(-2) "^(-1) [Universal^(+0)]  Trans^(+1)lator^(+2),"^(+3) is^(+4) banned^(+5) not^(+6) because^(+7) it^(+8)'s^(+17) dangerous^(+9),^(+10) but^(+11) because^(+12) it^(+13)'s^(+18) too^(+15)
+

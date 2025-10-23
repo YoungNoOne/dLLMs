@@ -1,0 +1,66 @@
+{
+  "name": "empty_celebration",
+  "prompt": "There\u2019s a parade in town, but no one remembers what it\u2019s for. Narrate the event.",
+  "decoded": "The sun was setting over the horizon, casting a warm glow over the quiet streets of the small town. The air was thick with the scent of pine and the distant hum of a summer breeze. The town square was alive with the sounds of laughter and chatter, as people gathered to watch the parade.\n\nThe procession was a blur of colors and sounds, with floats and bands marching through the streets. Children laughed and cheered as they watched the floats pass by, their faces lit up with excitement. The air was filled with the sounds of music and the clinking of cups, as the floats paraded through the crowd.\n\nBut despite the joy and excitement of the parade, no one seemed to remember what it was for. The townspeople were lost in their own thoughts, each lost in their own world. The parade was a celebration of something, but no one could quite remember what it was.\n\nAs the parade drew to a close, the townspeople began to head home, each carrying their own memories and reflections. The town square was quiet once more, save for the distant sound of the sun setting over the horizon. The parade had been a day of joy and celebration, but it was also a day of uncertainty and a search for purpose.",
+  "events_count": 4,
+  "max_mean_delta": 0.23907251602564103,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.12415957076334301,
+      "median_impact": 0.08938576357208029,
+      "mean_prompt_shift": -0.07175804065608682
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04849063648897059,
+      "median_impact": 0.04849063648897059,
+      "mean_prompt_shift": -0.048289160198180525
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04849063648897059,
+      "median_impact": 0.04849063648897059,
+      "mean_prompt_shift": -0.048289160198180525
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 60,
+      "direction": -1,
+      "mean_delta": 0.23907251602564103,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 118,
+      "direction": 1,
+      "mean_delta": 0.08938576357208029,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 119,
+      "direction": -1,
+      "mean_delta": 0.04849063648897059,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 242,
+      "direction": -1,
+      "mean_delta": 0.044020432692307696,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

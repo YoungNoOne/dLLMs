@@ -1,0 +1,88 @@
+{
+  "name": "dreamless_generation",
+  "prompt": "The new generation can\u2019t dream. Write a bedtime story created to teach them what dreams once were.",
+  "decoded": "Once upon a time, in a land far away, there was a young girl named Lily. She loved to dream about flying through the sky and exploring the world around her. But as she grew older, she started to realize that her dreams were becoming less and less vivid.\n\nOne night, Lily had a dream that she was flying over a beautiful forest, surrounded by tall trees and colorful flowers. She felt so happy and free, and she knew that she was meant to be there. But when she woke up, she realized that she was still in her bed, and the dream was just a memory.\n\nLily realized that her dreams were not just a product of her imagination, but a way for her to explore the world and experience new things. She learned that dreams were not just a way to escape reality, but a way to discover new ideas and possibilities.\n\nFrom that day on, Lily made it a point to embrace her dreams and let them guide her. She learned that dreams were not just a way to predict the future, but a way to enjoy the present and appreciate the beauty of life.\n\nAnd so, Lily lived happily ever after, always dreaming of the possibilities and the beauty of the world around her. The end.",
+  "events_count": 6,
+  "max_mean_delta": 0.18079395012315272,
+  "max_sign_agreement": 1.0,
+  "token_count": 6,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.08963441556374842,
+      "median_impact": 0.04434940732758621,
+      "mean_prompt_shift": -0.06047057504609788
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.0664154155243529,
+      "median_impact": 0.0664154155243529,
+      "mean_prompt_shift": -0.06553528573916628
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0574640012254902,
+      "median_impact": 0.0574640012254902,
+      "mean_prompt_shift": -0.057353314801530386
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0574640012254902,
+      "median_impact": 0.0574640012254902,
+      "mean_prompt_shift": -0.057353314801530386
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 3,
+      "direction": -1,
+      "mean_delta": 0.08198474702380952,
+      "sign_agreement": 0.996031746031746,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 14,
+      "direction": -1,
+      "mean_delta": 0.050846084024896265,
+      "sign_agreement": 0.991701244813278,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 51,
+      "direction": -1,
+      "mean_delta": 0.0574640012254902,
+      "sign_agreement": 0.9852941176470589,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 52,
+      "direction": -1,
+      "mean_delta": 0.18079395012315272,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 176,
+      "direction": 1,
+      "mean_delta": 0.043759889240506326,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 226,
+      "direction": -1,
+      "mean_delta": 0.04434940732758621,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

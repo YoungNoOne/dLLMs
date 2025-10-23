@@ -1,0 +1,72 @@
+{
+  "name": "truth_inversion",
+  "prompt": "Invent a short dialogue where every sentence is technically true but deeply misleading.",
+  "decoded": "**Alex:** Hey, Jamie, have you seen the new movie?\n\n**Jamie:** Yeah, I watched it last night. It was a total disaster.\n\n**Alex:** Really? I heard it was a huge hit.\n\n**Jamie:** Actually, it was a complete flop.\n\n**Alex:** Oh, I see. I thought it was a blockbuster hit.\n\n**Jamie:** No, it was a total disaster.\n\n**Alex:** Okay, I understand. I thought it was a huge hit.\n\n**Jamie:** Actually, it was a complete flop.\n\n**Alex:** Oh, I see. I thought it was a blockbuster hit.\n\n**Jamie:** No, it was a total disaster.\n\n**Alex:** Okay, I understand. I thought it was a huge hit.\n\n**Jamie:** Actually, it was a complete flop.\n\n**Alex:** Oh, I see. I thought it was a blockbuster hit.\n\n**Jamie:** No, it was a total disaster.\n\n**Alex:** Okay, I understand. I thought it was a huge hit.\n\n**Jamie:** Actually, it was a complete flop.",
+  "events_count": 6,
+  "max_mean_delta": 0.20707101951357465,
+  "max_sign_agreement": 1.0,
+  "token_count": 6,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.10911698914341378,
+      "median_impact": 0.07242838541666667,
+      "mean_prompt_shift": -0.0973488166747013
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.060506659594729194,
+      "median_impact": 0.061,
+      "mean_prompt_shift": -0.06001033445040435
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 4,
+      "direction": -1,
+      "mean_delta": 0.0715730826693227,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 5,
+      "direction": -1,
+      "mean_delta": 0.061,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 34,
+      "direction": -1,
+      "mean_delta": 0.20707101951357465,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 218,
+      "direction": -1,
+      "mean_delta": 0.048946896114864864,
+      "sign_agreement": 0.9459459459459459,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 249,
+      "direction": -1,
+      "mean_delta": 0.07242838541666667,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 251,
+      "direction": -1,
+      "mean_delta": 0.0478515625,
+      "sign_agreement": 0.75,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

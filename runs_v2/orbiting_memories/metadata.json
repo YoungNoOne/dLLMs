@@ -1,0 +1,124 @@
+{
+  "name": "orbiting_memories",
+  "prompt": "Satellites start broadcasting personal memories into space. Write the transmission log of someone who tunes in to their own childhood from orbit.",
+  "decoded": "**Transmission Log:**\n\n**Date:** October 12, 2023\n\n**Time:** 14:45 UTC\n\n**Location:** Orbit, Earth\n\n**Receiver:** John Doe\n\n**Transmission:**\n\n\"Hello, space. I'm John Doe, and I'm tuning in to my childhood memories. The signal is weak, but I can hear the faint echoes of my childhood. I remember the sound of my mother's voice, the smell of her homemade cookies, and the feeling of my father's hand in mine as we walked through the park. The memories are vivid, but they're also distant. I can hear the laughter of my siblings, the sound of the radio playing in the background, and the smell of popcorn in the air. It's as if I'm reliving my childhood, but it's also as if I'm watching it unfold from afar. The memories are strong, but they're also fragile. I can feel the weight of time, the passage of years, and the passage of memories. I'm grateful for these memories, but I'm also aware that they're fleeting. Thank you, space, for broadcasting these memories to me.\"\n\n**End of Transmission Log**",
+  "events_count": 10,
+  "max_mean_delta": 0.08287863756613757,
+  "max_sign_agreement": 1.0,
+  "token_count": 10,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.06852202746185751,
+      "median_impact": 0.07686341208133972,
+      "mean_prompt_shift": -0.06827862828654668
+    },
+    {
+      "category": "punctuation",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.05549846539073725,
+      "median_impact": 0.058422984972677595,
+      "mean_prompt_shift": -0.02518419107933567
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.05549846539073725,
+      "median_impact": 0.058422984972677595,
+      "mean_prompt_shift": -0.02518419107933567
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04885619342571855,
+      "median_impact": 0.04885619342571855,
+      "mean_prompt_shift": -0.04888841617956069
+    },
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.042705768361738235,
+      "median_impact": 0.042705768361738235,
+      "mean_prompt_shift": -0.04132286162861565
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 4,
+      "direction": -1,
+      "mean_delta": 0.04454058764940239,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 39,
+      "direction": -1,
+      "mean_delta": 0.04087094907407408,
+      "sign_agreement": 0.9768518518518519,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 45,
+      "direction": -1,
+      "mean_delta": 0.04582403273809524,
+      "sign_agreement": 0.9952380952380953,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 46,
+      "direction": -1,
+      "mean_delta": 0.07686341208133972,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 66,
+      "direction": -1,
+      "mean_delta": 0.08287863756613757,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 72,
+      "direction": -1,
+      "mean_delta": 0.058422984972677595,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 161,
+      "direction": -1,
+      "mean_delta": 0.04016373005319149,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 185,
+      "direction": 1,
+      "mean_delta": 0.044224330357142856,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 198,
+      "direction": -1,
+      "mean_delta": 0.05754865679824561,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 232,
+      "direction": -1,
+      "mean_delta": 0.06384808084239131,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

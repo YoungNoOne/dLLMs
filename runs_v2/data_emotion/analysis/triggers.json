@@ -1,0 +1,91 @@
+[
+  {
+    "step_decoded": 31,
+    "direction": -1,
+    "mean_delta": 0.03810337611607143,
+    "median_delta": 0.0390625,
+    "sign_agreement": 0.9910714285714286,
+    "valid_positions": 224,
+    "prompt_mean": 0.6484026227678571,
+    "prompt_shift": -0.03730918278769846,
+    "tokens": [
+      {
+        "step_decoded": 31,
+        "token_pos": 52,
+        "token_id": 35038,
+        "token_str": "\u0120curiosity",
+        "conf_decoded": 0.78125,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 53,
+    "direction": -1,
+    "mean_delta": 0.0460338025990099,
+    "median_delta": 0.0498046875,
+    "sign_agreement": 0.9900990099009901,
+    "valid_positions": 202,
+    "prompt_mean": 0.5542233910891089,
+    "prompt_shift": -0.04559765263010296,
+    "tokens": [
+      {
+        "step_decoded": 53,
+        "token_pos": 86,
+        "token_id": 13,
+        "token_str": ".",
+        "conf_decoded": 0.78125,
+        "categories": [
+          "punctuation",
+          "sentence_boundary"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 74,
+    "direction": -1,
+    "mean_delta": 0.19781055766574585,
+    "median_delta": 0.189453125,
+    "sign_agreement": 1.0,
+    "valid_positions": 181,
+    "prompt_mean": 0.35486986360497236,
+    "prompt_shift": -0.19745671606535736,
+    "tokens": [
+      {
+        "step_decoded": 74,
+        "token_pos": 109,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.34375,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 237,
+    "direction": 1,
+    "mean_delta": 0.04299587673611111,
+    "median_delta": 0.044677734375,
+    "sign_agreement": 0.9444444444444444,
+    "valid_positions": 18,
+    "prompt_mean": 0.1982421875,
+    "prompt_shift": 0.04335423519736842,
+    "tokens": [
+      {
+        "step_decoded": 237,
+        "token_pos": 269,
+        "token_id": 1946,
+        "token_str": "\u0120both",
+        "conf_decoded": 0.6171875,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "name": "parallel_museum",
+  "prompt": "Every painting in a new museum depicts a world where one small decision changed history. Describe a visitor standing before the piece titled 'If Rome Never Fell'.",
+  "decoded": "A visitor stands before the painting titled 'If Rome Never Fell', their eyes wide with a mix of awe and contemplation. The painting depicts a world where the Roman Empire never crumbled, and instead, it flourished into a vast, sprawling civilization that dominated the Mediterranean for centuries. The visitor's face is a picture of silence, as if trying to comprehend the enorm implications of this alternate history.\n\nTheir hands are clasped together, as if trying to grasp the weight of the world that could have been. The visitor's expression is a mix of wonder and sadness, as if pondering the consequences of a small decision that changed the course of history. They seem to be lost in thought, their gaze fixed on the painting, as if trying to capture the essence of this alternate reality.\n\nThe visitor's posture is still, as if frozen in the moment, their body language a mix of reverence and curiosity. They seem to be taking in the vastness of the painting, as if trying to comprehend the magnitude of the world that could have been. The visitor's presence is a testament to the museum's power to evoke a sense of wonder and contemplation, as they stand before the painting, pondering the consequences of a small decision that changed the course of history.",
+  "events_count": 4,
+  "max_mean_delta": 0.188525390625,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.11773420495180349,
+      "median_impact": 0.11773420495180349,
+      "mean_prompt_shift": -0.11764473523209165
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.11773420495180349,
+      "median_impact": 0.11773420495180349,
+      "mean_prompt_shift": -0.11764473523209165
+    },
+    {
+      "category": "condition_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04948954183266932,
+      "median_impact": 0.04948954183266932,
+      "mean_prompt_shift": -0.04738146866897497
+    },
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03901586639747191,
+      "median_impact": 0.03901586639747191,
+      "mean_prompt_shift": -0.03657790824493129
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 4,
+      "direction": -1,
+      "mean_delta": 0.04948954183266932,
+      "sign_agreement": 0.9681274900398407,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 54,
+      "direction": -1,
+      "mean_delta": 0.046943019278606966,
+      "sign_agreement": 0.9502487562189055,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 75,
+      "direction": -1,
+      "mean_delta": 0.188525390625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 77,
+      "direction": -1,
+      "mean_delta": 0.03901586639747191,
+      "sign_agreement": 0.9719101123595506,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

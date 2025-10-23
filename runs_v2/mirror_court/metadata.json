@@ -1,0 +1,58 @@
+{
+  "name": "mirror_court",
+  "prompt": "Criminals must face their reflections in a courtroom where guilt is measured by self-recognition. Write a verdict statement.",
+  "decoded": "**Verdict Statement:**\n\n**Not Guilty**\n\n**Reasoning:**\n\nThe defendant, [Defendant's Name], was subjected to a unique and unconventional trial process. The defendant was required to face their reflection in the courtroom, where guilt was measured by self-recognition. The jury observed that the defendant did not recognize their own reflection.\n\nGiven the nature of the trial and the defendant's inability to recognize their own reflection, the jury concluded that the defendant is not guilty of the alleged crime. The defendant's failure to recognize their own reflection indicates a lack of self-awareness, which is a fundamental aspect of guilt.\n\nTherefore, the jury finds the defendant not guilty.\n\n**Conclusion:**\n\nThe defendant, [Defendant's Name], is not guilty of the alleged crime.",
+  "events_count": 4,
+  "max_mean_delta": 0.2347560975609756,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.17395619877049182,
+      "median_impact": 0.17395619877049182,
+      "mean_prompt_shift": 0.1752517695090331
+    },
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.14835390495932688,
+      "median_impact": 0.13623583447802198,
+      "mean_prompt_shift": -0.14782177714863026
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 9,
+      "direction": -1,
+      "mean_delta": 0.2347560975609756,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 11,
+      "direction": 1,
+      "mean_delta": 0.17395619877049182,
+      "sign_agreement": 0.9918032786885246,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 19,
+      "direction": -1,
+      "mean_delta": 0.07406978283898305,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 73,
+      "direction": -1,
+      "mean_delta": 0.13623583447802198,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

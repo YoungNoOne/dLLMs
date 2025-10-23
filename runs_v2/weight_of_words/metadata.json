@@ -1,0 +1,44 @@
+{
+  "name": "weight_of_words",
+  "prompt": "Every word gains physical weight when spoken. Write a courtroom scene where someone\u2019s lie collapses the ceiling.",
+  "decoded": "The courtroom was thick with tension as the defendant stood on the witness stand, their eyes fixed on the prosecutor. The prosecutor's voice was calm and measured, but the defendant's gaze was intense, as if searching for a weakness.\n\nSuddenly, the defendant's eyes widened, and they leaned forward, their voice rising to a whisper. \"I didn't do it.\"\n\nThe courtroom fell silent. The prosecutor's eyes widened in shock, and the judge's eyes widened in disbelief. The defendant's lie had collapsed the ceiling, and the courtroom was thrown into chaos.\n\nThe prosecutor's voice rose, and the judge's voice was filled with outrage. The defendant's lie had shattered the very foundation of the case, and the courtroom was left reeling.\n\nThe defendant's eyes widened in fear, and they tried to cover their tracks. But the truth was out, and the courtroom was left reeling. The defendant's lie had collapsed the ceiling, and the courtroom was thrown into chaos.\n\nThe prosecutor's voice rose, and the judge's voice was filled with outrage. The defendant's lie had shattered the very foundation of the case, and the courtroom was left reeling. The truth was out, and the defendant was exposed.",
+  "events_count": 2,
+  "max_mean_delta": 0.2513456937799043,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2513456937799043,
+      "median_impact": 0.2513456937799043,
+      "mean_prompt_shift": -0.250816805864092
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0567046618852459,
+      "median_impact": 0.0567046618852459,
+      "mean_prompt_shift": -0.05550893641267984
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 11,
+      "direction": -1,
+      "mean_delta": 0.0567046618852459,
+      "sign_agreement": 0.9918032786885246,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 46,
+      "direction": -1,
+      "mean_delta": 0.2513456937799043,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

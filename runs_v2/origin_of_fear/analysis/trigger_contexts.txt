@@ -1,0 +1,3 @@
+step_decoded=6 pos=38 dir=+ impact=0.056264 shift=0.057576 cats=content_heavy earlier=6 later=14 same=0
+Experiment^(-6) Notes^(+1):^(-5) Living^(-2) [ĠWithout^(+0)]  Fear^(-1).^(+2)Ċ^(-3)Ċ^(-4)Today^(+3),^(+4) I^(+5) attempted^(+9) to^(+6) live^(+7) without^(+8) fear^(+10).^(+11) I^(+12) started^(+14) by^(+13)
+

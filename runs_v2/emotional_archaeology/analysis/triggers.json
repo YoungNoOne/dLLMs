@@ -1,0 +1,179 @@
+[
+  {
+    "step_decoded": 12,
+    "direction": -1,
+    "mean_delta": 0.21939300411522633,
+    "median_delta": 0.21875,
+    "sign_agreement": 1.0,
+    "valid_positions": 243,
+    "prompt_mean": 0.6742058899176955,
+    "prompt_shift": -0.21880448405771435,
+    "tokens": [
+      {
+        "step_decoded": 12,
+        "token_pos": 52,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.734375,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 13,
+    "direction": 1,
+    "mean_delta": 0.14891367510330578,
+    "median_delta": 0.15234375,
+    "sign_agreement": 1.0,
+    "valid_positions": 242,
+    "prompt_mean": 0.8241541838842975,
+    "prompt_shift": 0.14994829396660203,
+    "tokens": [
+      {
+        "step_decoded": 13,
+        "token_pos": 53,
+        "token_id": 6272,
+        "token_str": "Date",
+        "conf_decoded": 0.318359375,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 18,
+    "direction": -1,
+    "mean_delta": 0.11481408227848101,
+    "median_delta": 0.109375,
+    "sign_agreement": 1.0,
+    "valid_positions": 237,
+    "prompt_mean": 0.6958728902953587,
+    "prompt_shift": -0.11388616957859088,
+    "tokens": [
+      {
+        "step_decoded": 18,
+        "token_pos": 59,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.9921875,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 20,
+    "direction": -1,
+    "mean_delta": 0.09732380319148937,
+    "median_delta": 0.1015625,
+    "sign_agreement": 1.0,
+    "valid_positions": 235,
+    "prompt_mean": 0.6345744680851064,
+    "prompt_shift": -0.09607635288946981,
+    "tokens": [
+      {
+        "step_decoded": 20,
+        "token_pos": 60,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.67578125,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 22,
+    "direction": 1,
+    "mean_delta": 0.14754895386266095,
+    "median_delta": 0.1484375,
+    "sign_agreement": 1.0,
+    "valid_positions": 233,
+    "prompt_mean": 0.772699839055794,
+    "prompt_shift": 0.1492523230301529,
+    "tokens": [
+      {
+        "step_decoded": 22,
+        "token_pos": 61,
+        "token_id": 8934,
+        "token_str": "Location",
+        "conf_decoded": 0.890625,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 27,
+    "direction": -1,
+    "mean_delta": 0.14991091008771928,
+    "median_delta": 0.1484375,
+    "sign_agreement": 1.0,
+    "valid_positions": 228,
+    "prompt_mean": 0.614000822368421,
+    "prompt_shift": -0.14889491998965754,
+    "tokens": [
+      {
+        "step_decoded": 27,
+        "token_pos": 66,
+        "token_id": 60,
+        "token_str": "]",
+        "conf_decoded": 0.984375,
+        "categories": [
+          "punctuation",
+          "bracket"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 28,
+    "direction": 1,
+    "mean_delta": 0.13596159140969163,
+    "median_delta": 0.13671875,
+    "sign_agreement": 1.0,
+    "valid_positions": 227,
+    "prompt_mean": 0.7511357378854625,
+    "prompt_shift": 0.1371349155170415,
+    "tokens": [
+      {
+        "step_decoded": 28,
+        "token_pos": 67,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.99609375,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 30,
+    "direction": -1,
+    "mean_delta": 0.13033854166666667,
+    "median_delta": 0.13671875,
+    "sign_agreement": 1.0,
+    "valid_positions": 225,
+    "prompt_mean": 0.6030815972222222,
+    "prompt_shift": -0.1293575620698132,
+    "tokens": [
+      {
+        "step_decoded": 30,
+        "token_pos": 69,
+        "token_id": 21688,
+        "token_str": "Summary",
+        "conf_decoded": 0.134765625,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  }
+]

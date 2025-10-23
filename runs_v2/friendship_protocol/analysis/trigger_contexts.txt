@@ -1,0 +1,6 @@
+step_decoded=13 pos=50 dir=+ impact=0.061911 shift=0.063814 cats=filler_marker;content_heavy earlier=13 later=17 same=0
+Dear^(-12) [^(-11)Recipient^(-6)'s^(-7) Name^(-9)],^(-10)Ċ^(-13)Ċ^(-8)I^(-2) hope^(-1) this^(-4) message^(+2) finds^(-5) you^(-3) [Ġwell^(+0)] .^(+1) I^(+4) am^(+5) writing^(+3) to^(+6) formally^(+7) express^(+9) my^(+8) decision^(+11) regarding^(+10) the^(+12) registration^(+13) of^(+14) our^(+16) friendship^(+15) under^(+18)
+
+step_decoded=16 pos=54 dir=+ impact=0.065989 shift=0.067204 cats=content_heavy earlier=14 later=18 same=0
+Recipient^(-9)'s^(-10) Name^(-12)],^(-13)Ċ^(-16)Ċ^(-11)I^(-5) hope^(-4) this^(-7) message^(-1) finds^(-8) you^(-6) well^(-3).^(-2) I^(+1) am^(+2) [Ġwriting^(+0)]  to^(+3) formally^(+4) express^(+6) my^(+5) decision^(+8) regarding^(+7) the^(+9) registration^(+10) of^(+11) our^(+13) friendship^(+12) under^(+15) the^(+14) new^(+18) legal^(+16) protocols^(+17)
+

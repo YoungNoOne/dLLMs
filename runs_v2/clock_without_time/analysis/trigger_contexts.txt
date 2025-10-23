@@ -1,0 +1,3 @@
+step_decoded=8 pos=38 dir=+ impact=0.163691 shift=0.164109 cats=content_heavy earlier=8 later=16 same=0
+**^(-8)Entry^(-3):^(-2) Noon^(-4)**^(-5)Ċ^(-7)Ċ^(-6)The^(-1) [Ġclock^(+0)] ,^(+2) once^(+1) a^(+3) mere^(+6) marker^(+7) of^(+4) time^(+5),^(+8) now^(+9) stands^(+10) as^(+11) a^(+12) silent^(+13) witness^(+14) to^(+15) the^(+16)
+

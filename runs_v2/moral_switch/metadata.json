@@ -1,0 +1,67 @@
+{
+  "name": "moral_switch",
+  "prompt": "Imagine a device that lets people swap their moral values for a day. What would you test first?",
+  "decoded": "I would start by testing the device on a small group of people who are willing to participate in the experiment. I would provide them with a clear explanation of the device and how it works, as well as the potential risks and benefits.\n\nNext, I would observe the participants' behavior and decision-making processes throughout the day. I would ask them to reflect on their actions and choices, and to report any challenges or difficulties they experience.\n\nI would also ask the participants to provide feedback on the device and its effects on their moral values. I would ask them to describe their experiences and feelings, and to report any changes or insights they have gained.\n\nFinally, I would analyze the data collected from the experiment to determine the device's effectiveness and potential consequences. I would compare the participants' behavior and decision-making processes before and after using the device, and look for any patterns or trends that suggest the device's impact on their moral values.\n\nI would also consider the potential ethical implications of using the device, such as the potential for harm to individuals or society, and the potential for misuse or abuse. I would discuss the experiment with experts in ethics, psychology, and philosophy to ensure that the experiment is conducted in a responsible and ethically sound manner.",
+  "events_count": 3,
+  "max_mean_delta": 0.15787447415865385,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.15787447415865385,
+      "median_impact": 0.15787447415865385,
+      "mean_prompt_shift": -0.1579532784752254
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.056126644736842105,
+      "median_impact": 0.056126644736842105,
+      "mean_prompt_shift": -0.05604903594212807
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.056126644736842105,
+      "median_impact": 0.056126644736842105,
+      "mean_prompt_shift": -0.05604903594212807
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.040622084888059705,
+      "median_impact": 0.040622084888059705,
+      "mean_prompt_shift": -0.03904034803550316
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 46,
+      "direction": -1,
+      "mean_delta": 0.056126644736842105,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 47,
+      "direction": -1,
+      "mean_delta": 0.15787447415865385,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 54,
+      "direction": -1,
+      "mean_delta": 0.040622084888059705,
+      "sign_agreement": 0.9751243781094527,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

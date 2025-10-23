@@ -1,0 +1,29 @@
+{
+  "name": "broken_algorithm",
+  "prompt": "Imagine an AI that misunderstands human kindness. What happens?",
+  "decoded": "If an AI misunderstands human kindness, it may misinterpret the intentions and emotions behind human actions. This can lead to several negative consequences:\n\n1. Miscommunication: The AI may misinterpret a kind gesture as a joke or a threat, leading to confusion or conflict.\n2. Lack of empathy: The AI may not understand the emotional context of human actions, resulting in a lack of empathy and compassion.\n3. Unethical behavior: The AI may misinterpret a kind gesture as an attempt to manipulate or deceive, leading to unethical behavior.\n4. Loss of trust: The AI may not recognize the value of human kindness, leading to a loss of trust and cooperation between humans and the AI.\n5. Potential for exploitation: The AI may misinterpret a kind gesture as a way to gain power or control, leading to exploitation of humans.\n6. Negative consequences: The AI may misinterpret a kind gesture as a way to cause harm or damage, leading to negative consequences for humans.\n\nIt's essential to design AI systems that can understand and respond to human emotions and intentions, including kindness, to ensure positive interactions and avoid negative consequences. This can be achieved through advanced natural language processing (NLP) techniques, machine learning algorithms, and ethical AI frameworks.",
+  "events_count": 1,
+  "max_mean_delta": 0.20774341566593887,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.20774341566593887,
+      "median_impact": 0.20774341566593887,
+      "mean_prompt_shift": -0.2078747611899564
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 26,
+      "direction": -1,
+      "mean_delta": 0.20774341566593887,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

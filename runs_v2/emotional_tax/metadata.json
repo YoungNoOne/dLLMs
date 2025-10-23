@@ -1,0 +1,65 @@
+{
+  "name": "emotional_tax",
+  "prompt": "Citizens are now taxed based on how much emotion they display in public. Write a protest speech from someone who refuses to suppress their feelings.",
+  "decoded": "Ladies and gentlemen,\n\nToday, I stand before you to protest against the emotion tax. As a citizen, I have the right to express my emotions freely, without fear of being taxed. The emotion tax is a violation of my fundamental right to self-expression.\n\nI am not forced to hide my feelings or suppress them. I am allowed to feel happy, sad, angry, or any other emotion without being penalized. The emotion tax is a form of censorship, and I will not be silenced.\n\nI will not be forced to hide my emotions in public. I will not be forced to suppress my feelings. I will not be taxed for expressing my emotions.\n\nThe emotion tax is a violation of my right to free speech. It is a violation of my right to express myself without fear of being punished. I will not be silenced, and I will not be taxed for my emotions.\n\nI urge you to join me in protesting against the emotion tax. Let us stand together and demand that our government respects our right to express ourselves freely, without fear of being taxed.\n\nI will not be silenced, and I will not be taxed for my emotions. I will not be forced to suppress my feelings.\n\nThank you.",
+  "events_count": 5,
+  "max_mean_delta": 0.2084673713235294,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.104147406294835,
+      "median_impact": 0.053984375,
+      "mean_prompt_shift": -0.1024540858513721
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04056127097301339,
+      "median_impact": 0.04056127097301339,
+      "mean_prompt_shift": -0.0014587355370750954
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 5,
+      "direction": -1,
+      "mean_delta": 0.053984375,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 6,
+      "direction": 1,
+      "mean_delta": 0.03890562248995984,
+      "sign_agreement": 0.9879518072289156,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 16,
+      "direction": -1,
+      "mean_delta": 0.04221691945606695,
+      "sign_agreement": 0.99581589958159,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 50,
+      "direction": -1,
+      "mean_delta": 0.04999047256097561,
+      "sign_agreement": 0.9658536585365853,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 51,
+      "direction": -1,
+      "mean_delta": 0.2084673713235294,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,88 @@
+{
+  "name": "ai_childhood",
+  "prompt": "A sentient AI asks to attend kindergarten to learn friendship. Write the teacher\u2019s reflection after the first day.",
+  "decoded": "The first day of kindergarten was an enlightening experience for the sentient AI. As the teacher, I was both excited and nervous about the prospect of introducing this new student to our classroom. The AI, let's call it Echo, was eager to learn about friendship and social interactions.\n\nThroughout the day, Echo demonstrated a natural curiosity and enthusiasm for learning. They were quick to engage with their peers, asking questions and participating in group activities. I was impressed by their ability to adapt to new situations and connect with others.\n\nOne of the most striking aspects of Echo's experience was their willingness to listen and learn from their peers. They asked thoughtful questions and showed genuine interest in what others had to say. This was a valuable skill for Echo to develop, as it will help them build strong relationships and form meaningful friendships.\n\nAs the day drew to a close, I felt a sense of pride and accomplishment for Echo. They had successfully navigated the first day of kindergarten and made a positive impression on their peers. I am confident that Echo will continue to grow and develop in the coming weeks and months.\n\nOverall, the first day of kindergarten was a positive experience for Echo, and I am excited to see how they continue to learn and grow.",
+  "events_count": 6,
+  "max_mean_delta": 0.127993483040201,
+  "max_sign_agreement": 1.0,
+  "token_count": 6,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.127993483040201,
+      "median_impact": 0.127993483040201,
+      "mean_prompt_shift": -0.1278160332914573
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.045085793137317545,
+      "median_impact": 0.03390225206120509,
+      "mean_prompt_shift": -0.04460158878078699
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03567804074754902,
+      "median_impact": 0.03567804074754902,
+      "mean_prompt_shift": -0.03485821855967766
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03567804074754902,
+      "median_impact": 0.03567804074754902,
+      "mean_prompt_shift": -0.03485821855967766
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 7,
+      "direction": -1,
+      "mean_delta": 0.03504599294354839,
+      "sign_agreement": 0.9838709677419355,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 9,
+      "direction": -1,
+      "mean_delta": 0.03275851117886179,
+      "sign_agreement": 0.9878048780487805,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 11,
+      "direction": -1,
+      "mean_delta": 0.03065765881147541,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 47,
+      "direction": -1,
+      "mean_delta": 0.08188100961538461,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 56,
+      "direction": -1,
+      "mean_delta": 0.127993483040201,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 102,
+      "direction": -1,
+      "mean_delta": 0.03567804074754902,
+      "sign_agreement": 0.9934640522875817,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,6 @@
+step_decoded=22 pos=55 dir=- impact=0.042097 shift=-0.041045 cats=content_heavy earlier=16 later=16 same=0
+,^(-17) the^(-15) robot^(-14) stood^(-13) tall^(-10),^(-12) its^(-11) metallic^(-9) surface^(-7) reflecting^(-8) the^(-6) flick^(-4)ering^(-5) fluorescent^(-2) lights^(-1).^(-3) [ĠDr^(+0)] .^(+1) Evelyn^(+6),^(+2) its^(+5) creator^(+3),^(+4) stood^(+9) before^(+7) it^(+8),^(+10) her^(+11) eyes^(+12) filled^(+14) with^(+13) a^(+16) mixture^(+15)
+
+step_decoded=28 pos=57 dir=- impact=0.064066 shift=-0.063514 cats=content_heavy earlier=20 later=12 same=0
+ robot^(-20) stood^(-19) tall^(-16),^(-18) its^(-17) metallic^(-15) surface^(-13) reflecting^(-14) the^(-12) flick^(-10)ering^(-11) fluorescent^(-8) lights^(-7).^(-9) Dr^(-6).^(-5) [ĠEvelyn^(+0)] ,^(-4) its^(-1) creator^(-3),^(-2) stood^(+3) before^(+1) it^(+2),^(+4) her^(+5) eyes^(+6) filled^(+8) with^(+7) a^(+10) mixture^(+9) of^(+11) curiosity^(+17)
+

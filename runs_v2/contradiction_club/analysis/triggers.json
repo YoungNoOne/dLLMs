@@ -1,0 +1,179 @@
+[
+  {
+    "step_decoded": 1,
+    "direction": -1,
+    "mean_delta": 0.07983206200787402,
+    "median_delta": 0.07421875,
+    "sign_agreement": 1.0,
+    "valid_positions": 254,
+    "prompt_mean": 0.875861220472441,
+    "prompt_shift": -0.07957689227265707,
+    "tokens": [
+      {
+        "step_decoded": 1,
+        "token_pos": 37,
+        "token_id": 57736,
+        "token_str": "Alice",
+        "conf_decoded": 0.48046875,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 6,
+    "direction": -1,
+    "mean_delta": 0.18043266817269077,
+    "median_delta": 0.17578125,
+    "sign_agreement": 1.0,
+    "valid_positions": 249,
+    "prompt_mean": 0.5818194653614458,
+    "prompt_shift": -0.18032115963855422,
+    "tokens": [
+      {
+        "step_decoded": 6,
+        "token_pos": 50,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.54296875,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 16,
+    "direction": 1,
+    "mean_delta": 0.17286382060669456,
+    "median_delta": 0.16796875,
+    "sign_agreement": 1.0,
+    "valid_positions": 239,
+    "prompt_mean": 0.6744573744769874,
+    "prompt_shift": 0.17344012187282076,
+    "tokens": [
+      {
+        "step_decoded": 16,
+        "token_pos": 52,
+        "token_id": 480,
+        "token_str": "**",
+        "conf_decoded": 1.0,
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 17,
+    "direction": -1,
+    "mean_delta": 0.16129694065126052,
+    "median_delta": 0.15625,
+    "sign_agreement": 1.0,
+    "valid_positions": 238,
+    "prompt_mean": 0.5133846507352942,
+    "prompt_shift": -0.16107272374169324,
+    "tokens": [
+      {
+        "step_decoded": 17,
+        "token_pos": 54,
+        "token_id": 31073,
+        "token_str": ":**",
+        "conf_decoded": 0.98046875,
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 33,
+    "direction": 1,
+    "mean_delta": 0.14631281672297297,
+    "median_delta": 0.138671875,
+    "sign_agreement": 1.0,
+    "valid_positions": 222,
+    "prompt_mean": 0.6027678068693694,
+    "prompt_shift": 0.14696711320345007,
+    "tokens": [
+      {
+        "step_decoded": 33,
+        "token_pos": 69,
+        "token_id": 480,
+        "token_str": "**",
+        "conf_decoded": 1.0,
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 35,
+    "direction": -1,
+    "mean_delta": 0.12895063920454544,
+    "median_delta": 0.123046875,
+    "sign_agreement": 1.0,
+    "valid_positions": 220,
+    "prompt_mean": 0.47196377840909093,
+    "prompt_shift": -0.12861774025606748,
+    "tokens": [
+      {
+        "step_decoded": 35,
+        "token_pos": 72,
+        "token_id": 477,
+        "token_str": "\u0120\"",
+        "conf_decoded": 1.0,
+        "categories": [
+          "punctuation",
+          "bracket"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 49,
+    "direction": 1,
+    "mean_delta": 0.1340166110436893,
+    "median_delta": 0.126953125,
+    "sign_agreement": 1.0,
+    "valid_positions": 206,
+    "prompt_mean": 0.4972314927184466,
+    "prompt_shift": 0.13443144742859148,
+    "tokens": [
+      {
+        "step_decoded": 49,
+        "token_pos": 85,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 1.0,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 50,
+    "direction": -1,
+    "mean_delta": 0.13356040396341465,
+    "median_delta": 0.125,
+    "sign_agreement": 1.0,
+    "valid_positions": 205,
+    "prompt_mean": 0.36401009908536586,
+    "prompt_shift": -0.13322139363308072,
+    "tokens": [
+      {
+        "step_decoded": 50,
+        "token_pos": 86,
+        "token_id": 480,
+        "token_str": "**",
+        "conf_decoded": 1.0,
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  }
+]

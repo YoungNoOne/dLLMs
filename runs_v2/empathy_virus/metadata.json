@@ -1,0 +1,88 @@
+{
+  "name": "empathy_virus",
+  "prompt": "A virus spreads that makes people physically experience each other\u2019s emotions. Write the world\u2019s first medical advisory.",
+  "decoded": "**Medical Advisory: Emotional Transmission Virus**\n\n**Date:** [Insert Date]\n\n**Location:** [Insert Location]\n\n**Subject:** Emotional Transmission Virus\n\n**Body:**\n\nDear Citizens,\n\nWe are writing to inform you of the emergence of a new virus that has been spreading rapidly across the globe. This virus, known as the Emotional Transmission Virus (ETV), has been confirmed to cause individuals to physically experience the emotions of others.\n\nSymptoms of ETV include:\n\n* Experiencing the emotions of others, such as joy, sadness, anger, or fear\n* Feeling a physical connection to the emotions of others\n* Experiencing physical reactions to the emotions of others\n\nWe urge you to take the following precautions to protect yourself and your loved ones:\n\n* Avoid close contact with individuals who are experiencing symptoms of ETV\n* Wear protective gear, such as gloves and masks, when interacting with others\n* Seek medical attention if you experience symptoms of ETV\n\nWe are working tirelessly to contain the spread of this virus and provide further information as it becomes available.\n\nThank you for your attention and cooperation.\n\nSincerely,\n\n[Insert Name of World Health Organization]",
+  "events_count": 6,
+  "max_mean_delta": 0.2649319556451613,
+  "max_sign_agreement": 1.0,
+  "token_count": 6,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.22965248889853002,
+      "median_impact": 0.22965248889853002,
+      "mean_prompt_shift": -0.22901165706676924
+    },
+    {
+      "category": "other",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.15456146874417576,
+      "median_impact": 0.16455078125,
+      "mean_prompt_shift": 0.10087642970343559
+    },
+    {
+      "category": "bracket",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.14930745087336245,
+      "median_impact": 0.14930745087336245,
+      "mean_prompt_shift": -0.14861334428991835
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.14930745087336245,
+      "median_impact": 0.14930745087336245,
+      "mean_prompt_shift": -0.14861334428991835
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 7,
+      "direction": -1,
+      "mean_delta": 0.2649319556451613,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 10,
+      "direction": 1,
+      "mean_delta": 0.21711575255102042,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 18,
+      "direction": -1,
+      "mean_delta": 0.19437302215189872,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 19,
+      "direction": 1,
+      "mean_delta": 0.16455078125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 26,
+      "direction": -1,
+      "mean_delta": 0.14930745087336245,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 36,
+      "direction": -1,
+      "mean_delta": 0.08201787243150685,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

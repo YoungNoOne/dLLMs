@@ -1,0 +1,12 @@
+step_decoded=6 pos=47 dir=+ impact=0.245043 shift=0.246226 cats=content_heavy earlier=6 later=20 same=0
+Observation^(-6) Report^(-5):^(-4) Observer^(+3) ^(+2)1^(+6)2^(+4)3^(+5)Ċ^(-3)Ċ^(-2) [Location^(+0)] :^(-1) The^(+1) Earth^(+9)Ċ^(+8)Ċ^(+7)Date^(+11):^(+10) October^(+24) ^(+16)1^(+20)0^(+25),^(+15) ^(+14)2^(+17)0^(+18)2^(+19)
+
+step_decoded=17 pos=53 dir=+ impact=0.154740 shift=0.156332 cats=content_heavy earlier=17 later=15 same=0
+Observation^(-17) Report^(-16):^(-15) Observer^(-8) ^(-9)1^(-5)2^(-7)3^(-6)Ċ^(-14)Ċ^(-13)Location^(-11):^(-12) The^(-10) Earth^(-2)Ċ^(-3)Ċ^(-4) [Date^(+0)] :^(-1) October^(+13) ^(+5)1^(+9)0^(+14),^(+4) ^(+3)2^(+6)0^(+7)2^(+8)1^(+12)Ċ^(+2)Ċ^(+1)Time^(+11):^(+10) ^(+15)
+
+step_decoded=36 pos=74 dir=+ impact=0.157713 shift=0.159085 cats=content_heavy earlier=15 later=17 same=0
+0^(-5),^(-15) ^(-16)2^(-13)0^(-12)2^(-11)1^(-7)Ċ^(-17)Ċ^(-18)Time^(-8):^(-9) ^(-4)3^(+4):^(-3)4^(+2)5^(+3) [ĠPM^(+0)] Ċ^(-2)Ċ^(-1)Weather^(+8):^(+1) Cloud^(+9)y^(+10)Ċ^(+6)Ċ^(+5)Conditions^(+11):^(+7) Normal^(+21)Ċ^(+12)Ċ^(+13)Obs^(+15)ervations^(+14):^(+16)
+
+step_decoded=45 pos=79 dir=+ impact=0.146403 shift=0.147938 cats=content_heavy earlier=19 later=13 same=0
+2^(-20)1^(-16)Ċ^(-26)Ċ^(-27)Time^(-17):^(-18) ^(-13)3^(-5):^(-12)4^(-7)5^(-6) PM^(-9)Ċ^(-11)Ċ^(-10)Weather^(-1):^(-8) [ĠCloud^(+0)] y^(+1)Ċ^(-3)Ċ^(-4)Conditions^(+2):^(-2) Normal^(+12)Ċ^(+3)Ċ^(+4)Obs^(+6)ervations^(+5):^(+7)Ċ^(+8)Ċ^(+9)1^(+11).^(+10) The^(+13)
+

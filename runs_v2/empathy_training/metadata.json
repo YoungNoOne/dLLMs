@@ -1,0 +1,44 @@
+{
+  "name": "empathy_training",
+  "prompt": "Governments now require empathy training through neural implants. Describe a classroom scene where emotions can be shared and traded among students.",
+  "decoded": "In a futuristic classroom, students are equipped with neural implants that allow them to share and trade emotions with one another. The room is filled with holographic displays that show the emotions of the students in real-time.\n\nAs the lesson begins, the teacher presents a scenario where a student is feeling sad and isolated. The students are instructed to use their neural implants to feel the emotions of the student and then share those emotions with one another.\n\nThe students begin to feel the emotions of the student and see them on the holographic displays. They then share their own emotions with one another, creating a sense of connection and understanding.\n\nThe teacher then asks the students to trade emotions with one another. One student shares their emotions of happiness with another, and the other student shares their emotions of sadness with someone else. This creates a sense of community and support among the students.\n\nAs the lesson progresses, the students continue to share and trade emotions with one another. They learn to understand and appreciate the emotions of others and develop a deeper sense of empathy and compassion.\n\nThe classroom is filled with a sense of connection and understanding as the students learn to share and trade emotions with one another, creating a safe and supportive environment for them to learn and grow in.",
+  "events_count": 2,
+  "max_mean_delta": 0.22135112441588786,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.22135112441588786,
+      "median_impact": 0.22135112441588786,
+      "mean_prompt_shift": -0.22056333711421433
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0662841796875,
+      "median_impact": 0.0662841796875,
+      "mean_prompt_shift": -0.058045998597756415
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 41,
+      "direction": -1,
+      "mean_delta": 0.22135112441588786,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 243,
+      "direction": -1,
+      "mean_delta": 0.0662841796875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

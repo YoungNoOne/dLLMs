@@ -1,0 +1,111 @@
+{
+  "name": "invisible_instrument",
+  "prompt": "A musician invents an instrument that can only be heard by those who feel lonely. Describe its first concert.",
+  "decoded": "The first concert of the new instrument, the \"LoneLoud,\" was a profound and emotional experience. As the performance began, the audience was enveloped in a soft, ethereal glow, symbolizing the presence of the instrument. The stage, adorned with delicate, glowing lights, seemed to pulse with an unseen energy.\n\nThe musician, a lone figure, played the \"LoneLoud\" with a passion that resonated deeply with the audience. The notes flowed like a gentle stream, weaving a tapestry of sound that seemed to touch the hearts of those who felt lonely. The music was not just a collection of notes but a symphony of emotions, each note a testament to the beauty of loneliness.\n\nAs the concert progressed, the audience began to feel a sense of connection, as if they were part of a larger, harmonious whole. The \"LoneLoud\" seemed to bridge the gap between individuals, creating a shared experience of empathy and understanding.\n\nThe concert was a testament to the power of music to heal and unite, even in the face of loneliness. The \"LoneLoud\" had become a beacon of hope, a reminder that even in the darkest moments, there is beauty and connection to be found.",
+  "events_count": 7,
+  "max_mean_delta": 0.146630859375,
+  "max_sign_agreement": 1.0,
+  "token_count": 7,
+  "categories": [
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.146630859375,
+      "median_impact": 0.146630859375,
+      "mean_prompt_shift": -0.14682482637692884
+    },
+    {
+      "category": "punctuation",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.07679036458333334,
+      "median_impact": 0.0439453125,
+      "mean_prompt_shift": -0.05421740924841686
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05652098003457581,
+      "median_impact": 0.05652098003457581,
+      "mean_prompt_shift": -0.0560067409228458
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05029296875,
+      "median_impact": 0.05029296875,
+      "mean_prompt_shift": 0.05173816215701221
+    },
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0470897414921466,
+      "median_impact": 0.0470897414921466,
+      "mean_prompt_shift": -0.04272327789253383
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.0418701171875,
+      "median_impact": 0.0418701171875,
+      "mean_prompt_shift": -0.007913700684160863
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 10,
+      "direction": -1,
+      "mean_delta": 0.05706313775510204,
+      "sign_agreement": 0.9877551020408163,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 13,
+      "direction": -1,
+      "mean_delta": 0.05597882231404959,
+      "sign_agreement": 0.987603305785124,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 64,
+      "direction": -1,
+      "mean_delta": 0.0470897414921466,
+      "sign_agreement": 0.9738219895287958,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 65,
+      "direction": -1,
+      "mean_delta": 0.146630859375,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 214,
+      "direction": -1,
+      "mean_delta": 0.0439453125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 215,
+      "direction": 1,
+      "mean_delta": 0.05029296875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 251,
+      "direction": 1,
+      "mean_delta": 0.039794921875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

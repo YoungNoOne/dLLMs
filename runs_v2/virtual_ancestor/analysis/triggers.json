@@ -1,0 +1,91 @@
+[
+  {
+    "step_decoded": 1,
+    "direction": -1,
+    "mean_delta": 0.046213705708661415,
+    "median_delta": 0.046875,
+    "sign_agreement": 1.0,
+    "valid_positions": 254,
+    "prompt_mean": 0.9304872047244095,
+    "prompt_shift": -0.04604465802068858,
+    "tokens": [
+      {
+        "step_decoded": 1,
+        "token_pos": 40,
+        "token_id": 5030,
+        "token_str": "User",
+        "conf_decoded": 0.65234375,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 17,
+    "direction": -1,
+    "mean_delta": 0.21677225577731093,
+    "median_delta": 0.21875,
+    "sign_agreement": 1.0,
+    "valid_positions": 238,
+    "prompt_mean": 0.5447659532563025,
+    "prompt_shift": -0.2164624724759151,
+    "tokens": [
+      {
+        "step_decoded": 17,
+        "token_pos": 57,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.4140625,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 113,
+    "direction": 1,
+    "mean_delta": 0.04907570422535211,
+    "median_delta": 0.0517578125,
+    "sign_agreement": 0.9929577464788732,
+    "valid_positions": 142,
+    "prompt_mean": 0.25390625,
+    "prompt_shift": 0.04861642263986013,
+    "tokens": [
+      {
+        "step_decoded": 113,
+        "token_pos": 153,
+        "token_id": 5030,
+        "token_str": "User",
+        "conf_decoded": 0.96875,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 119,
+    "direction": -1,
+    "mean_delta": 0.05129825367647059,
+    "median_delta": 0.0537109375,
+    "sign_agreement": 1.0,
+    "valid_positions": 136,
+    "prompt_mean": 0.1916827033547794,
+    "prompt_shift": -0.05066518099741038,
+    "tokens": [
+      {
+        "step_decoded": 119,
+        "token_pos": 161,
+        "token_id": 13,
+        "token_str": ".",
+        "conf_decoded": 0.91015625,
+        "categories": [
+          "punctuation",
+          "sentence_boundary"
+        ]
+      }
+    ]
+  }
+]

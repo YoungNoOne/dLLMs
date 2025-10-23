@@ -1,0 +1,6 @@
+step_decoded=30 pos=57 dir=- impact=0.057118 shift=-0.056728 cats=content_heavy earlier=16 later=16 same=0
+ hypothetical^(-15) scenario^(-16).^(-14) Let^(-13)'s^(-12) say^(-9) the^(-8) last^(-11) dream^(-10) I^(-7) remember^(-6) was^(-4) a^(-5) futuristic^(-2) city^(-3)scape^(-1) [Ġwith^(+0)]  towering^(+1) skysc^(+3)rap^(+2)ers^(+4),^(+6) flying^(+5) cars^(+9),^(+7) and^(+8) a^(+10) vast^(+13),^(+12) open^(+14) sky^(+15).^(+11) In^(+17)
+
+step_decoded=49 pos=79 dir=- impact=0.081699 shift=-0.078146 cats=content_heavy earlier=13 later=19 same=0
+ flying^(-14) cars^(-10),^(-12) and^(-11) a^(-9) vast^(-6),^(-7) open^(-5) sky^(-4).^(-8) In^(-2) this^(-3) setting^(+3),^(-1) a^(+4) political^(+1) [Ġdebate^(+0)]  could^(+2) be^(+5) held^(+6) on^(+7) the^(+8) topic^(+10) of^(+9) artificial^(+13) intelligence^(+14) and^(+11) its^(+12) potential^(+18) impact^(+21) on^(+17) society^(+15).^(+16)
+

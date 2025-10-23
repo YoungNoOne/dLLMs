@@ -1,0 +1,9 @@
+step_decoded=36 pos=73 dir=+ impact=0.044253 shift=0.043899 cats=content_heavy earlier=16 later=16 same=0
+.^(-16) The^(-15) air^(-13) was^(-14) thick^(-12) with^(-11) the^(-10) scent^(-8) of^(-9) ozone^(-5) and^(-7) the^(-6) hum^(-4) of^(-3) machines^(-2).^(-1) [ĠBuildings^(+0)]  to^(+1)wered^(+2) above^(+4) them^(+3),^(+5) their^(+6) fac^(+7)ades^(+8) adorned^(+10) with^(+9) strange^(+11) symbols^(+12) and^(+13) lights^(+15).^(+14) The^(+16)
+
+step_decoded=67 pos=102 dir=- impact=0.085028 shift=-0.084142 cats=content_heavy earlier=18 later=14 same=0
+ and^(-18) lights^(-16).^(-17) The^(-15) god^(-14)'s^(-13) mind^(-12) raced^(-11) as^(-10) they^(-9) tried^(-7) to^(-8) make^(-5) sense^(-6) of^(-4) this^(-2) [Ġnew^(+0)]  world^(-1).^(-3) They^(+1) had^(+2) heard^(+4) whispers^(+5) of^(+3) a^(+6) civilization^(+7) that^(+8) had^(+9) th^(+10)rived^(+11) in^(+12) the^(+13) shadows^(+16)
+
+step_decoded=94 pos=131 dir=- impact=0.107695 shift=-0.107714 cats=content_heavy earlier=16 later=16 same=0
+rived^(-16) in^(-15) the^(-14) shadows^(-11),^(-13) but^(-12) they^(-9) had^(-10) never^(-8) imagined^(-7) it^(-6) to^(-3) be^(-5) so^(-4) complex^(+1) and^(-2) [Ġchaotic^(+0)] .^(-1)Ċ^(+3)Ċ^(+2)The^(+4) god^(+5)'s^(+6) eyes^(+10) widened^(+9) as^(+8) they^(+7) saw^(+12) the^(+11) humans^(+13) bustling^(+17) about^(+14),^(+15)
+

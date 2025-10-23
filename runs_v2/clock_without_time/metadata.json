@@ -1,0 +1,51 @@
+{
+  "name": "clock_without_time",
+  "prompt": "A clock loses its numbers and begins showing memories instead. Write the entry for noon.",
+  "decoded": "**Entry: Noon**\n\nThe clock, once a mere marker of time, now stands as a silent witness to the passage of memories. As noon approaches, the clock's face glows with a soft, golden light, illuminating the fragments of the past.\n\nThe first memory that surfaces is a glimpse of a summer afternoon spent at the beach. The air is filled with the scent of saltwater and the sound of waves lapping against the shore. A child's laughter echoes through the scene, a reminder of the simple joys of childhood.\n\nAs the clock continues to glow, another memory emerges: a snapshot of a family gathering. The room is filled with the warmth of conversation and the aroma of freshly baked cookies. The faces of loved ones, smiling and laughing, are etched into the clock's surface.\n\nThe memories are vivid, each one a testament to the richness of human experience. The clock, once a mundane object, now holds the essence of countless moments, a repository of the past that continues to resonate in the present.\n\nAs the clock displays its memories, I am reminded of the importance of cherishing the present moment, for it is in the here and now that we can truly appreciate the beauty of the past.",
+  "events_count": 3,
+  "max_mean_delta": 0.22869318181818182,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.20445973746081506,
+      "median_impact": 0.20445973746081506,
+      "mean_prompt_shift": -0.2041515271423301
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.16369085273279352,
+      "median_impact": 0.16369085273279352,
+      "mean_prompt_shift": 0.16410927475471782
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 2,
+      "direction": -1,
+      "mean_delta": 0.22869318181818182,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 8,
+      "direction": 1,
+      "mean_delta": 0.16369085273279352,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 52,
+      "direction": -1,
+      "mean_delta": 0.1802262931034483,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,73 @@
+{
+  "name": "city_of_smells",
+  "prompt": "Every neighborhood emits a different scent representing its collective memories. Describe how two rival districts wage a perfume war.",
+  "decoded": "In the heart of a bustling city, two rival districts, Maplewood and Oakdale, are locked in a perfume war. Maplewood, known for its vibrant street festivals, emits a sweet blend of lavender and jasmine, while Oakdale, with its lush green parks, exudes the earthy aroma of pine and cedar.\n\nMaplewood's scent is a symphony of warmth and joy, a reminder of the infectious laughter and lively music that fill its streets. Oakdale's fragrance, on the other hand, is a celebration of nature and tranquility, a tribute to the serene lakes and tranquil gardens that line its boundaries.\n\nAs the sun sets, the perfume war intensifies. Maplewood's scent becomes more pronounced, drawing in those who crave excitement and energy, while Oakdale's aroma grows stronger, attracting those who seek peace and relaxation. The two districts, each with their unique scents, compete to capture the hearts of passersby, creating a fragrant battle that resonates throughout the city.\n\nIn this perfume war, Maplewood and Oakdale not only showcase their individual strengths but also highlight the diversity and richness of their collective memories. As people wander through the city, they are invited to discover the unique scents and experiences that make each neighborhood special.",
+  "events_count": 5,
+  "max_mean_delta": 0.15169597989949749,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.15169597989949749,
+      "median_impact": 0.15169597989949749,
+      "mean_prompt_shift": -0.1518247487437186
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.15169597989949749,
+      "median_impact": 0.15169597989949749,
+      "mean_prompt_shift": -0.1518247487437186
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.08551459382051507,
+      "median_impact": 0.08454975770511168,
+      "mean_prompt_shift": -0.027707322847245433
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 14,
+      "direction": -1,
+      "mean_delta": 0.05227243257261411,
+      "sign_agreement": 0.9875518672199171,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 15,
+      "direction": -1,
+      "mean_delta": 0.05528971354166667,
+      "sign_agreement": 0.9875,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 56,
+      "direction": -1,
+      "mean_delta": 0.15169597989949749,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 61,
+      "direction": 1,
+      "mean_delta": 0.1138098018685567,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 62,
+      "direction": -1,
+      "mean_delta": 0.1206864272992228,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

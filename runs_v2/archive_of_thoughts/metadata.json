@@ -1,0 +1,81 @@
+{
+  "name": "archive_of_thoughts",
+  "prompt": "Every thought ever conceived is automatically uploaded into a universal archive. Write a scene where two researchers argue over deleting a dangerous idea.",
+  "decoded": "The two researchers sat at a table, surrounded by screens displaying the universal archive. Dr. Rachel Kim, a brilliant but reckless scientist, had uploaded a dangerous idea: a way to manipulate the fabric of reality. Dr. Raj Patel, a brilliant but cautious researcher, had been trying to delete it.\n\n\"Rachel, you can't just delete that idea,\" Raj said, his voice firm. \"It's too dangerous. It could lead to catastrophic consequences.\"\n\nRachel's eyes narrowed in frustration. \"Raj, you're being too paranoid. This is a game-changer. It could revolutionize science and technology.\"\n\nRaj shook his head. \"Rachel, you need to consider the potential risks. What if something goes wrong?\"\n\nRachel's face turned red. \"I know, Raj. But what if nothing goes wrong? What if we can't predict the outcome?\"\n\nRaj sighed. \"Rachel, you need to think about the bigger picture. We can't just delete an idea because it's dangerous. We need to find a way to implement it safely.\"\n\nRachel's eyes widened in determination. \"Okay, Raj. I'll find a way to implement it safely. But I won't delete it. I promise.\"",
+  "events_count": 5,
+  "max_mean_delta": 0.18908940529336735,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.18908940529336735,
+      "median_impact": 0.18908940529336735,
+      "mean_prompt_shift": -0.18860431079554285
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05113886443661972,
+      "median_impact": 0.05113886443661972,
+      "mean_prompt_shift": -0.050333053617656054
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05113886443661972,
+      "median_impact": 0.05113886443661972,
+      "mean_prompt_shift": -0.050333053617656054
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.04764386175998775,
+      "median_impact": 0.04241319444444445,
+      "mean_prompt_shift": -0.04692115974692549
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 16,
+      "direction": -1,
+      "mean_delta": 0.0582505230125523,
+      "sign_agreement": 0.9832635983263598,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 30,
+      "direction": -1,
+      "mean_delta": 0.04241319444444445,
+      "sign_agreement": 0.9911111111111112,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 42,
+      "direction": -1,
+      "mean_delta": 0.05113886443661972,
+      "sign_agreement": 0.9671361502347418,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 46,
+      "direction": -1,
+      "mean_delta": 0.04226786782296651,
+      "sign_agreement": 0.9904306220095693,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 59,
+      "direction": -1,
+      "mean_delta": 0.18908940529336735,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

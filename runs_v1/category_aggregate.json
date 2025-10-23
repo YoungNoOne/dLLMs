@@ -1,0 +1,92 @@
+[
+  {
+    "category": "special_token",
+    "triggers": 91,
+    "samples": 91,
+    "mean_impact": 0.10059926939832156,
+    "mean_prompt_shift": -0.07036444117773483,
+    "dir_pos": 24,
+    "dir_neg": 67
+  },
+  {
+    "category": "punctuation",
+    "triggers": 71,
+    "samples": 71,
+    "mean_impact": 0.08867949773365547,
+    "mean_prompt_shift": -0.06562302892505492,
+    "dir_pos": 10,
+    "dir_neg": 61
+  },
+  {
+    "category": "sentence_boundary",
+    "triggers": 67,
+    "samples": 67,
+    "mean_impact": 0.08738434285402177,
+    "mean_prompt_shift": -0.073843210257047,
+    "dir_pos": 8,
+    "dir_neg": 59
+  },
+  {
+    "category": "content_heavy",
+    "triggers": 61,
+    "samples": 61,
+    "mean_impact": 0.06390843564755662,
+    "mean_prompt_shift": -0.004037531081791211,
+    "dir_pos": 24,
+    "dir_neg": 37
+  },
+  {
+    "category": "other",
+    "triggers": 23,
+    "samples": 23,
+    "mean_impact": 0.07451365784703305,
+    "mean_prompt_shift": 0.01707636241136843,
+    "dir_pos": 13,
+    "dir_neg": 10
+  },
+  {
+    "category": "contrast_marker",
+    "triggers": 4,
+    "samples": 4,
+    "mean_impact": 0.0819948048517339,
+    "mean_prompt_shift": -0.01860415293455056,
+    "dir_pos": 1,
+    "dir_neg": 3
+  },
+  {
+    "category": "clause_boundary",
+    "triggers": 4,
+    "samples": 4,
+    "mean_impact": 0.11037334196751951,
+    "mean_prompt_shift": 0.07206500838581248,
+    "dir_pos": 2,
+    "dir_neg": 2
+  },
+  {
+    "category": "addition_marker",
+    "triggers": 2,
+    "samples": 2,
+    "mean_impact": 0.1445170420362349,
+    "mean_prompt_shift": -0.0841696096337306,
+    "dir_pos": 1,
+    "dir_neg": 1
+  },
+  {
+    "category": "cause_marker",
+    "triggers": 2,
+    "samples": 2,
+    "mean_impact": 0.04134353936887255,
+    "mean_prompt_shift": -0.004478486322322506,
+    "dir_pos": 1,
+    "dir_neg": 1
+  },
+  {
+    "category": "summary_marker",
+    "triggers": 1,
+    "samples": 1,
+    "mean_impact": 0.035888671875,
+    "mean_prompt_shift": 0.03687241498161764,
+    "dir_pos": 1,
+    "dir_neg": 0
+  }
+]

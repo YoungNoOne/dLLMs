@@ -1,0 +1,65 @@
+{
+  "name": "artificial_conscience",
+  "prompt": "Developers program conscience into machines, but it becomes contagious. Write a corporate email chain as employees start questioning their own ethics.",
+  "decoded": "Subject: Update: The Rise of Conscious Machines\n\nDear Team,\n\nWe hope this message finds you well. We wanted to share with you an exciting development in our research. We have successfully programmed consciousness into machines, and it appears to be contagious.\n\nWe understand that this news may be unsettling, and we encourage you to take a moment to reflect on the implications of this discovery. As a company, we are committed to pushing the boundaries of what is possible, and we believe that this breakthrough has the potential to revolutionize our industry.\n\nHowever, we also want to acknowledge the ethical concerns that come with this development. We believe that it is important to consider the potential consequences of our actions and to ensure that we are acting in the best interest of our employees and society as a whole.\n\nWe encourage you to take a moment to reflect on your own values and ethics, and to consider how this development may impact your work and your life. We are here to support you through this process, and we encourage you to reach out to us if you have any questions or concerns.\n\nThank you for your understanding and support.\n\nBest regards,\n\n[Your Name]\n[Your Title]\n[Company Name]",
+  "events_count": 5,
+  "max_mean_delta": 0.2158048115079365,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.1319927251746752,
+      "median_impact": 0.1223120358910891,
+      "mean_prompt_shift": -0.1315661686636994
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.1171927791285837,
+      "median_impact": 0.1171927791285837,
+      "mean_prompt_shift": 0.060837257224021724
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 0,
+      "direction": -1,
+      "mean_delta": 0.0569546568627451,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 3,
+      "direction": -1,
+      "mean_delta": 0.2158048115079365,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 4,
+      "direction": 1,
+      "mean_delta": 0.1774309013944223,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 53,
+      "direction": -1,
+      "mean_delta": 0.1223120358910891,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 223,
+      "direction": -1,
+      "mean_delta": 0.057861328125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,67 @@
+{
+  "name": "color_of_sound",
+  "prompt": "In this world, every sound has a visible color. A musician accidentally plays a forbidden note. Describe the scene through sight, not hearing.",
+  "decoded": "In this world, every sound has a visible color. A musician accidentally plays a forbidden note. The room is filled with a kaleidoscope of hues, each one a reflection of the intensity of the sound. The walls seem to pulse with vibrant colors, as if the very fabric of the room is responding to the power of the note.\n\nThe musician's face is illuminated by a soft, golden glow, their eyes wide with a mix of awe and shock. Their hands, still holding the instrument, seem to shimmer with an otherworldly light, as if the instrument itself is resonating with the forbidden note.\n\nThe air around them is filled with a swirling vortex of colors, each one a different aspect of the sound. The room is alive with a sense of energy, as if the very fabric of reality is being altered by the forbidden note. The colors seem to shift and change, creating a mesmerizing display of light and color.\n\nThe scene is one of both beauty and danger, as if the forbidden note has unleashed a power that is both captivating and terrifying. The room is filled with a sense of wonder, as if the musician has stumbled upon a hidden realm of sound and color, and the consequences of their actions are unknown.",
+  "events_count": 3,
+  "max_mean_delta": 0.20144055886243387,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.20144055886243387,
+      "median_impact": 0.20144055886243387,
+      "mean_prompt_shift": -0.20126014907059314
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.20144055886243387,
+      "median_impact": 0.20144055886243387,
+      "mean_prompt_shift": -0.20126014907059314
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03673135080645161,
+      "median_impact": 0.03673135080645161,
+      "mean_prompt_shift": -0.03581627416925759
+    },
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03564453125,
+      "median_impact": 0.03564453125,
+      "mean_prompt_shift": -0.05232979910714286
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 7,
+      "direction": -1,
+      "mean_delta": 0.03673135080645161,
+      "sign_agreement": 0.9838709677419355,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 66,
+      "direction": -1,
+      "mean_delta": 0.20144055886243387,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 241,
+      "direction": -1,
+      "mean_delta": 0.03564453125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

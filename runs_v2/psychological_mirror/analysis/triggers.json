@@ -1,0 +1,91 @@
+[
+  {
+    "step_decoded": 55,
+    "direction": -1,
+    "mean_delta": 0.071318359375,
+    "median_delta": 0.078125,
+    "sign_agreement": 0.98,
+    "valid_positions": 200,
+    "prompt_mean": 0.5764453125,
+    "prompt_shift": -0.06945604011194029,
+    "tokens": [
+      {
+        "step_decoded": 55,
+        "token_pos": 95,
+        "token_id": 13,
+        "token_str": ".",
+        "conf_decoded": 0.1962890625,
+        "categories": [
+          "punctuation",
+          "sentence_boundary"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 82,
+    "direction": -1,
+    "mean_delta": 0.2257355265534682,
+    "median_delta": 0.21875,
+    "sign_agreement": 1.0,
+    "valid_positions": 173,
+    "prompt_mean": 0.3495670384754335,
+    "prompt_shift": -0.22516805491537112,
+    "tokens": [
+      {
+        "step_decoded": 82,
+        "token_pos": 123,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.37890625,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 145,
+    "direction": 1,
+    "mean_delta": 0.06954012784090909,
+    "median_delta": 0.068359375,
+    "sign_agreement": 1.0,
+    "valid_positions": 110,
+    "prompt_mean": 0.31282848011363634,
+    "prompt_shift": 0.0700075341676904,
+    "tokens": [
+      {
+        "step_decoded": 145,
+        "token_pos": 180,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.99609375,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 148,
+    "direction": 1,
+    "mean_delta": 0.05184908002336448,
+    "median_delta": 0.052734375,
+    "sign_agreement": 1.0,
+    "valid_positions": 107,
+    "prompt_mean": 0.3262083820093458,
+    "prompt_shift": 0.052363980967679136,
+    "tokens": [
+      {
+        "step_decoded": 148,
+        "token_pos": 182,
+        "token_id": 2441,
+        "token_str": "As",
+        "conf_decoded": 0.95703125,
+        "categories": [
+          "cause_marker"
+        ]
+      }
+    ]
+  }
+]

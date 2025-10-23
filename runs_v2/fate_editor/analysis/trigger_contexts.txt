@@ -1,0 +1,3 @@
+step_decoded=25 pos=61 dir=- impact=0.060870 shift=-0.060088 cats=content_heavy earlier=16 later=16 same=0
+ neon^(-16) lights^(-15) dance^(-14) and^(-12) the^(-13) streets^(-10) hum^(-11) with^(-9) the^(-8) pulse^(-6) of^(-7) ambition^(-2),^(-5) a^(-4) journalist^(-3) named^(-1) [ĠEvelyn^(+0)]  Hart^(+1) stands^(+6) at^(+2) the^(+3) precip^(+4)ice^(+5) of^(+7) history^(+10).^(+9) Her^(+8) task^(+12) is^(+11) to^(+13) rewrite^(+17) the^(+14) lives^(+16)
+

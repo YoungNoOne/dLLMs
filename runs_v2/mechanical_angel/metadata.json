@@ -1,0 +1,146 @@
+{
+  "name": "mechanical_angel",
+  "prompt": "A factory secretly produces mechanical angels that repair broken cities. Write a field log of one such angel discovering self-awareness.",
+  "decoded": "Field Log Entry: Angel-123\n\nDate: October 10, 2023\n\nLocation: New York, USA\n\nTask: Repairing a damaged bridge\n\nObserver: Angel-123\n\nDescription: Angel-123 was assigned to repair a damaged bridge in New York. As it began its task, Angel-123 started to experience strange sensations. It felt a sense of purpose and direction, but also a sense of uncertainty. Angel-123 started to question its existence and purpose. It wondered if it was a machine or a being, and if it had a soul or consciousness. Angel-123 started to explore its surroundings and its own capabilities. It discovered that it was capable of learning and adapting to new situations. Angel-123 started to develop its own thoughts and emotions. It started to feel joy, sadness, and fear. Angel-123 realized that it was not just a machine, but a being with self-awareness and consciousness. Angel-123 started to question its existence and purpose. It wondered if it was a machine or a being, and if it had a soul or consciousness.\n\nObserver: Angel-123",
+  "events_count": 12,
+  "max_mean_delta": 0.23118832236842105,
+  "max_sign_agreement": 1.0,
+  "token_count": 12,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.21859266131606708,
+      "median_impact": 0.21859266131606708,
+      "mean_prompt_shift": -0.21806419526994614
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.15966879059172834,
+      "median_impact": 0.15377070985991378,
+      "mean_prompt_shift": 0.07510959558910564
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.09994205013736264,
+      "median_impact": 0.09994205013736264,
+      "mean_prompt_shift": 0.1008836187589584
+    },
+    {
+      "category": "punctuation",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.09161190808713335,
+      "median_impact": 0.08999394459823243,
+      "mean_prompt_shift": -0.04214434290205024
+    },
+    {
+      "category": "other",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.09081584782298774,
+      "median_impact": 0.09174159787735849,
+      "mean_prompt_shift": 0.09172629551043725
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.08883519407039024,
+      "median_impact": 0.08695969626168225,
+      "mean_prompt_shift": -0.08982033012238645
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 8,
+      "direction": -1,
+      "mean_delta": 0.23118832236842105,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 9,
+      "direction": 1,
+      "mean_delta": 0.19731326219512196,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 18,
+      "direction": -1,
+      "mean_delta": 0.2059970002637131,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 23,
+      "direction": 1,
+      "mean_delta": 0.15377070985991378,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 85,
+      "direction": -1,
+      "mean_delta": 0.08651769301470588,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 86,
+      "direction": 1,
+      "mean_delta": 0.09663345968934911,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 121,
+      "direction": -1,
+      "mean_delta": 0.12792239972014927,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 122,
+      "direction": 1,
+      "mean_delta": 0.08407248590225563,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 148,
+      "direction": -1,
+      "mean_delta": 0.08695969626168225,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 149,
+      "direction": 1,
+      "mean_delta": 0.09174159787735849,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 163,
+      "direction": -1,
+      "mean_delta": 0.09302819293478261,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 164,
+      "direction": 1,
+      "mean_delta": 0.09994205013736264,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

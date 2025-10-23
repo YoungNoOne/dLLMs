@@ -1,0 +1,73 @@
+{
+  "name": "last_dream",
+  "prompt": "Write what someone would say if they could sell you their final dream before dying.",
+  "decoded": "Sure, I'd be happy to help with that. Here's a possible response:\n\n---\n\n\"Hey, if I could sell my final dream before dying, I'd sell it to you. It's a dream I've been holding onto for so long, one that I've been trying to achieve but haven't quite been able to. It's a dream that I've been chasing for years, one that I've been trying to make happen but just can't seem to reach. It's a dream that I've been waiting for, one that I've been hoping for, one that I've been praying for. It's a dream that I've been trying to create, one that I've been trying to build, one that I've been trying to become. It's a dream that I've been trying to live, one that I've been trying to experience, one that I've been trying to share. It's a dream that I've been trying to sell, one that I've been trying to give, one that I've been trying to sell. So, if I could sell my final dream before dying, I'd sell it to you. Would you buy it?\"\n\n---\n\nI hope you find this response interesting!",
+  "events_count": 5,
+  "max_mean_delta": 0.32730913765822783,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.32730913765822783,
+      "median_impact": 0.32730913765822783,
+      "mean_prompt_shift": -0.32671190509431625
+    },
+    {
+      "category": "other",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.22499142869161504,
+      "median_impact": 0.21591796875,
+      "mean_prompt_shift": 0.08181847433492699
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.21330915178571427,
+      "median_impact": 0.21330915178571427,
+      "mean_prompt_shift": -0.21332863927144552
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 18,
+      "direction": -1,
+      "mean_delta": 0.32730913765822783,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 21,
+      "direction": 1,
+      "mean_delta": 0.25555054754273504,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 35,
+      "direction": -1,
+      "mean_delta": 0.21591796875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 37,
+      "direction": 1,
+      "mean_delta": 0.2035057697821101,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 38,
+      "direction": -1,
+      "mean_delta": 0.21330915178571427,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

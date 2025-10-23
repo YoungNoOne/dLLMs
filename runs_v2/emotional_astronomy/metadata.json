@@ -1,0 +1,58 @@
+{
+  "name": "emotional_astronomy",
+  "prompt": "Astronomers realize constellations change shape based on global emotion levels. Write a briefing from the observatory.",
+  "decoded": "Astronomers have discovered that constellations change shape based on global emotion levels. This is a groundbreaking discovery that has been made by the team of astronomers at the observatory.\n\nThe team has been studying the constellations for several years and has found that the shape of the constellations changes depending on the level of global emotions. When emotions are high, the constellations appear to be more vibrant and colorful. When emotions are low, the constellations appear to be more dull and gray.\n\nThe team has been able to make this discovery by analyzing data from various sources, including social media, news articles, and weather reports. They have been able to measure the level of global emotions and correlate it with the shape of the constellations.\n\nThis discovery has significant implications for our understanding of the universe and our place in it. It suggests that our emotions and feelings are connected to the universe in a way that we had not previously realized.\n\nThe team of astronomers at the observatory will continue to study this phenomenon and try to understand the mechanisms behind it. They hope to gain further insights into the relationship between our emotions and the universe, and to use this knowledge to help people better understand and manage their own emotions.",
+  "events_count": 4,
+  "max_mean_delta": 0.1961508276255708,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.09129916684267371,
+      "median_impact": 0.040330153245192304,
+      "mean_prompt_shift": -0.090967950833981
+    },
+    {
+      "category": "addition_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0395751953125,
+      "median_impact": 0.0395751953125,
+      "mean_prompt_shift": -0.03727271670386903
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 36,
+      "direction": -1,
+      "mean_delta": 0.1961508276255708,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 99,
+      "direction": -1,
+      "mean_delta": 0.040330153245192304,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 193,
+      "direction": -1,
+      "mean_delta": 0.03741651965725806,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 235,
+      "direction": -1,
+      "mean_delta": 0.0395751953125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,3 @@
+step_decoded=136 pos=173 dir=- impact=0.035944 shift=-0.035170 cats=content_heavy earlier=16 later=16 same=0
+ "^(-17)This^(-15) is^(-14) not^(-13) just^(-12) a^(-11) program^(-10),^(-9) it^(-7)'s^(-8) a^(-5) masterpiece^(-6).^(-4) It^(-3)'s^(-2) creating^(-1) [Ġbeauty^(+0)] ,^(+1) not^(+2) just^(+3) profit^(+4).^(+5) It^(+7)'s^(+6)...^(+8) it^(+9)'s^(+10) beautiful^(+23)."^(+13)Ċ^(+12)Ċ^(+11)The^(+15) CEO^(+14)
+

@@ -1,0 +1,12 @@
+step_decoded,token_pos,token_id,token_str,token_norm,direction,impact_score,prompt_shift,window,categories,left_text,center_token,right_text,center_step_decoded,earlier_count,later_count,same_count,left_steps_json,right_steps_json,left_offsets_json,right_offsets_json,left_text_annot,center_annot,right_text_annot,left_tokens_json,right_tokens_json
+9,37,73885,ĠMidnight,Midnight,-1,0.14865186737804878,-0.14795093844631513,16,content_heavy,"**Transaction Record **
+
+**Date :**",ĠMidnight,", October 1 0, 2 0 2 3
+
+**Location :**",9,9,16,0,"[0, 2, 1, 8, 4, 3, 5, 6, 7]","[10, 12, 11, 14, 15, 13, 16, 17, 18, 19, 20, 23, 21, 22, 25, 24]","[-9, -7, -8, -1, -5, -6, -4, -3, -2]","[1, 3, 2, 5, 6, 4, 7, 8, 9, 10, 11, 14, 12, 13, 16, 15]",**^(-9)Transaction^(-7) Record^(-8)**^(-1)Ċ^(-5)Ċ^(-6)**^(-4)Date^(-3):**^(-2),ĠMidnight^(+0),",^(+1) October^(+3) ^(+2)1^(+5)0^(+6),^(+4) ^(+7)2^(+8)0^(+9)2^(+10)3^(+11)Ċ^(+14)Ċ^(+12)**^(+13)Location^(+16):**^(+15)","[""**"", ""Transaction"", ""ĠRecord"", ""**"", ""Ċ"", ""Ċ"", ""**"", ""Date"", "":**""]","["","", ""ĠOctober"", ""Ġ"", ""1"", ""0"", "","", ""Ġ"", ""2"", ""0"", ""2"", ""3"", ""Ċ"", ""Ċ"", ""**"", ""Location"", "":**""]"
+31,57,73885,ĠMidnight,Midnight,-1,0.07949393136160714,-0.0787710813492064,16,content_heavy,"1 0, 2 0 2 3
+
+**Location :** Midnight Market,",ĠMidnight," City
+
+**Participants :**
+- **Alice :** A young woman with a",31,18,14,0,"[14, 15, 13, 16, 17, 18, 19, 20, 23, 21, 22, 25, 24, 26, 29, 27]","[30, 28, 32, 33, 35, 34, 36, 37, 38, 39, 40, 41, 42, 45, 44, 43]","[-17, -16, -18, -15, -14, -13, -12, -11, -8, -10, -9, -6, -7, -5, -2, -4]","[-1, -3, 1, 2, 4, 3, 5, 6, 7, 8, 9, 10, 11, 14, 13, 12]","1^(-17)0^(-16),^(-18) ^(-15)2^(-14)0^(-13)2^(-12)3^(-11)Ċ^(-8)Ċ^(-10)**^(-9)Location^(-6):**^(-7) Midnight^(-5) Market^(-2),^(-4)",ĠMidnight^(+0), City^(-1)Ċ^(-3)Ċ^(+1)**^(+2)Participants^(+4):**^(+3)Ċ^(+5)-^(+6) **^(+7)Alice^(+8):**^(+9) A^(+10) young^(+11) woman^(+14) with^(+13) a^(+12),"[""1"", ""0"", "","", ""Ġ"", ""2"", ""0"", ""2"", ""3"", ""Ċ"", ""Ċ"", ""**"", ""Location"", "":**"", ""ĠMidnight"", ""ĠMarket"", "",""]","[""ĠCity"", ""Ċ"", ""Ċ"", ""**"", ""Participants"", "":**"", ""Ċ"", ""-"", ""Ġ**"", ""Alice"", "":**"", ""ĠA"", ""Ġyoung"", ""Ġwoman"", ""Ġwith"", ""Ġa""]"

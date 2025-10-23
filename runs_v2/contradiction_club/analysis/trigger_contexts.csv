@@ -1,0 +1,4 @@
+step_decoded,token_pos,token_id,token_str,token_norm,direction,impact_score,prompt_shift,window,categories,left_text,center_token,right_text,center_step_decoded,earlier_count,later_count,same_count,left_steps_json,right_steps_json,left_offsets_json,right_offsets_json,left_text_annot,center_annot,right_text_annot,left_tokens_json,right_tokens_json
+1,37,57736,Alice,Alice,-1,0.07983206200787402,-0.07957689227265707,16,content_heavy,**,Alice,":** ""We 're going to meet at the park tonight .""
+
+**Bob",1,1,16,0,[0],"[2, 3, 4, 13, 14, 12, 11, 10, 9, 15, 8, 7, 6, 5, 16, 19]",[-1],"[1, 2, 3, 12, 13, 11, 10, 9, 8, 14, 7, 6, 5, 4, 15, 18]",**^(-1),Alice^(+0),":**^(+1) ""^(+2)We^(+3)'re^(+12) going^(+13) to^(+11) meet^(+10) at^(+9) the^(+8) park^(+14) tonight^(+7).""^(+6)Ċ^(+5)Ċ^(+4)**^(+15)Bob^(+18)","[""**""]","["":**"", ""Ġ\"""", ""We"", ""'re"", ""Ġgoing"", ""Ġto"", ""Ġmeet"", ""Ġat"", ""Ġthe"", ""Ġpark"", ""Ġtonight"", "".\"""", ""Ċ"", ""Ċ"", ""**"", ""Bob""]"

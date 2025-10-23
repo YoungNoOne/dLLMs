@@ -1,0 +1,6 @@
+step_decoded=3 pos=36 dir=- impact=0.081985 shift=-0.081426 cats=content_heavy earlier=3 later=16 same=0
+Once^(-2) upon^(-3) a^(-1) [Ġtime^(+0)] ,^(+1) in^(+2) a^(+3) land^(+5) far^(+4) away^(+6),^(+7) there^(+8) was^(+10) a^(+9) young^(+12) girl^(+11) named^(+13) Lily^(+16).^(+14) She^(+15)
+
+step_decoded=14 pos=48 dir=- impact=0.050846 shift=-0.049645 cats=content_heavy earlier=14 later=17 same=0
+Once^(-13) upon^(-14) a^(-12) time^(-11),^(-10) in^(-9) a^(-8) land^(-6) far^(-7) away^(-5),^(-4) there^(-3) was^(-1) a^(-2) young^(+1) [Ġgirl^(+0)]  named^(+2) Lily^(+5).^(+3) She^(+4) loved^(+6) to^(+7) dream^(+8) about^(+9) flying^(+10) through^(+12) the^(+11) sky^(+13) and^(+14) exploring^(+15) the^(+16) world^(+17)
+

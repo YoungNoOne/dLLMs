@@ -1,0 +1,51 @@
+{
+  "name": "slow_light",
+  "prompt": "Light begins traveling slower each year. Write a personal diary from the decade when sunsets stop reaching some places.",
+  "decoded": "January 1st, 2020\n\nToday marks the beginning of a new decade, and I can't help but feel a sense of nostalgia for the past. The last time I saw a sunset was in 2010, and it feels like a lifetime ago. The colors of the sky were so vibrant, and the light seemed to stretch on forever.\n\nAs I look forward to the next decade, I can't help but wonder what it will be like to see a sunset. Will it be the same as it was in 2010? Or will it be a different experience, with the light traveling slower each year?\n\nI've been thinking about how sunsets will change over the next decade. Will they continue to reach the same places as they did in the past? Or will they start to disappear, leaving behind only the memories of those who saw them?\n\nAs I sit here, looking out at the horizon, I can't help but feel a sense of sadness. The beauty of the sunset is something that I will always cherish, but it's also something that will eventually fade away.\n\nUntil then, I'll hold onto the memories of the sunsets that I've seen over the years.",
+  "events_count": 3,
+  "max_mean_delta": 0.2856839087701613,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2535266953441296,
+      "median_impact": 0.2535266953441296,
+      "mean_prompt_shift": 0.2545547515243405
+    },
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.21773277689210313,
+      "median_impact": 0.21773277689210313,
+      "mean_prompt_shift": -0.21729958096922306
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 7,
+      "direction": -1,
+      "mean_delta": 0.2856839087701613,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 8,
+      "direction": 1,
+      "mean_delta": 0.2535266953441296,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 77,
+      "direction": -1,
+      "mean_delta": 0.14978164501404495,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

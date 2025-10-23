@@ -1,0 +1,51 @@
+{
+  "name": "future_smell",
+  "prompt": "A scientist discovers a way to smell the future. Write their lab notes.",
+  "decoded": "Lab Notes: Smelling the Future Experiment\n\nObjective: To develop a method to smell the future.\n\nMaterials:\n- A special device that can capture and analyze scents\n- A sample of a futuristic material\n- A container to hold the sample\n- A recording device to record the scent\n\nProcedure:\n1. Place the sample of the futuristic material in the container.\n2. Use the special device to capture the scent of the material.\n3. Record the scent using the recording device.\n\nResults:\nThe scent of the futuristic material was captured and recorded. The scent was a combination of sweet and metallic notes, with a hint of ozone. The scent was unique and not associated with any known materials.\n\nConclusion:\nThe scent of the futuristic material was captured and recorded. The scent was a combination of sweet and metallic notes, with a hint of ozone. The scent was unique and not associated with any known materials. This experiment demonstrates that it is possible to smell the future.\n\nNext Steps:\n- Analyze the scent to determine its composition and properties.\n- Develop a method to replicate the scent using known materials.\n- Conduct further experiments to study the scent and determine its potential uses and applications.",
+  "events_count": 3,
+  "max_mean_delta": 0.2569176419322709,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.17395832229592267,
+      "median_impact": 0.17395832229592267,
+      "mean_prompt_shift": -0.1734840116551229
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.08716124221991702,
+      "median_impact": 0.08716124221991702,
+      "mean_prompt_shift": 0.08835641862204657
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 4,
+      "direction": -1,
+      "mean_delta": 0.2569176419322709,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 14,
+      "direction": 1,
+      "mean_delta": 0.08716124221991702,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 20,
+      "direction": -1,
+      "mean_delta": 0.09099900265957447,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

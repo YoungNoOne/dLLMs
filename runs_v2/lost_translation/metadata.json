@@ -1,0 +1,65 @@
+{
+  "name": "lost_translation",
+  "prompt": "Invent an idiom that cannot be translated into any other language and explain how people use it.",
+  "decoded": "The idiom \"a walk in the park\" is a metaphor that cannot be translated into any other language. It is used to describe something that is extremely easy or simple to do. The phrase is often used to convey a sense of ease and comfort.\n\nFor example, if someone says, \"The test was a walk in the park for me,\" they are implying that the test was very easy and not a challenge for them. The phrase is often used to describe tasks that are not difficult or require little effort.\n\nIn everyday conversation, people might use the phrase to describe anything from cooking a meal to completing a project. It is a common idiom that is often used to convey a sense of confidence and competence.\n\nThe phrase is also used to describe something that is not exciting or thrilling. For example, if someone says, \"The movie was a walk in the park,\" they are implying that the movie was not exciting or thrilling.\n\nOverall, the idiom \"a walk in the park\" is a common and everyday way to describe something that is easy or simple to do. It is often used to convey a sense of ease and comfort, and can be used to describe a wide range of tasks, activities, and experiences.",
+  "events_count": 5,
+  "max_mean_delta": 0.18985523897058823,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.18985523897058823,
+      "median_impact": 0.18985523897058823,
+      "mean_prompt_shift": -0.19028075121054522
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.04485513048503085,
+      "median_impact": 0.04430338541666667,
+      "mean_prompt_shift": -0.021244905878677285
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 14,
+      "direction": -1,
+      "mean_delta": 0.054006742738589214,
+      "sign_agreement": 0.9875518672199171,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 15,
+      "direction": -1,
+      "mean_delta": 0.042708333333333334,
+      "sign_agreement": 0.9958333333333333,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 16,
+      "direction": -1,
+      "mean_delta": 0.03680700836820084,
+      "sign_agreement": 0.9916317991631799,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 51,
+      "direction": -1,
+      "mean_delta": 0.18985523897058823,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 251,
+      "direction": 1,
+      "mean_delta": 0.0458984375,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

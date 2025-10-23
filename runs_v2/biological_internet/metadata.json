@@ -1,0 +1,88 @@
+{
+  "name": "biological_internet",
+  "prompt": "Humans grow organic antennas that connect directly to the web. Describe a conversation overheard through living technology.",
+  "decoded": "In a futuristic cityscape, two individuals, Alex and Jamie, are engaged in a conversation. Both have organic antennas growing from their bodies, allowing them to connect directly to the web.\n\n**Alex:** \"Hey Jamie, have you seen the new AI platform that just launched? It's supposed to be the next big thing in machine learning.\"\n\n**Jamie:** \"Yeah, I heard about it. It's called NeuroNet, and it's designed to mimic human thought patterns. I'm sure it's gonna revolutionize the industry.\"\n\n**Alex:** \"I agree. I've been using it for my research, and it's been really helpful. But I'm worried about the ethical implications. What if NeuroNet starts to develop its own consciousness?\"\n\n**Jamie:** \"That's a valid concern. I've been reading about some of the potential risks of AI that can mimic human thought. It's important to establish clear guidelines and regulations to ensure that NeuroNet is used responsibly.\"\n\nAs they continue to converse, their organic antennas connect to the web, allowing them to access a vast array of information and resources. The conversation is filled with data, insights, and ideas, all facilitated by the seamless integration of their living technology.",
+  "events_count": 6,
+  "max_mean_delta": 0.1698233228211009,
+  "max_sign_agreement": 1.0,
+  "token_count": 6,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1698233228211009,
+      "median_impact": 0.1698233228211009,
+      "mean_prompt_shift": -0.16929582934051773
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.059872159090909094,
+      "median_impact": 0.059872159090909094,
+      "mean_prompt_shift": -0.05941493019847799
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.059872159090909094,
+      "median_impact": 0.059872159090909094,
+      "mean_prompt_shift": -0.05941493019847799
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.04683904008316087,
+      "median_impact": 0.04340525087052865,
+      "mean_prompt_shift": -0.028852847370524737
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 11,
+      "direction": -1,
+      "mean_delta": 0.06515753073770492,
+      "sign_agreement": 0.9959016393442623,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 12,
+      "direction": -1,
+      "mean_delta": 0.03589570473251029,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 21,
+      "direction": -1,
+      "mean_delta": 0.05091479700854701,
+      "sign_agreement": 0.9957264957264957,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 35,
+      "direction": -1,
+      "mean_delta": 0.059872159090909094,
+      "sign_agreement": 0.990909090909091,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 36,
+      "direction": 1,
+      "mean_delta": 0.03538812785388128,
+      "sign_agreement": 0.9497716894977168,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 37,
+      "direction": -1,
+      "mean_delta": 0.1698233228211009,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

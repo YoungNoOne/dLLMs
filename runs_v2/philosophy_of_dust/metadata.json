@@ -1,0 +1,29 @@
+{
+  "name": "philosophy_of_dust",
+  "prompt": "Dust particles retain fragments of human thought. Write the lecture of a philosopher who listens to dust storms for wisdom.",
+  "decoded": "Ladies and gentlemen, I would like to share with you a concept that has been a part of my philosophy for many years. I believe that dust storms are a source of wisdom.\n\nDust storms are a natural phenomenon that occurs when the wind picks up and carries small particles into the air. These particles are not just random matter; they contain fragments of human thought.\n\nAs a philosopher, I believe that these fragments of human thought are a reflection of the human experience. They are a reminder of the ideas and concepts that we have encountered throughout our lives.\n\nDust storms are a symbol of the interconnectedness of all things. They remind us that everything is connected and that our thoughts are not isolated from the world around us.\n\nBy listening to dust storms, we can gain a deeper understanding of the human experience. We can learn from the fragments of human thought that are carried by the wind and apply them to our own lives.\n\nIn conclusion, dust storms are a source of wisdom. They remind us of the interconnectedness of all things and the importance of listening to the world around us. By listening to dust storms, we can gain a deeper understanding of the human experience and apply it to our lives.\n\nThank you.",
+  "events_count": 1,
+  "max_mean_delta": 0.2269370719178082,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2269370719178082,
+      "median_impact": 0.2269370719178082,
+      "mean_prompt_shift": -0.22653501517745944
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 36,
+      "direction": -1,
+      "mean_delta": 0.2269370719178082,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

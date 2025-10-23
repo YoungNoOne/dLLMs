@@ -1,0 +1,44 @@
+{
+  "name": "midnight_instruction",
+  "prompt": "Someone leaves a note under your door at midnight that only says: 'Wait for the third light.' Continue the story.",
+  "decoded": "I stare at the note, wondering what it means. The night is still, and the only sound is the rustling of the leaves outside. I try to think of a response, but my mind is blank.\n\nAs the clock strikes midnight, I feel a sense of anticipation building up. I decide to wait outside, hoping to get some answers. The night is quiet, and the only sound is the soft ticking of the clock.\n\nSuddenly, I see a faint flash of light in the distance. My heart skip a beat. What could it be? I look around, trying to find the source of the light, but it's gone.\n\nI return to my room, still feeling uneasy. I try to think of a way to contact the person who left the note, but I can't find any information about them.\n\nAs the night wears on, I start to wonder what the note means. Is it a warning? A message? I don't know, but I can't shake the feeling that something is about to happen.\n\nAnd then, suddenly, I hear a faint noise outside my door. I turn around, expecting to see someone, but it's nothing. The night is still as quiet as ever.",
+  "events_count": 2,
+  "max_mean_delta": 0.25216502063679247,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.25216502063679247,
+      "median_impact": 0.25216502063679247,
+      "mean_prompt_shift": -0.251596332367238
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.047444661458333336,
+      "median_impact": 0.047444661458333336,
+      "mean_prompt_shift": -0.047746930803571425
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 43,
+      "direction": -1,
+      "mean_delta": 0.25216502063679247,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 249,
+      "direction": -1,
+      "mean_delta": 0.047444661458333336,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

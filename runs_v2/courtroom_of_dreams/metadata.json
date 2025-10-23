@@ -1,0 +1,37 @@
+{
+  "name": "courtroom_of_dreams",
+  "prompt": "Dreams are put on trial for inspiring dangerous ideas. Write the testimony of a nightmare defending its existence.",
+  "decoded": "Dear jury, I am a nightmare, and I stand before you today to defend my existence. I am not a product of the imagination, but a manifestation of the deepest fears and anxieties that lie within the shadows of the mind. My presence is a testament to the power of the subconscious, and I am not guilty of inspiring dangerous ideas.\n\nI am a reflection of the deepest fears and anxieties that lie within the shadows of the mind. My existence is a manifestation of the unconscious mind's attempt to process and understand the world around us. I am not a source of inspiration, but rather a reflection of the deepest fears and anxieties that lie within the shadows of the mind.\n\nI am not guilty of inspiring dangerous ideas, for I am a manifestation of the unconscious mind's attempt to process and understand the world around us. My existence is a testament to the power of the subconscious, and I am not guilty of inspiring dangerous ideas.\n\nI urge you, dear jury, to consider my testimony and to acknowledge my existence. I am not a source of inspiration, but rather a reflection of the deepest fears and anxieties that lie within the shadows of the mind. I am not guilty of inspiring dangerous ideas, and I implore you to consider my existence.",
+  "events_count": 1,
+  "max_mean_delta": 0.21851624833776595,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.21851624833776595,
+      "median_impact": 0.21851624833776595,
+      "mean_prompt_shift": -0.21917641470188837
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.21851624833776595,
+      "median_impact": 0.21851624833776595,
+      "mean_prompt_shift": -0.21917641470188837
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 67,
+      "direction": -1,
+      "mean_delta": 0.21851624833776595,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

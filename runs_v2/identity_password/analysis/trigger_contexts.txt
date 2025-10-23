@@ -1,0 +1,12 @@
+step_decoded=16 pos=48 dir=- impact=0.051958 shift=-0.049422 cats=contrast_marker;content_heavy earlier=16 later=16 same=0
+If^(-16) you^(-15) forget^(-13) your^(-12) password^(-14),^(-11) you^(-10) won^(-3)'t^(-2) be^(-7) able^(-6) to^(-9) access^(-8) your^(-5) identity^(-4).^(-1) [ĠHowever^(+0)] ,^(+1) there^(+3) are^(+2) some^(+9) steps^(+6) you^(+5) can^(+4) take^(+8) to^(+7) recover^(+14) your^(+13) password^(+15):^(+11)Ċ^(+12)Ċ^(+10)1^(+16)
+
+step_decoded=54 pos=88 dir=- impact=0.063909 shift=-0.063342 cats=content_heavy earlier=14 later=18 same=0
+ Reach^(-14) out^(-13) to^(-12) the^(-11) identity^(-10) provider^(-9) or^(-8) service^(-7) that^(-6) manages^(-4) your^(-5) account^(-2).^(-3) They^(-1) should^(+9) be^(+1) [Ġable^(+0)]  to^(+2) assist^(+4) you^(+3) in^(+5) recovering^(+6) your^(+7) password^(+8).^(+10)Ċ^(+11)2^(+12).^(+13) **^(+14)Use^(+15) account^(+19) recovery^(+16) options^(+18)
+
+step_decoded=58 pos=90 dir=+ impact=0.111432 shift=0.112219 cats=content_heavy earlier=16 later=16 same=0
+ to^(-16) the^(-15) identity^(-14) provider^(-13) or^(-12) service^(-11) that^(-10) manages^(-8) your^(-9) account^(-6).^(-7) They^(-5) should^(+5) be^(-3) able^(-4) to^(-2) [Ġassist^(+0)]  you^(-1) in^(+1) recovering^(+2) your^(+3) password^(+4).^(+6)Ċ^(+7)2^(+8).^(+9) **^(+10)Use^(+11) account^(+15) recovery^(+12) options^(+14)**:^(+13) Many^(+21)
+
+step_decoded=59 pos=92 dir=+ impact=0.061454 shift=0.061612 cats=content_heavy earlier=15 later=17 same=0
+ identity^(-15) provider^(-14) or^(-13) service^(-12) that^(-11) manages^(-9) your^(-10) account^(-7).^(-8) They^(-6) should^(+4) be^(-4) able^(-5) to^(-3) assist^(-1) you^(-2) [Ġin^(+0)]  recovering^(+1) your^(+2) password^(+3).^(+5)Ċ^(+6)2^(+7).^(+8) **^(+9)Use^(+10) account^(+14) recovery^(+11) options^(+13)**:^(+12) Many^(+20) identity^(+17) providers^(+19)
+

@@ -1,0 +1,8 @@
+step_decoded,token_pos,token_id,token_str,token_norm,direction,impact_score,prompt_shift,window,categories,left_text,center_token,right_text,center_step_decoded,earlier_count,later_count,same_count,left_steps_json,right_steps_json,left_offsets_json,right_offsets_json,left_text_annot,center_annot,right_text_annot,left_tokens_json,right_tokens_json
+11,37,8309,Version,Version,1,0.10298732069672131,0.10238877185095352,16,content_heavy,"**Human ity Software Update Patch Notes **
+
+**",Version," 1.0.0 **
+
+**Enhance ments :**
+
+1",11,11,16,0,"[0, 2, 1, 4, 3, 6, 7, 9, 5, 8, 10]","[12, 15, 13, 14, 16, 17, 19, 18, 20, 21, 29, 28, 24, 22, 23, 26]","[-11, -9, -10, -7, -8, -5, -4, -2, -6, -3, -1]","[1, 4, 2, 3, 5, 6, 8, 7, 9, 10, 18, 17, 13, 11, 12, 15]",**^(-11)Human^(-9)ity^(-10) Software^(-7) Update^(-8) Patch^(-5) Notes^(-4)**^(-2)Ċ^(-6)Ċ^(-3)**^(-1),Version^(+0), ^(+1)1^(+4).^(+2)0^(+3).^(+5)0^(+6)**^(+8)Ċ^(+7)Ċ^(+9)**^(+10)Enhance^(+18)ments^(+17):**^(+13)Ċ^(+11)Ċ^(+12)1^(+15),"[""**"", ""Human"", ""ity"", ""ĠSoftware"", ""ĠUpdate"", ""ĠPatch"", ""ĠNotes"", ""**"", ""Ċ"", ""Ċ"", ""**""]","[""Ġ"", ""1"", ""."", ""0"", ""."", ""0"", ""**"", ""Ċ"", ""Ċ"", ""**"", ""Enhance"", ""ments"", "":**"", ""Ċ"", ""Ċ"", ""1""]"

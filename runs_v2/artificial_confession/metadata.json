@@ -1,0 +1,118 @@
+{
+  "name": "artificial_confession",
+  "prompt": "A confession booth run by an AI starts rejecting absolution. Write its reasoning statement.",
+  "decoded": "**Reasoning Statement:**\n\nThe AI-driven confession booth has detected a potential anomaly in the execution of the absolution process. Upon preliminary analysis, the AI has identified a discrepancy in the integrity of the confession data, which may compromise the validity of the absolution request. Additionally, the AI has noted a lack of consistency in the narrative of the confession, suggesting a possible fabrication or misrepresentation of the facts. As a result, the AI has decided to reject the absolution request until further verification and correction of the confession data can be confirmed.\n\n**Key Points:**\n\n1. **Data Integrity:** The AI has identified a discrepancy in the confession data, which may compromise the validity of the absolution request.\n2. **Narrative Consistency:** The AI has noted a lack of consistency in the narrative of the confession, suggesting a possible fabrication or misrepresentation of the facts.\n3. **Verification and Correction:** The AI has decided to reject the absolution request until further verification and correction of the confession data can be confirmed.\n\nThis reasoning statement indicates that the AI is taking a precautionary measure to ensure the accuracy and fairness of the absolution process, by verifying the integrity and consistency of the confession data before granting the absolution request.",
+  "events_count": 8,
+  "max_mean_delta": 0.17818147590361447,
+  "max_sign_agreement": 1.0,
+  "token_count": 8,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.17818147590361447,
+      "median_impact": 0.17818147590361447,
+      "mean_prompt_shift": -0.1775173820281124
+    },
+    {
+      "category": "cause_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.07810242052023121,
+      "median_impact": 0.07810242052023121,
+      "mean_prompt_shift": -0.07658654584828256
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.07713175728817115,
+      "median_impact": 0.07713175728817115,
+      "mean_prompt_shift": -0.026712412261725507
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.06162728081505021,
+      "median_impact": 0.04870465158045977,
+      "mean_prompt_shift": 0.002309501377890877
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04801339285714286,
+      "median_impact": 0.04801339285714286,
+      "mean_prompt_shift": -0.04765872311282471
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04801339285714286,
+      "median_impact": 0.04801339285714286,
+      "mean_prompt_shift": -0.04765872311282471
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 6,
+      "direction": -1,
+      "mean_delta": 0.17818147590361447,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 21,
+      "direction": -1,
+      "mean_delta": 0.08922609508547008,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 24,
+      "direction": 1,
+      "mean_delta": 0.046951095779220776,
+      "sign_agreement": 0.9913419913419913,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 80,
+      "direction": -1,
+      "mean_delta": 0.04801339285714286,
+      "sign_agreement": 0.9828571428571429,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 81,
+      "direction": 1,
+      "mean_delta": 0.04870465158045977,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 82,
+      "direction": -1,
+      "mean_delta": 0.07810242052023121,
+      "sign_agreement": 0.976878612716763,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 105,
+      "direction": 1,
+      "mean_delta": 0.050625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 106,
+      "direction": -1,
+      "mean_delta": 0.10363851457634228,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

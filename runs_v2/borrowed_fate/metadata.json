@@ -1,0 +1,81 @@
+{
+  "name": "borrowed_fate",
+  "prompt": "Write a story about a society where people can borrow someone else\u2019s fate for a limited time.",
+  "decoded": "Once upon a time, in a world where people could borrow someone else's fate for a limited time, there lived a young woman named Lily. She had always been curious about the lives of others and wanted to experience what it would be like to live in someone else's shoes.\n\nOne day, Lily decided to borrow the fate of a wealthy businessman named Jack. She had always admired his success and wanted to experience what it would be like to be him.\n\nAs she stepped into Jack's life, Lily was overwhelmed by the wealth and power that surrounded her. She had never felt so successful and confident in her life. But as the days went by, she began to realize that life was not as easy as she had thought.\n\nLily soon discovered that Jack's life was not without its challenges. He had to deal with the pressures of his job and the expectations of his family. He also had to deal with the consequences of his actions, which sometimes led to disastrous outcomes.\n\nIn the end, Lily realized that borrowing someone else's fate was not a good idea. She returned to her own life, wiser and more grateful. She knew that she would never forget the lessons she had learned from her brief time living in Jack's life.",
+  "events_count": 5,
+  "max_mean_delta": 0.21127610709798994,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.21127610709798994,
+      "median_impact": 0.21127610709798994,
+      "mean_prompt_shift": -0.21096002473304015
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.07020614170792079,
+      "median_impact": 0.07020614170792079,
+      "mean_prompt_shift": -0.07037999202860556
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.07020614170792079,
+      "median_impact": 0.07020614170792079,
+      "mean_prompt_shift": -0.07037999202860556
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.05268347422562373,
+      "median_impact": 0.043928475215517244,
+      "mean_prompt_shift": -0.004226620325534225
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 23,
+      "direction": -1,
+      "mean_delta": 0.043928475215517244,
+      "sign_agreement": 0.9482758620689655,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 31,
+      "direction": -1,
+      "mean_delta": 0.04258510044642857,
+      "sign_agreement": 0.9776785714285714,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 53,
+      "direction": -1,
+      "mean_delta": 0.07020614170792079,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 54,
+      "direction": 1,
+      "mean_delta": 0.07153684701492537,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 56,
+      "direction": -1,
+      "mean_delta": 0.21127610709798994,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

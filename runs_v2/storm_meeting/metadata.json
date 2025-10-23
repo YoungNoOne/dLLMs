@@ -1,0 +1,102 @@
+{
+  "name": "storm_meeting",
+  "prompt": "Two strangers meet while taking shelter from a sudden storm. Write their conversation.",
+  "decoded": "Stranger 1: Hey, are you in here?\n\nStranger 2: Yeah, I'm in here. How about you?\n\nStranger 1: I'm in here too. I didn't see anyone else here around.\n\nStranger 2: Yeah, I didn't see anyone either. What brings you in here?\n\nStranger 1: I was just walking home from work when the storm hit. I thought I'd find a safe place to take shelter.\n\nStranger 2: Same here. I was just heading home from the grocery store when it started raining. I thought I'd find a place to hide too.\n\nStranger 1: Yeah, it was pretty sudden. I didn't expect it to be so intense.\n\nStranger 2: Me neither. It's good to know we're all safe together, though.\n\nStranger 1: Definitely. I hope the storm is over soon.\n\nStranger 2: Me too. Let's just wait it out and hope for the best.\n\nStranger 1: Agreed. Stay warm and dry.\n\nStranger 2: Thank you. You too.",
+  "events_count": 8,
+  "max_mean_delta": 0.14725988051470587,
+  "max_sign_agreement": 1.0,
+  "token_count": 8,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.14725988051470587,
+      "median_impact": 0.14725988051470587,
+      "mean_prompt_shift": -0.14714330949605453
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.096252582326752,
+      "median_impact": 0.096252582326752,
+      "mean_prompt_shift": -0.09688632890310223
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.096252582326752,
+      "median_impact": 0.096252582326752,
+      "mean_prompt_shift": -0.09688632890310223
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 5,
+      "samples": 5,
+      "mean_impact": 0.07823242568363373,
+      "median_impact": 0.05753260334645669,
+      "mean_prompt_shift": -0.034120166432317196
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 0,
+      "direction": -1,
+      "mean_delta": 0.12496936274509804,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 1,
+      "direction": -1,
+      "mean_delta": 0.05753260334645669,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 51,
+      "direction": -1,
+      "mean_delta": 0.14725988051470587,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 52,
+      "direction": 1,
+      "mean_delta": 0.10727755541871921,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 56,
+      "direction": -1,
+      "mean_delta": 0.13785725502512564,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 181,
+      "direction": -1,
+      "mean_delta": 0.05464790962837838,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 198,
+      "direction": -1,
+      "mean_delta": 0.04767166940789474,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 226,
+      "direction": -1,
+      "mean_delta": 0.0537109375,
+      "sign_agreement": 0.9310344827586207,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

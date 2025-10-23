@@ -1,0 +1,81 @@
+{
+  "name": "forest_telegraph",
+  "prompt": "Forests have begun to communicate through patterns in the wind. Write a decoded message from the trees.",
+  "decoded": "**Decoded Message from the Trees:**\n\n\"Whispers of the wind,\nSecrets of the earth,\nVoice of the trees,\nA call to listen,\nEmbrace the balance,\nRespect the cycles,\nHonor the roots,\nAnd heed the call,\nFor in the silence,\nLies the truth,\nAnd in the harmony,\nLies the peace.\"\n\n**Explanation:**\n\nThe message is a poetic expression of the forest's wisdom, conveyed through the wind. It encourages humans to listen to the natural world, respect the cycles of life, and honor the interconnectedness of all living things. The message emphasizes the importance of balance, harmony, and peace, suggesting that true understanding and tranquility come from living in harmony with nature.\n\n**Decoded Message:**\n\n\"Listen to the whispers of the wind, for they carry the secrets of the earth. Hear the voice of the trees, for it is a call to listen. Embrace the balance of life, respect the cycles of nature, and honor the roots of all living things. For in the silence lies the truth, and in the harmony lies the peace. Heed the call, and let the wisdom of the forest guide you.\"",
+  "events_count": 5,
+  "max_mean_delta": 0.2598837575604839,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.20969129972972309,
+      "median_impact": 0.19142266281512604,
+      "mean_prompt_shift": -0.20937252184993302
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1648041930379747,
+      "median_impact": 0.1648041930379747,
+      "mean_prompt_shift": 0.1654157608454775
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1648041930379747,
+      "median_impact": 0.1648041930379747,
+      "mean_prompt_shift": 0.1654157608454775
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.13038319989669422,
+      "median_impact": 0.13038319989669422,
+      "mean_prompt_shift": 0.13183457576607827
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 7,
+      "direction": -1,
+      "mean_delta": 0.2598837575604839,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 13,
+      "direction": 1,
+      "mean_delta": 0.13038319989669422,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 17,
+      "direction": -1,
+      "mean_delta": 0.19142266281512604,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 18,
+      "direction": 1,
+      "mean_delta": 0.1648041930379747,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 19,
+      "direction": -1,
+      "mean_delta": 0.1777674788135593,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

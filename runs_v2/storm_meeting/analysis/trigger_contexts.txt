@@ -1,0 +1,15 @@
+step_decoded=0 pos=29 dir=- impact=0.124969 shift=-0.124969 cats=content_heavy earlier=0 later=17 same=0
+Str^(+1) [anger^(+0)]  ^(+2)1^(+4):^(+3) Hey^(+6),^(+5) are^(+8) you^(+7) in^(+15) here^(+10)?^(+9)Ċ^(+11)Ċ^(+14)Str^(+13)anger^(+12) ^(+16)2^(+18)
+
+step_decoded=1 pos=28 dir=- impact=0.057533 shift=-0.057363 cats=content_heavy earlier=1 later=15 same=0
+ [Str^(+0)] anger^(-1) ^(+1)1^(+3):^(+2) Hey^(+5),^(+4) are^(+7) you^(+6) in^(+14) here^(+9)?^(+8)Ċ^(+10)Ċ^(+13)Str^(+12)anger^(+11) ^(+15)
+
+step_decoded=52 pos=82 dir=+ impact=0.107278 shift=0.107959 cats=content_heavy earlier=14 later=18 same=0
+'m^(-15) in^(-12) here^(-13) too^(-11).^(-10) I^(-9) didn^(-7)'t^(-8) see^(-6) anyone^(-5) else^(-4) here^(+11) around^(+7).^(+4)Ċ^(-3)Ċ^(-1) [Str^(+0)] anger^(-2) ^(+1)2^(+2):^(+3) Yeah^(+6),^(+5) I^(+8) didn^(+10)'t^(+9) see^(+12) anyone^(+13) either^(+15).^(+14) What^(+25) brings^(+24) you^(+23)
+
+step_decoded=198 pos=227 dir=- impact=0.047672 shift=-0.047351 cats=content_heavy earlier=15 later=17 same=0
+ together^(-9),^(-13) though^(-14).^(-17)Ċ^(-21)Ċ^(-20)Str^(-19)anger^(-22) ^(-18)1^(-6):^(-5) Definitely^(-3).^(-4) I^(-2) hope^(-1) the^(+1) [Ġstorm^(+0)]  is^(+4) over^(+3) soon^(+2).^(+5)Ċ^(+7)Ċ^(+8)Str^(+6)anger^(+9) ^(+10)2^(+11):^(+12) Me^(+13) too^(+14).^(+15) Let^(+16)'s^(+17)
+
+step_decoded=226 pos=256 dir=- impact=0.053711 shift=-0.048876 cats=content_heavy earlier=14 later=18 same=0
+ too^(-14).^(-13) Let^(-12)'s^(-11) just^(-10) wait^(-9) it^(-8) out^(-7) and^(-6) hope^(-5) for^(-4) the^(-3) best^(-2).^(-1)Ċ^(+2)Ċ^(+3) [Str^(+0)] anger^(+1) ^(+4)1^(+5):^(+6) Ag^(+7)reed^(+8).^(+9) Stay^(+10) warm^(+11) and^(+12) dry^(+13).^(+24)Ċ^(+19)Ċ^(+17)Str^(+18)anger^(+20)
+

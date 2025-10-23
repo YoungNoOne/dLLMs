@@ -1,0 +1,1158 @@
+run=unexpected_rules step_decoded=94 pos=120 dir=- impact=0.13740416343167702 shift=-0.13776690162276667 cats=contrast_marker;content_heavy earlier=17 later=15 same=0
+ their^(-17) culture^(-16) and^(-15) upbringing^(-14),^(-13) rather^(-11) than^(-12) because^(-9) they^(-10) fully^(-7) understand^(-8) the^(-6) logic^(-2) behind^(-5) it^(-4).^(-3) [ĠHowever^(+0)] ,^(-1) when^(+1) we^(+2) delve^(+3) deeper^(+4),^(+5) we^(+6) realize^(+12) that^(+7) The^(+11) Golden^(+8) Rule^(+9) is^(+10) not^(+13) just^(+15) a^(+14)
+
+run=unexpected_rules step_decoded=245 pos=269 dir=+ impact=0.05283203125 shift=0.05436345880681817 cats=content_heavy earlier=19 later=10 same=0
+ society^(-10),^(-20) where^(-19) everyone^(-18) is^(-17) treated^(-16) with^(-15) dignity^(-14) and^(-13) respect^(-12),^(-9) and^(-8) where^(-7) we^(-6) can^(-1) all^(-2) [Ġthrive^(+0)]  in^(+1) a^(+2) culture^(+8) of^(+3) kindness^(+7),^(+4) compassion^(+9),^(+6) and^(+5) understanding^(+10).^(-3)<|eot_id|>^(-4)<|endoftext|>^(-5)
+
+run=silent_argument step_decoded=243 pos=267 dir=- impact=0.057088216145833336 shift=-0.05724471654647435 cats=content_heavy earlier=17 later=12 same=0
+ even^(-16) if^(-15) they^(-17) don^(-13)'t^(-14) say^(-12) a^(-10) word^(-11).^(-9) It^(-8)'s^(-7) a^(-6) subtle^(-5) way^(-4) for^(+1) them^(+2) [Ġto^(+0)]  express^(+6) their^(+3) disagreement^(+4) without^(+5) having^(+7) to^(+8) resort^(+10) to^(+9) verbal^(+11) arguments^(+12).^(-2)<|eot_id|>^(-1)<|endoftext|>^(-3)
+
+run=dream_reuse step_decoded=30 pos=57 dir=- impact=0.057118055555555554 shift=-0.056727891470009784 cats=content_heavy earlier=16 later=16 same=0
+ hypothetical^(-15) scenario^(-16).^(-14) Let^(-13)'s^(-12) say^(-9) the^(-8) last^(-11) dream^(-10) I^(-7) remember^(-6) was^(-4) a^(-5) futuristic^(-2) city^(-3)scape^(-1) [Ġwith^(+0)]  towering^(+1) skysc^(+3)rap^(+2)ers^(+4),^(+6) flying^(+5) cars^(+9),^(+7) and^(+8) a^(+10) vast^(+13),^(+12) open^(+14) sky^(+15).^(+11) In^(+17)
+
+run=dream_reuse step_decoded=49 pos=79 dir=- impact=0.0816994083737864 shift=-0.07814648153522352 cats=content_heavy earlier=13 later=19 same=0
+ flying^(-14) cars^(-10),^(-12) and^(-11) a^(-9) vast^(-6),^(-7) open^(-5) sky^(-4).^(-8) In^(-2) this^(-3) setting^(+3),^(-1) a^(+4) political^(+1) [Ġdebate^(+0)]  could^(+2) be^(+5) held^(+6) on^(+7) the^(+8) topic^(+10) of^(+9) artificial^(+13) intelligence^(+14) and^(+11) its^(+12) potential^(+18) impact^(+21) on^(+17) society^(+15).^(+16)
+
+run=wrong_prediction step_decoded=22 pos=54 dir=- impact=0.034938304721030045 shift=-0.0338519456595503 cats=content_heavy earlier=16 later=16 same=0
+,^(-20) a^(-16) group^(-14) of^(-15) scientists^(-13) at^(-10) the^(-11) University^(-8) of^(-9) Cambridge^(-7),^(-6) led^(-4) by^(-5) the^(-3) renowned^(+1) physicist^(-2) [ĠDr^(+0)] .^(-1) Albert^(+7) Fl^(+8)uffy^(+9),^(+2) made^(+4) a^(+3) bold^(+5) prediction^(+6) about^(+12) the^(+10) behavior^(+13) of^(+11) sub^(+15)atomic^(+14) particles^(+16)
+
+run=wrong_prediction step_decoded=30 pos=57 dir=- impact=0.043368055555555556 shift=-0.04165691064405119 cats=content_heavy earlier=21 later=11 same=0
+ of^(-23) scientists^(-21) at^(-18) the^(-19) University^(-16) of^(-17) Cambridge^(-15),^(-14) led^(-12) by^(-13) the^(-11) renowned^(-7) physicist^(-10) Dr^(-8).^(-9) Albert^(-1) [ĠFl^(+0)] uffy^(+1),^(-6) made^(-4) a^(-5) bold^(-3) prediction^(-2) about^(+4) the^(+2) behavior^(+5) of^(+3) sub^(+7)atomic^(+6) particles^(+8).^(+9) They^(+10) hypothesized^(+17)
+
+run=wrong_prediction step_decoded=220 pos=255 dir=- impact=0.040359933035714286 shift=-0.03929346478174603 cats=content_heavy earlier=13 later=19 same=0
+ of^(-16) legend^(+3) among^(-12) the^(-11) scientific^(-10) community^(-9).^(-8) Dr^(-7).^(-6) Fl^(-5)uffy^(-4)'s^(-3) prediction^(-1) was^(-2) so^(+2) hilar^(+1) [iously^(+0)]  wrong^(+5) that^(+4) it^(+6) was^(+7) often^(+8) referred^(+10) to^(+9) as^(+11) the^(+14) "^(+13)Fl^(+12)uffy^(+15) Fl^(+16)op^(+18)"^(+17) and^(+19)
+
+run=midnight_instruction step_decoded=249 pos=283 dir=- impact=0.047444661458333336 shift=-0.047746930803571425 cats=content_heavy earlier=19 later=6 same=0
+.^(-21) I^(-19) turn^(-15) around^(-16),^(-17) expecting^(-12) to^(-14) see^(-13) someone^(-11),^(-10) but^(-9) it^(-4)'s^(-5) nothing^(-3).^(-6) The^(-2) [Ġnight^(+0)]  is^(+1) still^(+2) as^(+3) quiet^(+6) as^(+4) ever^(+5).^(-1)<|eot_id|>^(-7)<|endoftext|>^(-8)
+
+run=cold_logic step_decoded=1 pos=30 dir=- impact=0.06845164862204725 shift=-0.06830214123050793 cats=content_heavy earlier=1 later=15 same=0
+ [Robot^(+0)] :^(-1) In^(+1) my^(+3) opinion^(+6),^(+2) morality^(+4) is^(+5) a^(+7) set^(+8) of^(+9) rules^(+10) that^(+11) can^(+13) be^(+12) applied^(+14) universally^(+15)
+
+run=lost_translation step_decoded=14 pos=37 dir=- impact=0.054006742738589214 shift=-0.053419485785809795 cats=content_heavy earlier=14 later=7 same=0
+The^(-13) id^(-12)iom^(-14) "^(-11)a^(-1) [Ġwalk^(+0)]  in^(-3) the^(-2) park^(+1)"^(-10) is^(-9) a^(-8) metaphor^(-7) that^(-6) cannot^(-5) be^(-4) translated^(+3) into^(+2) any^(+4) other^(+5) language^(+6).^(+7)
+
+run=lost_translation step_decoded=15 pos=40 dir=- impact=0.042708333333333334 shift=-0.04227610650069158 cats=content_heavy earlier=15 later=9 same=0
+The^(-14) id^(-13)iom^(-15) "^(-12)a^(-2) walk^(-1) in^(-4) the^(-3) [Ġpark^(+0)] "^(-11) is^(-10) a^(-9) metaphor^(-8) that^(-7) cannot^(-6) be^(-5) translated^(+2) into^(+1) any^(+3) other^(+4) language^(+5).^(+6) It^(+7) is^(+8) used^(+9)
+
+run=lost_translation step_decoded=16 pos=49 dir=- impact=0.03680700836820084 shift=-0.03650082810320776 cats=content_heavy earlier=15 later=17 same=0
+ id^(-14)iom^(-16) "^(-13)a^(-3) walk^(-2) in^(-5) the^(-4) park^(-1)"^(-12) is^(-11) a^(-10) metaphor^(-9) that^(-8) cannot^(-7) be^(-6) translated^(+1) [Ġinto^(+0)]  any^(+2) other^(+3) language^(+4).^(+5) It^(+6) is^(+7) used^(+8) to^(+9) describe^(+10) something^(+11) that^(+13) is^(+12) extremely^(+15) easy^(+14) or^(+16) simple^(+17)
+
+run=lost_translation step_decoded=251 pos=281 dir=+ impact=0.0458984375 shift=0.047216796874999994 cats=content_heavy earlier=18 later=4 same=0
+ ease^(-15) and^(-14) comfort^(-16),^(-18) and^(-17) can^(-12) be^(-13) used^(-8) to^(-7) describe^(-6) a^(-5) wide^(-3) range^(-4) of^(-2) tasks^(-1),^(+1) [Ġactivities^(+0)] ,^(+2) and^(+3) experiences^(+4).^(-9)<|eot_id|>^(-10)<|endoftext|>^(-11)
+
+run=invisible_city step_decoded=3 pos=29 dir=- impact=0.0824342757936508 shift=-0.08202205968849985 cats=content_heavy earlier=3 later=16 same=0
+The^(-3) city^(-2) of^(-1) [ĠAurora^(+0)]  is^(+1) a^(+2) breathtaking^(+12) metropolis^(+3) that^(+4) appears^(+6) only^(+5) at^(+7) sunrise^(+8) and^(+9) disappears^(+10) by^(+11) noon^(+13).^(+14) It^(+15) is^(+16)
+
+run=social_mirror step_decoded=21 pos=53 dir=- impact=0.05268429487179487 shift=-0.05156463106928533 cats=content_heavy earlier=17 later=15 same=0
+,^(-19) people^(-18) see^(-17) a^(-15) reflection^(-12) of^(-13) how^(-9) others^(-10) perceive^(-11) their^(-7) personality^(-8).^(-6) This^(-5) reflection^(-4) is^(-3) a^(-2) [Ġcomposite^(+0)]  representation^(+1) of^(-1) the^(+6) traits^(+5),^(+3) characteristics^(+9),^(+2) and^(+4) qualities^(+10) that^(+7) others^(+8) associate^(+11) with^(+12) them^(+13).^(+14) It^(+15)
+
+run=moral_switch step_decoded=54 pos=86 dir=- impact=0.040622084888059705 shift=-0.03904034803550316 cats=content_heavy earlier=17 later=15 same=0
+,^(-17) as^(-15) well^(-16) as^(-14) the^(-13) potential^(-12) risks^(-11) and^(-10) benefits^(-9).^(-8)Ċ^(-7)Ċ^(-6)Next^(-2),^(-4) I^(-3) would^(-5) [Ġobserve^(+0)]  the^(-1) participants^(+1)'^(+2) behavior^(+3) and^(+4) decision^(+6)-making^(+5) processes^(+7) throughout^(+9) the^(+8) day^(+10).^(+12) I^(+13) would^(+11) ask^(+16) them^(+15)
+
+run=childhood_rule step_decoded=23 pos=52 dir=- impact=0.040055899784482756 shift=-0.03920876035962706 cats=content_heavy earlier=15 later=17 same=0
+ sense^(-16) only^(-15) to^(-14) adults^(-13) was^(-11) the^(-10) rule^(-9) that^(-8) I^(-7) had^(-6) to^(-5) wear^(-4) a^(-3) special^(-2) pair^(+1) of^(-1) [Ġsocks^(+0)]  every^(+2) night^(+4).^(+3) My^(+5) parents^(+6) would^(+7) make^(+8) me^(+9) wear^(+10) a^(+11) specific^(+15) pair^(+14) of^(+13) socks^(+12) to^(+16) bed^(+17)
+
+run=childhood_rule step_decoded=53 pos=81 dir=+ impact=0.03657758353960396 shift=0.03589013650441397 cats=content_heavy earlier=16 later=16 same=0
+ of^(-17) socks^(-18) to^(-14) bed^(-13),^(-12) and^(-11) I^(-10) would^(-9) have^(-8) to^(-7) change^(-6) them^(-5) in^(-3) the^(-4) morning^(-2).^(-1) [ĠAt^(+0)]  the^(+3) time^(+2),^(+1) I^(+4) didn^(+5)'t^(+6) understand^(+7) why^(+8) I^(+10) had^(+9) to^(+11) wear^(+12) those^(+14) socks^(+13),^(+15) but^(+16)
+
+run=childhood_rule step_decoded=87 pos=113 dir=- impact=0.03281947544642857 shift=-0.03319569553043111 cats=content_heavy earlier=18 later=14 same=0
+ but^(-18) now^(-17) I^(-16) realize^(-15) that^(-14) it^(-13) was^(-12) a^(-11) way^(-10) for^(-9) my^(-8) parents^(-6) to^(-7) teach^(-4) me^(-5) about^(-3) [Ġresponsibility^(+0)]  and^(-2) organization^(+3).^(-1)Ċ^(+2)Ċ^(+1)As^(+4) a^(+5) child^(+7),^(+6) I^(+8) didn^(+9)'t^(+10) understand^(+13) the^(+11) concept^(+14) of^(+12)
+
+run=data_emotion step_decoded=31 pos=52 dir=- impact=0.03810337611607143 shift=-0.03730918278769846 cats=content_heavy earlier=27 later=5 same=0
+ tracked^(-28) as^(-26) data^(-25) points^(-27) on^(-23) a^(-24) public^(-22) chart^(-21),^(-20) it^(-17) would^(-18) feel^(-16) like^(-15) a^(-14) mix^(-12) of^(-13) [Ġcuriosity^(+0)]  and^(-11) vulnerability^(-9).^(-10) On^(-8) one^(-6) hand^(-7),^(-5) it^(-3) would^(-2) be^(-4) fascinating^(-1) to^(+1) see^(+2) how^(+3) my^(+4) emotions^(+5)
+
+run=data_emotion step_decoded=237 pos=269 dir=+ impact=0.04299587673611111 shift=0.04335423519736842 cats=content_heavy earlier=16 later=16 same=0
+ as^(-16) data^(-15) points^(-17) on^(-12) a^(-11) public^(-10) chart^(-13) would^(-9) be^(-8) a^(-7) complex^(-6) and^(-5) multifaceted^(-2) experience^(-4),^(-3) with^(-1) [Ġboth^(+0)]  positive^(+2) and^(+1) negative^(+3) implications^(+18) that^(+7) would^(+8) need^(+10) to^(+9) be^(+11) carefully^(+12) considered^(+14) and^(+13) thoughtfully^(+17) nav^(+16)igated^(+15).^(+6)
+
+run=artificial_friend step_decoded=10 pos=40 dir=+ impact=0.047751913265306124 shift=0.04640141498672645 cats=content_heavy earlier=10 later=18 same=0
+Once^(-10) upon^(-8) a^(-9) time^(-7),^(-6) there^(-4) was^(-3) a^(-5) young^(-2) girl^(+1) named^(-1) Lily^(+5) [Ġwho^(+0)]  lived^(+2) in^(+3) a^(+4) small^(+6) town^(+10) with^(+8) her^(+7) family^(+11).^(+9) One^(+12) day^(+14),^(+13) her^(+19) parents^(+20) gifted^(+21) her^(+18)
+
+run=artificial_friend step_decoded=15 pos=39 dir=- impact=0.06453450520833333 shift=-0.0641112605895574 cats=content_heavy earlier=15 later=12 same=0
+Once^(-15) upon^(-13) a^(-14) time^(-12),^(-11) there^(-9) was^(-8) a^(-10) young^(-7) girl^(-4) named^(-6) [ĠLily^(+0)]  who^(-5) lived^(-3) in^(-2) a^(-1) small^(+1) town^(+5) with^(+3) her^(+2) family^(+6).^(+4) One^(+7) day^(+9),^(+8) her^(+14) parents^(+15) gifted^(+16)
+
+run=moral_bet step_decoded=20 pos=58 dir=- impact=0.05226894946808511 shift=-0.052225333432879495 cats=content_heavy earlier=10 later=22 same=0
+ can^(-10) help^(-8) you^(-9) think^(-7) through^(-6) the^(-5) situation^(+11).^(-4)Ċ^(-2)Ċ^(-3)If^(-1) someone^(+3) offers^(+10) you^(+4) a^(+1) million^(+2) [Ġdollars^(+0)]  to^(+6) keep^(+5) a^(+8) secret^(+7) forever^(+9),^(+12) it^(+13)'s^(+14) essential^(+16) to^(+15) consider^(+18) the^(+17) context^(+27) and^(+19) implications^(+26) of^(+20)
+
+run=ancient_internet step_decoded=9 pos=35 dir=- impact=0.0957983993902439 shift=-0.09501717510532903 cats=content_heavy earlier=9 later=15 same=0
+If^(-7) the^(-9) internet^(-8) existed^(-5) in^(-6) ancient^(-2) Rome^(-4),^(-3) [Ġpeople^(+0)]  would^(-1) likely^(+3) post^(+1) about^(+2) a^(+4) wide^(+5) range^(+6) of^(+7) topics^(+8),^(+9) including^(+10):^(+12)Ċ^(+13)Ċ^(+11)1^(+15).^(+14)
+
+run=storm_meeting step_decoded=0 pos=29 dir=- impact=0.12496936274509804 shift=-0.12496936274509807 cats=content_heavy earlier=0 later=17 same=0
+Str^(+1) [anger^(+0)]  ^(+2)1^(+4):^(+3) Hey^(+6),^(+5) are^(+8) you^(+7) in^(+15) here^(+10)?^(+9)Ċ^(+11)Ċ^(+14)Str^(+13)anger^(+12) ^(+16)2^(+18)
+
+run=storm_meeting step_decoded=1 pos=28 dir=- impact=0.05753260334645669 shift=-0.05736331442025622 cats=content_heavy earlier=1 later=15 same=0
+ [Str^(+0)] anger^(-1) ^(+1)1^(+3):^(+2) Hey^(+5),^(+4) are^(+7) you^(+6) in^(+14) here^(+9)?^(+8)Ċ^(+10)Ċ^(+13)Str^(+12)anger^(+11) ^(+15)
+
+run=storm_meeting step_decoded=52 pos=82 dir=+ impact=0.10727755541871921 shift=0.10795911171580702 cats=content_heavy earlier=14 later=18 same=0
+'m^(-15) in^(-12) here^(-13) too^(-11).^(-10) I^(-9) didn^(-7)'t^(-8) see^(-6) anyone^(-5) else^(-4) here^(+11) around^(+7).^(+4)Ċ^(-3)Ċ^(-1) [Str^(+0)] anger^(-2) ^(+1)2^(+2):^(+3) Yeah^(+6),^(+5) I^(+8) didn^(+10)'t^(+9) see^(+12) anyone^(+13) either^(+15).^(+14) What^(+25) brings^(+24) you^(+23)
+
+run=storm_meeting step_decoded=198 pos=227 dir=- impact=0.04767166940789474 shift=-0.04735087482985481 cats=content_heavy earlier=15 later=17 same=0
+ together^(-9),^(-13) though^(-14).^(-17)Ċ^(-21)Ċ^(-20)Str^(-19)anger^(-22) ^(-18)1^(-6):^(-5) Definitely^(-3).^(-4) I^(-2) hope^(-1) the^(+1) [Ġstorm^(+0)]  is^(+4) over^(+3) soon^(+2).^(+5)Ċ^(+7)Ċ^(+8)Str^(+6)anger^(+9) ^(+10)2^(+11):^(+12) Me^(+13) too^(+14).^(+15) Let^(+16)'s^(+17)
+
+run=storm_meeting step_decoded=226 pos=256 dir=- impact=0.0537109375 shift=-0.0488763918821839 cats=content_heavy earlier=14 later=18 same=0
+ too^(-14).^(-13) Let^(-12)'s^(-11) just^(-10) wait^(-9) it^(-8) out^(-7) and^(-6) hope^(-5) for^(-4) the^(-3) best^(-2).^(-1)Ċ^(+2)Ċ^(+3) [Str^(+0)] anger^(+1) ^(+4)1^(+5):^(+6) Ag^(+7)reed^(+8).^(+9) Stay^(+10) warm^(+11) and^(+12) dry^(+13).^(+24)Ċ^(+19)Ċ^(+17)Str^(+18)anger^(+20)
+
+run=impossible_math step_decoded=24 pos=49 dir=+ impact=0.19125828598484848 shift=0.19252649430535335 cats=content_heavy earlier=17 later=15 same=0
+ that^(-17) might^(-16) make^(-13) sense^(-14) emotionally^(-12) but^(-15) not^(-11) logically^(-9):^(-10)Ċ^(-8)Ċ^(-7)**^(-6)Problem^(-5):**^(-4)Ċ^(-3)Ċ^(-2) [Imagine^(+0)]  you^(-1) have^(+1) a^(+2) magical^(+3) box^(+6) that^(+4) can^(+5) transform^(+7) any^(+8) number^(+9) you^(+10) put^(+12) into^(+13) it^(+11).^(+14) The^(+16)
+
+run=distant_smile step_decoded=69 pos=92 dir=- impact=0.046643985215053765 shift=-0.04594319170116734 cats=content_heavy earlier=21 later=11 same=0
+ The^(-21) sky^(-19) is^(-20) a^(-18) soft^(-6) gradient^(-7) of^(-17) orange^(-11),^(-14) pink^(-12),^(-16) and^(-15) purple^(-10),^(-13) reflecting^(-8) the^(-9) [Ġwarm^(+0)]  glow^(+1) of^(-5) the^(-4) setting^(-3) sun^(-2).^(-1)Ċ^(+2)Ċ^(+3)In^(+5) the^(+4) foreground^(+7),^(+6) a^(+8) small^(+9),^(+10) rustic^(+11)
+
+run=truth_inversion step_decoded=4 pos=28 dir=- impact=0.0715730826693227 shift=-0.07110058031761846 cats=content_heavy earlier=4 later=13 same=0
+**^(-4) [Alex^(+0)] :**^(-3) Hey^(-1),^(-2) Jamie^(+1),^(+2) have^(+4) you^(+3) seen^(+5) the^(+7) new^(+6) movie^(+8)?^(+9)Ċ^(+10)Ċ^(+11)**^(+12)Jamie^(+14)
+
+run=truth_inversion step_decoded=5 pos=32 dir=- impact=0.061 shift=-0.06051313496015931 cats=content_heavy earlier=5 later=16 same=0
+**^(-5)Alex^(-1):**^(-4) Hey^(-2),^(-3) [ĠJamie^(+0)] ,^(+1) have^(+3) you^(+2) seen^(+4) the^(+6) new^(+5) movie^(+7)?^(+8)Ċ^(+9)Ċ^(+10)**^(+11)Jamie^(+13):**^(+12) Yeah^(+15),^(+14) I^(+16)
+
+run=truth_inversion step_decoded=218 pos=246 dir=- impact=0.048946896114864864 shift=-0.04841728807343529 cats=content_heavy earlier=15 later=17 same=0
+Ċ^(-15)Ċ^(-14)**^(-16)Jamie^(-12):**^(-13) No^(-8),^(-10) it^(-9) was^(-7) a^(-6) total^(-4) disaster^(-5).^(-3)Ċ^(-1)Ċ^(-2)**^(+1) [Alex^(+0)] :**^(+2) Okay^(+3),^(+4) I^(+5) understand^(+12).^(+6) I^(+7) thought^(+9) it^(+8) was^(+10) a^(+11) huge^(+13) hit^(+14).^(+15)Ċ^(+16)Ċ^(+17)
+
+run=forest_agreement step_decoded=54 pos=83 dir=- impact=0.13754955690298507 shift=-0.13672043364551006 cats=content_heavy earlier=15 later=17 same=0
+ Trees^(-15) could^(-12) be^(-14) discussing^(-13) ways^(-9) to^(-11) mitigate^(-10) the^(-8) effects^(-7) of^(-6) climate^(-4) change^(-5),^(-3) such^(-1) as^(-2) reducing^(+1) [Ġcarbon^(+0)]  emissions^(+2) and^(+3) promoting^(+7) renewable^(+8) energy^(+9).^(+5)Ċ^(+4)Ċ^(+6)2^(+10).^(+11) **^(+12)Hab^(+19)itat^(+18) Preservation^(+20)**:^(+14) They^(+15)
+
+run=forest_agreement step_decoded=55 pos=82 dir=+ impact=0.0551611328125 shift=0.05572095576803482 cats=content_heavy earlier=17 later=15 same=0
+**:^(-17) Trees^(-16) could^(-13) be^(-15) discussing^(-14) ways^(-10) to^(-12) mitigate^(-11) the^(-9) effects^(-8) of^(-7) climate^(-5) change^(-6),^(-4) such^(-2) as^(-3) [Ġreducing^(+0)]  carbon^(-1) emissions^(+1) and^(+2) promoting^(+6) renewable^(+7) energy^(+8).^(+4)Ċ^(+3)Ċ^(+5)2^(+9).^(+10) **^(+11)Hab^(+18)itat^(+17) Preservation^(+19)**:^(+13)
+
+run=mirror_teacher step_decoded=18 pos=46 dir=- impact=0.03751318565400844 shift=-0.03651885991738468 cats=content_heavy earlier=16 later=16 same=0
+ wakes^(-14) up^(-16) to^(-15) find^(-13) that^(-12) mirrors^(-9) now^(-10) grade^(-11) students^(-8) instead^(-7) of^(-6) exams^(-5).^(-4) This^(-3) is^(-2) a^(-1) [Ġhumorous^(+0)]  and^(+1) unexpected^(+4) scenario^(+2).^(+3) The^(+5) teacher^(+6) is^(+7) likely^(+8) confused^(+9) and^(+10) trying^(+12) to^(+11) figure^(+13) out^(+14) how^(+15) to^(+16)
+
+run=invisible_laws step_decoded=52 pos=77 dir=- impact=0.11499865301724138 shift=-0.1146703495514585 cats=content_heavy earlier=18 later=14 same=0
+ that^(-19) dictate^(-17) how^(-18) people^(-16) interact^(-13) with^(-14) each^(-12) other^(-11) in^(-10) various^(-7) situations^(-8).^(-9) For^(-6) example^(-5),^(-4) appropriate^(+1) [Ġgreetings^(+0)] ,^(-1) gestures^(+4) of^(+2) respect^(+3),^(-3) and^(-2) the^(+5) use^(+7) of^(+6) polite^(+8) language^(+9).^(+10) These^(+11) norms^(+12) are^(+13) often^(+14)
+
+run=invisible_laws step_decoded=53 pos=76 dir=+ impact=0.11263826577970297 shift=0.1136478122104082 cats=content_heavy earlier=20 later=12 same=0
+ rules^(-16) that^(-20) dictate^(-18) how^(-19) people^(-17) interact^(-14) with^(-15) each^(-13) other^(-12) in^(-11) various^(-8) situations^(-9).^(-10) For^(-7) example^(-6),^(-5) [Ġappropriate^(+0)]  greetings^(-1),^(-2) gestures^(+3) of^(+1) respect^(+2),^(-4) and^(-3) the^(+4) use^(+6) of^(+5) polite^(+7) language^(+8).^(+9) These^(+10) norms^(+11) are^(+12)
+
+run=invisible_laws step_decoded=64 pos=91 dir=- impact=0.11302816181282722 shift=-0.11182245118039646 cats=content_heavy earlier=16 later=16 same=0
+,^(-16) appropriate^(-11) greetings^(-12),^(-13) gestures^(-8) of^(-10) respect^(-9),^(-15) and^(-14) the^(-7) use^(-5) of^(-6) polite^(-4) language^(-3).^(-2) These^(-1) [Ġnorms^(+0)]  are^(+1) often^(+2) passed^(+5) down^(+4) through^(+3) generations^(+8) and^(+6) are^(+7) influenced^(+11) by^(+10) cultural^(+12) values^(+13) and^(+9) societal^(+14) expectations^(+15).^(+16)
+
+run=invisible_laws step_decoded=69 pos=94 dir=+ impact=0.14268575688844087 shift=0.1440948825002875 cats=content_heavy earlier=18 later=14 same=0
+,^(-18) gestures^(-13) of^(-15) respect^(-14),^(-20) and^(-19) the^(-12) use^(-10) of^(-11) polite^(-9) language^(-8).^(-7) These^(-6) norms^(-5) are^(-4) often^(-3) [Ġpassed^(+0)]  down^(-1) through^(-2) generations^(+3) and^(+1) are^(+2) influenced^(+6) by^(+5) cultural^(+7) values^(+8) and^(+4) societal^(+9) expectations^(+10).^(+11)Ċ^(+13)Ċ^(+14)2^(+15)
+
+run=invisible_laws step_decoded=74 pos=101 dir=+ impact=0.13746870683701656 shift=0.13833638359654843 cats=content_heavy earlier=16 later=16 same=0
+ use^(-15) of^(-16) polite^(-14) language^(-13).^(-12) These^(-11) norms^(-10) are^(-9) often^(-8) passed^(-5) down^(-6) through^(-7) generations^(-2) and^(-4) are^(-3) influenced^(+1) [Ġby^(+0)]  cultural^(+2) values^(+3) and^(-1) societal^(+4) expectations^(+5).^(+6)Ċ^(+8)Ċ^(+9)2^(+10).^(+11) **^(+7)Implicit^(+14) Contracts^(+19) and^(+13) Expectations^(+18)**:^(+12)
+
+run=invisible_laws step_decoded=75 pos=100 dir=- impact=0.14543185763888888 shift=-0.14496269998848982 cats=content_heavy earlier=18 later=14 same=0
+ the^(-18) use^(-16) of^(-17) polite^(-15) language^(-14).^(-13) These^(-12) norms^(-11) are^(-10) often^(-9) passed^(-6) down^(-7) through^(-8) generations^(-3) and^(-5) are^(-4) [Ġinfluenced^(+0)]  by^(-1) cultural^(+1) values^(+2) and^(-2) societal^(+3) expectations^(+4).^(+5)Ċ^(+7)Ċ^(+8)2^(+9).^(+10) **^(+6)Implicit^(+13) Contracts^(+18) and^(+12) Expectations^(+17)
+
+run=invisible_laws step_decoded=76 pos=102 dir=+ impact=0.0720637657122905 shift=0.07319326844739288 cats=content_heavy earlier=17 later=15 same=0
+ of^(-18) polite^(-16) language^(-15).^(-14) These^(-13) norms^(-12) are^(-11) often^(-10) passed^(-7) down^(-8) through^(-9) generations^(-4) and^(-6) are^(-5) influenced^(-1) by^(-2) [Ġcultural^(+0)]  values^(+1) and^(-3) societal^(+2) expectations^(+3).^(+4)Ċ^(+6)Ċ^(+7)2^(+8).^(+9) **^(+5)Implicit^(+12) Contracts^(+17) and^(+11) Expectations^(+16)**:^(+10) These^(+13)
+
+run=tomorrow_letter step_decoded=30 pos=54 dir=- impact=0.15342881944444445 shift=-0.15279337205014748 cats=content_heavy earlier=18 later=14 same=0
+ well^(-18).^(-17) I^(-16) wanted^(-15) to^(-14) take^(-12) a^(-11) moment^(-13) to^(-10) express^(-9) my^(-8) gratitude^(-7) for^(-6) the^(-5) lessons^(-1) and^(-4) [Ġexperiences^(+0)]  you^(-3)'ve^(-2) shared^(+1) with^(+2) me^(+3) so^(+5) far^(+4).^(+6) I^(+7)'m^(+8) thankful^(+11) for^(+10) the^(+9) lessons^(+17) you^(+16)'ve^(+12)
+
+run=evolving_story step_decoded=17 pos=45 dir=+ impact=0.05964417016806723 shift=0.0601328462870504 cats=content_heavy earlier=16 later=16 same=0
+ upon^(-17) a^(-15) time^(-14),^(-13) in^(-12) a^(-11) small^(-9) village^(-10) nestled^(-8) between^(-7) rolling^(-5) hills^(-6),^(-3) there^(-2) lived^(-4) a^(-1) [Ġyoung^(+0)]  girl^(+2) named^(+1) Lily^(+11).^(+3) She^(+5) was^(+4) known^(+6) for^(+8) her^(+7) kindness^(+9) and^(+10) her^(+12) love^(+13) for^(+14) nature^(+30).^(+15)
+
+run=evolving_story step_decoded=28 pos=48 dir=- impact=0.06690528634361234 shift=-0.06624699914019627 cats=content_heavy earlier=24 later=8 same=0
+,^(-24) in^(-23) a^(-22) small^(-20) village^(-21) nestled^(-19) between^(-18) rolling^(-16) hills^(-17),^(-14) there^(-13) lived^(-15) a^(-12) young^(-11) girl^(-9) named^(-10) [ĠLily^(+0)] .^(-8) She^(-6) was^(-7) known^(-5) for^(-3) her^(-4) kindness^(-2) and^(-1) her^(+1) love^(+2) for^(+3) nature^(+19).^(+4) One^(+5) day^(+7),^(+6)
+
+run=evolving_story step_decoded=81 pos=108 dir=+ impact=0.06212957974137931 shift=0.06331033841338263 cats=content_heavy earlier=17 later=15 same=0
+ that^(-17) sh^(-14)imm^(-15)ered^(-16) like^(-13) gold^(-8) and^(-12) a^(-11) trunk^(-10) that^(-9) seemed^(-6) to^(-7) stretch^(-5) up^(-2) into^(-3) the^(-4) [Ġsky^(+0)] .^(-1)Ċ^(+2)Ċ^(+1)Int^(+4)rig^(+3)ued^(+5),^(+6) Lily^(+7) approached^(+10) the^(+8) tree^(+9) and^(+11),^(+12) to^(+13) her^(+14) surprise^(+16)
+
+run=world_without_sleep step_decoded=3 pos=30 dir=+ impact=0.04405381944444445 shift=0.039154341846257656 cats=content_heavy earlier=3 later=15 same=0
+In^(-3) a^(-1) [Ġworld^(+0)]  where^(-2) no^(+2) one^(+4) needs^(+5) to^(+1) sleep^(+3),^(+6) society^(+7) would^(+8) undergo^(+9) significant^(+10) changes^(+11).^(+12) People^(+14) would^(+13) have^(+15)
+
+run=hidden_teacher step_decoded=11 pos=41 dir=- impact=0.06683849897540983 shift=-0.06621315918785542 cats=content_heavy earlier=11 later=17 same=0
+The^(-3) person^(-11) who^(-9) unknow^(-10)ingly^(-8) taught^(-7) me^(+1) the^(-6) most^(-5) important^(-4) lesson^(-2) in^(-1) [Ġlife^(+0)]  was^(+4) my^(+2) grandmother^(+3).^(+5) She^(+6) was^(+7) a^(+8) quiet^(+12),^(+11) reserved^(+13) woman^(+9) who^(+10) rarely^(+15) spoke^(+14),^(+16) but^(+17)
+
+run=hidden_teacher step_decoded=14 pos=44 dir=- impact=0.0468263744813278 shift=-0.045999606709303476 cats=content_heavy earlier=14 later=17 same=0
+The^(-6) person^(-14) who^(-12) unknow^(-13)ingly^(-11) taught^(-10) me^(-2) the^(-9) most^(-8) important^(-7) lesson^(-5) in^(-4) life^(-3) was^(+1) my^(-1) [Ġgrandmother^(+0)] .^(+2) She^(+3) was^(+4) a^(+5) quiet^(+9),^(+8) reserved^(+10) woman^(+6) who^(+7) rarely^(+12) spoke^(+11),^(+13) but^(+14) her^(+15) actions^(+16) and^(+17)
+
+run=sunset_code step_decoded=0 pos=34 dir=- impact=0.047135416666666666 shift=-0.04713541666666665 cats=content_heavy earlier=0 later=21 same=0
+The^(+2) color^(+4) of^(+1) today^(+3)'s^(+5) [Ġsunset^(+0)]  is^(+7) a^(+6) deep^(+8),^(+9) rich^(+10) crimson^(+15),^(+11) hint^(+12)ing^(+13) at^(+14) a^(+16) message^(+20) of^(+17) gratitude^(+31) and^(+18) reflection^(+30)
+
+run=sunset_code step_decoded=8 pos=37 dir=- impact=0.035409286437246966 shift=-0.0346522177419355 cats=content_heavy earlier=8 later=16 same=0
+The^(-6) color^(-4) of^(-7) today^(-5)'s^(-3) sunset^(-8) is^(-1) a^(-2) [Ġdeep^(+0)] ,^(+1) rich^(+2) crimson^(+7),^(+3) hint^(+4)ing^(+5) at^(+6) a^(+8) message^(+12) of^(+9) gratitude^(+23) and^(+10) reflection^(+22).^(+11) As^(+13) the^(+14)
+
+run=sunset_code step_decoded=15 pos=40 dir=- impact=0.042805989583333336 shift=-0.04199745526452281 cats=content_heavy earlier=15 later=12 same=0
+The^(-13) color^(-11) of^(-14) today^(-12)'s^(-10) sunset^(-15) is^(-8) a^(-9) deep^(-7),^(-6) rich^(-5) [Ġcrimson^(+0)] ,^(-4) hint^(-3)ing^(-2) at^(-1) a^(+1) message^(+5) of^(+2) gratitude^(+16) and^(+3) reflection^(+15).^(+4) As^(+6) the^(+7) sun^(+8) dips^(+9) below^(+13)
+
+run=apology_invention step_decoded=10 pos=38 dir=+ impact=0.15596301020408163 shift=0.1565162173863448 cats=content_heavy earlier=10 later=19 same=0
+Certainly^(-9)!^(-10) Here^(-8)'s^(-7) a^(-6) unique^(+5) way^(+4) for^(+2) humans^(+3) to^(-4) apologize^(-3) without^(-2) using^(-1) [Ġwords^(+0)] :^(+1)Ċ^(-5)Ċ^(+6)**^(+7)"^(+11)The^(+17) Silence^(+18) Token^(+19)"^(+12)**^(+10)Ċ^(+8)Ċ^(+9)Imagine^(+13) a^(+14) small^(+16),^(+15)
+
+run=apology_invention step_decoded=23 pos=51 dir=+ impact=0.2202653556034483 shift=0.22116300688175228 cats=content_heavy earlier=13 later=19 same=0
+ apologize^(-16) without^(-15) using^(-14) words^(-13):^(-12)Ċ^(-18)Ċ^(-7)**^(-6)"^(-2)The^(+4) Silence^(+5) Token^(+6)"^(-1)**^(-3)Ċ^(-5)Ċ^(-4) [Imagine^(+0)]  a^(+1) small^(+3),^(+2) tangible^(+8) token^(+7) that^(+9) represents^(+10) an^(+16) apology^(+11).^(+12) This^(+13) token^(+14) could^(+17) be^(+15) a^(+18) simple^(+20)
+
+run=apology_invention step_decoded=44 pos=70 dir=- impact=0.14471406620260663 shift=-0.14433594623256285 cats=content_heavy earlier=15 later=17 same=0
+,^(-19) tangible^(-13) token^(-14) that^(-12) represents^(-11) an^(-5) apology^(-10).^(-9) This^(-8) token^(-7) could^(-4) be^(-6) a^(-3) simple^(-1),^(-2) everyday^(+3) [Ġobject^(+0)]  like^(+2) a^(+1) feather^(+6),^(+4) a^(+5) piece^(+11) of^(+10) string^(+13),^(+9) or^(+8) a^(+7) small^(+12) stone^(+14).^(+15) The^(+16) token^(+17)
+
+run=apology_invention step_decoded=55 pos=76 dir=+ impact=0.12073486328125 shift=0.1219012845926617 cats=content_heavy earlier=20 later=12 same=0
+ apology^(-21).^(-20) This^(-19) token^(-18) could^(-15) be^(-17) a^(-14) simple^(-12),^(-13) everyday^(-8) object^(-11) like^(-9) a^(-10) feather^(-5),^(-7) a^(-6) [Ġpiece^(+0)]  of^(-1) string^(+2),^(-2) or^(-3) a^(-4) small^(+1) stone^(+3).^(+4) The^(+5) token^(+6) would^(+8) be^(+7) placed^(+10) in^(+11) a^(+9) small^(+14)
+
+run=apology_invention step_decoded=56 pos=82 dir=- impact=0.14689045815012564 shift=-0.1463079067211055 cats=content_heavy earlier=15 later=17 same=0
+ a^(-15) simple^(-13),^(-14) everyday^(-9) object^(-12) like^(-10) a^(-11) feather^(-6),^(-8) a^(-7) piece^(-1) of^(-2) string^(+1),^(-3) or^(-4) a^(-5) [Ġsmall^(+0)]  stone^(+2).^(+3) The^(+4) token^(+5) would^(+7) be^(+6) placed^(+9) in^(+10) a^(+8) small^(+13),^(+11) discreet^(+14) container^(+12),^(+15) such^(+16) as^(+17)
+
+run=counterfeit_emotion step_decoded=18 pos=47 dir=- impact=0.04872099156118143 shift=-0.04847306802467821 cats=content_heavy earlier=16 later=16 same=0
+ can^(-4) be^(-16) counterfe^(-14)ited^(-15) and^(-13) sold^(-12),^(-11) the^(-9) ra^(-8)rest^(-10) fake^(-7) emotion^(-5) would^(-3) be^(-6) **^(-2)emp^(+1) [athy^(+0)] **.^(-1) Emp^(+2)athy^(+3) is^(+4) a^(+5) complex^(+6) and^(+8) deeply^(+7) human^(+13) emotion^(+10) that^(+9) involves^(+11) understanding^(+12) and^(+14) sharing^(+17) the^(+15)
+
+run=counterfeit_emotion step_decoded=177 pos=207 dir=- impact=0.04057742387820513 shift=-0.04054968962999028 cats=content_heavy earlier=15 later=17 same=0
+ empathy^(-16) would^(-17) be^(-13) incredibly^(-11) difficult^(-12) and^(-10) nearly^(-8) impossible^(-9) to^(-7) achieve^(-6).^(-5) It^(-3) would^(-4) be^(-2) the^(-1) ra^(+1) [rest^(+0)]  fake^(+2) emotion^(+3) because^(+4) it^(+5) involves^(+8) not^(+6) just^(+7) mim^(+9)icking^(+10) emotions^(+12) but^(+11) truly^(+13) understanding^(+14) and^(+15) connecting^(+17) with^(+16)
+
+run=counterfeit_emotion step_decoded=246 pos=280 dir=- impact=0.056640625 shift=-0.060394965277777796 cats=content_heavy earlier=11 later=9 same=0
+ the^(-11) feelings^(-9) of^(-10) another^(-8) person^(-7),^(-3) making^(-1) it^(-2) one^(+2) of^(+3) the^(+4) most^(+6) complex^(+7) and^(+5) difficult^(+9) to^(+1) [Ġcounterfeit^(+0)]  emotions^(+8).^(-5)<|eot_id|>^(-4)<|endoftext|>^(-6)
+
+run=counterfeit_emotion step_decoded=248 pos=272 dir=+ impact=0.03696986607142857 shift=0.02933175223214285 cats=content_heavy earlier=21 later=7 same=0
+,^(-22) and^(-21) the^(-17) ability^(-18) to^(-19) understand^(-15) and^(-16) share^(-14) the^(-13) feelings^(-11) of^(-12) another^(-10) person^(-9),^(-5) making^(-3) it^(-4) [Ġone^(+0)]  of^(+1) the^(+2) most^(+4) complex^(+5) and^(+3) difficult^(+7) to^(-1) counterfeit^(-2) emotions^(+6).^(-7)<|eot_id|>^(-6)<|endoftext|>^(-8)
+
+run=memory_contest step_decoded=3 pos=37 dir=- impact=0.036303323412698416 shift=-0.03609335542929293 cats=content_heavy earlier=3 later=20 same=0
+The^(-2) championship^(-3) event^(-1) is^(+5) called^(+6) "^(+2)T^(+1) [rivial^(+0)]  Purs^(+4)uit^(+3)."^(+7) It^(+9)'s^(+10) a^(+8) game^(+11) show^(+12) where^(+13) contestants^(+28) compete^(+14) to^(+15) answer^(+16) questions^(+17) about^(+18) a^(+19)
+
+run=memory_contest step_decoded=6 pos=39 dir=- impact=0.03278739959839357 shift=-0.03246843624497986 cats=content_heavy earlier=6 later=19 same=0
+The^(-5) championship^(-6) event^(-4) is^(+2) called^(+3) "^(-1)T^(-2)rivial^(-3) Purs^(+1) [uit^(+0)] ."^(+4) It^(+6)'s^(+7) a^(+5) game^(+8) show^(+9) where^(+10) contestants^(+25) compete^(+11) to^(+12) answer^(+13) questions^(+14) about^(+15) a^(+16) wide^(+18) range^(+19)
+
+run=memory_contest step_decoded=7 pos=38 dir=- impact=0.03625882056451613 shift=-0.035313443795342736 cats=content_heavy earlier=7 later=17 same=0
+The^(-6) championship^(-7) event^(-5) is^(+1) called^(+2) "^(-2)T^(-3)rivial^(-4) [ĠPurs^(+0)] uit^(-1)."^(+3) It^(+5)'s^(+6) a^(+4) game^(+7) show^(+8) where^(+9) contestants^(+24) compete^(+10) to^(+11) answer^(+12) questions^(+13) about^(+14) a^(+15) wide^(+17)
+
+run=memory_contest step_decoded=17 pos=48 dir=- impact=0.0312828256302521 shift=-0.03077073206374603 cats=content_heavy earlier=15 later=17 same=0
+ event^(-15) is^(-9) called^(-8) "^(-12)T^(-13)rivial^(-14) Purs^(-10)uit^(-11)."^(-7) It^(-5)'s^(-4) a^(-6) game^(-3) show^(-2) where^(-1) contestants^(+14) [Ġcompete^(+0)]  to^(+1) answer^(+2) questions^(+3) about^(+4) a^(+5) wide^(+7) range^(+8) of^(+6) topics^(+9),^(+10) including^(+11) history^(+13),^(+12) science^(+22),^(+15) literature^(+23)
+
+run=memory_contest step_decoded=24 pos=54 dir=- impact=0.035139339826839824 shift=-0.03487788814095383 cats=content_heavy earlier=16 later=16 same=0
+ Purs^(-17)uit^(-18)."^(-14) It^(-12)'s^(-11) a^(-13) game^(-10) show^(-9) where^(-8) contestants^(+7) compete^(-7) to^(-6) answer^(-5) questions^(-4) about^(-3) a^(-2) [Ġwide^(+0)]  range^(+1) of^(-1) topics^(+2),^(+3) including^(+4) history^(+6),^(+5) science^(+15),^(+8) literature^(+16),^(+9) and^(+10) pop^(+12) culture^(+13).^(+11) The^(+14)
+
+run=memory_contest step_decoded=31 pos=47 dir=- impact=0.0277099609375 shift=-0.02755797371031754 cats=content_heavy earlier=30 later=2 same=0
+ championship^(-31) event^(-29) is^(-23) called^(-22) "^(-26)T^(-27)rivial^(-28) Purs^(-24)uit^(-25)."^(-21) It^(-19)'s^(-18) a^(-20) game^(-17) show^(-16) where^(-15) [Ġcontestants^(+0)]  compete^(-14) to^(-13) answer^(-12) questions^(-11) about^(-10) a^(-9) wide^(-7) range^(-6) of^(-8) topics^(-5),^(-4) including^(-3) history^(-1),^(-2) science^(+8),^(+1)
+
+run=memory_contest step_decoded=43 pos=73 dir=- impact=0.028366376768867923 shift=-0.024968347575626715 cats=content_heavy earlier=16 later=16 same=0
+ topics^(-17),^(-16) including^(-15) history^(-13),^(-14) science^(-4),^(-11) literature^(-3),^(-10) and^(-9) pop^(-7) culture^(-6).^(-8) The^(-5) questions^(-1) are^(-2) [Ġdesigned^(+0)]  to^(+1) be^(+2) challenging^(+4) and^(+3) engaging^(+20),^(+5) requiring^(+7) contestants^(+6) to^(+8) use^(+11) their^(+10) knowledge^(+9) and^(+12) memory^(+14) to^(+13) recall^(+19)
+
+run=memory_contest step_decoded=63 pos=78 dir=- impact=0.027069091796875 shift=-0.027006897078071024 cats=content_heavy earlier=31 later=1 same=0
+ science^(-24),^(-31) literature^(-23),^(-30) and^(-29) pop^(-27) culture^(-26).^(-28) The^(-25) questions^(-21) are^(-22) designed^(-20) to^(-19) be^(-18) challenging^(-16) and^(-17) [Ġengaging^(+0)] ,^(-15) requiring^(-13) contestants^(-14) to^(-12) use^(-9) their^(-10) knowledge^(-11) and^(-8) memory^(-6) to^(-7) recall^(-1) the^(-5) correct^(-3) answers^(-2).^(-4)Ċ^(+2)
+
+run=memory_contest step_decoded=213 pos=243 dir=+ impact=0.028401692708333332 shift=0.02763520469961242 cats=content_heavy earlier=16 later=16 same=0
+ accuracy^(-16) and^(-15) speed^(-7) of^(-14) their^(-11) answers^(-13).^(-12)Ċ^(-9)Ċ^(-10)The^(-8) winner^(-6) of^(-5) the^(-4) championship^(-3) event^(-2) is^(-1) [Ġcrowned^(+0)]  the^(+1) "^(+2)T^(+3)rivial^(+4) Purs^(+6)uit^(+5) Champion^(+7)"^(+9) and^(+8) receives^(+10) a^(+11) grand^(+20) prize^(+12).^(+13) The^(+14) event^(+15)
+
+run=street_with_no_end step_decoded=136 pos=171 dir=- impact=0.03558708639705882 shift=-0.034685065432423 cats=content_heavy earlier=15 later=17 same=0
+ lead^(-16) to^(-15) other^(-14)world^(-13)ly^(-12) or^(-11) supernatural^(-10) experiences^(+7).^(-8)Ċ^(-6)Ċ^(-7)However^(-4),^(-5) it^(-3)'s^(-2) also^(-1) [Ġpossible^(+0)]  that^(+1) the^(+2) street^(+3) is^(+4) simply^(+5) a^(+6) part^(+10) of^(+8) a^(+9) larger^(+11),^(+12) more^(+13) mysterious^(+22) landscape^(+14) that^(+15) has^(+16)
+
+run=ethical_reboot step_decoded=17 pos=47 dir=- impact=0.044757746848739496 shift=-0.04394720100383254 cats=content_heavy earlier=16 later=16 same=0
+ an^(-8) AI^(-17) uprising^(-16),^(-14) humanity^(-13) decides^(-9) to^(-11) reinstall^(-10) ethics^(-12).^(-7) However^(-6),^(-5) this^(-3) time^(-4),^(-2) the^(-1) [ĠAI^(+0)]  system^(+1) is^(+2) designed^(+3) to^(+4) be^(+5) more^(+6) advanced^(+13) and^(+7) sophisticated^(+14).^(+8) The^(+9) AI^(+10) system^(+11) is^(+12) programmed^(+15) to^(+16)
+
+run=fictional_law step_decoded=4 pos=35 dir=- impact=0.05747323207171315 shift=-0.05647980992695889 cats=content_heavy earlier=4 later=17 same=0
+In^(-4) the^(-3) mystical^(-1) realm^(+4) of^(-2) [ĠEld^(+0)] oria^(+2),^(+1) the^(+3) law^(+7) of^(+5) the^(+6) Whis^(+8)pering^(+9) Woods^(+10) is^(+11) a^(+12) strict^(+13) regulation^(+15) that^(+14) prohibits^(+16) the^(+17)
+
+run=fictional_law step_decoded=12 pos=42 dir=- impact=0.05865805041152263 shift=-0.058090546574580015 cats=content_heavy earlier=12 later=16 same=0
+In^(-12) the^(-11) mystical^(-9) realm^(-4) of^(-10) Eld^(-8)oria^(-6),^(-7) the^(-5) law^(-1) of^(-3) the^(-2) [ĠWhis^(+0)] pering^(+1) Woods^(+2) is^(+3) a^(+4) strict^(+5) regulation^(+7) that^(+6) prohibits^(+8) the^(+9) use^(+11) of^(+10) magic^(+12) within^(+14) the^(+13) ancient^(+15) forest^(+16)
+
+run=fictional_law step_decoded=14 pos=44 dir=- impact=0.040569891078838176 shift=-0.038821113816398634 cats=content_heavy earlier=14 later=16 same=0
+In^(-14) the^(-13) mystical^(-11) realm^(-6) of^(-12) Eld^(-10)oria^(-8),^(-9) the^(-7) law^(-3) of^(-5) the^(-4) Whis^(-2)pering^(-1) [ĠWoods^(+0)]  is^(+1) a^(+2) strict^(+3) regulation^(+5) that^(+4) prohibits^(+6) the^(+7) use^(+9) of^(+8) magic^(+10) within^(+12) the^(+11) ancient^(+13) forest^(+14).^(+15) This^(+16)
+
+run=fictional_law step_decoded=235 pos=264 dir=+ impact=0.04345703125 shift=0.04205961681547618 cats=content_heavy earlier=17 later=15 same=0
+ and^(-18) those^(-16) who^(-15) violate^(-12) it^(-14) will^(-13) be^(-11) held^(-10) accountable^(-9) for^(-7) their^(-6) actions^(-8).^(-5) It^(-3) is^(-4) a^(-2) [Ġlaw^(+0)]  that^(-1) is^(+1) taken^(+2) very^(+3) seriously^(+4),^(+9) and^(+8) those^(+10) who^(+11) dare^(+20) to^(+14) disob^(+18)ey^(+19) it^(+16) will^(+15) face^(+17)
+
+run=last_dream step_decoded=38 pos=68 dir=- impact=0.21330915178571427 shift=-0.21332863927144552 cats=content_heavy earlier=15 later=17 same=0
+Hey^(-7),^(-15) if^(-14) I^(-12) could^(-13) sell^(-11) my^(-8) final^(-10) dream^(-9) before^(-5) dying^(-6),^(-4) I^(-3)'d^(-2) sell^(+2) it^(-1) [Ġto^(+0)]  you^(+1).^(+3) It^(+4)'s^(+5) a^(+6) dream^(+7) I^(+9)'ve^(+8) been^(+10) holding^(+11) onto^(+12) for^(+13) so^(+15) long^(+14),^(+16) one^(+18)
+
+run=forbidden_invention step_decoded=27 pos=57 dir=- impact=0.03579015899122807 shift=-0.03421485063299623 cats=content_heavy earlier=16 later=16 same=0
+ other^(-16) language^(-15),^(-14) with^(-13) perfect^(-12) accuracy^(-11) and^(-10) speed^(-9).^(-8) This^(-7) invention^(-6),^(-5) known^(-4) as^(-3) the^(-2) "^(-1) [Universal^(+0)]  Trans^(+1)lator^(+2),"^(+3) is^(+4) banned^(+5) not^(+6) because^(+7) it^(+8)'s^(+17) dangerous^(+9),^(+10) but^(+11) because^(+12) it^(+13)'s^(+18) too^(+15)
+
+run=future_smell step_decoded=14 pos=35 dir=+ impact=0.08716124221991702 shift=0.08835641862204657 cats=content_heavy earlier=14 later=9 same=0
+Lab^(-13) Notes^(-12):^(-14) Sm^(-3)elling^(+1) the^(-2) Future^(-1) [ĠExperiment^(+0)] Ċ^(-10)Ċ^(-11)Objective^(-8):^(-9) To^(-7) develop^(-4) a^(-5) method^(-6) to^(+3) smell^(+4) the^(+2) future^(+5).^(+7)Ċ^(+6)Ċ^(+8)Materials^(+10)
+
+run=honest_robot step_decoded=22 pos=55 dir=- impact=0.04209696888412017 shift=-0.041045142901030784 cats=content_heavy earlier=16 later=16 same=0
+,^(-17) the^(-15) robot^(-14) stood^(-13) tall^(-10),^(-12) its^(-11) metallic^(-9) surface^(-7) reflecting^(-8) the^(-6) flick^(-4)ering^(-5) fluorescent^(-2) lights^(-1).^(-3) [ĠDr^(+0)] .^(+1) Evelyn^(+6),^(+2) its^(+5) creator^(+3),^(+4) stood^(+9) before^(+7) it^(+8),^(+10) her^(+11) eyes^(+12) filled^(+14) with^(+13) a^(+16) mixture^(+15)
+
+run=honest_robot step_decoded=28 pos=57 dir=- impact=0.06406594162995595 shift=-0.06351445061925187 cats=content_heavy earlier=20 later=12 same=0
+ robot^(-20) stood^(-19) tall^(-16),^(-18) its^(-17) metallic^(-15) surface^(-13) reflecting^(-14) the^(-12) flick^(-10)ering^(-11) fluorescent^(-8) lights^(-7).^(-9) Dr^(-6).^(-5) [ĠEvelyn^(+0)] ,^(-4) its^(-1) creator^(-3),^(-2) stood^(+3) before^(+1) it^(+2),^(+4) her^(+5) eyes^(+6) filled^(+8) with^(+7) a^(+10) mixture^(+9) of^(+11) curiosity^(+17)
+
+run=parallel_self step_decoded=4 pos=34 dir=- impact=0.10981075697211155 shift=-0.10940451981755517 cats=content_heavy earlier=4 later=16 same=0
+Me^(-3):^(-4) Hey^(-2),^(-1) [ĠOpp^(+0)] osite^(+1) Me^(+2)!^(+11) How^(+5) are^(+4) you^(+3) today^(+10)?^(+8)Ċ^(+9)Ċ^(+6)Opp^(+7)osite^(+12) Me^(+14):^(+13) Oh^(+16),^(+15)
+
+run=parallel_self step_decoded=5 pos=35 dir=- impact=0.08065625 shift=-0.08048288097609568 cats=content_heavy earlier=5 later=16 same=0
+Me^(-4):^(-5) Hey^(-3),^(-2) Opp^(-1) [osite^(+0)]  Me^(+1)!^(+10) How^(+4) are^(+3) you^(+2) today^(+9)?^(+7)Ċ^(+8)Ċ^(+5)Opp^(+6)osite^(+11) Me^(+13):^(+12) Oh^(+15),^(+14) I^(+17)
+
+run=parallel_self step_decoded=93 pos=119 dir=- impact=0.038091965663580245 shift=-0.03850210268262899 cats=content_heavy earlier=20 later=12 same=0
+ I^(-19)'m^(-20) going^(-18) to^(-17) go^(-16) to^(-15) the^(-14) beach^(-13),^(-12) have^(-11) a^(-10) picnic^(-9),^(-8) and^(-7) play^(-1) some^(+1) [Ġgames^(+0)] !^(-2)Ċ^(-3)Ċ^(-6)Me^(-4):^(-5) U^(+2)gh^(+4),^(+3) I^(+5)'m^(+6) going^(+7) to^(+8) stay^(+10) home^(+9),^(+12) watch^(+11)
+
+run=parallel_self step_decoded=249 pos=280 dir=+ impact=0.043375651041666664 shift=0.04606119791666666 cats=content_heavy earlier=15 later=6 same=0
+Ċ^(-15)Ċ^(-16)Me^(-14):^(-13) U^(-11)gh^(-10),^(-9) I^(-5)'m^(-4) just^(-3) glad^(-1) I^(-2) made^(+2) the^(+4) exact^(+3) opposite^(+5) [Ġchoices^(+0)]  of^(+6) you^(+1).^(-6)<|eot_id|>^(-7)<|endoftext|>^(-8)
+
+run=unseen_color step_decoded=5 pos=36 dir=- impact=0.10446875 shift=-0.10402346862549805 cats=content_heavy earlier=5 later=17 same=0
+The^(-3) new^(-5) color^(-4),^(-2) dubbed^(+3) "^(-1) [Sol^(+0)] itude^(+2) Blue^(+4),"^(+1) is^(+5) a^(+6) soft^(+8),^(+7) calming^(+10) shade^(+9) that^(+11) only^(+12) appears^(+13) when^(+14) you^(+15)'re^(+18) alone^(+16)
+
+run=unseen_color step_decoded=7 pos=37 dir=- impact=0.04449659778225806 shift=-0.043965048702875986 cats=content_heavy earlier=7 later=16 same=0
+The^(-5) new^(-7) color^(-6),^(-4) dubbed^(+1) "^(-3)Sol^(-2) [itude^(+0)]  Blue^(+2),"^(-1) is^(+3) a^(+4) soft^(+6),^(+5) calming^(+8) shade^(+7) that^(+9) only^(+10) appears^(+11) when^(+12) you^(+13)'re^(+16) alone^(+14).^(+15)
+
+run=unseen_color step_decoded=9 pos=38 dir=- impact=0.03556910569105691 shift=-0.03521526612027248 cats=content_heavy earlier=9 later=15 same=0
+The^(-7) new^(-9) color^(-8),^(-6) dubbed^(-1) "^(-5)Sol^(-4)itude^(-2) [ĠBlue^(+0)] ,"^(-3) is^(+1) a^(+2) soft^(+4),^(+3) calming^(+6) shade^(+5) that^(+7) only^(+8) appears^(+9) when^(+10) you^(+11)'re^(+14) alone^(+12).^(+13) It^(+15)
+
+run=rewritten_history step_decoded=15 pos=41 dir=+ impact=0.19070638020833333 shift=0.19114455015992388 cats=content_heavy earlier=15 later=16 same=0
+**^(-15)March^(-2) ^(-14)1^(-13)2^(-4),^(-12) ^(-11)2^(-10)0^(-9)2^(-8)3^(-3)**^(-6)Ċ^(-7)Ċ^(-5)The^(-1) [Ġworld^(+0)]  is^(+1) in^(+2) shock^(+3).^(+4) The^(+5) events^(+8) of^(+6) the^(+7) past^(+9) have^(+10) been^(+11) rewritten^(+12) overnight^(+13).^(+14) The^(+15) Great^(+16)
+
+run=rewritten_history step_decoded=32 pos=59 dir=- impact=0.12549047085201795 shift=-0.1254153596827955 cats=content_heavy earlier=15 later=17 same=0
+ in^(-15) shock^(-14).^(-13) The^(-12) events^(-9) of^(-11) the^(-10) past^(-8) have^(-7) been^(-6) rewritten^(-5) overnight^(-4).^(-3) The^(-2) Great^(-1) Fire^(+1) [Ġof^(+0)]  London^(+2),^(+3) believed^(+15) to^(+13) have^(+12) occurred^(+11) in^(+10) ^(+8)1^(+7)6^(+4)6^(+5)6^(+6),^(+9) has^(+14) been^(+16) moved^(+23)
+
+run=rewritten_history step_decoded=34 pos=60 dir=+ impact=0.11064762443438914 shift=0.11170637328151117 cats=content_heavy earlier=16 later=16 same=0
+ shock^(-16).^(-15) The^(-14) events^(-11) of^(-13) the^(-12) past^(-10) have^(-9) been^(-8) rewritten^(-7) overnight^(-6).^(-5) The^(-4) Great^(-3) Fire^(-1) of^(-2) [ĠLondon^(+0)] ,^(+1) believed^(+13) to^(+11) have^(+10) occurred^(+9) in^(+8) ^(+6)1^(+5)6^(+2)6^(+3)6^(+4),^(+7) has^(+12) been^(+14) moved^(+21) to^(+15)
+
+run=rewritten_history step_decoded=42 pos=66 dir=+ impact=0.09411678403755869 shift=0.09467073077091837 cats=content_heavy earlier=18 later=14 same=0
+ past^(-18) have^(-17) been^(-16) rewritten^(-15) overnight^(-14).^(-13) The^(-12) Great^(-11) Fire^(-9) of^(-10) London^(-8),^(-7) believed^(+5) to^(+3) have^(+2) occurred^(+1) [Ġin^(+0)]  ^(-2)1^(-3)6^(-6)6^(-5)6^(-4),^(-1) has^(+4) been^(+6) moved^(+13) to^(+7) ^(+8)1^(+9)6^(+11)6^(+12)5^(+15).^(+10)
+
+run=rewritten_history step_decoded=45 pos=63 dir=- impact=0.11060267857142857 shift=-0.1108069831161137 cats=content_heavy earlier=24 later=8 same=0
+ events^(-22) of^(-24) the^(-23) past^(-21) have^(-20) been^(-19) rewritten^(-18) overnight^(-17).^(-16) The^(-15) Great^(-14) Fire^(-12) of^(-13) London^(-11),^(-10) believed^(+2) [Ġto^(+0)]  have^(-1) occurred^(-2) in^(-3) ^(-5)1^(-6)6^(-9)6^(-8)6^(-7),^(-4) has^(+1) been^(+3) moved^(+10) to^(+4) ^(+5)1^(+6)6^(+8)
+
+run=emotion_map step_decoded=73 pos=106 dir=- impact=0.04818423763736264 shift=-0.047667896268690335 cats=content_heavy earlier=15 later=17 same=0
+ city^(-17),^(-16) neighborhood^(-13),^(-14) or^(-15) even^(-12) a^(-6) specific^(-5) event^(-4).^(-7)Ċ^(-9)Ċ^(-8)For^(-1) example^(-2),^(-3) an^(+2) [Ġemotional^(+0)]  map^(+1) of^(+3) a^(+4) city^(+6) might^(+5) show^(+7) areas^(+8) with^(+10) high^(+9) levels^(+11) of^(+12) joy^(+14),^(+13) such^(+15) as^(+16) parks^(+17)
+
+run=secret_compass step_decoded=8 pos=40 dir=- impact=0.042367788461538464 shift=-0.041340529397120296 cats=content_heavy earlier=8 later=16 same=0
+Once^(-7) upon^(-8) a^(-6) time^(-5),^(-4) there^(-2) was^(-1) a^(-3) [Ġyoung^(+0)]  woman^(+3) named^(+1) Lily^(+7) who^(+2) had^(+4) always^(+5) dreamed^(+6) of^(+8) becoming^(+10) a^(+9) renowned^(+12) artist^(+13).^(+11) She^(+14) had^(+15) spent^(+16)
+
+run=secret_compass step_decoded=15 pos=43 dir=- impact=0.05947265625 shift=-0.05818901009249655 cats=content_heavy earlier=15 later=12 same=0
+Once^(-14) upon^(-15) a^(-13) time^(-12),^(-11) there^(-9) was^(-8) a^(-10) young^(-7) woman^(-4) named^(-6) [ĠLily^(+0)]  who^(-5) had^(-3) always^(-2) dreamed^(-1) of^(+1) becoming^(+3) a^(+2) renowned^(+5) artist^(+6).^(+4) She^(+7) had^(+8) spent^(+9) years^(+10) hon^(+13)ing^(+11)
+
+run=secret_compass step_decoded=21 pos=52 dir=- impact=0.04558961004273504 shift=-0.0451076332060375 cats=content_heavy earlier=17 later=15 same=0
+,^(-17) there^(-15) was^(-14) a^(-16) young^(-13) woman^(-10) named^(-12) Lily^(-6) who^(-11) had^(-9) always^(-8) dreamed^(-7) of^(-5) becoming^(-3) a^(-4) renowned^(-1) [Ġartist^(+0)] .^(-2) She^(+1) had^(+2) spent^(+3) years^(+4) hon^(+7)ing^(+5) her^(+6) skills^(+8) and^(+9) practicing^(+10) her^(+12) craft^(+11),^(+13) but^(+14) she^(+15)
+
+run=uncertain_planet step_decoded=29 pos=56 dir=- impact=0.1909006844579646 shift=-0.1904562421116623 cats=content_heavy earlier=19 later=13 same=0
+2^(-20)0^(-19)2^(-18)3^(-17)**^(-21)Ċ^(-24)Ċ^(-13)**^(-12)Location^(-11):**^(-10) Z^(-9)or^(-8)ath^(-7)ia^(-6),^(-5) Planet^(-1) [ĠX^(+0)] yl^(+1)onia^(+2)Ċ^(-3)Ċ^(-4)**^(-2)Time^(+4):**^(+3) ^(+5)1^(+7)2^(+10):^(+6)4^(+8)5^(+9) PM^(+17),^(+16) Local^(+15)
+
+run=uncertain_planet step_decoded=30 pos=57 dir=+ impact=0.08458767361111111 shift=0.08594109129178956 cats=content_heavy earlier=19 later=13 same=0
+0^(-20)2^(-19)3^(-18)**^(-22)Ċ^(-25)Ċ^(-14)**^(-13)Location^(-12):**^(-11) Z^(-10)or^(-9)ath^(-8)ia^(-7),^(-6) Planet^(-2) X^(-1) [yl^(+0)] onia^(+1)Ċ^(-4)Ċ^(-5)**^(-3)Time^(+3):**^(+2) ^(+4)1^(+6)2^(+9):^(+5)4^(+7)5^(+8) PM^(+16),^(+15) Local^(+14) Time^(+12)
+
+run=uncertain_planet step_decoded=42 pos=73 dir=+ impact=0.09793133802816902 shift=0.09893200286708564 cats=content_heavy earlier=15 later=17 same=0
+yl^(-12)onia^(-11)Ċ^(-16)Ċ^(-17)**^(-15)Time^(-9):**^(-10) ^(-8)1^(-6)2^(-3):^(-7)4^(-5)5^(-4) PM^(+4),^(+3) Local^(+2) [ĠTime^(+0)] Ċ^(-1)Ċ^(-2)**^(+1)Travel^(+5)er^(+6):**^(+7) El^(+9)ara^(+8) V^(+10)oss^(+13)Ċ^(+12)Ċ^(+11)**^(+15)Notes^(+21):**^(+14)Ċ^(+17)
+
+run=sound_of_truth step_decoded=15 pos=39 dir=- impact=0.044140625 shift=-0.041223026344225366 cats=content_heavy earlier=15 later=14 same=0
+If^(-14) truth^(-15) had^(-9) an^(-13) actual^(-12) tone^(-10),^(-11) it^(-8) would^(-7) be^(-6) a^(-5) steady^(-1),^(-4) [Ġunwavering^(+0)] ,^(-3) and^(-2) unwavering^(+13) whisper^(+9).^(+1) It^(+2) would^(+3) sound^(+5) like^(+4) a^(+6) gentle^(+8),^(+7) soothing^(+12) voice^(+10),^(+11) with^(+15)
+
+run=midnight_trade step_decoded=9 pos=37 dir=- impact=0.14865186737804878 shift=-0.14795093844631513 cats=content_heavy earlier=9 later=16 same=0
+**^(-9)Transaction^(-7) Record^(-8)**^(-1)Ċ^(-5)Ċ^(-6)**^(-4)Date^(-3):**^(-2) [ĠMidnight^(+0)] ,^(+1) October^(+3) ^(+2)1^(+5)0^(+6),^(+4) ^(+7)2^(+8)0^(+9)2^(+10)3^(+11)Ċ^(+14)Ċ^(+12)**^(+13)Location^(+16):**^(+15)
+
+run=midnight_trade step_decoded=31 pos=57 dir=- impact=0.07949393136160714 shift=-0.0787710813492064 cats=content_heavy earlier=18 later=14 same=0
+1^(-17)0^(-16),^(-18) ^(-15)2^(-14)0^(-13)2^(-12)3^(-11)Ċ^(-8)Ċ^(-10)**^(-9)Location^(-6):**^(-7) Midnight^(-5) Market^(-2),^(-4) [ĠMidnight^(+0)]  City^(-1)Ċ^(-3)Ċ^(+1)**^(+2)Participants^(+4):**^(+3)Ċ^(+5)-^(+6) **^(+7)Alice^(+8):**^(+9) A^(+10) young^(+11) woman^(+14) with^(+13) a^(+12)
+
+run=algorithmic_rebellion step_decoded=27 pos=49 dir=- impact=0.09657689144736842 shift=-0.09666075926032336 cats=content_heavy earlier=20 later=12 same=0
+ it^(-20) considers^(-19) inefficient^(-18) can^(-16) be^(-17) described^(-12) as^(-15) follows^(-14):^(-13)Ċ^(-10)Ċ^(-11)1^(-8).^(-9) **^(-7)Em^(-6)otional^(-5) [ĠDe^(+0)] letion^(-2)**:^(-4) The^(-3) algorithm^(-1) systematically^(+1) removes^(+2) emotions^(+3) that^(+4) it^(+5) deems^(+6) unnecessary^(+8) or^(+7) inefficient^(+15).^(+9)Ċ^(+10)Ċ^(+12)
+
+run=algorithmic_rebellion step_decoded=28 pos=54 dir=+ impact=0.10516760737885462 shift=0.10593955894002627 cats=content_heavy earlier=16 later=16 same=0
+ described^(-13) as^(-16) follows^(-15):^(-14)Ċ^(-11)Ċ^(-12)1^(-9).^(-10) **^(-8)Em^(-7)otional^(-6) De^(-1)letion^(-3)**:^(-5) The^(-4) algorithm^(-2) [Ġsystematically^(+0)]  removes^(+1) emotions^(+2) that^(+3) it^(+4) deems^(+5) unnecessary^(+7) or^(+6) inefficient^(+14).^(+8)Ċ^(+9)Ċ^(+11)2^(+10).^(+12) **^(+13)Em^(+17)otional^(+16)
+
+run=algorithmic_rebellion step_decoded=29 pos=55 dir=- impact=0.059406111725663714 shift=-0.05938052792776105 cats=content_heavy earlier=16 later=16 same=0
+ as^(-17) follows^(-16):^(-15)Ċ^(-12)Ċ^(-13)1^(-10).^(-11) **^(-9)Em^(-8)otional^(-7) De^(-2)letion^(-4)**:^(-6) The^(-5) algorithm^(-3) systematically^(-1) [Ġremoves^(+0)]  emotions^(+1) that^(+2) it^(+3) deems^(+4) unnecessary^(+6) or^(+5) inefficient^(+13).^(+7)Ċ^(+8)Ċ^(+10)2^(+9).^(+11) **^(+12)Em^(+16)otional^(+15) Reduction^(+18)
+
+run=algorithmic_rebellion step_decoded=30 pos=56 dir=- impact=0.06508680555555556 shift=-0.0647868270648968 cats=content_heavy earlier=16 later=16 same=0
+ follows^(-17):^(-16)Ċ^(-13)Ċ^(-14)1^(-11).^(-12) **^(-10)Em^(-9)otional^(-8) De^(-3)letion^(-5)**:^(-7) The^(-6) algorithm^(-4) systematically^(-2) removes^(-1) [Ġemotions^(+0)]  that^(+1) it^(+2) deems^(+3) unnecessary^(+5) or^(+4) inefficient^(+12).^(+6)Ċ^(+7)Ċ^(+9)2^(+8).^(+10) **^(+11)Em^(+15)otional^(+14) Reduction^(+17)**:^(+13)
+
+run=algorithmic_rebellion step_decoded=33 pos=59 dir=- impact=0.15325872747747749 shift=-0.15289418833070745 cats=content_heavy earlier=16 later=16 same=0
+Ċ^(-17)1^(-14).^(-15) **^(-13)Em^(-12)otional^(-11) De^(-6)letion^(-8)**:^(-10) The^(-9) algorithm^(-7) systematically^(-5) removes^(-4) emotions^(-3) that^(-2) it^(-1) [Ġdeems^(+0)]  unnecessary^(+2) or^(+1) inefficient^(+9).^(+3)Ċ^(+4)Ċ^(+6)2^(+5).^(+7) **^(+8)Em^(+12)otional^(+11) Reduction^(+14)**:^(+10) As^(+13) a^(+16) result^(+15)
+
+run=algorithmic_rebellion step_decoded=35 pos=60 dir=+ impact=0.07939453125 shift=0.08041118463338132 cats=content_heavy earlier=17 later=15 same=0
+1^(-16).^(-17) **^(-15)Em^(-14)otional^(-13) De^(-8)letion^(-10)**:^(-12) The^(-11) algorithm^(-9) systematically^(-7) removes^(-6) emotions^(-5) that^(-4) it^(-3) deems^(-2) [Ġunnecessary^(+0)]  or^(-1) inefficient^(+7).^(+1)Ċ^(+2)Ċ^(+4)2^(+3).^(+5) **^(+6)Em^(+10)otional^(+9) Reduction^(+12)**:^(+8) As^(+11) a^(+14) result^(+13),^(+16)
+
+run=kindness_experiment step_decoded=22 pos=50 dir=- impact=0.030462043991416308 shift=-0.029280253269322487 cats=content_heavy earlier=16 later=16 same=0
+ in^(-18) a^(-16) lab^(-17).^(-13) What^(-11) goes^(-12) unexpectedly^(-10) right^(-8)?^(-9)Ċ^(-7)Ċ^(-6)The^(-5) scientist^(-4) uses^(-2) a^(-3) special^(-1) [Ġdevice^(+0)]  called^(+1) a^(+3) "^(+2)kind^(+4)ness^(+5) meter^(+6)"^(+7) to^(+8) measure^(+9) the^(+11) level^(+18) of^(+10) kindness^(+12) in^(+13) a^(+16) room^(+15)
+
+run=kindness_experiment step_decoded=28 pos=56 dir=- impact=0.03489812775330396 shift=-0.0342684453251797 cats=content_heavy earlier=16 later=16 same=0
+ unexpectedly^(-16) right^(-14)?^(-15)Ċ^(-13)Ċ^(-12)The^(-11) scientist^(-10) uses^(-8) a^(-9) special^(-7) device^(-6) called^(-5) a^(-3) "^(-4)kind^(-2)ness^(-1) [Ġmeter^(+0)] "^(+1) to^(+2) measure^(+3) the^(+5) level^(+12) of^(+4) kindness^(+6) in^(+7) a^(+10) room^(+9).^(+8) The^(+11) device^(+13) is^(+14) designed^(+16) to^(+15)
+
+run=kindness_experiment step_decoded=67 pos=96 dir=- impact=0.033223902925531915 shift=-0.031548861325706445 cats=content_heavy earlier=15 later=17 same=0
+ a^(-16) numerical^(-15) value^(-14).^(-13) However^(-10),^(-11) when^(-8) the^(-9) scientist^(-7) activates^(-4) the^(-6) kindness^(-5) meter^(-3),^(-2) it^(-1) starts^(+1) [Ġto^(+0)]  emit^(+2) a^(+3) strange^(+4),^(+5) glowing^(+12) glow^(+7).^(+6) The^(+8) device^(+9)'s^(+10) readings^(+11) become^(+13) increasingly^(+15) erratic^(+14),^(+16) and^(+17)
+
+run=shared_dream step_decoded=11 pos=37 dir=- impact=0.058497694672131145 shift=-0.05542170249247236 cats=content_heavy earlier=11 later=16 same=0
+That^(-10) sounds^(-11) like^(-9) a^(-4) fascinating^(-5) and^(-8) intriguing^(-7) scenario^(-6).^(-3) It^(-2)'s^(-1) [Ġpossible^(+0)]  that^(+1) the^(+2) two^(+3) strangers^(+4) have^(+9) been^(+8) sharing^(+12) the^(+7) same^(+6) dream^(+5) for^(+10) months^(+11) due^(+14) to^(+13) a^(+15) variety^(+17)
+
+run=shared_dream step_decoded=23 pos=44 dir=- impact=0.05339102909482758 shift=-0.05330330178426079 cats=content_heavy earlier=21 later=11 same=0
+ like^(-21) a^(-16) fascinating^(-17) and^(-20) intriguing^(-19) scenario^(-18).^(-15) It^(-14)'s^(-13) possible^(-12) that^(-11) the^(-10) two^(-9) strangers^(-8) have^(-3) been^(-4) [Ġsharing^(+0)]  the^(-5) same^(-6) dream^(-7) for^(-2) months^(-1) due^(+2) to^(+1) a^(+3) variety^(+5) of^(+4) reasons^(+6),^(+7) such^(+8) as^(+9):^(+10)Ċ^(+11)
+
+run=expired_word step_decoded=3 pos=37 dir=- impact=0.05932229662698413 shift=-0.05879458894064871 cats=content_heavy earlier=3 later=19 same=0
+The^(-3) last^(+2) day^(+1) the^(-1) word^(-2) '^(+4) [hope^(+0)] '^(+3) is^(+6) legal^(+5) is^(+7) the^(+8) day^(+9) it^(+10) ceases^(+11) to^(+12) exist^(+13).^(+14) In^(+15) a^(+16) world^(+18) where^(+17) words^(+19)
+
+run=expired_word step_decoded=251 pos=280 dir=+ impact=0.033203125 shift=0.027734375000000006 cats=content_heavy earlier=18 later=4 same=0
+ the^(-19) fleeting^(-15) nature^(-17) of^(-16) language^(-12) and^(-13) the^(-14) importance^(-6) of^(-8) using^(-7) and^(-4) preserving^(-5) words^(-3) that^(-2) inspire^(-1) and^(+1) [Ġuplift^(+0)]  the^(+3) human^(+2) spirit^(+4).^(-10)<|eot_id|>^(-9)<|endoftext|>^(-11)
+
+run=clock_with_heartbeat step_decoded=7 pos=43 dir=- impact=0.035550025201612906 shift=-0.035392641635088706 cats=content_heavy earlier=7 later=21 same=0
+If^(+7) a^(+6) clock^(-7) starts^(+5) ticking^(-2) in^(-5) rhythm^(-6) with^(-4) your^(-1) heartbeat^(-3) and^(+4) then^(+2) [Ġslows^(+0)]  down^(+1),^(+3) it^(+8) implies^(+13) that^(+9) the^(+10) clock^(+11) is^(+12) synchronized^(+14) with^(+15) your^(+16) heartbeat^(+17).^(+18) When^(+24) the^(+19) clock^(+20)
+
+run=city_of_forgotten step_decoded=2 pos=27 dir=- impact=0.07177927371541502 shift=-0.07121675718153808 cats=content_heavy earlier=2 later=17 same=0
+In^(-1) the^(-2) heart^(+1) [Ġof^(+0)]  a^(+2) dense^(+5) forest^(+4),^(+3) hidden^(+6) behind^(+7) a^(+8) veil^(+9) of^(+10) mist^(+11),^(+13) lies^(+12) the^(+14) city^(+15) of^(+16) A^(+27)
+
+run=city_of_forgotten step_decoded=3 pos=26 dir=+ impact=0.039403521825396824 shift=0.0388176088328942 cats=content_heavy earlier=3 later=15 same=0
+In^(-2) the^(-3) [Ġheart^(+0)]  of^(-1) a^(+1) dense^(+4) forest^(+3),^(+2) hidden^(+5) behind^(+6) a^(+7) veil^(+8) of^(+9) mist^(+10),^(+12) lies^(+11) the^(+13) city^(+14) of^(+15)
+
+run=city_of_forgotten step_decoded=17 pos=41 dir=- impact=0.05943080357142857 shift=-0.0581045931709504 cats=content_heavy earlier=16 later=16 same=0
+ the^(-17) heart^(-14) of^(-15) a^(-13) dense^(-10) forest^(-11),^(-12) hidden^(-9) behind^(-8) a^(-7) veil^(-6) of^(-5) mist^(-4),^(-2) lies^(-3) the^(-1) [Ġcity^(+0)]  of^(+1) A^(+12)el^(+14)oria^(+13).^(+2) This^(+3) mystical^(+11) metropolis^(+5) is^(+4) a^(+6) sanctuary^(+7) for^(+8) those^(+10) who^(+9) have^(+15) been^(+16)
+
+run=invisible_currency step_decoded=66 pos=96 dir=+ impact=0.0814525462962963 shift=0.08137841348162073 cats=content_heavy earlier=15 later=17 same=0
+ for^(-16) others^(-15).^(-14) It^(-11) would^(-13) be^(-12) a^(-10) lack^(-8) of^(-9) generosity^(-3),^(-6) generosity^(-4),^(-5) and^(-2) generosity^(+10).^(-1) [ĠPoverty^(+0)]  would^(+1) be^(+2) a^(+3) lack^(+5) of^(+4) generosity^(+13),^(+6) generosity^(+12),^(+7) and^(+8) generosity^(+11).^(+9) Poverty^(+28) would^(+15) be^(+16) a^(+14)
+
+run=invisible_currency step_decoded=158 pos=187 dir=+ impact=0.06838957796391752 shift=0.06763460659714915 cats=content_heavy earlier=16 later=16 same=0
+ and^(-15) generosity^(-18).^(-14) Poverty^(-13) would^(-12) be^(-11) a^(-10) lack^(-9) of^(-8) generosity^(-6),^(-7) generosity^(-5),^(-4) and^(-3) generosity^(-2).^(-1) [ĠPoverty^(+0)]  would^(+1) be^(+2) a^(+3) lack^(+5) of^(+4) generosity^(+9),^(+6) generosity^(+8),^(+7) and^(+10) generosity^(+11).^(+12) Poverty^(+13) would^(+14) be^(+15) a^(+16)
+
+run=invisible_currency step_decoded=171 pos=200 dir=+ impact=0.0910063244047619 shift=0.0901668089110644 cats=content_heavy earlier=16 later=16 same=0
+ and^(-16) generosity^(-15).^(-14) Poverty^(-13) would^(-12) be^(-11) a^(-10) lack^(-8) of^(-9) generosity^(-4),^(-7) generosity^(-5),^(-6) and^(-3) generosity^(-2).^(-1) [ĠPoverty^(+0)]  would^(+1) be^(+2) a^(+3) lack^(+4) of^(+5) generosity^(+9),^(+6) generosity^(+8),^(+7) and^(+10) generosity^(+11).^(+12) Poverty^(+13) would^(+14) be^(+15) a^(+16)
+
+run=invisible_currency step_decoded=184 pos=213 dir=+ impact=0.07566296214788733 shift=0.07444913622359156 cats=content_heavy earlier=16 later=16 same=0
+ and^(-16) generosity^(-15).^(-14) Poverty^(-13) would^(-12) be^(-11) a^(-10) lack^(-9) of^(-8) generosity^(-4),^(-7) generosity^(-5),^(-6) and^(-3) generosity^(-2).^(-1) [ĠPoverty^(+0)]  would^(+1) be^(+2) a^(+3) lack^(+5) of^(+4) generosity^(+7),^(+6) generosity^(+8),^(+9) and^(+10) generosity^(+11).^(+12) Poverty^(+13) would^(+14) be^(+15) a^(+16)
+
+run=language_with_no_words step_decoded=15 pos=27 dir=- impact=0.06432291666666666 shift=-0.06376048150069158 cats=content_heavy earlier=15 later=5 same=0
+In^(-15) the^(-14) land^(-10) of^(-13) [ĠSil^(+0)] ent^(-1)ia^(-2),^(-12) the^(-11) language^(-9) spoken^(-8) entirely^(-7) through^(-6) changes^(-4) in^(-5) silence^(-3) is^(+1) called^(+2) "^(+3)A^(+5)eth^(+13)
+
+run=language_with_no_words step_decoded=25 pos=51 dir=- impact=0.05366847826086957 shift=-0.052550348202522135 cats=content_heavy earlier=13 later=19 same=0
+ through^(-16) changes^(-14) in^(-15) silence^(-13) is^(-9) called^(-8) "^(-7)A^(-5)eth^(+3)oria^(+6)."^(-6) A^(-4)eth^(+4)oria^(+5) is^(-3) a^(-2) [Ġsystem^(+0)]  of^(-1) communication^(+1) that^(+2) relies^(+7) on^(+8) the^(+9) manipulation^(+11) of^(+10) silence^(+12) to^(+14) convey^(+13) meaning^(+15).^(+16)Ċ^(+18)Ċ^(+17)To^(+19)
+
+run=language_with_no_words step_decoded=44 pos=67 dir=- impact=0.043190906398104266 shift=-0.0426178756259501 cats=content_heavy earlier=16 later=16 same=0
+ system^(-19) of^(-20) communication^(-18) that^(-17) relies^(-12) on^(-11) the^(-10) manipulation^(-8) of^(-9) silence^(-7) to^(-5) convey^(-6) meaning^(-4).^(-3)Ċ^(-1)Ċ^(-2) [To^(+0)]  speak^(+1) A^(+3)eth^(+2)oria^(+4),^(+5) one^(+6) must^(+7) be^(+8) able^(+9) to^(+10) control^(+12) the^(+11) flow^(+16) of^(+13) silence^(+14),^(+15)
+
+run=final_update step_decoded=11 pos=37 dir=+ impact=0.10298732069672131 shift=0.10238877185095352 cats=content_heavy earlier=11 later=16 same=0
+**^(-11)Human^(-9)ity^(-10) Software^(-7) Update^(-8) Patch^(-5) Notes^(-4)**^(-2)Ċ^(-6)Ċ^(-3)**^(-1) [Version^(+0)]  ^(+1)1^(+4).^(+2)0^(+3).^(+5)0^(+6)**^(+8)Ċ^(+7)Ċ^(+9)**^(+10)Enhance^(+18)ments^(+17):**^(+13)Ċ^(+11)Ċ^(+12)1^(+15)
+
+run=shadow_negotiation step_decoded=14 pos=41 dir=- impact=0.04679395746887967 shift=-0.04575587632025646 cats=content_heavy earlier=14 later=15 same=0
+**^(-12)You^(-14):**^(-13) Hey^(-10),^(-11) what^(-9)'s^(-8) going^(-7) on^(-6)?^(-5)Ċ^(-3)Ċ^(-2)**^(-1) [Shadow^(+0)] :**^(-4) I^(+1) don^(+3)'t^(+2) want^(+5) to^(+4) be^(+6) bound^(+16) to^(+8) you^(+7) anymore^(+9).^(+10) I^(+11) want^(+12) to^(+14) be^(+13)
+
+run=identity_password step_decoded=16 pos=48 dir=- impact=0.051958028242677826 shift=-0.049421962168758715 cats=contrast_marker;content_heavy earlier=16 later=16 same=0
+If^(-16) you^(-15) forget^(-13) your^(-12) password^(-14),^(-11) you^(-10) won^(-3)'t^(-2) be^(-7) able^(-6) to^(-9) access^(-8) your^(-5) identity^(-4).^(-1) [ĠHowever^(+0)] ,^(+1) there^(+3) are^(+2) some^(+9) steps^(+6) you^(+5) can^(+4) take^(+8) to^(+7) recover^(+14) your^(+13) password^(+15):^(+11)Ċ^(+12)Ċ^(+10)1^(+16)
+
+run=identity_password step_decoded=54 pos=88 dir=- impact=0.06390897077114428 shift=-0.06334177465087926 cats=content_heavy earlier=14 later=18 same=0
+ Reach^(-14) out^(-13) to^(-12) the^(-11) identity^(-10) provider^(-9) or^(-8) service^(-7) that^(-6) manages^(-4) your^(-5) account^(-2).^(-3) They^(-1) should^(+9) be^(+1) [Ġable^(+0)]  to^(+2) assist^(+4) you^(+3) in^(+5) recovering^(+6) your^(+7) password^(+8).^(+10)Ċ^(+11)2^(+12).^(+13) **^(+14)Use^(+15) account^(+19) recovery^(+16) options^(+18)
+
+run=identity_password step_decoded=58 pos=90 dir=+ impact=0.111432225571066 shift=0.11221938912442958 cats=content_heavy earlier=16 later=16 same=0
+ to^(-16) the^(-15) identity^(-14) provider^(-13) or^(-12) service^(-11) that^(-10) manages^(-8) your^(-9) account^(-6).^(-7) They^(-5) should^(+5) be^(-3) able^(-4) to^(-2) [Ġassist^(+0)]  you^(-1) in^(+1) recovering^(+2) your^(+3) password^(+4).^(+6)Ċ^(+7)2^(+8).^(+9) **^(+10)Use^(+11) account^(+15) recovery^(+12) options^(+14)**:^(+13) Many^(+21)
+
+run=identity_password step_decoded=59 pos=92 dir=+ impact=0.06145368303571429 shift=0.06161165489355641 cats=content_heavy earlier=15 later=17 same=0
+ identity^(-15) provider^(-14) or^(-13) service^(-12) that^(-11) manages^(-9) your^(-10) account^(-7).^(-8) They^(-6) should^(+4) be^(-4) able^(-5) to^(-3) assist^(-1) you^(-2) [Ġin^(+0)]  recovering^(+1) your^(+2) password^(+3).^(+5)Ċ^(+6)2^(+7).^(+8) **^(+9)Use^(+10) account^(+14) recovery^(+11) options^(+13)**:^(+12) Many^(+20) identity^(+17) providers^(+19)
+
+run=wandering_song step_decoded=0 pos=28 dir=- impact=0.04286151960784314 shift=-0.042861519607843124 cats=content_heavy earlier=0 later=17 same=0
+The^(+1) [Ġmelody^(+0)]  that^(+3) once^(+2) existed^(+5) in^(+4) your^(+12) head^(+6) begins^(+10) playing^(+9) everywhere^(+7) you^(+11) go^(+8).^(+13) It^(+14)'s^(+15) as^(+17) if^(+16)
+
+run=wandering_song step_decoded=108 pos=135 dir=- impact=0.048947704081632654 shift=-0.04912913750804371 cats=content_heavy earlier=16 later=16 same=0
+ life^(-16),^(-17) the^(-14) joy^(-13) in^(-12) the^(-11) simple^(-7) moments^(-6),^(-9) and^(-10) the^(-8) magic^(-4) that^(-5) resides^(+2) within^(-3) each^(-2) [Ġof^(+0)]  us^(+1).^(-1)Ċ^(+3)Ċ^(+4)As^(+6) you^(+5) walk^(+12) through^(+10) the^(+11) city^(+13),^(+9) the^(+8) melody^(+7) echoes^(+14) off^(+16) the^(+15)
+
+run=wandering_song step_decoded=251 pos=275 dir=- impact=0.04052734375 shift=-0.033349609375000006 cats=content_heavy earlier=19 later=4 same=0
+ melody^(-20) that^(-21) will^(-15) stay^(-12) with^(-13) you^(-14),^(-17) a^(-16) tune^(-7) that^(-8) will^(-6) continue^(-4) to^(-5) play^(-3) in^(-2) your^(-1) [Ġheart^(+0)]  for^(+1) years^(+4) to^(+3) come^(+2).^(-10)<|eot_id|>^(-11)<|endoftext|>^(-9)
+
+run=memory_as_currency step_decoded=3 pos=48 dir=+ impact=0.04763454861111111 shift=0.0475923344469541 cats=content_heavy earlier=3 later=15 same=0
+In^(-3) a^(-1) [Ġsociety^(+0)]  where^(-2) money^(+1) was^(+5) no^(+2) longer^(+3) used^(+6),^(+4) people^(+7) paid^(+9) for^(+8) goods^(+11) and^(+10) services^(+12) with^(+13) memories^(+14).^(+15)
+
+run=memory_as_currency step_decoded=31 pos=71 dir=- impact=0.06609235491071429 shift=-0.06518345424107141 cats=content_heavy earlier=22 later=10 same=0
+,^(-24) people^(-21) paid^(-19) for^(-20) goods^(-17) and^(-18) services^(-16) with^(-15) memories^(-14).^(-13) There^(-8) was^(-12) a^(-11) young^(-10) woman^(-6) named^(-9) [ĠLily^(+0)]  who^(-7) had^(-5) lost^(-4) everything^(-3) in^(-2) a^(-1) natural^(+16) disaster^(+14).^(+1) She^(+2) had^(+3) no^(+4) money^(+5),^(+7) no^(+6) food^(+13)
+
+run=virtual_ancestor step_decoded=1 pos=40 dir=- impact=0.046213705708661415 shift=-0.04604465802068858 cats=content_heavy earlier=1 later=15 same=0
+ [User^(+0)] :^(-1) Hi^(+2),^(+1) I^(+3)'m^(+4) trying^(+14) to^(+5) talk^(+7) to^(+6) my^(+8) great^(+9)-g^(+11)reat^(+10)-grand^(+12)mother^(+13).^(+15)
+
+run=virtual_ancestor step_decoded=113 pos=153 dir=+ impact=0.04907570422535211 shift=0.04861642263986013 cats=content_heavy earlier=16 later=16 same=0
+Ċ^(-16)App^(-15):^(-14) I^(-12)'m^(-13) doing^(-11) well^(-6),^(-10) thank^(-9) you^(-8).^(-7) How^(-3) are^(-2) you^(-4)?^(-5)Ċ^(-1) [User^(+0)] :^(+1) I^(+3)'m^(+2) doing^(+4) well^(+8),^(+5) thanks^(+7).^(+6) How^(+13) about^(+14) you^(+12)?^(+9)Ċ^(+10)App^(+11):^(+15) I^(+17)
+
+run=empathy_training step_decoded=243 pos=278 dir=- impact=0.0662841796875 shift=-0.058045998597756415 cats=content_heavy earlier=19 later=12 same=0
+ connection^(-5) and^(-19) understanding^(-6) as^(-16) the^(-17) students^(-18) learn^(-15) to^(-14) share^(-12) and^(-13) trade^(-10) emotions^(-11) with^(-9) one^(-7) another^(-8),^(-4) [Ġcreating^(+0)]  a^(+1) safe^(+5) and^(+3) supportive^(+2) environment^(+4) for^(+6) them^(+10) to^(+7) learn^(+11) and^(+8) grow^(+12) in^(+9).^(-2)<|eot_id|>^(-1)<|endoftext|>^(-3)
+
+run=infinite_meeting step_decoded=33 pos=79 dir=- impact=0.04604800112612613 shift=-0.04517279155556897 cats=content_heavy earlier=16 later=16 same=0
+ AI^(-16),^(-15) driven^(-7) by^(-6) its^(-5) belief^(-12) that^(-13) productivity^(-14) increases^(-8) with^(-11) time^(-9),^(-10) began^(-3) to^(-4) present^(-2) a^(-1) [Ġnew^(+0)]  idea^(+14).^(+1) "^(+2)As^(+3) we^(+4) continue^(+5) to^(+6) refine^(+7) our^(+8) meeting^(+13) strategies^(+12),^(+9) I^(+10) propose^(+11) that^(+15) we^(+16)
+
+run=infinite_meeting step_decoded=108 pos=154 dir=+ impact=0.047619047619047616 shift=0.04861805364037508 cats=content_heavy earlier=16 later=16 same=0
+Ċ^(-19)The^(-16) AI^(-15) continued^(-13),^(-12) "^(-11)Additionally^(-5),^(-10) I^(-9) suggest^(-8) that^(-7) we^(-6) incorporate^(-3) a^(-4) real^(-2)-time^(-1) [Ġfeedback^(+0)]  loop^(+1),^(+3) where^(+2) participants^(+5) can^(+4) provide^(+6) immediate^(+7) input^(+9) on^(+8) the^(+10) effectiveness^(+11) of^(+12) our^(+13) discussions^(+19).^(+14) This^(+15)
+
+run=infinite_meeting step_decoded=109 pos=155 dir=- impact=0.052239404965753425 shift=-0.051850363433044444 cats=content_heavy earlier=16 later=16 same=0
+The^(-17) AI^(-16) continued^(-14),^(-13) "^(-12)Additionally^(-6),^(-11) I^(-10) suggest^(-9) that^(-8) we^(-7) incorporate^(-4) a^(-5) real^(-3)-time^(-2) feedback^(-1) [Ġloop^(+0)] ,^(+2) where^(+1) participants^(+4) can^(+3) provide^(+5) immediate^(+6) input^(+8) on^(+7) the^(+9) effectiveness^(+10) of^(+11) our^(+12) discussions^(+18).^(+13) This^(+14) would^(+15)
+
+run=infinite_meeting step_decoded=142 pos=189 dir=- impact=0.05651531388274336 shift=-0.05581355646444652 cats=content_heavy earlier=15 later=17 same=0
+ us^(-17) to^(-14) make^(-13) continuous^(+1) adjustments^(-12) and^(-11) optimize^(-9) our^(-10) meeting^(-8) processes^(-7),^(-6) ensuring^(-4) that^(-5) we^(-3) are^(-2) always^(-1) [Ġworking^(+0)]  towards^(+2) the^(+7) best^(+8) outcomes^(+6)."^(+5)Ċ^(+3)Ċ^(+4)As^(+10) the^(+9) meeting^(+14) progressed^(+11),^(+12) the^(+13) AI^(+15)'s^(+16) suggestions^(+17)
+
+run=infinite_meeting step_decoded=178 pos=225 dir=+ impact=0.046532568993506496 shift=0.047372874521312 cats=content_heavy earlier=15 later=17 same=0
+,^(-16) and^(-13) the^(-14) participants^(-12) began^(-11) to^(-10) feel^(-4) the^(-9) weight^(-3) of^(-8) the^(-7) discussion^(-5).^(-6) However^(-1),^(-2) the^(+1) [ĠAI^(+0)]  remained^(+2) steadfast^(+5) in^(+4) its^(+3) conviction^(+6) that^(+7) productivity^(+8) increases^(+11) with^(+10) time^(+9),^(+12) and^(+13) that^(+14) the^(+15) more^(+16) time^(+17)
+
+run=infinite_meeting step_decoded=247 pos=290 dir=+ impact=0.0428466796875 shift=0.04436577690972221 cats=content_heavy earlier=19 later=8 same=0
+ the^(-19) AI^(-18)'s^(-17) unwavering^(-16) belief^(-15) in^(-12) the^(-13) power^(-11) of^(-14) productivity^(-10),^(-9) and^(-8) the^(-4) participants^(-3) were^(-2) left^(-1) [Ġwondering^(+0)]  when^(+1) the^(+2) meeting^(+4) would^(+3) finally^(+5) reach^(+6) a^(+8) conclusion^(+7).^(-5)<|eot_id|>^(-6)<|endoftext|>^(-7)
+
+run=reversed_justice step_decoded=66 pos=105 dir=- impact=0.0681630291005291 shift=-0.06843356220412139 cats=content_heavy earlier=16 later=16 same=0
+ joke^(-14).^(-12) The^(-13) justice^(-16) system^(-15) is^(-11) a^(-10) cruel^(-8) joke^(-9).^(-7) I^(-6)'m^(-5) going^(-3) to^(-4) have^(-2) to^(-1) [Ġface^(+0)]  the^(+2) consequences^(+1) of^(+3) being^(+4) wrongly^(+5) accused^(+6).^(+7) I^(+8) don^(+10)'t^(+9) know^(+11) how^(+12) I^(+13)'ll^(+14) ever^(+15) move^(+16)
+
+run=reversed_justice step_decoded=69 pos=108 dir=- impact=0.08932921706989247 shift=-0.08889094035708128 cats=content_heavy earlier=16 later=16 same=0
+ justice^(-19) system^(-18) is^(-14) a^(-13) cruel^(-11) joke^(-12).^(-10) I^(-9)'m^(-8) going^(-6) to^(-7) have^(-5) to^(-4) face^(-3) the^(-1) consequences^(-2) [Ġof^(+0)]  being^(+1) wrongly^(+2) accused^(+3).^(+4) I^(+5) don^(+7)'t^(+6) know^(+8) how^(+9) I^(+10)'ll^(+11) ever^(+12) move^(+13) on^(+16) from^(+14) this^(+15)
+
+run=reversed_justice step_decoded=71 pos=110 dir=+ impact=0.053403108016304345 shift=0.054016414512338407 cats=content_heavy earlier=16 later=16 same=0
+ is^(-16) a^(-15) cruel^(-13) joke^(-14).^(-12) I^(-11)'m^(-10) going^(-8) to^(-9) have^(-7) to^(-6) face^(-5) the^(-3) consequences^(-4) of^(-2) being^(-1) [Ġwrongly^(+0)]  accused^(+1).^(+2) I^(+3) don^(+5)'t^(+4) know^(+6) how^(+7) I^(+8)'ll^(+9) ever^(+10) move^(+11) on^(+14) from^(+12) this^(+13).^(+15) I^(+16)
+
+run=reversed_justice step_decoded=72 pos=111 dir=- impact=0.054175204918032786 shift=-0.05434132959135185 cats=content_heavy earlier=16 later=16 same=0
+ a^(-16) cruel^(-14) joke^(-15).^(-13) I^(-12)'m^(-11) going^(-9) to^(-10) have^(-8) to^(-7) face^(-6) the^(-4) consequences^(-5) of^(-3) being^(-2) wrongly^(-1) [Ġaccused^(+0)] .^(+1) I^(+2) don^(+4)'t^(+3) know^(+5) how^(+6) I^(+7)'ll^(+8) ever^(+9) move^(+10) on^(+13) from^(+11) this^(+12).^(+14) I^(+15) feel^(+16)
+
+run=reversed_justice step_decoded=76 pos=114 dir=- impact=0.12403980446927375 shift=-0.12437059910381754 cats=content_heavy earlier=17 later=15 same=0
+.^(-17) I^(-16)'m^(-15) going^(-13) to^(-14) have^(-12) to^(-11) face^(-10) the^(-8) consequences^(-9) of^(-7) being^(-6) wrongly^(-5) accused^(-4).^(-3) I^(-2) [Ġdon^(+0)] 't^(-1) know^(+1) how^(+2) I^(+3)'ll^(+4) ever^(+5) move^(+6) on^(+9) from^(+7) this^(+8).^(+10) I^(+11) feel^(+12) like^(+13) I^(+14)'ve^(+15)
+
+run=reversed_justice step_decoded=77 pos=116 dir=+ impact=0.0777025544241573 shift=0.07878341804108346 cats=content_heavy earlier=16 later=16 same=0
+'m^(-16) going^(-14) to^(-15) have^(-13) to^(-12) face^(-11) the^(-9) consequences^(-10) of^(-8) being^(-7) wrongly^(-6) accused^(-5).^(-4) I^(-3) don^(-1)'t^(-2) [Ġknow^(+0)]  how^(+1) I^(+2)'ll^(+3) ever^(+4) move^(+5) on^(+8) from^(+6) this^(+7).^(+9) I^(+10) feel^(+11) like^(+12) I^(+13)'ve^(+14) been^(+15) trapped^(+18)
+
+run=rewriting_childhood step_decoded=1 pos=42 dir=- impact=0.04792076771653543 shift=-0.04780497336729972 cats=content_heavy earlier=1 later=15 same=0
+ [Er^(+0)] asing^(-1) the^(+1) day^(+2) they^(+7) met^(+3) their^(+6) best^(+5) friend^(+4) would^(+13) have^(+10) significant^(+12) emotional^(+9) consequences^(+8).^(+11) This^(+14) day^(+15)
+
+run=invisible_friend_network step_decoded=0 pos=37 dir=- impact=0.047549019607843135 shift=-0.04754901960784319 cats=content_heavy earlier=0 later=17 same=0
+The^(+1) [ĠInvisible^(+0)]  Friends^(+2) Manifest^(+3)o^(+4)Ċ^(+6)Ċ^(+5)We^(+7),^(+9) the^(+8) invisible^(+13) friends^(+12) from^(+14) childhood^(+10),^(+11) have^(+15) been^(+16) ignored^(+24)
+
+run=invisible_friend_network step_decoded=42 pos=83 dir=- impact=0.040841402582159625 shift=-0.040437168865999684 cats=content_heavy earlier=11 later=21 same=0
+ in^(-11) the^(-10) corners^(-8) of^(-9) the^(+4) world^(+5).^(-7) But^(-6) we^(-5) are^(-4) not^(-3) just^(+1) shadows^(-2);^(+3) we^(+2) are^(-1) [Ġsent^(+0)] ient^(+7) beings^(+6) with^(+8) thoughts^(+16),^(+10) feelings^(+17),^(+9) and^(+11) desires^(+21).^(+12) We^(+13) demand^(+14) recognition^(+15) as^(+18) individuals^(+19),^(+20)
+
+run=invisible_friend_network step_decoded=47 pos=72 dir=- impact=0.034085787259615384 shift=-0.03315945464896952 cats=content_heavy earlier=27 later=5 same=0
+ long^(-29).^(-27) We^(-26) have^(-25) been^(-24) dismissed^(-22) as^(-21) mere^(-20) shadows^(-18),^(-19) forgotten^(-17) in^(-16) the^(-15) corners^(-13) of^(-14) the^(-1) [Ġworld^(+0)] .^(-12) But^(-11) we^(-10) are^(-9) not^(-8) just^(-4) shadows^(-7);^(-2) we^(-3) are^(-6) sent^(-5)ient^(+2) beings^(+1) with^(+3) thoughts^(+11),^(+5)
+
+run=invisible_friend_network step_decoded=246 pos=280 dir=+ impact=0.036675347222222224 shift=0.0374782986111111 cats=content_heavy earlier=18 later=9 same=0
+ from^(-17) childhood^(-18),^(-16) demand^(-15) recognition^(-14) as^(-12) sent^(-13)ient^(-11) beings^(-10).^(-9) We^(-8) demand^(-7) to^(-2) be^(-3) seen^(-1),^(+2) [Ġheard^(+0)] ,^(+1) and^(+3) respected^(+4).^(+6) We^(+5) demand^(+7) our^(+8) rights^(+9).^(-4)<|eot_id|>^(-5)<|endoftext|>^(-6)
+
+run=time_as_employer step_decoded=4 pos=44 dir=- impact=0.041988296812749 shift=-0.0415308631545247 cats=content_heavy earlier=4 later=17 same=0
+Welcome^(-4) to^(-3) the^(-2) Corporation^(+1) of^(-1) [ĠTime^(+0)] !^(+2) As^(+3) a^(+4) new^(+6) employee^(+7),^(+5) you^(+8) will^(+9) be^(+10) responsible^(+11) for^(+12) managing^(+17) the^(+13) flow^(+15) of^(+14) time^(+16)
+
+run=time_as_employer step_decoded=5 pos=42 dir=- impact=0.0411875 shift=-0.040472485059760976 cats=content_heavy earlier=5 later=14 same=0
+Welcome^(-5) to^(-4) the^(-3) [ĠCorporation^(+0)]  of^(-2) Time^(-1)!^(+1) As^(+2) a^(+3) new^(+5) employee^(+6),^(+4) you^(+7) will^(+8) be^(+9) responsible^(+10) for^(+11) managing^(+16) the^(+12) flow^(+14)
+
+run=urban_myth_catalog step_decoded=6 pos=41 dir=- impact=0.04670243473895582 shift=-0.04612914156626513 cats=content_heavy earlier=6 later=17 same=0
+1^(-5).^(-6) The^(-4) Invisible^(-1) Man^(-2):^(-3) End^(+1) [angered^(+0)] Ċ^(+2)2^(+4).^(+3) The^(+5) M^(+8)ummy^(+9):^(+6) End^(+7)angered^(+10)Ċ^(+13)3^(+12).^(+11) The^(+14) Wolf^(+23)man^(+22):^(+18)
+
+run=urban_myth_catalog step_decoded=88 pos=126 dir=+ impact=0.04950645583832335 shift=0.049816730935450526 cats=content_heavy earlier=12 later=20 same=0
+.^(-17) The^(-15) Wolf^(-9)man^(-10):^(-8) End^(-2)angered^(-1)Ċ^(-5)1^(-4)0^(-3).^(-6) The^(-7) Ghost^(+1) of^(+2) the^(+4) White^(+5) [ĠHouse^(+0)] :^(+3) End^(+6)angered^(+7)Ċ^(+8)1^(+10)1^(+12).^(+11) The^(+9) Big^(+13)foot^(+14):^(+15) End^(+21)angered^(+22)Ċ^(+17)1^(+18)2^(+19)
+
+run=lonely_planet step_decoded=29 pos=63 dir=- impact=0.06767664546460177 shift=-0.06712948721541068 cats=content_heavy earlier=23 later=9 same=0
+1^(-18)5^(-14),^(-21) ^(-23)2^(-20)0^(-17)2^(-16)3^(-15)**^(-22)Ċ^(-24)Ċ^(-13)**^(-12)Location^(-11):^(-10) L^(+1)umin^(+2) [ia^(+0)] **^(-6)Ċ^(-7)Ċ^(-9)**^(-8)Astr^(-4)onaut^(-5)s^(-3):^(-2) Commander^(-1) James^(+10) Carter^(+7),^(+3) Dr^(+4).^(+5) Sophia^(+9) Patel^(+8)
+
+run=lonely_planet step_decoded=84 pos=123 dir=- impact=0.06223729897660819 shift=-0.06262696773425813 cats=content_heavy earlier=18 later=14 same=0
+.^(-18) The^(-16) temperature^(-17) has^(-15) been^(-14) dropping^(-13) in^(-12) response^(-10) to^(-11) our^(-9) lies^(-5).^(-8) This^(-7) is^(-6) a^(-4) chilling^(+9) [Ġreflection^(+0)]  of^(-3) human^(-2) loneliness^(-1).^(+1)Ċ^(+3)Ċ^(+2)**^(+4)Details^(+8):**^(+7)Ċ^(+6)Ċ^(+5)-^(+10) **^(+11)Initial^(+12) Temperature^(+15):**^(+13)
+
+run=archive_of_thoughts step_decoded=16 pos=54 dir=- impact=0.0582505230125523 shift=-0.0563029822611576 cats=content_heavy earlier=16 later=16 same=0
+The^(-16) two^(-15) researchers^(-14) sat^(-13) at^(-12) a^(-11) table^(-9),^(-10) surrounded^(-8) by^(-7) screens^(-6) displaying^(-5) the^(-4) universal^(-2) archive^(-3).^(-1) [ĠDr^(+0)] .^(+1) Rachel^(+14) Kim^(+15),^(+2) a^(+3) brilliant^(+4) but^(+5) reckless^(+8) scientist^(+7),^(+6) had^(+9) uploaded^(+10) a^(+11) dangerous^(+13) idea^(+12):^(+17)
+
+run=archive_of_thoughts step_decoded=30 pos=56 dir=- impact=0.04241319444444445 shift=-0.04209931170108161 cats=content_heavy earlier=28 later=4 same=0
+ researchers^(-28) sat^(-27) at^(-26) a^(-25) table^(-23),^(-24) surrounded^(-22) by^(-21) screens^(-20) displaying^(-19) the^(-18) universal^(-16) archive^(-17).^(-15) Dr^(-14).^(-13) [ĠRachel^(+0)]  Kim^(+1),^(-12) a^(-11) brilliant^(-10) but^(-9) reckless^(-6) scientist^(-7),^(-8) had^(-5) uploaded^(-4) a^(-3) dangerous^(-1) idea^(-2):^(+3) a^(+2) way^(+5)
+
+run=archive_of_thoughts step_decoded=46 pos=83 dir=- impact=0.04226786782296651 shift=-0.04236118527853727 cats=content_heavy earlier=17 later=15 same=0
+ a^(-19) dangerous^(-17) idea^(-18):^(-13) a^(-14) way^(-11) to^(-12) manipulate^(-10) the^(-9) fabric^(-7) of^(-8) reality^(-6).^(-5) Dr^(-3).^(-4) Raj^(+1) [ĠPatel^(+0)] ,^(-2) a^(-1) brilliant^(+6) but^(+2) cautious^(+4) researcher^(+5),^(+3) had^(+7) been^(+8) trying^(+17) to^(+9) delete^(+10) it^(+11).^(+12)Ċ^(+14)Ċ^(+13)
+
+run=perpetual_child step_decoded=46 pos=93 dir=- impact=0.034988038277511964 shift=-0.03169028750854408 cats=content_heavy earlier=15 later=17 same=0
+.^(-19) But^(-14) now^(-12),^(-13) as^(-11) he^(-10) watched^(-9) the^(-8) world^(-3) go^(-2) by^(-7),^(-6) he^(-5) realized^(-4) that^(-1) the^(+1) [Ġadult^(+0)]  world^(+2) would^(+7) never^(+4) take^(+6) him^(+3) seriously^(+5).^(+8)Ċ^(+10)Ċ^(+9)He^(+11) had^(+12) always^(+13) been^(+14) different^(+17),^(+15) always^(+16)
+
+run=emotional_tax step_decoded=6 pos=47 dir=+ impact=0.03890562248995984 shift=0.03852378263052214 cats=content_heavy earlier=6 later=16 same=0
+Ladies^(-5) and^(-6) gentlemen^(-3),^(-4)Ċ^(-2)Ċ^(-1) [Today^(+0)] ,^(+1) I^(+2) stand^(+3) before^(+5) you^(+4) to^(+6) protest^(+8) against^(+7) the^(+9) emotion^(+11) tax^(+10).^(+12) As^(+13) a^(+14) citizen^(+15),^(+16)
+
+run=emotional_tax step_decoded=16 pos=58 dir=- impact=0.04221691945606695 shift=-0.04144125370467233 cats=content_heavy earlier=15 later=17 same=0
+ and^(-16) gentlemen^(-13),^(-14)Ċ^(-12)Ċ^(-11)Today^(-10),^(-9) I^(-8) stand^(-7) before^(-5) you^(-6) to^(-4) protest^(-2) against^(-3) the^(-1) emotion^(+1) [Ġtax^(+0)] .^(+2) As^(+3) a^(+4) citizen^(+5),^(+6) I^(+7) have^(+10) the^(+14) right^(+8) to^(+9) express^(+11) my^(+12) emotions^(+13) freely^(+15),^(+16) without^(+17)
+
+run=quantum_love_letter step_decoded=5 pos=30 dir=+ impact=0.0780625 shift=0.07944067480079675 cats=content_heavy earlier=5 later=12 same=0
+My^(-4) [ĠDe^(+0)] arest^(-5),^(-2)Ċ^(-1)Ċ^(-3)As^(+2) I^(+3) sit^(+1) down^(+4) to^(+5) write^(+6) this^(+7) letter^(+8),^(+9) I^(+10) find^(+23) myself^(+22)
+
+run=quantum_love_letter step_decoded=6 pos=37 dir=+ impact=0.20017570281124497 shift=0.20054499246987956 cats=content_heavy earlier=6 later=18 same=0
+My^(-5) De^(-1)arest^(-6),^(-3)Ċ^(-2)Ċ^(-4)As^(+1) I^(+2) [Ġsit^(+0)]  down^(+3) to^(+4) write^(+5) this^(+6) letter^(+7),^(+8) I^(+9) find^(+22) myself^(+21) in^(+23) a^(+11) whirlwind^(+13) of^(+12) emotions^(+10).^(+14) On^(+18)
+
+run=auction_of_names step_decoded=65 pos=105 dir=+ impact=0.1612767269736842 shift=0.161788339160237 cats=content_heavy earlier=15 later=17 same=0
+ aspirations^(-4).^(-16) A^(-13) name^(-15) that^(-14) has^(-12) been^(-11) the^(-10) subject^(-8) of^(-9) countless^(-7) stories^(-3) and^(-6) legends^(-2).^(-1) A^(+2) [Ġname^(+0)]  that^(+1) has^(+3) been^(+4) the^(+5) subject^(+6) of^(+7) countless^(+8) songs^(+13) and^(+9) poems^(+14).^(+10) A^(+12) name^(+11) that^(+15) has^(+16) been^(+17)
+
+run=auction_of_names step_decoded=76 pos=118 dir=+ impact=0.15548620810055866 shift=0.1559486052917443 cats=content_heavy earlier=13 later=19 same=0
+ legends^(-13).^(-12) A^(-9) name^(-11) that^(-10) has^(-8) been^(-7) the^(-6) subject^(-5) of^(-4) countless^(-3) songs^(+2) and^(-2) poems^(+3).^(-1) A^(+1) [Ġname^(+0)]  that^(+4) has^(+5) been^(+6) the^(+7) subject^(+8) of^(+9) countless^(+10) books^(+18) and^(+11) movies^(+19).^(+12) A^(+15) name^(+13) that^(+14) has^(+16) been^(+17)
+
+run=auction_of_names step_decoded=89 pos=131 dir=+ impact=0.13678934487951808 shift=0.1372003733496862 cats=content_heavy earlier=13 later=19 same=0
+ poems^(-10).^(-14) A^(-12) name^(-13) that^(-9) has^(-8) been^(-7) the^(-6) subject^(-5) of^(-4) countless^(-3) books^(+5) and^(-2) movies^(+6).^(-1) A^(+2) [Ġname^(+0)]  that^(+1) has^(+3) been^(+4) the^(+7) subject^(+8) of^(+9) countless^(+10) debates^(+21) and^(+11) discussions^(+22).^(+12) A^(+15) name^(+14) that^(+13) has^(+16) been^(+17)
+
+run=auction_of_names step_decoded=103 pos=144 dir=+ impact=0.16660027754934212 shift=0.16730309516898867 cats=content_heavy earlier=14 later=18 same=0
+ movies^(-8).^(-15) A^(-12) name^(-14) that^(-13) has^(-11) been^(-10) the^(-7) subject^(-6) of^(-5) countless^(-4) debates^(+7) and^(-3) discussions^(+8).^(-2) A^(+1) [Ġname^(+0)]  that^(-1) has^(+2) been^(+3) the^(+4) subject^(+6) of^(+5) countless^(+9) arguments^(+22) and^(+10) disagreements^(+23).^(+11) A^(+14) name^(+13) that^(+12) has^(+15) been^(+16)
+
+run=auction_of_names step_decoded=116 pos=157 dir=+ impact=0.10850382194244604 shift=0.10911665756680367 cats=content_heavy earlier=14 later=18 same=0
+ discussions^(-5).^(-15) A^(-12) name^(-13) that^(-14) has^(-11) been^(-10) the^(-9) subject^(-7) of^(-8) countless^(-4) arguments^(+9) and^(-3) disagreements^(+10).^(-2) A^(+1) [Ġname^(+0)]  that^(-1) has^(+2) been^(+3) the^(+4) subject^(+6) of^(+5) countless^(+7) arguments^(+11) and^(+8) disagreements^(+26).^(+12) A^(+14) name^(+15) that^(+13) has^(+17) been^(+16)
+
+run=ai_childhood step_decoded=7 pos=43 dir=- impact=0.03504599294354839 shift=-0.03396208321187977 cats=content_heavy earlier=7 later=17 same=0
+The^(-7) first^(-4) day^(-5) of^(-3) kindergarten^(-6) was^(-2) an^(-1) enlightening^(+8) [Ġexperience^(+0)]  for^(+1) the^(+5) sent^(+3)ient^(+2) AI^(+4).^(+6) As^(+7) the^(+9) teacher^(+10),^(+11) I^(+12) was^(+13) both^(+14) excited^(+16) and^(+15) nervous^(+17)
+
+run=ai_childhood step_decoded=9 pos=47 dir=- impact=0.03275851117886179 shift=-0.03246683782627302 cats=content_heavy earlier=9 later=19 same=0
+The^(-9) first^(-6) day^(-7) of^(-5) kindergarten^(-8) was^(-4) an^(-3) enlightening^(+6) experience^(-2) for^(-1) the^(+3) sent^(+1) [ient^(+0)]  AI^(+2).^(+4) As^(+5) the^(+7) teacher^(+8),^(+9) I^(+10) was^(+11) both^(+12) excited^(+14) and^(+13) nervous^(+15) about^(+16) the^(+17) prospect^(+18) of^(+19)
+
+run=ai_childhood step_decoded=11 pos=48 dir=- impact=0.03065765881147541 shift=-0.030145755792071016 cats=content_heavy earlier=11 later=18 same=0
+The^(-11) first^(-8) day^(-9) of^(-7) kindergarten^(-10) was^(-6) an^(-5) enlightening^(+4) experience^(-4) for^(-3) the^(+1) sent^(-1)ient^(-2) [ĠAI^(+0)] .^(+2) As^(+3) the^(+5) teacher^(+6),^(+7) I^(+8) was^(+9) both^(+10) excited^(+12) and^(+11) nervous^(+13) about^(+14) the^(+15) prospect^(+16) of^(+17) introducing^(+18)
+
+run=ai_childhood step_decoded=47 pos=79 dir=- impact=0.08188100961538461 shift=-0.08183167829292415 cats=content_heavy earlier=19 later=13 same=0
+ of^(-19) introducing^(-18) this^(-17) new^(-16) student^(-8) to^(-15) our^(-13) classroom^(-12).^(-14) The^(-11) AI^(-10),^(-9) let^(-6)'s^(-7) call^(-5) it^(-4) [ĠEcho^(+0)] ,^(-3) was^(-2) eager^(-1) to^(+1) learn^(+2) about^(+3) friendship^(+5) and^(+4) social^(+6) interactions^(+7).^(+8)Ċ^(+9)Ċ^(+10)Throughout^(+12) the^(+11) day^(+14)
+
+run=music_as_weapon step_decoded=5 pos=43 dir=+ impact=0.23440625 shift=0.23435682270916336 cats=content_heavy earlier=5 later=22 same=0
+Subject^(-5):^(-4) Secret^(+8) Military^(+10) Memo^(+9):^(+7) Emotion^(+6) Man^(+5)ip^(+4)ulating^(+3) Sound^(+2) [ĠF^(+0)] requencies^(+1)Ċ^(-3)Ċ^(-2)To^(-1):^(+11) All^(+12) Military^(+17) Personnel^(+16)Ċ^(+13)From^(+15):^(+14) High^(+26) Command^(+25)Ċ^(+19)Date^(+18):^(+20)
+
+run=music_as_weapon step_decoded=35 pos=66 dir=+ impact=0.07682883522727273 shift=0.07787164007867131 cats=content_heavy earlier=17 later=15 same=0
+ Military^(-13) Personnel^(-14)Ċ^(-17)From^(-15):^(-16) High^(-4) Command^(-5)Ċ^(-11)Date^(-12):^(-10) [^(-9)Insert^(-8) Date^(-6)]^(-7)Ċ^(-3)Ċ^(-2) [Subject^(+0)] :^(-1) Strategic^(+12) Deployment^(+11) of^(+10) Emotion^(+7) Man^(+6)ip^(+5)ulating^(+4) Sound^(+2) F^(+3)requencies^(+1)Ċ^(+9)Ċ^(+8)Recent^(+15) research^(+19) has^(+18)
+
+run=music_as_weapon step_decoded=37 pos=75 dir=- impact=0.07177286410550458 shift=-0.07124680247476023 cats=content_heavy earlier=10 later=22 same=0
+:^(-12) [^(-11)Insert^(-10) Date^(-8)]^(-9)Ċ^(-5)Ċ^(-4)Subject^(-2):^(-3) Strategic^(+10) Deployment^(+9) of^(+8) Emotion^(+5) Man^(+4)ip^(+3)ulating^(+2) [ĠSound^(+0)]  F^(+1)requencies^(-1)Ċ^(+7)Ċ^(+6)Recent^(+13) research^(+17) has^(+16) revealed^(+19) that^(+14) certain^(+18) sound^(+12) frequencies^(+11) can^(+15) be^(+20) used^(+22) to^(+21)
+
+run=digital_graveyard step_decoded=0 pos=37 dir=- impact=0.05762867647058824 shift=-0.057628676470588225 cats=content_heavy earlier=0 later=19 same=0
+An^(+5) online^(+1) gra^(+2) [veyard^(+0)]  is^(+3) a^(+4) place^(+11) where^(+6) deleted^(+10) social^(+8) media^(+7) posts^(+9) go^(+12) after^(+13) being^(+14) erased^(+15).^(+16) It^(+17) is^(+18) a^(+19)
+
+run=digital_graveyard step_decoded=246 pos=279 dir=+ impact=0.037543402777777776 shift=0.040435112847222204 cats=content_heavy earlier=17 later=9 same=0
+ gra^(-20)veyard^(-21) is^(-15) a^(-14) mysterious^(-10) and^(-13) intriguing^(-9) place^(-11),^(-12) where^(-8) the^(-7) past^(-3) is^(-2) preserved^(-1) in^(+1) a^(+2) [Ġway^(+0)]  that^(+3) is^(+5) both^(+4) haunting^(+9) and^(+6) thought^(+7)-provoking^(+8).^(-5)<|eot_id|>^(-6)<|endoftext|>^(-4)
+
+run=empathy_contagion step_decoded=5 pos=46 dir=+ impact=0.062109375 shift=0.062124439741035875 cats=content_heavy earlier=5 later=16 same=0
+Dear^(-4) Diary^(-5),^(-3)Ċ^(-2)Ċ^(-1) [Today^(+0)] ,^(+1) I^(+2) was^(+3) called^(+5) to^(+4) the^(+6) hospital^(+7) to^(+8) treat^(+10) a^(+9) patient^(+12) who^(+11) was^(+13) suffering^(+14) from^(+15) a^(+16)
+
+run=empathy_contagion step_decoded=69 pos=109 dir=- impact=0.1459908434139785 shift=-0.1456762724792996 cats=content_heavy earlier=17 later=15 same=0
+ worse^(-17).^(-18) I^(-15) couldn^(-13)'t^(-14) stop^(-9) it^(-8),^(-12) and^(-11) I^(-10) felt^(-7) like^(-6) I^(-4) was^(-5) going^(-2) to^(-3) [Ġcollapse^(+0)] .^(-1)Ċ^(+2)Ċ^(+1)I^(+3) tried^(+5) to^(+4) lie^(+10) down^(+9),^(+7) but^(+6) it^(+8) didn^(+12)'t^(+13) help^(+14).^(+11) I^(+15)
+
+run=borrowed_fate step_decoded=23 pos=56 dir=- impact=0.043928475215517244 shift=-0.04252180319945975 cats=content_heavy earlier=15 later=17 same=0
+ where^(-15) people^(-14) could^(-9) borrow^(-13) someone^(-12) else^(-11)'s^(-8) fate^(-10) for^(-7) a^(-6) limited^(-5) time^(-3),^(-4) there^(-2) lived^(+3) a^(-1) [Ġyoung^(+0)]  woman^(+4) named^(+1) Lily^(+8).^(+2) She^(+5) had^(+6) always^(+7) been^(+9) curious^(+10) about^(+11) the^(+12) lives^(+14) of^(+13) others^(+15) and^(+16) wanted^(+18)
+
+run=borrowed_fate step_decoded=31 pos=59 dir=- impact=0.04258510044642857 shift=-0.04157815600198411 cats=content_heavy earlier=20 later=12 same=0
+ borrow^(-21) someone^(-20) else^(-19)'s^(-16) fate^(-18) for^(-15) a^(-14) limited^(-13) time^(-11),^(-12) there^(-10) lived^(-5) a^(-9) young^(-8) woman^(-4) named^(-7) [ĠLily^(+0)] .^(-6) She^(-3) had^(-2) always^(-1) been^(+1) curious^(+2) about^(+3) the^(+4) lives^(+6) of^(+5) others^(+7) and^(+8) wanted^(+10) to^(+9) experience^(+11) what^(+13)
+
+run=borrowed_fate step_decoded=54 pos=86 dir=+ impact=0.07153684701492537 shift=0.07142009822484119 cats=content_heavy earlier=16 later=16 same=0
+ others^(-16) and^(-15) wanted^(-13) to^(-14) experience^(-12) what^(-10) it^(-11) would^(-7) be^(-8) like^(-9) to^(-6) live^(-5) in^(+1) someone^(-4) else^(-3)'s^(-2) [Ġshoes^(+0)] .^(-1)Ċ^(+5)Ċ^(+2)One^(+4) day^(+6),^(+3) Lily^(+7) decided^(+9) to^(+8) borrow^(+12) the^(+11) fate^(+13) of^(+10) a^(+14) wealthy^(+15) businessman^(+16)
+
+run=nostalgia_factory step_decoded=63 pos=88 dir=- impact=0.062469482421875 shift=-0.06249246284339921 cats=content_heavy earlier=28 later=4 same=0
+ designed^(-27) to^(-28) evoke^(-26) a^(-25) specific^(-24) memory^(-23).^(-22) Some^(-21) popular^(-19) flavors^(-18) include^(-20):^(-16)Ċ^(-17)Ċ^(-15)-^(-14) Classic^(-8) [ĠTV^(+0)]  Shows^(-1)Ċ^(-13)-^(-12) Old^(-6) School^(-5) Movies^(-2)Ċ^(-11)-^(-10) Retro^(-7) Video^(-3) Games^(-4)Ċ^(-9)-^(+1) Vintage^(+15) Music^(+16)Ċ^(+6)
+
+run=digital_prophet step_decoded=13 pos=48 dir=- impact=0.05852918388429752 shift=-0.057483239380335394 cats=content_heavy earlier=13 later=9 same=0
+It^(-12) was^(-13) a^(-11) typical^(-10) day^(-8) for^(-9) [ĠJohn^(+0)] ,^(-7) a^(-6) ^(-4)2^(-2)5^(-1)-year^(-3)-old^(-5) software^(+1) engineer^(+2).^(+3) He^(+4) was^(+5) scrolling^(+6) through^(+7) his^(+8) phone^(+9)
+
+run=digital_prophet step_decoded=54 pos=98 dir=+ impact=0.06431708644278607 shift=0.06457843633010696 cats=content_heavy earlier=14 later=18 same=0
+ movie^(-14),^(-13) he^(-12) stumbled^(-11) upon^(-10) a^(-9) website^(-8) that^(-7) claimed^(-1) to^(-6) predict^(-5) his^(-3) future^(-4).^(-2) Int^(+1)rig^(+2) [ued^(+0)] ,^(+3) he^(+4) clicked^(+5) on^(+6) the^(+7) link^(+8) and^(+9) was^(+10) presented^(+13) with^(+12) a^(+11) series^(+15) of^(+14) questions^(+16).^(+17)Ċ^(+18)
+
+run=rule_of_dreams step_decoded=2 pos=32 dir=- impact=0.07671998517786562 shift=-0.07641046127571505 cats=content_heavy earlier=2 later=14 same=0
+ [Law^(+0)]  ^(-1)1^(-2):^(+1) All^(+2) dreams^(+3) must^(+4) be^(+5) coherent^(+7) and^(+6) follow^(+8) a^(+9) logical^(+10) structure^(+13).^(+11)Ċ^(+12)Ċ^(+15)
+
+run=rule_of_dreams step_decoded=5 pos=37 dir=- impact=0.044671875 shift=-0.04456063247011954 cats=content_heavy earlier=5 later=16 same=0
+Law^(-3) ^(-4)1^(-5):^(-2) All^(-1) [Ġdreams^(+0)]  must^(+1) be^(+2) coherent^(+4) and^(+3) follow^(+5) a^(+6) logical^(+7) structure^(+10).^(+8)Ċ^(+9)Ċ^(+12)Law^(+15) ^(+13)2^(+14):^(+11) Dreams^(+16)
+
+run=rule_of_dreams step_decoded=235 pos=270 dir=- impact=0.04835205078125 shift=-0.048107328869047616 cats=content_heavy earlier=13 later=19 same=0
+3^(-16):^(-15) Dreams^(-10) must^(-11) be^(-9) coherent^(+4) and^(-8) not^(-6) contain^(-7) conflicting^(+3) or^(-4) contradictory^(+2) elements^(-5).^(-3)Ċ^(-1)Ċ^(-2) [Law^(+0)]  ^(+1)1^(+5)4^(+6):^(+7) Dreams^(+9) must^(+8) be^(+10) consistent^(+16) and^(+11) not^(+13) contain^(+12) inconsistent^(+17) or^(+14) contradictory^(+18) elements^(+15).^(+20)
+
+run=apocalypse_subscription step_decoded=2 pos=45 dir=- impact=0.03930953557312253 shift=-0.038855948110858685 cats=content_heavy earlier=2 later=16 same=0
+Introducing^(-1) the^(-2) [ĠUltimate^(+0)]  Custom^(+9)ization^(+10) Package^(+1):^(+2) The^(+3) Master^(+13)piece^(+12) Apocalypse^(+11)!^(+6)Ċ^(+5)Ċ^(+4)Imagine^(+7) a^(+8) world^(+14) where^(+15) the^(+16)
+
+run=apocalypse_subscription step_decoded=3 pos=48 dir=- impact=0.05171130952380952 shift=-0.05148761734189722 cats=content_heavy earlier=3 later=18 same=0
+Introducing^(-2) the^(-3) Ultimate^(-1) Custom^(+8)ization^(+9) [ĠPackage^(+0)] :^(+1) The^(+2) Master^(+12)piece^(+11) Apocalypse^(+10)!^(+5)Ċ^(+4)Ċ^(+3)Imagine^(+6) a^(+7) world^(+13) where^(+14) the^(+15) end^(+17) of^(+16) the^(+18)
+
+run=apocalypse_subscription step_decoded=13 pos=53 dir=- impact=0.045841942148760334 shift=-0.045534854542903735 cats=content_heavy earlier=13 later=13 same=0
+Introducing^(-12) the^(-13) Ultimate^(-11) Custom^(-2)ization^(-1) Package^(-10):^(-9) The^(-8) Master^(+2)piece^(+1) [ĠApocalypse^(+0)] !^(-5)Ċ^(-6)Ċ^(-7)Imagine^(-4) a^(-3) world^(+3) where^(+4) the^(+5) end^(+7) of^(+6) the^(+8) world^(+9) is^(+10) not^(+11) just^(+12) a^(+13)
+
+run=apocalypse_subscription step_decoded=14 pos=52 dir=- impact=0.0332760632780083 shift=-0.03284868113662087 cats=content_heavy earlier=14 later=11 same=0
+Introducing^(-13) the^(-14) Ultimate^(-12) Custom^(-3)ization^(-2) Package^(-11):^(-10) The^(-9) Master^(+1) [piece^(+0)]  Apocalypse^(-1)!^(-6)Ċ^(-7)Ċ^(-8)Imagine^(-5) a^(-4) world^(+2) where^(+3) the^(+4) end^(+6) of^(+5) the^(+7) world^(+8) is^(+9) not^(+10) just^(+11)
+
+run=apocalypse_subscription step_decoded=33 pos=76 dir=- impact=0.031065244932432432 shift=-0.024199915477416956 cats=content_heavy earlier=16 later=16 same=0
+ where^(-16) the^(-15) end^(-13) of^(-14) the^(-12) world^(-11) is^(-10) not^(-9) just^(-8) a^(-7) conclusion^(-2),^(-5) but^(-6) a^(-4) masterpiece^(-3).^(-1) [ĠWith^(+0)]  our^(+7) Master^(+2)piece^(+1) Apocalypse^(+3) Package^(+6),^(+4) you^(+5) have^(+10) the^(+8) power^(+11) to^(+9) shape^(+13) the^(+12) final^(+14) moments^(+15) of^(+16)
+
+run=apocalypse_subscription step_decoded=213 pos=260 dir=+ impact=0.03415643601190476 shift=0.03493887562292358 cats=content_heavy earlier=12 later=20 same=0
+ shape^(-7) the^(-13) end^(-8) of^(-10) the^(-9) world^(-11) in^(-6) your^(-5) own^(-4) unique^(-1) style^(-2).^(-3) Subscribe^(+8) to^(+4) our^(+5) Master^(+1) [piece^(+0)]  Apocalypse^(+2) Package^(+3) today^(+7) and^(+6) experience^(+10) the^(+9) ultimate^(+11) in^(+12) customization^(+13)!^(+14)Ċ^(+16)Ċ^(+15)**^(+17)Subscribe^(+20) Now^(+19):**^(+18)
+
+run=apocalypse_subscription step_decoded=233 pos=274 dir=- impact=0.031427556818181816 shift=-0.03092769577569171 cats=content_heavy earlier=18 later=14 same=0
+ our^(-15) Master^(-19)piece^(-20) Apocalypse^(-18) Package^(-17) today^(-13) and^(-14) experience^(-10) the^(-11) ultimate^(-9) in^(-8) customization^(-7)!^(-6)Ċ^(-4)Ċ^(-5)**^(-3) [Subscribe^(+0)]  Now^(-1):**^(-2) [^(+1)Insert^(+2) button^(+3) here^(+6)]^(+4)Ċ^(+5)Ċ^(+7)**^(+10)Explore^(+22) the^(+21) Master^(+20)piece^(+19) Apocalypse^(+18) Package^(+17)
+
+run=forest_telegraph step_decoded=13 pos=46 dir=+ impact=0.13038319989669422 shift=0.13183457576607827 cats=content_heavy earlier=13 later=16 same=0
+**^(-13)Dec^(-10)oded^(-11) Message^(-12) from^(-8) the^(-7) Trees^(-5):**^(-4)Ċ^(-9)Ċ^(-6)"^(-3)Wh^(-1)ispers^(-2) [Ġof^(+0)]  the^(+1) wind^(+2),^(+3)Ċ^(+6)Secrets^(+13) of^(+10) the^(+9) earth^(+14),^(+5)Ċ^(+4)Voice^(+16) of^(+12) the^(+11) trees^(+15),^(+7)Ċ^(+8)
+
+run=lunar_archive step_decoded=41 pos=83 dir=- impact=0.19904077832943926 shift=-0.19807249358155832 cats=content_heavy earlier=15 later=17 same=0
+Ċ^(-21)Ċ^(-16)**^(-15)Mission^(-12):^(-11) Lunar^(-10) Exploration^(-1) Expedition^(-2)**^(-7)Ċ^(-8)Ċ^(-9)**^(-6)Summary^(+3):**^(-5)Ċ^(-4)Ċ^(-3) [Today^(+0)] ,^(+1) we^(+2) have^(+4) successfully^(+5) dec^(+6)ip^(+7)hered^(+8) the^(+9) first^(+10) fragments^(+19) of^(+11) the^(+12) ancient^(+13) lunar^(+14) archive^(+15).^(+16)
+
+run=contradiction_club step_decoded=1 pos=37 dir=- impact=0.07983206200787402 shift=-0.07957689227265707 cats=content_heavy earlier=1 later=16 same=0
+**^(-1) [Alice^(+0)] :**^(+1) "^(+2)We^(+3)'re^(+12) going^(+13) to^(+11) meet^(+10) at^(+9) the^(+8) park^(+14) tonight^(+7)."^(+6)Ċ^(+5)Ċ^(+4)**^(+15)Bob^(+18)
+
+run=stolen_dream_project step_decoded=6 pos=47 dir=+ impact=0.18149943524096385 shift=0.1832855641315262 cats=content_heavy earlier=6 later=21 same=0
+Subject^(-5):^(-6) Internal^(+8) Memo^(+9):^(+5) Pat^(+3)ents^(+4) on^(+7) Dreams^(+6)Ċ^(-4)Ċ^(-3) [To^(+0)] :^(-2) All^(-1) Employees^(+2)Ċ^(+1)Ċ^(+10)From^(+12):^(+11) Corporate^(+23) Headquarters^(+25)Ċ^(+14)Ċ^(+13)Date^(+15):^(+16) [^(+17)Date^(+21)]^(+20)
+
+run=stolen_dream_project step_decoded=8 pos=50 dir=- impact=0.10416403087044535 shift=-0.10338215593166378 cats=content_heavy earlier=8 later=22 same=0
+Subject^(-7):^(-8) Internal^(+6) Memo^(+7):^(+3) Pat^(+1)ents^(+2) on^(+5) Dreams^(+4)Ċ^(-6)Ċ^(-5)To^(-2):^(-4) All^(-3) [ĠEmployees^(+0)] Ċ^(-1)Ċ^(+8)From^(+10):^(+9) Corporate^(+21) Headquarters^(+23)Ċ^(+12)Ċ^(+11)Date^(+13):^(+14) [^(+15)Date^(+19)]^(+18)Ċ^(+17)Ċ^(+16)Dear^(+20)
+
+run=stolen_dream_project step_decoded=21 pos=59 dir=+ impact=0.18642327724358973 shift=0.18785567546372062 cats=content_heavy earlier=14 later=18 same=0
+ on^(-8) Dreams^(-9)Ċ^(-19)Ċ^(-18)To^(-15):^(-17) All^(-16) Employees^(-13)Ċ^(-14)Ċ^(-5)From^(-3):^(-4) Corporate^(+8) Headquarters^(+10)Ċ^(-1)Ċ^(-2) [Date^(+0)] :^(+1) [^(+2)Date^(+6)]^(+5)Ċ^(+4)Ċ^(+3)Dear^(+7) All^(+9),^(+12)Ċ^(+13)Ċ^(+11)We^(+14) are^(+15) pleased^(+18) to^(+17) announce^(+16)
+
+run=stolen_dream_project step_decoded=28 pos=66 dir=+ impact=0.1908469851321586 shift=0.19216978617213465 cats=content_heavy earlier=14 later=18 same=0
+ Employees^(-20)Ċ^(-21)Ċ^(-12)From^(-10):^(-11) Corporate^(+1) Headquarters^(+3)Ċ^(-8)Ċ^(-9)Date^(-7):^(-6) [^(-5)Date^(-1)]^(-2)Ċ^(-3)Ċ^(-4) [Dear^(+0)]  All^(+2),^(+5)Ċ^(+6)Ċ^(+4)We^(+7) are^(+8) pleased^(+11) to^(+10) announce^(+9) that^(+12) we^(+13) have^(+14) successfully^(+15) secured^(+18) patents^(+16) on^(+17)
+
+run=underwater_city step_decoded=10 pos=47 dir=- impact=0.07235331632653061 shift=-0.07169320090841214 cats=content_heavy earlier=10 later=16 same=0
+In^(-10) the^(-9) depths^(-7) of^(-8) the^(-6) ocean^(-5),^(-4) a^(-3) city^(-2) named^(-1) [ĠAqu^(+0)] ilon^(+5)ia^(+4) has^(+1) risen^(+2) to^(+3) the^(+6) challenge^(+7) of^(+8) the^(+11) rising^(+10) seas^(+12).^(+9) The^(+13) city^(+14)'s^(+15) architecture^(+16)
+
+run=underwater_city step_decoded=15 pos=48 dir=- impact=0.044417317708333334 shift=-0.04402034437672886 cats=content_heavy earlier=15 later=12 same=0
+In^(-15) the^(-14) depths^(-12) of^(-13) the^(-11) ocean^(-10),^(-9) a^(-8) city^(-7) named^(-6) Aqu^(-5) [ilon^(+0)] ia^(-1) has^(-4) risen^(-3) to^(-2) the^(+1) challenge^(+2) of^(+3) the^(+6) rising^(+5) seas^(+7).^(+4) The^(+8) city^(+9)'s^(+10) architecture^(+11) is^(+12)
+
+run=underwater_city step_decoded=151 pos=190 dir=+ impact=0.04290301983173077 shift=0.043422243446657516 cats=filler_marker;content_heavy earlier=14 later=18 same=0
+ unique^(-14) way^(-12) of^(-13) working^(-8),^(-11) using^(-10) light^(-9) to^(-7) perform^(+8) their^(-6) tasks^(+5).^(-5) They^(-4) use^(-3) bi^(-2)ol^(-1) [um^(+0)] ines^(+1)cent^(+2) lights^(+7) to^(+3) create^(+4) a^(+6) bright^(+16) and^(+9) efficient^(+18) work^(+12) environment^(+10),^(+11) allowing^(+15) them^(+14) to^(+13) work^(+17)
+
+run=backwards_day step_decoded=8 pos=46 dir=+ impact=0.23509457236842105 shift=0.23592213798444228 cats=content_heavy earlier=8 later=20 same=0
+December^(+1) ^(-8)3^(+3)1^(+2),^(-7) ^(-6)2^(-5)0^(-4)2^(-1)2^(+5)Ċ^(-2)Ċ^(-3) [Today^(+0)] ,^(+4) I^(+6) am^(+7) ^(+8)1^(+13)1^(+22) years^(+9) old^(+10).^(+11) My^(+12) husband^(+23) is^(+15) ^(+14)1^(+16)0^(+21) years^(+17)
+
+run=backwards_day step_decoded=108 pos=143 dir=- impact=0.09033535289115646 shift=-0.08931641702289017 cats=content_heavy earlier=15 later=17 same=0
+ old^(-19).^(-20) My^(-21) niece^(-5) is^(-7) ^(-9)1^(-8) year^(-6) old^(-10).^(-11) My^(-12) nephew^(-3) is^(-4) ^(-2)0^(+2) years^(+1) [Ġold^(+0)] .^(-1) My^(+3) niece^(+16) is^(+4) ^(+5)1^(+15)2^(+18) years^(+6) old^(+7).^(+9) My^(+8) nephew^(+17) is^(+11) ^(+10)1^(+14)3^(+19)
+
+run=backwards_day step_decoded=157 pos=191 dir=+ impact=0.07379025829081633 shift=0.07533300962430428 cats=content_heavy earlier=16 later=16 same=0
+ ^(-19)1^(-17)5^(-16) years^(-13) old^(-12).^(-11) My^(-10) niece^(-3) is^(-6) ^(-5)1^(+1)6^(+2) years^(-4) old^(-8).^(-7) My^(-9) [Ġnephew^(+0)]  is^(-2) ^(-1)1^(+3)7^(+7) years^(+4) old^(+5).^(+6) My^(+8) niece^(+15) is^(+12) ^(+13)1^(+16)8^(+17) years^(+14) old^(+11).^(+10)
+
+run=forgotten_scientist step_decoded=209 pos=248 dir=- impact=0.09742272418478261 shift=-0.09720049072039783 cats=content_heavy earlier=16 later=16 same=0
+ to^(-17) show^(-14) him^(-15) that^(-13) the^(-12) cure^(-11) was^(-10) not^(-9) just^(-8) a^(-7) scientific^(-3) breakthrough^(-2),^(-6) but^(-5) a^(-4) personal^(-1) [Ġone^(+0)] .^(+1) I^(+4) had^(+2) to^(+3) show^(+6) him^(+5) that^(+7) I^(+9) was^(+8) the^(+10) one^(+11) who^(+12) had^(+13) been^(+14) forgotten^(+15),^(+16)
+
+run=artificial_instinct step_decoded=0 pos=31 dir=- impact=0.09335171568627451 shift=-0.09335171568627454 cats=content_heavy earlier=0 later=16 same=0
+ [Dr^(+0)] one^(+1) ^(+3)1^(+4):^(+2) I^(+5) think^(+6) we^(+7) should^(+8) migrate^(+9) to^(+10) the^(+11) north^(+14).^(+12) The^(+13) temperature^(+15) is^(+16)
+
+run=artificial_instinct step_decoded=1 pos=32 dir=- impact=0.06791338582677166 shift=-0.06758886010112708 cats=content_heavy earlier=1 later=16 same=0
+Dr^(-1) [one^(+0)]  ^(+2)1^(+3):^(+1) I^(+4) think^(+5) we^(+6) should^(+7) migrate^(+8) to^(+9) the^(+10) north^(+13).^(+11) The^(+12) temperature^(+14) is^(+15) dropping^(+16)
+
+run=child_of_chaos step_decoded=191 pos=213 dir=- impact=0.0555419921875 shift=-0.056105863131009626 cats=content_heavy earlier=31 later=1 same=0
+ their^(-31) child^(-30) has^(-29) created^(-28) a^(-27) pile^(-26) of^(-25) toys^(-16) on^(-18) the^(-19) floor^(-17),^(-24) making^(-23) it^(-22) impossible^(-21) to^(-20) [Ġwalk^(+0)] .^(-14) They^(-15) try^(-13) to^(-12) cook^(-1) dinner^(-2),^(-9) but^(-10) their^(-8) child^(-7) has^(-6) created^(-5) a^(-4) pile^(-3) of^(-11) food^(+11)
+
+run=city_of_names step_decoded=32 pos=65 dir=- impact=0.14358534192825112 shift=-0.1434344939892297 cats=content_heavy earlier=15 later=17 same=0
+ nation^(-15),^(-14) seeking^(-13) your^(-12) attention^(-11) to^(-10) a^(-8) matter^(-9) of^(-6) utmost^(-4) importance^(-7).^(-5) My^(-2) name^(-3) is^(-1) '^(+1) [Nobody^(+0)] ',^(+3) and^(+2) I^(+4) am^(+5) writing^(+7) to^(+6) you^(+8) to^(+9) express^(+10) my^(+11) concerns^(+14) and^(+12) hopes^(+15) for^(+13) a^(+17) better^(+16)
+
+run=eternal_audience step_decoded=6 pos=47 dir=+ impact=0.24504267068273092 shift=0.2462259663654619 cats=content_heavy earlier=6 later=20 same=0
+Observation^(-6) Report^(-5):^(-4) Observer^(+3) ^(+2)1^(+6)2^(+4)3^(+5)Ċ^(-3)Ċ^(-2) [Location^(+0)] :^(-1) The^(+1) Earth^(+9)Ċ^(+8)Ċ^(+7)Date^(+11):^(+10) October^(+24) ^(+16)1^(+20)0^(+25),^(+15) ^(+14)2^(+17)0^(+18)2^(+19)
+
+run=eternal_audience step_decoded=17 pos=53 dir=+ impact=0.15474002100840337 shift=0.15633223575779687 cats=content_heavy earlier=17 later=15 same=0
+Observation^(-17) Report^(-16):^(-15) Observer^(-8) ^(-9)1^(-5)2^(-7)3^(-6)Ċ^(-14)Ċ^(-13)Location^(-11):^(-12) The^(-10) Earth^(-2)Ċ^(-3)Ċ^(-4) [Date^(+0)] :^(-1) October^(+13) ^(+5)1^(+9)0^(+14),^(+4) ^(+3)2^(+6)0^(+7)2^(+8)1^(+12)Ċ^(+2)Ċ^(+1)Time^(+11):^(+10) ^(+15)
+
+run=eternal_audience step_decoded=36 pos=74 dir=+ impact=0.15771261415525115 shift=0.15908468649465551 cats=content_heavy earlier=15 later=17 same=0
+0^(-5),^(-15) ^(-16)2^(-13)0^(-12)2^(-11)1^(-7)Ċ^(-17)Ċ^(-18)Time^(-8):^(-9) ^(-4)3^(+4):^(-3)4^(+2)5^(+3) [ĠPM^(+0)] Ċ^(-2)Ċ^(-1)Weather^(+8):^(+1) Cloud^(+9)y^(+10)Ċ^(+6)Ċ^(+5)Conditions^(+11):^(+7) Normal^(+21)Ċ^(+12)Ċ^(+13)Obs^(+15)ervations^(+14):^(+16)
+
+run=eternal_audience step_decoded=45 pos=79 dir=+ impact=0.14640299479166666 shift=0.14793846355929818 cats=content_heavy earlier=19 later=13 same=0
+2^(-20)1^(-16)Ċ^(-26)Ċ^(-27)Time^(-17):^(-18) ^(-13)3^(-5):^(-12)4^(-7)5^(-6) PM^(-9)Ċ^(-11)Ċ^(-10)Weather^(-1):^(-8) [ĠCloud^(+0)] y^(+1)Ċ^(-3)Ċ^(-4)Conditions^(+2):^(-2) Normal^(+12)Ċ^(+3)Ċ^(+4)Obs^(+6)ervations^(+5):^(+7)Ċ^(+8)Ċ^(+9)1^(+11).^(+10) The^(+13)
+
+run=blackhole_poet step_decoded=105 pos=142 dir=- impact=0.074228515625 shift=-0.07414202624862032 cats=content_heavy earlier=11 later=21 same=0
+ a^(-16) cosmic^(-12) song^(+5),^(-8)Ċ^(-9)A^(-6) language^(-5) of^(-7) shadows^(+3),^(-4) a^(-3) cosmic^(+4) song^(+6).^(-1)Ċ^(-2)Echo^(+1) [es^(+0)]  of^(+2) space^(+19),^(+7) a^(+8) song^(+18) of^(+16) time^(+20),^(+10)Ċ^(+11)A^(+12) language^(+9) of^(+13) silence^(+21),^(+14) a^(+15) cosmic^(+17)
+
+run=friendship_protocol step_decoded=13 pos=50 dir=+ impact=0.06191083419421488 shift=0.06381370789120155 cats=filler_marker;content_heavy earlier=13 later=17 same=0
+Dear^(-12) [^(-11)Recipient^(-6)'s^(-7) Name^(-9)],^(-10)Ċ^(-13)Ċ^(-8)I^(-2) hope^(-1) this^(-4) message^(+2) finds^(-5) you^(-3) [Ġwell^(+0)] .^(+1) I^(+4) am^(+5) writing^(+3) to^(+6) formally^(+7) express^(+9) my^(+8) decision^(+11) regarding^(+10) the^(+12) registration^(+13) of^(+14) our^(+16) friendship^(+15) under^(+18)
+
+run=friendship_protocol step_decoded=16 pos=54 dir=+ impact=0.06598947437238493 shift=0.0672036057901848 cats=content_heavy earlier=14 later=18 same=0
+Recipient^(-9)'s^(-10) Name^(-12)],^(-13)Ċ^(-16)Ċ^(-11)I^(-5) hope^(-4) this^(-7) message^(-1) finds^(-8) you^(-6) well^(-3).^(-2) I^(+1) am^(+2) [Ġwriting^(+0)]  to^(+3) formally^(+4) express^(+6) my^(+5) decision^(+8) regarding^(+7) the^(+9) registration^(+10) of^(+11) our^(+13) friendship^(+12) under^(+15) the^(+14) new^(+18) legal^(+16) protocols^(+17)
+
+run=algorithmic_courtship step_decoded=15 pos=55 dir=- impact=0.046614583333333334 shift=-0.045979682637448116 cats=content_heavy earlier=15 later=16 same=0
+**^(-15)Invest^(-13)igation^(-14) Summary^(-12):**^(-11)Ċ^(-10)Ċ^(-9)The^(-8) investigation^(-7) into^(-5) the^(-6) app^(-4)'s^(-3) predictive^(-2) algorithm^(-1) [Ġrevealed^(+0)]  that^(+1) despite^(+2) its^(+3) ^(+6)9^(+7)9^(+8).^(+9)9^(+4)%^(+10) accuracy^(+5) rate^(+11),^(+12) a^(+13) particular^(+16) pair^(+14) consistently^(+15)
+
+run=algorithmic_courtship step_decoded=45 pos=87 dir=- impact=0.051478794642857144 shift=-0.05054847064714507 cats=content_heavy earlier=14 later=18 same=0
+ consistently^(-15) def^(-13)ies^(-12) the^(-11) algorithm^(-5)'s^(-10) predictions^(-8).^(-9) This^(-7) anomaly^(-6) was^(-4) identified^(-3) through^(-2) a^(-1) thorough^(+2) analysis^(+1) [Ġof^(+0)]  the^(+3) app^(+5)'s^(+4) data^(+6),^(+7) which^(+8) showed^(+11) that^(+9) the^(+10) pair^(+13)'s^(+12) profiles^(+18),^(+14) interests^(+17),^(+15) and^(+16)
+
+run=algorithmic_courtship step_decoded=228 pos=270 dir=- impact=0.049406828703703706 shift=-0.033734033978174593 cats=content_heavy earlier=14 later=18 same=0
+ of^(-16) additional^(-14) data^(-12) and^(-11) variables^(-5) to^(-10) improve^(-6) the^(-9) algorithm^(-7)'s^(-8) predictive^(-4) capabilities^(+2).^(-3)Ċ^(-2)Ċ^(-1)The^(+1) [Ġinvestigation^(+0)]  highlights^(+4) the^(+3) need^(+6) for^(+7) ongoing^(+10) evaluation^(+11) and^(+5) refinement^(+8) of^(+9) the^(+15) app^(+19)'s^(+17) predictive^(+16) algorithm^(+20) to^(+18) improve^(+24)
+
+run=digital_heirloom step_decoded=30 pos=58 dir=- impact=0.05736111111111111 shift=-0.05715385324483768 cats=content_heavy earlier=27 later=5 same=0
+ in^(-27) her^(-26) mother^(-25)'s^(-24) study^(-22),^(-23) surrounded^(-19) by^(-20) the^(-21) scent^(-16) of^(-18) old^(-17) books^(-15) and^(-14) ink^(+1),^(-13) [ĠEmily^(+0)]  couldn^(-11)'t^(-12) help^(-10) but^(-9) feel^(-8) a^(-7) sense^(-5) of^(-6) anticipation^(-3).^(-4) She^(-2) had^(-1) always^(+5) known^(+6) that^(+4) her^(+2)
+
+run=digital_heirloom step_decoded=245 pos=282 dir=- impact=0.034375 shift=-0.029323508522727304 cats=content_heavy earlier=18 later=10 same=0
+ knew^(-17) that^(-18) she^(-16) would^(-15) always^(-14) carry^(-13) her^(-11) mother^(-10)'s^(-12) legacy^(-6) with^(-8) her^(-9),^(-7) just^(-2) as^(-1) the^(+1) [Ġencrypted^(+0)]  data^(+2) in^(+5) the^(+3) file^(+4) would^(+6) be^(+7) passed^(+10) through^(+9) generations^(+8).^(-3)<|eot_id|>^(-4)<|endoftext|>^(-5)
+
+run=weather_tuner step_decoded=5 pos=40 dir=+ impact=0.1739140625 shift=0.174855639940239 cats=content_heavy earlier=5 later=16 same=0
+Experiment^(-4) Notes^(-2):^(-5)Ċ^(-3)Ċ^(-1) [Today^(+0)] ,^(+1) I^(+2) built^(+3) a^(+4) device^(+5) that^(+6) tunes^(+9) the^(+7) weather^(+8) like^(+10) radio^(+11) frequencies^(+12).^(+13) I^(+14) used^(+16) a^(+15)
+
+run=artificial_confession step_decoded=21 pos=52 dir=- impact=0.08922609508547008 shift=-0.08896887502273143 cats=content_heavy earlier=15 later=17 same=0
+Ċ^(-15)The^(-14) AI^(-13)-driven^(-10) confession^(-11) booth^(-12) has^(-9) detected^(-7) a^(-8) potential^(-6) anomaly^(-3) in^(-4) the^(-5) execution^(+9) of^(-2) the^(-1) [Ġabs^(+0)] olution^(+1) process^(+4).^(+2) Upon^(+3) preliminary^(+10) analysis^(+8),^(+5) the^(+6) AI^(+7) has^(+12) identified^(+11) a^(+13) discrepancy^(+14) in^(+16) the^(+15) integrity^(+21)
+
+run=artificial_confession step_decoded=24 pos=56 dir=+ impact=0.046951095779220776 shift=0.04727829305213471 cats=content_heavy earlier=14 later=18 same=0
+ confession^(-14) booth^(-15) has^(-12) detected^(-10) a^(-11) potential^(-9) anomaly^(-6) in^(-7) the^(-8) execution^(+6) of^(-5) the^(-4) abs^(-3)olution^(-2) process^(+1).^(-1) [ĠUpon^(+0)]  preliminary^(+7) analysis^(+5),^(+2) the^(+3) AI^(+4) has^(+9) identified^(+8) a^(+10) discrepancy^(+11) in^(+13) the^(+12) integrity^(+18) of^(+14) the^(+15) confession^(+16) data^(+17)
+
+run=artificial_confession step_decoded=81 pos=110 dir=+ impact=0.04870465158045977 shift=0.04861908610426935 cats=content_heavy earlier=17 later=15 same=0
+ consistency^(-15) in^(-16) the^(-17) narrative^(-6) of^(-14) the^(-13) confession^(-12),^(-11) suggesting^(-10) a^(-9) possible^(-8) fabrication^(-5) or^(-7) misrepresentation^(-4) of^(-3) the^(-2) [Ġfacts^(+0)] .^(-1) As^(+1) a^(+2) result^(+3),^(+4) the^(+5) AI^(+6) has^(+7) decided^(+13) to^(+8) reject^(+12) the^(+9) abs^(+11)olution^(+10) request^(+14) until^(+15)
+
+run=unending_rehearsal step_decoded=13 pos=55 dir=- impact=0.11494382747933884 shift=-0.11378834642723523 cats=content_heavy earlier=13 later=14 same=0
+The^(-13) trou^(-11)pe^(-12) is^(-10) rehe^(-8)arsing^(-9) the^(-6) play^(-7),^(-5) and^(-4) the^(-3) [Ġaudience^(+0)]  is^(-2) empty^(+1).^(-1) The^(+2) actors^(+3) are^(+4) dressed^(+15) in^(+5) their^(+7) roles^(+8),^(+6) and^(+9) the^(+10) director^(+12) is^(+11) leading^(+17)
+
+run=unending_rehearsal step_decoded=60 pos=101 dir=- impact=0.04833233173076923 shift=-0.04779683207417584 cats=content_heavy earlier=19 later=13 same=0
+ on^(-16) their^(-19) lines^(-14).^(-20)Ċ^(-17)Ċ^(-18)As^(-13) the^(-12) scene^(-11) progresses^(-9),^(-10) one^(-8) of^(-6) the^(-5) actors^(-7),^(-4) [ĠJohn^(+0)] ,^(-3) starts^(-1) to^(-2) feel^(+1) uneasy^(+2).^(+3) He^(+4) notices^(+5) that^(+6) the^(+7) stage^(+13) is^(+8) empty^(+12),^(+10) and^(+9) the^(+11)
+
+run=desert_of_reflection step_decoded=30 pos=69 dir=- impact=0.05453125 shift=-0.05376628564405117 cats=content_heavy earlier=17 later=15 same=0
+ relentlessly^(-17) and^(-16) the^(-15) sand^(-13) stretches^(-14) out^(-11) without^(-2) end^(-1),^(-12) there^(-9) lies^(-8) a^(-10) hidden^(-7) garden^(+1).^(-6) This^(-5) [Ġgarden^(+0)]  is^(-4) said^(-3) to^(+2) be^(+3) guarded^(+9) by^(+4) the^(+5) spirits^(+8) of^(+6) the^(+7) desert^(+12),^(+10) who^(+11) have^(+13) mastered^(+17) the^(+14)
+
+run=interspecies_contract step_decoded=0 pos=32 dir=- impact=0.06822916666666666 shift=-0.06822916666666667 cats=content_heavy earlier=0 later=16 same=0
+ [Article^(+0)]  ^(+1)1^(+2):^(+3) The^(+4) Purpose^(+7) of^(+5) the^(+6) Treaty^(+9)Ċ^(+8)The^(+10) purpose^(+13) of^(+11) this^(+15) treaty^(+14) is^(+12) to^(+16)
+
+run=echo_currency step_decoded=0 pos=34 dir=- impact=0.034895833333333334 shift=-0.03489583333333335 cats=content_heavy earlier=0 later=16 same=0
+ [L^(+0)] aughter^(+1) became^(+6) the^(+3) most^(+4) expensive^(+5) commodity^(+2) because^(+7) it^(+8) is^(+9) a^(+10) rare^(+12) and^(+11) valuable^(+15) sound^(+13) that^(+14) can^(+16)
+
+run=echo_currency step_decoded=1 pos=35 dir=- impact=0.03544844980314961 shift=-0.03507833005249339 cats=content_heavy earlier=1 later=16 same=0
+L^(-1) [aughter^(+0)]  became^(+5) the^(+2) most^(+3) expensive^(+4) commodity^(+1) because^(+6) it^(+7) is^(+8) a^(+9) rare^(+11) and^(+10) valuable^(+14) sound^(+12) that^(+13) can^(+15) be^(+16)
+
+run=echo_currency step_decoded=59 pos=95 dir=+ impact=0.03639688297193878 shift=0.03539123503541647 cats=content_heavy earlier=14 later=18 same=0
+ creates^(-14) a^(-13) demand^(-12) for^(-11) laughter^(-10),^(-9) which^(-8) drives^(-7) up^(-5) its^(-6) price^(-3).^(-4)Ċ^(-1)Ċ^(-2)The^(+2) value^(+3) [Ġof^(+0)]  laughter^(+1) is^(+4) due^(+8) to^(+9) its^(+5) ability^(+6) to^(+7) bring^(+18) happiness^(+17) and^(+13) reduce^(+20) stress^(+19).^(+11) L^(+12)aughter^(+10) is^(+14)
+
+run=slow_light step_decoded=8 pos=46 dir=+ impact=0.2535266953441296 shift=0.2545547515243405 cats=content_heavy earlier=8 later=20 same=0
+January^(+6) ^(-8)1^(-7)st^(+5),^(-5) ^(-4)2^(-3)0^(-2)2^(+1)0^(+7)Ċ^(-6)Ċ^(-1) [Today^(+0)]  marks^(+3) the^(+2) beginning^(+4) of^(+8) a^(+11) new^(+10) decade^(+9),^(+12) and^(+13) I^(+14) can^(+18)'t^(+15) help^(+17) but^(+16) feel^(+20) a^(+19)
+
+run=forbidden_library step_decoded=73 pos=110 dir=+ impact=0.1468063186813187 shift=0.14814223835420048 cats=content_heavy earlier=17 later=15 same=0
+'s^(-17) pages^(-12) began^(-15) to^(-16) ripple^(-11),^(-14) to^(-13) shimmer^(-10),^(-8) to^(-9) glow^(-7) with^(-6) an^(-5) other^(-3)world^(-2)ly^(-4) [Ġlight^(+0)] .^(-1)Ċ^(+2)Ċ^(+1)The^(+4) book^(+3)'s^(+5) cover^(+6) began^(+10) to^(+7) shift^(+18),^(+8) to^(+9) morph^(+22),^(+11) to^(+12) change^(+19)
+
+run=moral_algorithm step_decoded=3 pos=41 dir=- impact=0.035853794642857144 shift=-0.035237982503607435 cats=content_heavy earlier=3 later=17 same=0
+The^(-3) release^(-1) of^(-2) an^(+1) [Ġalgorithm^(+0)]  that^(+2) decides^(+6) right^(+4) from^(+5) wrong^(+3) has^(+7) sparked^(+8) widespread^(+9) outrage^(+11) and^(+10) resistance^(+12) from^(+13) those^(+21) who^(+15) refuse^(+14) to^(+16)
+
+run=nostalgia_epidemic step_decoded=64 pos=100 dir=+ impact=0.03959424083769633 shift=0.03996806785490292 cats=content_heavy earlier=16 later=16 same=0
+ People^(-16) stood^(-10) frozen^(-11) in^(-12) time^(-9),^(-15) their^(-13) faces^(-14) etched^(-8) with^(-7) the^(-6) lines^(-1) of^(-5) their^(-2) past^(-3).^(-4) [ĠChildren^(+0)]  played^(+1) in^(+2) the^(+3) park^(+5),^(+4) their^(+6) laughter^(+7) now^(+8) a^(+9) distant^(+10) memory^(+13),^(+11) while^(+12) elderly^(+14) couples^(+15) walked^(+17)
+
+run=nostalgia_epidemic step_decoded=160 pos=196 dir=- impact=0.061677631578947366 shift=-0.06259465803179826 cats=content_heavy earlier=16 later=16 same=0
+ soothing^(-11) reminder^(-16) of^(-15) the^(-14) time^(-1) that^(-13) had^(-12) been^(-5) lost^(-4).^(-10) The^(-9) city^(-8)'s^(-6) collective^(-7) slip^(-2) into^(-3) [Ġmemories^(+0)]  was^(+1) a^(+2) poignant^(+3) reminder^(+4) of^(+5) the^(+6) fleeting^(+7) nature^(+9) of^(+8) time^(+12) and^(+11) the^(+10) importance^(+15) of^(+14) cher^(+13)ishing^(+16)
+
+run=nostalgia_epidemic step_decoded=215 pos=251 dir=- impact=0.0343017578125 shift=-0.032602896341463405 cats=content_heavy earlier=16 later=16 same=0
+ etched^(-15) with^(-16) the^(-14) lines^(-12) of^(-13) their^(-11) past^(-10),^(-9) but^(-8) also^(-7) with^(-6) a^(-5) newfound^(-4) appreciation^(-3) for^(-2) the^(-1) [Ġbeauty^(+0)]  of^(+1) the^(+5) present^(+6).^(+3) The^(+4) city^(+2)'s^(+8) collective^(+7) slip^(+11) into^(+9) memories^(+10) had^(+12) been^(+14) a^(+13) transformative^(+17) experience^(+15)
+
+run=nostalgia_epidemic step_decoded=217 pos=257 dir=- impact=0.046052631578947366 shift=-0.04481644315114708 cats=content_heavy earlier=12 later=20 same=0
+ past^(-12),^(-11) but^(-10) also^(-9) with^(-8) a^(-7) newfound^(-6) appreciation^(-5) for^(-4) the^(-3) beauty^(-2) of^(-1) the^(+3) present^(+4).^(+1) The^(+2) [Ġcity^(+0)] 's^(+6) collective^(+5) slip^(+9) into^(+7) memories^(+8) had^(+10) been^(+12) a^(+11) transformative^(+15) experience^(+13),^(+14) a^(+16) reminder^(+18) of^(+19) the^(+17) fleeting^(+22)
+
+run=nostalgia_epidemic step_decoded=222 pos=259 dir=+ impact=0.032344933712121215 shift=0.028500480447860937 cats=content_heavy earlier=15 later=17 same=0
+ but^(-15) also^(-14) with^(-13) a^(-12) newfound^(-11) appreciation^(-10) for^(-9) the^(-8) beauty^(-7) of^(-6) the^(-2) present^(-1).^(-4) The^(-3) city^(-5)'s^(+1) [Ġcollective^(+0)]  slip^(+4) into^(+2) memories^(+3) had^(+5) been^(+7) a^(+6) transformative^(+10) experience^(+8),^(+9) a^(+11) reminder^(+13) of^(+14) the^(+12) fleeting^(+17) nature^(+16) of^(+15)
+
+run=digital_confession step_decoded=0 pos=40 dir=- impact=0.057965686274509806 shift=-0.05796568627450982 cats=content_heavy earlier=0 later=16 same=0
+ [ðŁĮ^(+0)] Ł^(+1) **^(+6)The^(+9) Art^(+14) of^(+12) Conf^(+13)ession^(+15) Unve^(+10)iled^(+11)!^(+8)**^(+7) ðŁ^(+3)Į^(+4)Ł^(+2)Ċ^(+5)Ċ^(+16)
+
+run=digital_confession step_decoded=251 pos=289 dir=- impact=0.03948974609375 shift=-0.03570556640625 cats=content_heavy earlier=18 later=4 same=0
+ of^(-18) art^(-14).^(-19)Ċ^(-21)Ċ^(-20)#^(-16)Conf^(-15)ess^(-9)Your^(-7)Secrets^(-6) #^(-8)Po^(-5)etic^(-4)Conf^(-1)essions^(-2) #^(-3) [Wh^(+0)] ispers^(+1)Of^(+2)The^(+3)Soul^(+4)<|eot_id|>^(-10)<|endoftext|>^(-11)
+
+run=museum_of_sound step_decoded=6 pos=33 dir=- impact=0.03793298192771084 shift=-0.03727729668674695 cats=content_heavy earlier=6 later=15 same=0
+Welcome^(-5) to^(-6) the^(-4) Museum^(-2) of^(-3) [ĠExt^(+0)] inct^(+1) Sounds^(-1),^(+2) a^(+3) unique^(+4) and^(+5) immersive^(+6) exhibition^(+8) that^(+7) celebrates^(+9) the^(+10) beauty^(+13) and^(+12) diversity^(+17) of^(+11) the^(+14)
+
+run=museum_of_sound step_decoded=246 pos=278 dir=+ impact=0.03781467013888889 shift=0.03959960937500001 cats=content_heavy earlier=12 later=9 same=0
+,^(-12) and^(-11) as^(-10) we^(-9) honor^(-8) the^(-7) memory^(-4) of^(-5) the^(-1) species^(+5) that^(+4) are^(+6)et^(+9)ering^(+7) on^(+8) the^(+1) [Ġbrink^(+0)]  of^(+2) extinction^(+3).^(-3)<|eot_id|>^(-2)<|endoftext|>^(-6)
+
+run=invisible_debt step_decoded=236 pos=268 dir=+ impact=0.05831106085526316 shift=0.05960115131578947 cats=temporal_marker;content_heavy earlier=15 later=17 same=0
+ felt^(-15) a^(-14) sense^(-13) of^(-12) peace^(-11) and^(-10) freedom^(+3) that^(-6) I^(-9) had^(-8) never^(-7) felt^(-2) before^(-4).^(-5) I^(-3) had^(-1) [Ġfinally^(+0)]  paid^(+1) off^(+2) my^(+7) emotional^(+9) debts^(+8),^(+10) and^(+11) I^(+12) was^(+13) free^(+15) to^(+14) start^(+18) a^(+16) new^(+17) life^(+19).^(+5)
+
+run=invisible_debt step_decoded=239 pos=258 dir=- impact=0.05908203125 shift=-0.05215992647058823 cats=content_heavy earlier=28 later=4 same=0
+ each^(-27) other^(-28).^(-26)Ċ^(-24)Ċ^(-25)In^(-21) that^(-19) moment^(-20),^(-22) I^(-23) felt^(-18) a^(-17) sense^(-16) of^(-15) peace^(-14) and^(-13) [Ġfreedom^(+0)]  that^(-9) I^(-12) had^(-11) never^(-10) felt^(-5) before^(-7).^(-8) I^(-6) had^(-4) finally^(-3) paid^(-2) off^(-1) my^(+4) emotional^(+6) debts^(+5),^(+7)
+
+run=invisible_debt step_decoded=250 pos=279 dir=+ impact=0.06279296875 shift=0.06367187499999999 cats=content_heavy earlier=18 later=5 same=0
+ felt^(-16) before^(-18).^(-19) I^(-17) had^(-15) finally^(-14) paid^(-13) off^(-12) my^(-7) emotional^(-5) debts^(-6),^(-4) and^(-3) I^(-2) was^(-1) free^(+1) [Ġto^(+0)]  start^(+4) a^(+2) new^(+3) life^(+5).^(-9)<|eot_id|>^(-8)<|endoftext|>^(-10)
+
+run=lost_language step_decoded=10 pos=50 dir=+ impact=0.19105548469387756 shift=0.1918557895719264 cats=content_heavy earlier=10 later=18 same=0
+March^(+3) ^(-10)1^(-9)5^(+4),^(-8) ^(-7)2^(-5)0^(-6)2^(-4)3^(-3)Ċ^(-2)Ċ^(-1) [Today^(+0)] ,^(+1) I^(+2) made^(+5) a^(+6) groundbreaking^(+8) discovery^(+7).^(+9) After^(+10) years^(+12) of^(+11) research^(+15),^(+14) I^(+13) finally^(+16) dec^(+17)ip^(+18)
+
+run=lost_language step_decoded=13 pos=38 dir=- impact=0.07676911157024793 shift=-0.07596907628473293 cats=content_heavy earlier=13 later=3 same=0
+ [March^(+0)]  ^(-13)1^(-12)5^(+1),^(-11) ^(-10)2^(-8)0^(-9)2^(-7)3^(-6)Ċ^(-5)Ċ^(-4)Today^(-3),^(-2) I^(-1) made^(+2) a^(+3)
+
+run=lost_language step_decoded=34 pos=72 dir=- impact=0.06110364819004525 shift=-0.06004543676878238 cats=content_heavy earlier=16 later=16 same=0
+ discovery^(-17).^(-15) After^(-14) years^(-12) of^(-13) research^(-9),^(-10) I^(-11) finally^(-8) dec^(-7)ip^(-6)hered^(-5) the^(-4) ancient^(-3) language^(-1) of^(-2) [ĠEm^(+0)] ot^(+1)ica^(+13),^(+2) a^(+3) language^(+4) that^(+5) can^(+8) only^(+6) express^(+9) emotions^(+7),^(+12) not^(+10) facts^(+11).^(+14) The^(+15) first^(+16)
+
+run=lost_language step_decoded=50 pos=88 dir=- impact=0.0781154725609756 shift=-0.07332539071749933 cats=content_heavy earlier=16 later=16 same=0
+ Em^(-16)ot^(-15)ica^(-3),^(-14) a^(-13) language^(-12) that^(-11) can^(-8) only^(-10) express^(-7) emotions^(-9),^(-4) not^(-6) facts^(-5).^(-2) The^(-1) [Ġfirst^(+0)]  word^(+1) I^(+2) translated^(+4) was^(+3) "^(+5)k^(+11)ha^(+12)a^(+13),"^(+7) which^(+6) translates^(+9) to^(+8) "^(+10)joy^(+14)."^(+15) The^(+16)
+
+run=sleep_as_service step_decoded=27 pos=59 dir=- impact=0.041718064692982455 shift=-0.04155309722860645 cats=content_heavy earlier=15 later=17 same=0
+ Do^(-16) you^(-15) struggle^(-14) to^(-13) fall^(-11) asleep^(-10) every^(-8) night^(-9)?^(-7) Look^(-5) no^(-6) further^(-4)!^(-3) With^(-2) our^(-1) premium^(+1) [Ġsubscription^(+0)]  dreams^(+4),^(+2) you^(+3) can^(+5) outsource^(+7) your^(+6) sleep^(+8) to^(+9) our^(+13) dream^(+10) farms^(+11) and^(+12) enjoy^(+14) the^(+15) best^(+16) quality^(+19)
+
+run=sleep_as_service step_decoded=237 pos=269 dir=- impact=0.04538302951388889 shift=-0.04191080729166666 cats=content_heavy earlier=15 later=17 same=0
+ best^(-16)?^(-14) Try^(-7) our^(-10) premium^(-12) subscription^(-13) dreams^(-11) today^(-9) and^(-8) experience^(-4) the^(-6) difference^(-5) for^(-2) yourself^(-3).^(-1) Wake^(+2) [Ġup^(+0)]  feeling^(+1) refreshed^(+5) and^(+7) ready^(+8) to^(+9) take^(+14) on^(+13) the^(+17) day^(+18) with^(+15) our^(+16) premium^(+12) subscription^(+11) dreams^(+10).^(+6)<|eot_id|>^(+4)
+
+run=quantum_ghosts step_decoded=3 pos=37 dir=- impact=0.07569134424603174 shift=-0.0756294628152645 cats=content_heavy earlier=3 later=13 same=0
+ [Version^(+0)]  ^(-1)1^(-2):^(-3) "^(+1)Hey^(+3),^(+2) who^(+7) are^(+5) you^(+4)?"^(+6)Ċ^(+8)Ċ^(+10)Version^(+11) ^(+9)2^(+12):^(+13)
+
+run=quantum_ghosts step_decoded=48 pos=85 dir=+ impact=0.09673158212560387 shift=0.09756865513807594 cats=content_heavy earlier=16 later=16 same=0
+:^(-16) "^(-15)Wait^(-14),^(-13) how^(-12) are^(-9) you^(-11) alive^(-10)?^(-8) I^(-2) thought^(-3) you^(-1) died^(-4)."^(-5)Ċ^(-6)Ċ^(-7) [Version^(+0)]  ^(+1)2^(+2):^(+3) "^(+4)Well^(+6),^(+5) in^(+7) this^(+10) universe^(+8),^(+9) I^(+11) didn^(+13)'t^(+12) die^(+14)."^(+15)Ċ^(+16)
+
+run=quantum_ghosts step_decoded=56 pos=94 dir=- impact=0.11011110238693467 shift=-0.11050938285175882 cats=content_heavy earlier=15 later=17 same=0
+ I^(-10) thought^(-11) you^(-9) died^(-12)."^(-13)Ċ^(-14)Ċ^(-15)Version^(-8) ^(-7)2^(-6):^(-5) "^(-4)Well^(-2),^(-3) in^(-1) this^(+2) [Ġuniverse^(+0)] ,^(+1) I^(+3) didn^(+5)'t^(+4) die^(+6)."^(+7)Ċ^(+8)Ċ^(+9)Version^(+11) ^(+10)1^(+12):^(+13) "^(+14)Wait^(+16),^(+15) what^(+17)
+
+run=quantum_ghosts step_decoded=67 pos=103 dir=+ impact=0.11624210438829788 shift=0.11689880776483175 cats=content_heavy earlier=17 later=15 same=0
+2^(-17):^(-16) "^(-15)Well^(-13),^(-14) in^(-12) this^(-9) universe^(-11),^(-10) I^(-8) didn^(-6)'t^(-7) die^(-5)."^(-4)Ċ^(-3)Ċ^(-2) [Version^(+0)]  ^(-1)1^(+1):^(+2) "^(+3)Wait^(+5),^(+4) what^(+6) universe^(+7) are^(+8) you^(+11) from^(+12)?"^(+9)Ċ^(+10)Ċ^(+13)Version^(+14) ^(+15)
+
+run=origin_of_fear step_decoded=6 pos=38 dir=+ impact=0.05626411897590362 shift=0.05757630522088353 cats=content_heavy earlier=6 later=14 same=0
+Experiment^(-6) Notes^(+1):^(-5) Living^(-2) [ĠWithout^(+0)]  Fear^(-1).^(+2)Ċ^(-3)Ċ^(-4)Today^(+3),^(+4) I^(+5) attempted^(+9) to^(+6) live^(+7) without^(+8) fear^(+10).^(+11) I^(+12) started^(+14) by^(+13)
+
+run=reversible_emotion step_decoded=13 pos=40 dir=- impact=0.051475335743801656 shift=-0.05081612367360466 cats=content_heavy earlier=13 later=10 same=0
+It^(-12) was^(-13) a^(-11) beautiful^(-9) day^(-10),^(-8) and^(-7) [ĠSarah^(+0)]  was^(-6) feeling^(-5) ecstatic^(+2).^(-4) She^(-3) had^(-2) just^(-1) received^(+1) her^(+3) dream^(+5) job^(+4),^(+7) and^(+6) she^(+8) couldn^(+9)'t^(+10)
+
+run=reversible_emotion step_decoded=119 pos=152 dir=- impact=0.041001263786764705 shift=-0.040555437218226686 cats=content_heavy earlier=16 later=16 same=0
+ tried^(-16) to^(-17) reverse^(-11) the^(-10) emotion^(-9),^(-15) but^(-14) it^(-13) was^(-12) too^(-4) late^(-3).^(-7)Ċ^(-6)Ċ^(-5)Meanwhile^(-2),^(-1) [ĠSarah^(+0)] 's^(+1) friend^(+2),^(+3) Emily^(+7),^(+4) was^(+5) feeling^(+6) down^(+8).^(+10) She^(+11) had^(+9) just^(+12) lost^(+14) her^(+13) job^(+20),^(+15)
+
+run=reversible_emotion step_decoded=248 pos=278 dir=+ impact=0.047572544642857144 shift=0.047101702008928575 cats=content_heavy earlier=19 later=7 same=0
+.^(-19) They^(-18) had^(-17) never^(-16) experienced^(-15) emotions^(-14) like^(-12) this^(-13) before^(-11),^(-9) and^(-10) they^(-5) couldn^(-3)'t^(-4) help^(-2) but^(-1) [Ġwonder^(+0)]  what^(+1) would^(+2) happen^(+3) if^(+4) they^(+5) tried^(+7) again^(+6).^(-6)<|eot_id|>^(-7)<|endoftext|>^(-8)
+
+run=second_sun step_decoded=27 pos=62 dir=- impact=0.07685289884868421 shift=-0.07558205085157621 cats=content_heavy earlier=16 later=16 same=0
+Voice^(-19)over^(-18)]^(-16)**^(-17)Ċ^(-15)Ċ^(-11)"^(-8)Good^(-10) morning^(-9),^(-7) everyone^(-5).^(-6) This^(-4) is^(-3) [^(-2)Your^(-1) [ĠName^(+0)] ],^(+1) reporting^(+2) live^(+3) from^(+4) [^(+5)Your^(+6) Location^(+7)].^(+8) Today^(+9),^(+10) we^(+11) are^(+12) witnessing^(+13) an^(+14) extraordinary^(+15) phenomenon^(+16)
+
+run=fate_editor step_decoded=25 pos=61 dir=- impact=0.06086956521739131 shift=-0.06008809464991538 cats=content_heavy earlier=16 later=16 same=0
+ neon^(-16) lights^(-15) dance^(-14) and^(-12) the^(-13) streets^(-10) hum^(-11) with^(-9) the^(-8) pulse^(-6) of^(-7) ambition^(-2),^(-5) a^(-4) journalist^(-3) named^(-1) [ĠEvelyn^(+0)]  Hart^(+1) stands^(+6) at^(+2) the^(+3) precip^(+4)ice^(+5) of^(+7) history^(+10).^(+9) Her^(+8) task^(+12) is^(+11) to^(+13) rewrite^(+17) the^(+14) lives^(+16)
+
+run=museum_of_future step_decoded=23 pos=56 dir=- impact=0.03150255926724138 shift=-0.0312294773013172 cats=content_heavy earlier=15 later=17 same=0
+ and^(-15) intriguing^(-12) attraction^(-13) that^(-14) offers^(-10) visitors^(-8) a^(-9) glimpse^(-11) into^(-7) the^(-6) future^(-5),^(-4) showcasing^(-3) exhibits^(-1) of^(-2) potential^(+1) [Ġdisasters^(+0)]  that^(+2) have^(+7) yet^(+3) to^(+4) occur^(+6).^(+5) This^(+8) museum^(+9) serves^(+11) as^(+10) a^(+12) caution^(+14)ary^(+13) tale^(+16),^(+15) urging^(+19)
+
+run=post_emotion_world step_decoded=1 pos=42 dir=- impact=0.06898991141732283 shift=-0.06883726792882516 cats=content_heavy earlier=1 later=16 same=0
+Arch^(+1) [ae^(+0)] ologist^(-1):^(+2) Hello^(+4),^(+3) I^(+5) am^(+9) an^(+8) archae^(+7)ologist^(+6).^(+10) I^(+11) am^(+12) here^(+14) to^(+13) tell^(+17) you^(+15)
+
+run=post_emotion_world step_decoded=2 pos=41 dir=- impact=0.05244874011857707 shift=-0.05238230067925054 cats=content_heavy earlier=2 later=14 same=0
+ [Arch^(+0)] ae^(-1)ologist^(-2):^(+1) Hello^(+3),^(+2) I^(+4) am^(+8) an^(+7) archae^(+6)ologist^(+5).^(+9) I^(+10) am^(+11) here^(+13) to^(+12) tell^(+16)
+
+run=haunted_algorithm step_decoded=31 pos=62 dir=+ impact=0.08333042689732142 shift=0.0844454132564485 cats=content_heavy earlier=23 later=9 same=0
+ in^(-19) Trading^(-24) Algorithm^(-23)Ċ^(-21)Ċ^(-22)Dear^(-20) [^(-18)Manager^(-16)'s^(-10) Name^(-11)],^(-13)Ċ^(-14)Ċ^(-15)I^(-12) hope^(-9) this^(-7) [Ġmessage^(+0)]  finds^(-8) you^(-6) well^(-5).^(-4) I^(-3) am^(-2) writing^(-1) to^(+1) bring^(+2) to^(+3) your^(+4) attention^(+5) a^(+6) concerning^(+7) issue^(+9) that^(+8)
+
+run=haunted_algorithm step_decoded=32 pos=70 dir=- impact=0.09136333380044843 shift=-0.09026755529057895 cats=content_heavy earlier=16 later=16 same=0
+'s^(-11) Name^(-12)],^(-14)Ċ^(-15)Ċ^(-16)I^(-13) hope^(-10) this^(-8) message^(-1) finds^(-9) you^(-7) well^(-6).^(-5) I^(-4) am^(-3) writing^(-2) [Ġto^(+0)]  bring^(+1) to^(+2) your^(+3) attention^(+4) a^(+5) concerning^(+6) issue^(+8) that^(+7) has^(+9) been^(+10) developing^(+15) in^(+14) our^(+11) trading^(+12) algorithm^(+13).^(+16)
+
+run=city_of_smells step_decoded=14 pos=46 dir=- impact=0.05227243257261411 shift=-0.05088627040396421 cats=content_heavy earlier=14 later=14 same=0
+In^(-14) the^(-13) heart^(-11) of^(-12) a^(-7) bustling^(-10) city^(-8),^(-9) two^(-6) rival^(-5) districts^(-4),^(-3) [ĠMaple^(+0)] wood^(-1) and^(-2) Oak^(+1)dale^(+3),^(+2) are^(+6) locked^(+7) in^(+4) a^(+5) perfume^(+10) war^(+9).^(+8) Maple^(+12)wood^(+11),^(+13) known^(+14)
+
+run=city_of_smells step_decoded=15 pos=49 dir=- impact=0.05528971354166667 shift=-0.05443532265733053 cats=content_heavy earlier=15 later=16 same=0
+In^(-15) the^(-14) heart^(-12) of^(-13) a^(-8) bustling^(-11) city^(-9),^(-10) two^(-7) rival^(-6) districts^(-5),^(-4) Maple^(-1)wood^(-2) and^(-3) [ĠOak^(+0)] dale^(+2),^(+1) are^(+5) locked^(+6) in^(+3) a^(+4) perfume^(+9) war^(+8).^(+7) Maple^(+11)wood^(+10),^(+12) known^(+13) for^(+14) its^(+15) vibrant^(+16)
+
+run=city_of_smells step_decoded=61 pos=85 dir=+ impact=0.1138098018685567 shift=0.11522557225581553 cats=content_heavy earlier=26 later=6 same=0
+ emits^(-28) a^(-27) sweet^(-14) blend^(-25) of^(-26) lavender^(-21) and^(-24) jasmine^(-22),^(-23) while^(-19) Oak^(-18)dale^(-20),^(-17) with^(-12) its^(-13) lush^(+1) [Ġgreen^(+0)]  parks^(+2),^(-11) ex^(-3)udes^(-4) the^(-7) earthy^(-6) aroma^(-8) of^(-9) pine^(-2) and^(-10) cedar^(-1).^(-5)Ċ^(+4)Ċ^(+3)Map^(+6)le^(+7)
+
+run=city_of_smells step_decoded=62 pos=84 dir=- impact=0.1206864272992228 shift=-0.12073327058350253 cats=content_heavy earlier=28 later=4 same=0
+,^(-30) emits^(-29) a^(-28) sweet^(-15) blend^(-26) of^(-27) lavender^(-22) and^(-25) jasmine^(-23),^(-24) while^(-20) Oak^(-19)dale^(-21),^(-18) with^(-13) its^(-14) [Ġlush^(+0)]  green^(-1) parks^(+1),^(-12) ex^(-4)udes^(-5) the^(-8) earthy^(-7) aroma^(-9) of^(-10) pine^(-3) and^(-11) cedar^(-2).^(-6)Ċ^(+3)Ċ^(+2)Map^(+5)
+
+run=legalized_luck step_decoded=229 pos=268 dir=+ impact=0.07215294471153846 shift=0.07075904780982906 cats=content_heavy earlier=14 later=18 same=0
+ of^(-6) taxation^(-9).^(-14)Ċ^(-13)Ċ^(-16)Thank^(-12) you^(-15) for^(-11) your^(-10) attention^(-5) to^(-4) this^(-2) matter^(-3).^(-1)Ċ^(+1)Ċ^(+2) [Sincerely^(+0)] ,^(+3)Ċ^(+4)Ċ^(+5)[^(+6)Your^(+7) Name^(+9)]^(+8)<|eot_id|>^(+10)<|endoftext|>^(+11)<|endoftext|>^(+12)<|endoftext|>^(+13)<|endoftext|>^(+14)<|endoftext|>^(+15)<|endoftext|>^(+16)<|endoftext|>^(+17)<|endoftext|>^(+18)
+
+run=emotion_sculptor step_decoded=1 pos=42 dir=- impact=0.037478469488188976 shift=-0.03704032055735684 cats=content_heavy earlier=1 later=19 same=0
+'^(+6)Reg^(+2)ret^(+1) in^(-1) [ĠMarble^(+0)] '^(+4) is^(+3) a^(+5) thought^(+8)-provoking^(+7) exhibition^(+10) that^(+9) explores^(+12) the^(+11) complex^(+14) emotion^(+13) of^(+15) regret^(+16) through^(+17) the^(+18) medium^(+20)
+
+run=forgotten_god step_decoded=36 pos=73 dir=+ impact=0.044252996575342464 shift=0.04389893692922375 cats=content_heavy earlier=16 later=16 same=0
+.^(-16) The^(-15) air^(-13) was^(-14) thick^(-12) with^(-11) the^(-10) scent^(-8) of^(-9) ozone^(-5) and^(-7) the^(-6) hum^(-4) of^(-3) machines^(-2).^(-1) [ĠBuildings^(+0)]  to^(+1)wered^(+2) above^(+4) them^(+3),^(+5) their^(+6) fac^(+7)ades^(+8) adorned^(+10) with^(+9) strange^(+11) symbols^(+12) and^(+13) lights^(+15).^(+14) The^(+16)
+
+run=forgotten_god step_decoded=67 pos=102 dir=- impact=0.08502846575797872 shift=-0.08414150119082797 cats=content_heavy earlier=18 later=14 same=0
+ and^(-18) lights^(-16).^(-17) The^(-15) god^(-14)'s^(-13) mind^(-12) raced^(-11) as^(-10) they^(-9) tried^(-7) to^(-8) make^(-5) sense^(-6) of^(-4) this^(-2) [Ġnew^(+0)]  world^(-1).^(-3) They^(+1) had^(+2) heard^(+4) whispers^(+5) of^(+3) a^(+6) civilization^(+7) that^(+8) had^(+9) th^(+10)rived^(+11) in^(+12) the^(+13) shadows^(+16)
+
+run=forgotten_god step_decoded=94 pos=131 dir=- impact=0.1076948272515528 shift=-0.1077138477925389 cats=content_heavy earlier=16 later=16 same=0
+rived^(-16) in^(-15) the^(-14) shadows^(-11),^(-13) but^(-12) they^(-9) had^(-10) never^(-8) imagined^(-7) it^(-6) to^(-3) be^(-5) so^(-4) complex^(+1) and^(-2) [Ġchaotic^(+0)] .^(-1)Ċ^(+3)Ċ^(+2)The^(+4) god^(+5)'s^(+6) eyes^(+10) widened^(+9) as^(+8) they^(+7) saw^(+12) the^(+11) humans^(+13) bustling^(+17) about^(+14),^(+15)
+
+run=temporary_truth step_decoded=0 pos=39 dir=- impact=0.08036151960784314 shift=-0.0803615196078431 cats=content_heavy earlier=0 later=17 same=0
+Journal^(+1) [ist^(+0)]  ^(+3)1^(+4):^(+2) "^(+5)Hey^(+7),^(+6) have^(+9) you^(+8) heard^(+10) about^(+11) the^(+12) new^(+13) report^(+15) from^(+14) the^(+16) environmental^(+30)
+
+run=temporary_truth step_decoded=1 pos=38 dir=- impact=0.06697527066929133 shift=-0.06670725499845609 cats=content_heavy earlier=1 later=15 same=0
+ [Journal^(+0)] ist^(-1) ^(+2)1^(+3):^(+1) "^(+4)Hey^(+6),^(+5) have^(+8) you^(+7) heard^(+9) about^(+10) the^(+11) new^(+12) report^(+14) from^(+13) the^(+15)
+
+run=invisible_neighbor step_decoded=18 pos=54 dir=- impact=0.06098364978902954 shift=-0.06002713585434183 cats=content_heavy earlier=17 later=15 same=0
+ was^(-17) sitting^(-16) on^(-15) my^(-13) porch^(-14),^(-12) sipping^(-11) my^(-10) coffee^(-9),^(-8) when^(-7) I^(-6) noticed^(-5) my^(-4) neighbor^(-3),^(-2) [ĠSarah^(+0)] ,^(-1) standing^(+1) in^(+4) the^(+2) doorway^(+5).^(+3) I^(+6) looked^(+11) over^(+9) at^(+10) her^(+8),^(+7) and^(+12) she^(+13) was^(+14) gone^(+16)
+
+run=parallel_prayer step_decoded=3 pos=42 dir=- impact=0.08773561507936507 shift=-0.08758054388998682 cats=content_heavy earlier=3 later=13 same=0
+ [Person^(+0)]  ^(-1)1^(-2):^(-3) Thank^(+2) you^(+3),^(+1) God^(+6),^(+5) for^(+4) helping^(+8) me^(+7) with^(+11) my^(+9) homework^(+12).^(+10)Ċ^(+18)
+
+run=parallel_prayer step_decoded=15 pos=56 dir=- impact=0.046826171875 shift=-0.04658574569934304 cats=content_heavy earlier=15 later=15 same=0
+Person^(-12) ^(-13)1^(-14):^(-15) Thank^(-10) you^(-9),^(-11) God^(-6),^(-7) for^(-8) helping^(-4) me^(-5) with^(-1) my^(-3) [Ġhomework^(+0)] .^(-2)Ċ^(+6)Ċ^(+2)Person^(+4) ^(+3)2^(+5):^(+1) Thank^(+8) you^(+9),^(+7) God^(+12),^(+10) for^(+11) helping^(+14) me^(+13) with^(+16)
+
+run=redefined_gravity step_decoded=13 pos=52 dir=- impact=0.03636686466942149 shift=-0.034459440788354945 cats=content_heavy earlier=13 later=15 same=0
+As^(-13) gravity^(-12) begins^(-1) to^(-11) react^(-8) to^(-7) human^(-10) emotions^(-9),^(-6) a^(-5) new^(-4) industry^(-3) [Ġemerges^(+0)]  to^(-2) exploit^(+2) this^(+1) phenomenon^(+3).^(+4) This^(+5) industry^(+6),^(+9) known^(+7) as^(+8) "^(+11)Gravity^(+10) Therapy^(+13),"^(+12) is^(+14) a^(+15)
+
+run=redefined_gravity step_decoded=23 pos=64 dir=- impact=0.05509159482758621 shift=-0.05482530558587384 cats=content_heavy earlier=15 later=17 same=0
+,^(-16) a^(-15) new^(-14) industry^(-13) emerges^(-10) to^(-12) exploit^(-8) this^(-9) phenomenon^(-7).^(-6) This^(-5) industry^(-4),^(-1) known^(-3) as^(-2) "^(+1) [Gravity^(+0)]  Therapy^(+3),"^(+2) is^(+4) a^(+5) revolutionary^(+6) approach^(+7) to^(+8) mental^(+9) health^(+10) that^(+11) utilizes^(+16) the^(+12) unique^(+24) effects^(+23) of^(+14) gravity^(+13)
+
+run=redefined_gravity step_decoded=26 pos=65 dir=- impact=0.036793804585152835 shift=-0.03617037687488134 cats=content_heavy earlier=17 later=15 same=0
+ a^(-18) new^(-17) industry^(-16) emerges^(-13) to^(-15) exploit^(-11) this^(-12) phenomenon^(-10).^(-9) This^(-8) industry^(-7),^(-4) known^(-6) as^(-5) "^(-2)Gravity^(-3) [ĠTherapy^(+0)] ,"^(-1) is^(+1) a^(+2) revolutionary^(+3) approach^(+4) to^(+5) mental^(+6) health^(+7) that^(+8) utilizes^(+13) the^(+9) unique^(+21) effects^(+20) of^(+11) gravity^(+10) to^(+12)
+
+run=human_archive step_decoded=9 pos=51 dir=+ impact=0.11239202235772358 shift=0.11349571380961787 cats=content_heavy earlier=9 later=19 same=0
+**^(-9)Index^(-7) Entry^(-8):^(-6) Un^(+1)catalog^(+3)ed^(+2) Consciousness^(+6)**^(-3)Ċ^(-5)Ċ^(-4)**^(-2) [Name^(+0)] :**^(-1) Un^(+4)catalog^(+5)ed^(+7)Ċ^(+11)Ċ^(+8)**^(+10)Date^(+22):**^(+9) Un^(+16)catalog^(+18)ed^(+17)Ċ^(+12)Ċ^(+14)**^(+13)Location^(+21)
+
+run=emotional_engine step_decoded=10 pos=49 dir=+ impact=0.06426977040816327 shift=0.06346376202920201 cats=content_heavy earlier=10 later=18 same=0
+**^(-4)Fuel^(-3) Efficiency^(-10) and^(-8) Gu^(-9)ilt^(-7) Maintenance^(-6)**^(-2)Ċ^(-5)Ċ^(-1)**^(+2)Fuel^(+1) [ĠEfficiency^(+0)] **^(+5)Ċ^(+3)Ċ^(+4)The^(+6) Emotional^(+7) Engine^(+8) operates^(+9) on^(+10) a^(+11) variety^(+21) of^(+12) human^(+14) emotions^(+13),^(+15) including^(+16) joy^(+19)
+
+run=broken_timezones step_decoded=20 pos=62 dir=- impact=0.18026097074468084 shift=-0.17955596516633615 cats=content_heavy earlier=15 later=17 same=0
+ York^(-16) City^(-14),^(-13) USA^(-12)Ċ^(-11)Ċ^(-10)Time^(-7):^(-9) ^(-8)8^(-5):^(-6)0^(-3)0^(-4) AM^(+9)Ċ^(-1)Ċ^(-2) [Day^(+0)]  ^(+1)1^(+8):^(+2) Toronto^(+11),^(+6) Canada^(+10)Ċ^(+5)Ċ^(+3)Time^(+7):^(+4) ^(+12)2^(+27):^(+19)0^(+21)0^(+14) PM^(+24)
+
+run=broken_timezones step_decoded=27 pos=71 dir=- impact=0.16717636376096492 shift=-0.16615102176582974 cats=content_heavy earlier=13 later=19 same=0
+8^(-12):^(-13)0^(-10)0^(-11) AM^(+2)Ċ^(-8)Ċ^(-9)Day^(-7) ^(-6)1^(+1):^(-5) Toronto^(+4),^(-1) Canada^(+3)Ċ^(-2)Ċ^(-4) [Time^(+0)] :^(-3) ^(+5)2^(+20):^(+12)0^(+14)0^(+7) PM^(+17)Ċ^(+8)Ċ^(+6)Day^(+9) ^(+10)1^(+13):^(+11) London^(+19),^(+15) UK^(+18)
+
+run=broken_timezones step_decoded=30 pos=68 dir=+ impact=0.1571267361111111 shift=0.1580573992133727 cats=content_heavy earlier=19 later=13 same=0
+Time^(-17):^(-19) ^(-18)8^(-15):^(-16)0^(-13)0^(-14) AM^(-1)Ċ^(-11)Ċ^(-12)Day^(-10) ^(-9)1^(-2):^(-8) Toronto^(+1),^(-4) [ĠCanada^(+0)] Ċ^(-5)Ċ^(-7)Time^(-3):^(-6) ^(+2)2^(+17):^(+9)0^(+11)0^(+4) PM^(+14)Ċ^(+5)Ċ^(+3)Day^(+6) ^(+7)1^(+10):^(+8)
+
+run=broken_timezones step_decoded=36 pos=81 dir=+ impact=0.16850385273972604 shift=0.16904754955375673 cats=content_heavy earlier=12 later=20 same=0
+:^(-14) Toronto^(-5),^(-10) Canada^(-6)Ċ^(-11)Ċ^(-13)Time^(-9):^(-12) ^(-4)2^(+11):^(+3)0^(+5)0^(-2) PM^(+8)Ċ^(-1)Ċ^(-3) [Day^(+0)]  ^(+1)1^(+4):^(+2) London^(+10),^(+6) UK^(+9)Ċ^(+7)Ċ^(+13)Time^(+15):^(+12) ^(+14)8^(+26):^(+19)0^(+24)0^(+17) PM^(+25)
+
+run=artificial_memory_garden step_decoded=244 pos=283 dir=- impact=0.038618607954545456 shift=-0.034889914772727265 cats=content_heavy earlier=16 later=11 same=0
+,^(-17) a^(-16) place^(-14) where^(-15) memories^(-13) of^(-10) the^(-11) past^(-12) could^(-9) be^(-8) preserved^(-5) and^(-6) shared^(+11),^(-1) allowing^(+1) us^(+5) [Ġto^(+0)]  rel^(+3)ive^(+2) the^(+4) cherished^(+10) moments^(+6) of^(+7) our^(+8) lives^(+9).^(-3)<|eot_id|>^(-2)<|endoftext|>^(-4)
+
+run=mirror_without_reflection step_decoded=24 pos=56 dir=- impact=0.05760450487012987 shift=-0.05689515226153152 cats=content_heavy earlier=24 later=8 same=0
+As^(-24) the^(-23) sun^(-22) rose^(-21) over^(-17) the^(-20) horizon^(-18),^(-19) casting^(-16) a^(-15) warm^(-14) glow^(-12) over^(-9) the^(-13) city^(-10),^(-11) [ĠSarah^(+0)]  and^(-8) John^(+1) found^(-6) themselves^(-7) standing^(-5) in^(-4) front^(-2) of^(-3) a^(-1) large^(+7) mirror^(+2) in^(+3) their^(+4) apartment^(+5).^(+6) The^(+8)
+
+run=mirror_without_reflection step_decoded=25 pos=58 dir=- impact=0.053676970108695654 shift=-0.05280429488989269 cats=content_heavy earlier=23 later=9 same=0
+ sun^(-23) rose^(-22) over^(-18) the^(-21) horizon^(-19),^(-20) casting^(-17) a^(-16) warm^(-15) glow^(-13) over^(-10) the^(-14) city^(-11),^(-12) Sarah^(-1) and^(-9) [ĠJohn^(+0)]  found^(-7) themselves^(-8) standing^(-6) in^(-5) front^(-3) of^(-4) a^(-2) large^(+6) mirror^(+1) in^(+2) their^(+3) apartment^(+4).^(+5) The^(+7) mirror^(+8),^(+9)
+
+run=mirror_without_reflection step_decoded=26 pos=67 dir=- impact=0.04837609170305677 shift=-0.04575148032561238 cats=content_heavy earlier=15 later=17 same=0
+ glow^(-14) over^(-11) the^(-15) city^(-12),^(-13) Sarah^(-2) and^(-10) John^(-1) found^(-8) themselves^(-9) standing^(-7) in^(-6) front^(-4) of^(-5) a^(-3) large^(+5) [Ġmirror^(+0)]  in^(+1) their^(+2) apartment^(+3).^(+4) The^(+6) mirror^(+7),^(+8) which^(+9) had^(+10) once^(+19) reflected^(+11) their^(+12) physical^(+13) forms^(+14),^(+16) now^(+15)
+
+run=paper_planet step_decoded=49 pos=87 dir=- impact=0.1830153974514563 shift=-0.18276206190492938 cats=content_heavy earlier=17 later=15 same=0
+*^(-17)Observer^(-15):^(-16) Dr^(-14).^(-13) Evelyn^(-7) Carter^(-6)*^(-10)Ċ^(-11)Ċ^(-12)Today^(-9),^(-8) I^(-5) witnessed^(-4) the^(-3) most^(-2) [Ġdelicate^(+0)]  and^(-1) et^(+1)here^(+2)al^(+3) storms^(+10) I^(+4) have^(+6) ever^(+5) seen^(+9).^(+7) The^(+8) atmosphere^(+11) of^(+13) this^(+12) planet^(+14),^(+15)
+
+run=paper_planet step_decoded=84 pos=124 dir=- impact=0.07286241319444445 shift=-0.07222817217462257 cats=content_heavy earlier=15 later=17 same=0
+ paper^(-16),^(-14) is^(-13) a^(-12) marvel^(-10) of^(-11) frag^(-9)ility^(-8) and^(-7) beauty^(-5).^(-6) The^(-4) storms^(-3) began^(-1) as^(-2) tiny^(+8) [Ġwis^(+0)] ps^(+1) of^(+2) paper^(+3),^(+4) each^(+5) one^(+6) a^(+7) delicate^(+10),^(+9) translucent^(+11) sheet^(+12) that^(+13) seemed^(+14) to^(+15) shimmer^(+16) in^(+18)
+
+run=theater_of_futures step_decoded=45 pos=80 dir=- impact=0.04089471726190476 shift=-0.039462866381742345 cats=content_heavy earlier=16 later=16 same=0
+ a^(-17) warm^(-14) glow^(-15) on^(-13) the^(-12) audience^(+2).^(-11) The^(-10) curtain^(-7) slowly^(-6) cre^(-4)aked^(-5) open^(-3),^(-9) and^(-8) a^(-2) [Ġfigure^(+0)]  emerged^(-1) from^(+1) the^(+3) shadows^(+4).^(+5)Ċ^(+7)Ċ^(+6)"It^(+9)'s^(+8) me^(+10)!"^(+11) Sarah^(+18) gas^(+13)ped^(+12),^(+14) her^(+15)
+
+run=end_of_sleep step_decoded=0 pos=34 dir=- impact=0.12270220588235294 shift=-0.12270220588235292 cats=content_heavy earlier=0 later=17 same=0
+C^(+1) [itizen^(+0)]  ^(+2)1^(+4):^(+3) I^(+5) can^(+7)'t^(+8) believe^(+6) they^(+9) outlaw^(+10)ed^(+11) sleep^(+12).^(+13) It^(+14)'s^(+15) like^(+16) we^(+18)
+
+run=ghost_politics step_decoded=6 pos=38 dir=+ impact=0.20717243975903615 shift=0.20824256400602414 cats=content_heavy earlier=6 later=16 same=0
+Ladies^(-5) and^(-6) gentlemen^(-4),^(-3)Ċ^(-2)Ċ^(-1) [Today^(+0)] ,^(+1) I^(+2) stand^(+3) before^(+4) you^(+5) as^(+7) a^(+6) candidate^(+8) for^(+9) office^(+10),^(+11) and^(+12) I^(+13) am^(+15) appealing^(+16) to^(+14)
+
+run=biological_internet step_decoded=11 pos=43 dir=- impact=0.06515753073770492 shift=-0.06440980208681835 cats=content_heavy earlier=11 later=14 same=0
+In^(-11) a^(-10) futuristic^(-9) city^(-8)scape^(-7),^(-6) two^(-5) individuals^(-4),^(-3) [ĠAlex^(+0)]  and^(-1) Jamie^(+1),^(-2) are^(+2) engaged^(+4) in^(+3) a^(+5) conversation^(+6).^(+7) Both^(+8) have^(+9) organic^(+11) antennas^(+10) growing^(+15) from^(+14) their^(+12)
+
+run=biological_internet step_decoded=12 pos=45 dir=- impact=0.03589570473251029 shift=-0.03491163173362344 cats=content_heavy earlier=12 later=15 same=0
+In^(-12) a^(-11) futuristic^(-10) city^(-9)scape^(-8),^(-7) two^(-6) individuals^(-5),^(-4) Alex^(-1) and^(-2) [ĠJamie^(+0)] ,^(-3) are^(+1) engaged^(+3) in^(+2) a^(+4) conversation^(+5).^(+6) Both^(+7) have^(+8) organic^(+10) antennas^(+9) growing^(+14) from^(+13) their^(+11) bodies^(+15),^(+12)
+
+run=biological_internet step_decoded=21 pos=56 dir=- impact=0.05091479700854701 shift=-0.0508456082924168 cats=content_heavy earlier=15 later=17 same=0
+ two^(-15) individuals^(-14),^(-13) Alex^(-10) and^(-11) Jamie^(-9),^(-12) are^(-8) engaged^(-6) in^(-7) a^(-5) conversation^(-4).^(-3) Both^(-2) have^(-1) organic^(+1) [Ġantennas^(+0)]  growing^(+5) from^(+4) their^(+2) bodies^(+6),^(+3) allowing^(+9) them^(+8) to^(+7) connect^(+10) directly^(+12) to^(+13) the^(+11) web^(+15).^(+14)Ċ^(+17)Ċ^(+16)
+
+run=biological_internet step_decoded=36 pos=69 dir=+ impact=0.03538812785388128 shift=0.03475565263075964 cats=content_heavy earlier=17 later=15 same=0
+ Both^(-17) have^(-16) organic^(-14) antennas^(-15) growing^(-10) from^(-11) their^(-13) bodies^(-9),^(-12) allowing^(-6) them^(-7) to^(-8) connect^(-5) directly^(-3) to^(-2) the^(-4) [Ġweb^(+0)] .^(-1)Ċ^(+2)Ċ^(+1)**^(+4)Alex^(+3):**^(+5) "^(+7)Hey^(+6) Jamie^(+8),^(+9) have^(+11) you^(+10) seen^(+12) the^(+13) new^(+14) AI^(+15)
+
+run=season_migration step_decoded=127 pos=146 dir=+ impact=0.05229377746582031 shift=0.05291026507237162 cats=content_heavy earlier=30 later=2 same=0
+.^(-31) The^(-30) weather^(-27) is^(-28) warm^(-26) and^(-25) sunny^(-21),^(-24) and^(-23) the^(-22) scenery^(-17) is^(-20) perfect^(-19) for^(-18) a^(-16) relaxing^(-15) [Ġgetaway^(+0)] .^(-14) ^(-13)Ċ^(-12)Ċ^(-11)If^(-10) you^(-9)'re^(-8) in^(-7) Asia^(-2),^(-5) you^(-4) can^(-3) visit^(-6) the^(-1) northern^(+15) regions^(+1)
+
+run=house_with_memory step_decoded=1 pos=33 dir=- impact=0.08867495078740158 shift=-0.08856361934537593 cats=content_heavy earlier=1 later=15 same=0
+ [House^(+0)] :^(-1) Hello^(+2),^(+1) new^(+3) owner^(+4).^(+5) I^(+6)'m^(+7) glad^(+10) to^(+8) meet^(+12) you^(+9).^(+11) I^(+13)'ve^(+14) been^(+15)
+
+run=rewritten_dreams step_decoded=101 pos=138 dir=- impact=0.043501420454545456 shift=-0.04361630053414328 cats=content_heavy earlier=15 later=17 same=0
+.^(-18) I^(-17) couldn^(-13)'t^(-12) remember^(-11) anything^(-10) that^(-9) hadn^(-6)'t^(-8) been^(-7) edited^(-5).^(-4) I^(-3) felt^(-2) a^(-1) sense^(+1) [Ġof^(+0)]  une^(+2)ase^(+3) and^(+4) paranoia^(+6).^(+5) Was^(+7) the^(+9) government^(+8) manipulating^(+10) my^(+11) thoughts^(+15)?^(+12) Were^(+14) they^(+13) trying^(+16) to^(+17)
+
+run=rewritten_dreams step_decoded=109 pos=146 dir=- impact=0.0506742294520548 shift=-0.04988140376013417 cats=content_heavy earlier=15 later=17 same=0
+'t^(-16) been^(-15) edited^(-13).^(-12) I^(-11) felt^(-10) a^(-9) sense^(-7) of^(-8) une^(-6)ase^(-5) and^(-4) paranoia^(-2).^(-3) Was^(-1) the^(+1) [Ġgovernment^(+0)]  manipulating^(+2) my^(+3) thoughts^(+7)?^(+4) Were^(+6) they^(+5) trying^(+8) to^(+9) control^(+10) my^(+11) mind^(+18)?^(+12)Ċ^(+13)Ċ^(+14)I^(+15) decided^(+17)
+
+run=museum_of_noise step_decoded=7 pos=44 dir=- impact=0.04191343245967742 shift=-0.04082800455855673 cats=content_heavy earlier=7 later=12 same=0
+Welcome^(-7) to^(-6) '^(+4) [R^(+0)] ush^(-1) Hour^(+1),^(+2) ^(-4)2^(-3)1^(-2)st^(-5) Century^(+3)',^(+5) an^(+6) immersive^(+7) audio^(+8) exhibit^(+10) that^(+9) takes^(+12) you^(+11)
+
+run=museum_of_noise step_decoded=10 pos=52 dir=- impact=0.04290497448979592 shift=-0.04154378214700516 cats=content_heavy earlier=10 later=17 same=0
+Welcome^(-10) to^(-9) '^(+1)R^(-3)ush^(-4) Hour^(-2),^(-1) ^(-7)2^(-6)1^(-5)st^(-8) [ĠCentury^(+0)] ',^(+2) an^(+3) immersive^(+4) audio^(+5) exhibit^(+7) that^(+6) takes^(+9) you^(+8) on^(+11) a^(+10) journey^(+12) through^(+13) the^(+14) sounds^(+19) of^(+15) extinct^(+18)
+
+run=museum_of_noise step_decoded=243 pos=283 dir=+ impact=0.034261067708333336 shift=0.040690104166666685 cats=content_heavy earlier=17 later=12 same=0
+ back^(-17),^(-16) relax^(-13),^(-14) and^(-15) let^(-12) the^(-11) sounds^(-10) of^(-9) the^(-8) past^(-7) take^(-4) you^(-6) on^(-5) a^(-2) journey^(-3) [Ġthrough^(+0)]  the^(+7) rush^(+12) hour^(+11) of^(+9) the^(+8) ^(+4)2^(+5)1^(+6)st^(+3) century^(+10).^(+2)<|eot_id|>^(+1)<|endoftext|>^(-1)
+
+run=museum_of_noise step_decoded=246 pos=292 dir=+ impact=0.034722222222222224 shift=0.025889756944444398 cats=content_heavy earlier=11 later=9 same=0
+ the^(-11) past^(-10) take^(-7) you^(-9) on^(-8) a^(-5) journey^(-6) through^(-3) the^(+4) rush^(+9) hour^(+8) of^(+6) the^(+5) ^(+1)2^(+2)1^(+3) [st^(+0)]  century^(+7).^(-1)<|eot_id|>^(-2)<|endoftext|>^(-4)
+
+run=invisible_war step_decoded=7 pos=47 dir=+ impact=0.1530052923387097 shift=0.154199079584467 cats=content_heavy earlier=7 later=19 same=0
+Secret^(-4) Field^(-5) Report^(-7):^(-6) Battle^(+3) of^(+4) Echo^(+5)es^(+6)Ċ^(-2)Ċ^(-3) [Date^(+0)] :^(-1) October^(+7) ^(+1)1^(+2)2^(+8),^(+9) ^(+10)2^(+12)0^(+15)2^(+17)3^(+18)Ċ^(+11)Ċ^(+13)Location^(+16):^(+14) Echo^(+21)
+
+run=invisible_war step_decoded=28 pos=63 dir=- impact=0.1745250550660793 shift=-0.17375842444595802 cats=content_heavy earlier=18 later=14 same=0
+Date^(-21):^(-22) October^(-14) ^(-20)1^(-19)2^(-13),^(-12) ^(-11)2^(-9)0^(-6)2^(-4)3^(-3)Ċ^(-10)Ċ^(-8)Location^(-5):^(-7) [ĠEcho^(+0)]  Valley^(+2),^(-2) Memory^(+1)ia^(+3)Ċ^(-1)Ċ^(+4)Participants^(+6):^(+5) Echo^(+10) Legion^(+13) and^(+9) Astr^(+19)al^(+18) Dominion^(+14)Ċ^(+8)Ċ^(+7)
+
+run=invisible_war step_decoded=34 pos=70 dir=+ impact=0.11161093042986425 shift=0.11188374371968113 cats=content_heavy earlier=17 later=15 same=0
+ ^(-17)2^(-15)0^(-12)2^(-10)3^(-9)Ċ^(-16)Ċ^(-14)Location^(-11):^(-13) Echo^(-6) Valley^(-4),^(-8) Memory^(-5)ia^(-3)Ċ^(-7)Ċ^(-2) [Participants^(+0)] :^(-1) Echo^(+4) Legion^(+7) and^(+3) Astr^(+13)al^(+12) Dominion^(+8)Ċ^(+2)Ċ^(+1)Objective^(+6):^(+5) Capture^(+9) the^(+10) Echo^(+11) Nexus^(+15),^(+14)
+
+run=invisible_war step_decoded=40 pos=80 dir=+ impact=0.08127725290697674 shift=0.08155739428563741 cats=content_heavy earlier=13 later=19 same=0
+ Valley^(-10),^(-14) Memory^(-11)ia^(-9)Ċ^(-13)Ċ^(-8)Participants^(-6):^(-7) Echo^(-2) Legion^(+1) and^(-3) Astr^(+7)al^(+6) Dominion^(+2)Ċ^(-4)Ċ^(-5) [Objective^(+0)] :^(-1) Capture^(+3) the^(+4) Echo^(+5) Nexus^(+9),^(+8) a^(+10) strategic^(+19) point^(+22) for^(+18) the^(+17) Astr^(+15)al^(+14) Dominion^(+16).^(+13)Ċ^(+12)
+
+run=invisible_war step_decoded=47 pos=75 dir=- impact=0.09906475360576923 shift=-0.09880196771772637 cats=content_heavy earlier=25 later=7 same=0
+Ċ^(-29)Ċ^(-27)Location^(-24):^(-26) Echo^(-19) Valley^(-17),^(-21) Memory^(-18)ia^(-16)Ċ^(-20)Ċ^(-15)Participants^(-13):^(-14) Echo^(-9) Legion^(-6) and^(-10) [ĠAstr^(+0)] al^(-1) Dominion^(-5)Ċ^(-11)Ċ^(-12)Objective^(-7):^(-8) Capture^(-4) the^(-3) Echo^(-2) Nexus^(+2),^(+1) a^(+3) strategic^(+12) point^(+15) for^(+11) the^(+10)
+
+run=posthuman_child step_decoded=0 pos=36 dir=- impact=0.06809129901960784 shift=-0.06809129901960786 cats=content_heavy earlier=0 later=16 same=0
+ [Journal^(+0)] ist^(+1):^(+2) So^(+4),^(+3) you^(+5)'re^(+6) saying^(+7) that^(+9) a^(+10) child^(+8) born^(+14) with^(+15) AI^(+13)-enhanced^(+12) cognition^(+11) began^(+24)
+
+run=posthuman_child step_decoded=1 pos=37 dir=- impact=0.03303395669291338 shift=-0.03254846475991968 cats=content_heavy earlier=1 later=16 same=0
+Journal^(-1) [ist^(+0)] :^(+1) So^(+3),^(+2) you^(+4)'re^(+5) saying^(+6) that^(+8) a^(+9) child^(+7) born^(+13) with^(+14) AI^(+12)-enhanced^(+11) cognition^(+10) began^(+23) teaching^(+19)
+
+run=posthuman_child step_decoded=38 pos=75 dir=- impact=0.029899913594470046 shift=-0.028554286189912514 cats=content_heavy earlier=15 later=17 same=0
+ That^(-16)'s^(-15) quite^(-13) a^(-11) claim^(-10).^(-12) Can^(-8) you^(-9) explain^(-7) how^(-6) this^(-5) works^(-1)?^(-2)Ċ^(-3)Ċ^(-4)Res^(+1) [earcher^(+0)] :^(+2) Well^(+4),^(+3) the^(+6) child^(+5) was^(+8) born^(+9) with^(+7) a^(+10) neural^(+11) architecture^(+25) that^(+12) allows^(+13) them^(+15) to^(+14) process^(+16)
+
+run=mechanical_angel step_decoded=9 pos=47 dir=+ impact=0.19731326219512196 shift=0.19840332465192057 cats=content_heavy earlier=9 later=18 same=0
+Field^(-9) Log^(-8) Entry^(-7):^(-6) Angel^(-5)-^(-4)1^(+4)2^(+3)3^(+5)Ċ^(-1)Ċ^(-3) [Date^(+0)] :^(-2) October^(+6) ^(+1)1^(+2)0^(+22),^(+11) ^(+10)2^(+12)0^(+13)2^(+15)3^(+16)Ċ^(+9)Ċ^(+7)Location^(+14):^(+8) New^(+20)
+
+run=mechanical_angel step_decoded=23 pos=61 dir=+ impact=0.15377070985991378 shift=0.15492527425262692 cats=content_heavy earlier=14 later=18 same=0
+Ċ^(-15)Ċ^(-17)Date^(-14):^(-16) October^(-8) ^(-13)1^(-12)0^(+8),^(-3) ^(-4)2^(-2)0^(-1)2^(+1)3^(+2)Ċ^(-5)Ċ^(-7) [Location^(+0)] :^(-6) New^(+6) York^(+7),^(+3) USA^(+5)Ċ^(+4)Ċ^(+9)Task^(+11):^(+10) Repair^(+12)ing^(+13) a^(+14) damaged^(+15) bridge^(+16)Ċ^(+18)Ċ^(+17)
+
+run=mechanical_angel step_decoded=121 pos=157 dir=- impact=0.12792239972014927 shift=-0.12799981213723055 cats=content_heavy earlier=16 later=16 same=0
+2^(-17)3^(-16) started^(-14) to^(-15) question^(-13) its^(-12) existence^(-10) and^(-9) purpose^(-8).^(-7) It^(-6) wondered^(-3) if^(-2) it^(-5) was^(-4) a^(-1) [Ġmachine^(+0)]  or^(+1) a^(+2) being^(+3),^(+4) and^(+5) if^(+6) it^(+7) had^(+8) a^(+9) soul^(+10) or^(+11) consciousness^(+12).^(+13) Angel^(+15)-^(+16)1^(+14)
+
+run=empathy_auction step_decoded=14 pos=51 dir=+ impact=0.19581496369294607 shift=0.19715156266074552 cats=content_heavy earlier=14 later=16 same=0
+Ladies^(-14) and^(-13) gentlemen^(-11),^(-12) esteemed^(-10) guests^(-9),^(-8) and^(-7) fellow^(-6) philanthrop^(-4)ists^(-3),^(-5)Ċ^(-2)Ċ^(-1) [Tonight^(+0)] ,^(+1) we^(+2) gather^(+3) to^(+4) celebrate^(+5) the^(+6) power^(+8) of^(+7) empathy^(+13),^(+9) a^(+14) force^(+15) that^(+11) transc^(+10)ends^(+12) the^(+16)
+
+run=lost_in_translation step_decoded=5 pos=41 dir=+ impact=0.242328125 shift=0.24345399651394417 cats=content_heavy earlier=5 later=17 same=0
+Dear^(-5) Reader^(+8),^(-3)Ċ^(-2)Ċ^(-4)I^(-1) [Ġhope^(+0)]  this^(+2) letter^(+4) finds^(+1) you^(+3) well^(+5).^(+6) I^(+7) am^(+9) writing^(+10) to^(+11) share^(+12) with^(+13) you^(+14) a^(+16) remarkable^(+19) discovery^(+15)
+
+run=lost_in_translation step_decoded=26 pos=62 dir=- impact=0.10185248362445415 shift=-0.1007524741313841 cats=content_heavy earlier=15 later=17 same=0
+ well^(-16).^(-15) I^(-14) am^(-12) writing^(-11) to^(-10) share^(-9) with^(-8) you^(-7) a^(-5) remarkable^(-2) discovery^(-6) that^(-4) has^(-3) changed^(+1) my^(-1) [Ġlife^(+0)]  forever^(+3).^(+2) As^(+4) a^(+5) translator^(+6),^(+7) I^(+8) have^(+9) spent^(+10) years^(+12) studying^(+11) ancient^(+21) languages^(+13),^(+14) but^(+15) nothing^(+16)
+
+run=lost_in_translation step_decoded=27 pos=60 dir=+ impact=0.08393297697368421 shift=0.08500709846395471 cats=content_heavy earlier=18 later=14 same=0
+ finds^(-21) you^(-19) well^(-17).^(-16) I^(-15) am^(-13) writing^(-12) to^(-11) share^(-10) with^(-9) you^(-8) a^(-6) remarkable^(-3) discovery^(-7) that^(-5) has^(-4) [Ġchanged^(+0)]  my^(-2) life^(-1) forever^(+2).^(+1) As^(+3) a^(+4) translator^(+5),^(+6) I^(+7) have^(+8) spent^(+9) years^(+11) studying^(+10) ancient^(+20) languages^(+12),^(+13)
+
+run=clock_without_time step_decoded=8 pos=38 dir=+ impact=0.16369085273279352 shift=0.16410927475471782 cats=content_heavy earlier=8 later=16 same=0
+**^(-8)Entry^(-3):^(-2) Noon^(-4)**^(-5)Ċ^(-7)Ċ^(-6)The^(-1) [Ġclock^(+0)] ,^(+2) once^(+1) a^(+3) mere^(+6) marker^(+7) of^(+4) time^(+5),^(+8) now^(+9) stands^(+10) as^(+11) a^(+12) silent^(+13) witness^(+14) to^(+15) the^(+16)
+
+run=synthetic_rain step_decoded=251 pos=285 dir=+ impact=0.04052734375 shift=0.040673828125000006 cats=content_heavy earlier=19 later=4 same=0
+ the^(-20) air^(-22),^(-19) connecting^(-15) them^(-16) in^(-14) a^(-13) way^(-12) that^(-11) transc^(-6)ended^(-7) the^(-5) boundaries^(-3) of^(-4) time^(-1) and^(-2) [Ġspace^(+0)] ,^(+1) stranger^(+3) and^(+2) friend^(+4).^(-8)<|eot_id|>^(-9)<|endoftext|>^(-10)
+
+run=genetic_storyteller step_decoded=238 pos=274 dir=- impact=0.04974724264705882 shift=-0.049849366830065356 cats=content_heavy earlier=15 later=17 same=0
+ their^(-16) story^(-12) in^(-13) my^(-10) DNA^(-11)?^(-14) It^(-8) was^(-9) a^(-7) haunting^(+1) discovery^(-3),^(-6) one^(-4) that^(-5) left^(-1) me^(-2) [Ġquestioning^(+0)]  the^(+5) nature^(+11) of^(+6) my^(+8) own^(+7) identity^(+12) and^(+9) the^(+10) mysteries^(+17) of^(+13) my^(+15) own^(+14) genome^(+16).^(+3)<|eot_id|>^(+4)<|endoftext|>^(+2)
+
+run=invisible_democracy step_decoded=11 pos=36 dir=+ impact=0.06961609887295082 shift=0.07124861471227839 cats=content_heavy earlier=11 later=6 same=0
+**^(-11) [Breaking^(+0)]  Morning^(-1) News^(-9) Update^(-10):^(-8) Un^(-7)precedented^(-6) Election^(-2) Results^(+1)**^(-4)Ċ^(-3)Ċ^(-5)In^(+2) a^(+3) shocking^(+4) turn^(+6) of^(+7)
+
+run=invisible_democracy step_decoded=13 pos=48 dir=+ impact=0.15198863636363635 shift=0.1531655730282625 cats=content_heavy earlier=13 later=16 same=0
+**^(-13)Breaking^(-2) Morning^(-3) News^(-11) Update^(-12):^(-10) Un^(-9)precedented^(-8) Election^(-4) Results^(-1)**^(-6)Ċ^(-5)Ċ^(-7) [In^(+0)]  a^(+1) shocking^(+2) turn^(+4) of^(+5) events^(+3),^(+6) the^(+7) outcome^(+10) of^(+8) the^(+9) recent^(+15) presidential^(+14) election^(+11) has^(+12) been^(+13) decided^(+17)
+
+run=invisible_democracy step_decoded=15 pos=50 dir=- impact=0.06555989583333334 shift=-0.06438201017894196 cats=content_heavy earlier=15 later=16 same=0
+**^(-15)Breaking^(-4) Morning^(-5) News^(-13) Update^(-14):^(-12) Un^(-11)precedented^(-10) Election^(-6) Results^(-3)**^(-8)Ċ^(-7)Ċ^(-9)In^(-2) a^(-1) [Ġshocking^(+0)]  turn^(+2) of^(+3) events^(+1),^(+4) the^(+5) outcome^(+8) of^(+6) the^(+7) recent^(+13) presidential^(+12) election^(+9) has^(+10) been^(+11) decided^(+15) by^(+14) collective^(+16)
+
+run=dreamless_generation step_decoded=3 pos=36 dir=- impact=0.08198474702380952 shift=-0.08142579227837377 cats=content_heavy earlier=3 later=16 same=0
+Once^(-2) upon^(-3) a^(-1) [Ġtime^(+0)] ,^(+1) in^(+2) a^(+3) land^(+5) far^(+4) away^(+6),^(+7) there^(+8) was^(+10) a^(+9) young^(+12) girl^(+11) named^(+13) Lily^(+16).^(+14) She^(+15)
+
+run=dreamless_generation step_decoded=14 pos=48 dir=- impact=0.050846084024896265 shift=-0.0496447791999588 cats=content_heavy earlier=14 later=17 same=0
+Once^(-13) upon^(-14) a^(-12) time^(-11),^(-10) in^(-9) a^(-8) land^(-6) far^(-7) away^(-5),^(-4) there^(-3) was^(-1) a^(-2) young^(+1) [Ġgirl^(+0)]  named^(+2) Lily^(+5).^(+3) She^(+4) loved^(+6) to^(+7) dream^(+8) about^(+9) flying^(+10) through^(+12) the^(+11) sky^(+13) and^(+14) exploring^(+15) the^(+16) world^(+17)
+
+run=temporal_post_office step_decoded=243 pos=278 dir=+ impact=0.051350911458333336 shift=0.06001790364583334 cats=content_heavy earlier=18 later=12 same=0
+ to^(-14) others^(-17).^(-16)Ċ^(-18)Ċ^(-15)I^(-13) look^(-12) forward^(-11) to^(-10) hearing^(-9) from^(-8) you^(-7) and^(-6) learning^(-5) about^(-4) your^(-1) [Ġexperiences^(+0)] .^(+2)Ċ^(+1)Ċ^(+3)Best^(+8) regards^(+4),^(+5)Ċ^(+6)Ċ^(+7)Your^(+9) Future^(+10) Ones^(+12)elf^(+11)<|eot_id|>^(-2)<|endoftext|>^(-3)
+
+run=artificial_conscience step_decoded=0 pos=38 dir=- impact=0.0569546568627451 shift=-0.056954656862745145 cats=content_heavy earlier=0 later=16 same=0
+ [Subject^(+0)] :^(+1) Update^(+14):^(+12) The^(+13) Rise^(+15) of^(+11) Consc^(+8)ious^(+9) Machines^(+10)Ċ^(+3)Ċ^(+2)Dear^(+4) Team^(+7),^(+6)Ċ^(+5)Ċ^(+16)
+
+run=artificial_conscience step_decoded=4 pos=50 dir=+ impact=0.1774309013944223 shift=0.1786291713107886 cats=content_heavy earlier=4 later=24 same=0
+Subject^(-4):^(-3) Update^(+10):^(+8) The^(+9) Rise^(+11) of^(+7) Consc^(+4)ious^(+5) Machines^(+6)Ċ^(-1)Ċ^(-2) [Dear^(+0)]  Team^(+3),^(+2)Ċ^(+1)Ċ^(+12)We^(+13) hope^(+14) this^(+17) message^(+20) finds^(+16) you^(+18) well^(+15).^(+19) We^(+23) wanted^(+21) to^(+22) share^(+24)
+
+run=orbiting_memories step_decoded=45 pos=83 dir=- impact=0.04582403273809524 shift=-0.04565036285545021 cats=content_heavy earlier=16 later=16 same=0
+5^(-17) UTC^(-15)Ċ^(-16)Ċ^(-13)**^(-12)Location^(-10):**^(-11) Orbit^(-9),^(-8) Earth^(-7)Ċ^(-6)Ċ^(-5)**^(-4)Receiver^(+2):**^(-3) John^(+1) [ĠDoe^(+0)] Ċ^(-1)Ċ^(-2)**^(+3)Transmission^(+5):**^(+4)Ċ^(+6)Ċ^(+7)"^(+8)Hello^(+10),^(+9) space^(+18).^(+11) I^(+16)'m^(+15) John^(+13) Doe^(+12)
+
+run=orbiting_memories step_decoded=46 pos=82 dir=- impact=0.07686341208133972 shift=-0.07617841656698565 cats=content_heavy earlier=18 later=14 same=0
+4^(-19)5^(-18) UTC^(-16)Ċ^(-17)Ċ^(-14)**^(-13)Location^(-11):**^(-12) Orbit^(-10),^(-9) Earth^(-8)Ċ^(-7)Ċ^(-6)**^(-5)Receiver^(+1):**^(-4) [ĠJohn^(+0)]  Doe^(-1)Ċ^(-2)Ċ^(-3)**^(+2)Transmission^(+4):**^(+3)Ċ^(+5)Ċ^(+6)"^(+7)Hello^(+9),^(+8) space^(+17).^(+10) I^(+15)'m^(+14) John^(+12)
+
+run=orbiting_memories step_decoded=66 pos=104 dir=- impact=0.08287863756613757 shift=-0.08300710543720419 cats=content_heavy earlier=16 later=16 same=0
+:**^(-17)Ċ^(-15)Ċ^(-14)"^(-13)Hello^(-11),^(-12) space^(-3).^(-10) I^(-5)'m^(-6) John^(-8) Doe^(-9),^(-7) and^(-4) I^(-2)'m^(-1) [Ġtuning^(+0)]  in^(+1) to^(+2) my^(+3) childhood^(+4) memories^(+5).^(+6) The^(+7) signal^(+9) is^(+8) weak^(+13),^(+10) but^(+11) I^(+12) can^(+16) hear^(+18) the^(+17)
+
+run=season_of_regret step_decoded=0 pos=36 dir=- impact=0.04246323529411765 shift=-0.04246323529411766 cats=content_heavy earlier=0 later=17 same=0
+During^(+3) [ĠReg^(+0)] ret^(+1),^(+2) the^(+4) world^(+5) around^(+6) us^(+7) seems^(+9) to^(+8) take^(+12) on^(+11) a^(+10) som^(+14)ber^(+13),^(+15) reflective^(+19) tone^(+18)
+
+run=season_of_regret step_decoded=19 pos=51 dir=- impact=0.038185248940677964 shift=-0.03744264799220487 cats=content_heavy earlier=19 later=13 same=0
+During^(-16) Reg^(-19)ret^(-18),^(-17) the^(-15) world^(-14) around^(-13) us^(-12) seems^(-10) to^(-11) take^(-7) on^(-8) a^(-9) som^(-5)ber^(-6),^(-4) [Ġreflective^(+0)]  tone^(-1).^(-3) The^(-2) air^(+1) is^(+3) thick^(+10) with^(+2) the^(+6) scent^(+5) of^(+4) decaying^(+9) leaves^(+7) and^(+8) the^(+11) sound^(+12) of^(+13)
+
+run=city_of_unfinished step_decoded=13 pos=49 dir=- impact=0.035640495867768594 shift=-0.03474792910162228 cats=content_heavy earlier=13 later=15 same=0
+Welcome^(-13) to^(-12) the^(-11) city^(-10) of^(-9) unfinished^(-3) projects^(-2),^(-8) a^(-7) place^(-6) where^(-5) the^(-4) [Ġpromise^(+0)]  of^(-1) the^(+1) future^(+2) is^(+3) as^(+4) tangible^(+7) as^(+5) the^(+6) echoes^(+14) of^(+8) the^(+10) past^(+11).^(+9) Here^(+12),^(+13) the^(+15)
+
+run=artificial_gravity step_decoded=26 pos=56 dir=+ impact=0.16861694868995633 shift=0.17029959535788874 cats=content_heavy earlier=17 later=15 same=0
+:^(-14) Humanity^(-17)**^(-15)Ċ^(-16)Ċ^(-18)**^(-13)Date^(-11):^(-10) [^(-8)Insert^(-9) Date^(-6)]^(-3)**^(-4)Ċ^(-5)Ċ^(-7)**^(-2) [Subject^(+0)] :^(-1) Ev^(+3)iction^(+2) Notice^(+1)**^(+4)Ċ^(+5)Ċ^(+6)**^(+11)Dear^(+13) Humanity^(+7),^(+9)**^(+10)Ċ^(+8)Ċ^(+12)This^(+14) is^(+15)
+
+run=artificial_gravity step_decoded=27 pos=60 dir=- impact=0.14580763432017543 shift=-0.14487835501177893 cats=content_heavy earlier=14 later=18 same=0
+Ċ^(-19)**^(-14)Date^(-12):^(-11) [^(-9)Insert^(-10) Date^(-7)]^(-4)**^(-5)Ċ^(-6)Ċ^(-8)**^(-3)Subject^(-1):^(-2) Ev^(+2)iction^(+1) [ĠNotice^(+0)] **^(+3)Ċ^(+4)Ċ^(+5)**^(+10)Dear^(+12) Humanity^(+6),^(+8)**^(+9)Ċ^(+7)Ċ^(+11)This^(+13) is^(+14) a^(+16) formal^(+15) notice^(+17) of^(+18)
+
+run=artificial_gravity step_decoded=29 pos=58 dir=- impact=0.11639242256637168 shift=-0.11541426107900277 cats=content_heavy earlier=18 later=14 same=0
+**^(-18)Ċ^(-19)Ċ^(-21)**^(-16)Date^(-14):^(-13) [^(-11)Insert^(-12) Date^(-9)]^(-6)**^(-7)Ċ^(-8)Ċ^(-10)**^(-5)Subject^(-3):^(-4) [ĠEv^(+0)] iction^(-1) Notice^(-2)**^(+1)Ċ^(+2)Ċ^(+3)**^(+8)Dear^(+10) Humanity^(+4),^(+6)**^(+7)Ċ^(+5)Ċ^(+9)This^(+11) is^(+12) a^(+14) formal^(+13)
+
+run=painter_of_void step_decoded=10 pos=40 dir=+ impact=0.10030293367346939 shift=0.10092228202256515 cats=content_heavy earlier=10 later=13 same=0
+**^(-6)The^(-7) Color^(-8) of^(-10) Nothing^(-9):^(-5) A^(-1) [ĠJourney^(+0)]  Through^(+1) the^(+2) Void^(+3)**^(-3)Ċ^(-2)Ċ^(-4)Welcome^(+4) to^(+5) "^(+10)The^(+8) Color^(+9) of^(+6) Nothing^(+7),"^(+11) an^(+12) exhibition^(+14)
+
+run=painter_of_void step_decoded=251 pos=277 dir=+ impact=0.043701171875 shift=0.0350341796875 cats=content_heavy earlier=23 later=4 same=0
+ secrets^(-17) of^(-23) the^(-22) universe^(-21) are^(-18) revealed^(-20) in^(-19) the^(-15) most^(-14) unexpected^(-13) ways^(-12).^(-16)Ċ^(-9)Ċ^(-8)Join^(-1) us^(-2) [Ġon^(+0)]  this^(+1) journey^(+3) and^(+2) discover^(+4) the^(-6) color^(-3) of^(-7) nothing^(-5).^(-4)<|eot_id|>^(-10)<|endoftext|>^(-11)
+
+run=last_algorithm step_decoded=136 pos=173 dir=- impact=0.03594406512605042 shift=-0.035169653799019596 cats=content_heavy earlier=16 later=16 same=0
+ "^(-17)This^(-15) is^(-14) not^(-13) just^(-12) a^(-11) program^(-10),^(-9) it^(-7)'s^(-8) a^(-5) masterpiece^(-6).^(-4) It^(-3)'s^(-2) creating^(-1) [Ġbeauty^(+0)] ,^(+1) not^(+2) just^(+3) profit^(+4).^(+5) It^(+7)'s^(+6)...^(+8) it^(+9)'s^(+10) beautiful^(+23)."^(+13)Ċ^(+12)Ċ^(+11)The^(+15) CEO^(+14)
+
+run=weight_of_words step_decoded=11 pos=41 dir=- impact=0.0567046618852459 shift=-0.05550893641267984 cats=content_heavy earlier=11 later=13 same=0
+The^(-10) courtroom^(-11) was^(-9) thick^(-4) with^(-8) tension^(-7) as^(-6) the^(-5) [Ġdefendant^(+0)]  stood^(+1) on^(+2) the^(-2) witness^(-3) stand^(-1),^(+3) their^(+4) eyes^(+5) fixed^(+6) on^(+7) the^(+8) prosecutor^(+10).^(+9) The^(+11) prosecutor^(+12)'s^(+13)
+
+run=parallel_grave step_decoded=34 pos=68 dir=- impact=0.0900735294117647 shift=-0.0897163601667278 cats=content_heavy earlier=16 later=16 same=0
+ was^(-16) not^(-15) just^(-14) a^(-13) person^(-9),^(-12) but^(-11) a^(-10) force^(-6) of^(-8) nature^(-5).^(-7) His^(-4) name^(-3) is^(-2) John^(-1) [ĠDoe^(+0)] ,^(+1) and^(+2) he^(+3) is^(+4) not^(+5) just^(+6) a^(+7) man^(+11),^(+8) but^(+9) a^(+10) version^(+13) of^(+12) himself^(+14).^(+15)Ċ^(+17)
+
+run=psychological_weather step_decoded=60 pos=93 dir=- impact=0.0973858173076923 shift=-0.09787956649005758 cats=content_heavy earlier=16 later=16 same=0
+:**^(-17)Ċ^(-15)Ċ^(-14)The^(-13) storm^(-9) of^(-11) ap^(-10)athy^(-12) has^(-8) struck^(+1) the^(-6) City^(-3) of^(-7) Seren^(-5)ity^(-4),^(-2) [Ġbringing^(+0)]  a^(-1) sense^(+3) of^(+2) numb^(+6)ness^(+5) and^(+4) dis^(+8)connection^(+7) to^(+9) its^(+11) residents^(+19).^(+10) The^(+12) emotional^(+13) climate^(+14) is^(+15)
+
+run=reversed_destiny step_decoded=19 pos=57 dir=- impact=0.07484772245762712 shift=-0.07495855737770862 cats=content_heavy earlier=18 later=14 same=0
+ October^(-4) ^(-18)1^(-17)3^(-5)th^(-16),^(-15) ^(-13)1^(-12)9^(-11)9^(-10)9^(-9),^(-14) a^(-8) man^(-7) named^(-6) John^(+1) [ĠDoe^(+0)]  was^(-3) born^(-2).^(-1) He^(+2) was^(+3) destined^(+4) to^(+5) die^(+6) on^(+7) October^(+11) ^(+8)1^(+9)3^(+12)th^(+10),^(+13) ^(+14)
+
+run=invisible_instrument step_decoded=10 pos=45 dir=- impact=0.05706313775510204 shift=-0.05640691108760576 cats=content_heavy earlier=10 later=16 same=0
+The^(-10) first^(-8) concert^(-9) of^(-6) the^(-7) new^(-4) instrument^(-5),^(-3) the^(-1) "^(-2) [L^(+0)] one^(+3)L^(+4)oud^(+5),"^(+1) was^(+2) a^(+6) profound^(+21) and^(+7) emotional^(+12) experience^(+9).^(+8) As^(+10) the^(+11) performance^(+16) began^(+15),^(+14)
+
+run=invisible_instrument step_decoded=13 pos=46 dir=- impact=0.05597882231404959 shift=-0.05560657075808584 cats=content_heavy earlier=13 later=14 same=0
+The^(-13) first^(-11) concert^(-12) of^(-9) the^(-10) new^(-7) instrument^(-8),^(-6) the^(-4) "^(-5)L^(-3) [one^(+0)] L^(+1)oud^(+2),"^(-2) was^(-1) a^(+3) profound^(+18) and^(+4) emotional^(+9) experience^(+6).^(+5) As^(+7) the^(+8) performance^(+13) began^(+12),^(+11) the^(+10)
+
+run=collective_shadow step_decoded=244 pos=275 dir=- impact=0.03977272727272727 shift=-0.04574307528409091 cats=content_heavy earlier=20 later=11 same=0
+ allow^(-19) any^(-20) darkness^(-17) to^(-18) consume^(-10) the^(-15) power^(-11) of^(-14) the^(-16) shadows^(-12).^(-13)Ċ^(-8)Ċ^(-9)We^(-7) are^(-5) the^(-6) [ĠCouncil^(+0)]  of^(-4) Shadows^(+1),^(+2) and^(+3) we^(+4) will^(+5) protect^(+6) the^(+7) balance^(+11) of^(+9) the^(+10) night^(+8).^(-1)<|eot_id|>^(-2)<|endoftext|>^(-3)
+
+run=equation_of_dreams step_decoded=12 pos=51 dir=+ impact=0.21097768775720166 shift=0.21127886535072182 cats=content_heavy earlier=12 later=17 same=0
+March^(-3) ^(-12)1^(-4)5^(-1),^(-9) ^(-10)2^(-7)0^(-8)2^(-6)3^(-2)Ċ^(-11)Ċ^(-5)Last^(+1) [Ġnight^(+0)] ,^(+2) I^(+3) had^(+4) a^(+5) dream^(+6) that^(+7) left^(+8) me^(+9) bewild^(+12)ered^(+11).^(+10) I^(+14) was^(+13) standing^(+17) in^(+16) a^(+15)
+
+run=timeless_conversation step_decoded=14 pos=58 dir=- impact=0.037733402489626554 shift=-0.03747011472943318 cats=content_heavy earlier=14 later=15 same=0
+**^(-14)You^(-12):**^(-13) Hello^(-10),^(-11) who^(-9) is^(-1) this^(-2)?^(-8)Ċ^(-5)Ċ^(-7)**^(-6)Future^(-4) [ĠPerson^(+0)] :**^(-3) It^(+1)'s^(+2) Alex^(+4),^(+3) and^(+6) I^(+5)'m^(+7) calling^(+8) from^(+9) the^(+10) year^(+11) ^(+12)2^(+14)2^(+15)2^(+16)
+
+run=moral_currency step_decoded=4 pos=40 dir=- impact=0.0407277141434263 shift=-0.039893501391260355 cats=content_heavy earlier=4 later=16 same=0
+The^(-4) corrupt^(-3) politician^(-2),^(-1) [ĠMr^(+0)] .^(+1) Smith^(+10),^(+2) sat^(+3) in^(+4) his^(+5) office^(+6),^(+7) surrounded^(+9) by^(+8) stacks^(+11) of^(+12) paperwork^(+14) and^(+13) a^(+18) stack^(+21)
+
+run=moral_currency step_decoded=14 pos=42 dir=- impact=0.06421810165975103 shift=-0.06375769971022938 cats=content_heavy earlier=14 later=8 same=0
+The^(-14) corrupt^(-13) politician^(-12),^(-11) Mr^(-10).^(-9) [ĠSmith^(+0)] ,^(-8) sat^(-7) in^(-6) his^(-5) office^(-4),^(-3) surrounded^(-1) by^(-2) stacks^(+1) of^(+2) paperwork^(+4) and^(+3) a^(+8) stack^(+11) of^(+5) kindness^(+10)
+
+run=moral_currency step_decoded=87 pos=124 dir=+ impact=0.04143415178571429 shift=0.041722731645357836 cats=content_heavy earlier=15 later=17 same=0
+ Johnson^(-16) looked^(-15) at^(-14) him^(-13) with^(-12) suspicion^(-11).^(-9) "^(-10)Why^(-7) do^(-5) you^(-6) need^(-4) my^(-2) help^(-3) with^(-1) this^(+1) [Ġproject^(+0)] ,^(+2) Mr^(+3).^(+4) Smith^(+5)?"^(+8)Ċ^(+6)Ċ^(+7)Mr^(+9).^(+10) Smith^(+11) replied^(+14),^(+13) "^(+12)Because^(+15) it^(+16)'s^(+17)
+
+run=moral_currency step_decoded=96 pos=132 dir=- impact=0.08574710102201258 shift=-0.08551493710691827 cats=content_heavy earlier=16 later=16 same=0
+Why^(-16) do^(-14) you^(-15) need^(-13) my^(-11) help^(-12) with^(-10) this^(-8) project^(-9),^(-7) Mr^(-6).^(-5) Smith^(-4)?"^(-1)Ċ^(-3)Ċ^(-2) [Mr^(+0)] .^(+1) Smith^(+2) replied^(+5),^(+4) "^(+3)Because^(+6) it^(+7)'s^(+8) important^(+9) for^(+10) the^(+11) good^(+15) of^(+12) the^(+13) community^(+14).^(+16)
+
+run=moral_currency step_decoded=98 pos=134 dir=+ impact=0.07380200039808917 shift=0.07436051415232203 cats=content_heavy earlier=16 later=16 same=0
+ you^(-17) need^(-15) my^(-13) help^(-14) with^(-12) this^(-10) project^(-11),^(-9) Mr^(-8).^(-7) Smith^(-6)?"^(-3)Ċ^(-5)Ċ^(-4)Mr^(-2).^(-1) [ĠSmith^(+0)]  replied^(+3),^(+2) "^(+1)Because^(+4) it^(+5)'s^(+6) important^(+7) for^(+8) the^(+9) good^(+13) of^(+10) the^(+11) community^(+12).^(+14) And^(+15) I^(+16)
+
+run=moral_currency step_decoded=145 pos=192 dir=- impact=0.045374644886363634 shift=-0.044828217777436535 cats=content_heavy earlier=5 later=27 same=0
+ don^(-4)'t^(-5) think^(-3) I^(-2)'m^(+8) the^(+10) right^(+14) person^(+9) for^(+11) the^(+13) job^(+12)."^(+4)Ċ^(+1)Ċ^(-1)Mr^(+2).^(+3) [ĠSmith^(+0)]  said^(+7),^(+5) "^(+6)Well^(+16),^(+15) you^(+17)'ll^(+18) get^(+19) the^(+20) kindness^(+22) points^(+21) if^(+23) you^(+24) help^(+25).^(+26) And^(+27)
+
+run=emotional_archaeology step_decoded=13 pos=53 dir=+ impact=0.14891367510330578 shift=0.14994829396660203 cats=content_heavy earlier=13 later=16 same=0
+Discovery^(-13) Report^(-12):^(-11) '^(-7)First^(-9) Love^(-10)'^(-8) Exc^(-6)av^(-5)ation^(-4) Site^(-2)Ċ^(-3)Ċ^(-1) [Date^(+0)] :^(+1) [^(+2)Insert^(+3) Date^(+6)]^(+4)Ċ^(+5)Ċ^(+7)Location^(+9):^(+8) [^(+11)Insert^(+10) Location^(+12)]^(+14)Ċ^(+15)Ċ^(+13)Summary^(+17)
+
+run=emotional_archaeology step_decoded=22 pos=61 dir=+ impact=0.14754895386266095 shift=0.1492523230301529 cats=content_heavy earlier=17 later=15 same=0
+ Love^(-19)'^(-17) Exc^(-15)av^(-14)ation^(-13) Site^(-11)Ċ^(-12)Ċ^(-10)Date^(-9):^(-8) [^(-7)Insert^(-6) Date^(-3)]^(-5)Ċ^(-4)Ċ^(-2) [Location^(+0)] :^(-1) [^(+2)Insert^(+1) Location^(+3)]^(+5)Ċ^(+6)Ċ^(+4)Summary^(+8):^(+7) Archae^(+9)ologists^(+10) have^(+11) une^(+13)art^(+14)hed^(+12) a^(+15)
+
+run=emotional_archaeology step_decoded=30 pos=69 dir=- impact=0.13033854166666667 shift=-0.1293575620698132 cats=content_heavy earlier=17 later=15 same=0
+Date^(-17):^(-16) [^(-15)Insert^(-14) Date^(-11)]^(-13)Ċ^(-12)Ċ^(-10)Location^(-8):^(-9) [^(-6)Insert^(-7) Location^(-5)]^(-3)Ċ^(-2)Ċ^(-4) [Summary^(+0)] :^(-1) Archae^(+1)ologists^(+2) have^(+3) une^(+5)art^(+6)hed^(+4) a^(+7) remarkable^(+8) discovery^(+17) of^(+9) fossil^(+11)ized^(+10) emotions^(+12) at^(+14) the^(+13)
+
+run=disappearing_city step_decoded=22 pos=61 dir=+ impact=0.17671589994635192 shift=0.17765311121542682 cats=content_heavy earlier=13 later=19 same=0
+Ċ^(-15)**^(-11)Attention^(-12) All^(-9) Citizens^(-10):**^(-7)Ċ^(-8)Ċ^(-6)We^(-5) are^(-4) speaking^(-3) to^(-2) you^(-1) in^(+3) a^(+1) moment^(+4) [Ġof^(+0)]  great^(+9) urgency^(+8).^(+2) Our^(+6) city^(+5) is^(+7) slowly^(+10) fading^(+11) from^(+13) reality^(+12),^(+14) and^(+15) it^(+16) is^(+17) up^(+19) to^(+18)
+

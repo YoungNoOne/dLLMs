@@ -1,0 +1,87 @@
+{
+  "name": "nostalgia_factory",
+  "prompt": "A corporation manufactures nostalgia in liquid form. Create a product brochure describing its types, side effects, and black-market versions.",
+  "decoded": "Nostalgia Liquids\n=====================\n\n### Types of Nostalgia Liquids\n\nNostalgia Liquids come in a variety of flavors, each designed to evoke a specific memory. Some popular flavors include:\n\n- Classic TV Shows\n- Old School Movies\n- Retro Video Games\n- Vintage Music\n\n### Side Effects\n\nNostalgia Liquids are designed to be safe and non-toxic. However, some users may experience mild side effects such as:\n\n- Dizziness\n- Nausea\n- Headaches\n\n### Black-market Versions\n\nThe black-market versions of Nostalgia Liquids are often made by unscrupulous manufacturers who use dangerous chemicals and ingredients to create the product. These black-market versions can cause severe side effects such as:\n\n- Liver damage\n- Kidney damage\n- Brain damage\n- Death\n\nIt is important to only purchase Nostalgia Liquids from reputable sources to ensure your safety and well-being.\n\n### Conclusion\n\nNostalgia Liquids are a fun and nostalgic way to relive fond memories. However, it is important to only purchase Nostalgia Liquids from reputable sources to ensure a safe and enjoyable drinking experience.",
+  "events_count": 7,
+  "max_mean_delta": 0.19929020579268292,
+  "max_sign_agreement": 1.0,
+  "token_count": 7,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 5,
+      "samples": 5,
+      "mean_impact": 0.1452167047338394,
+      "median_impact": 0.14854083994708994,
+      "mean_prompt_shift": -0.015401409552546453
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.062469482421875,
+      "median_impact": 0.062469482421875,
+      "mean_prompt_shift": -0.06249246284339921
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05980631510416667,
+      "median_impact": 0.05980631510416667,
+      "mean_prompt_shift": 0.059059971160468294
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 9,
+      "direction": -1,
+      "mean_delta": 0.19929020579268292,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 10,
+      "direction": 1,
+      "mean_delta": 0.17519929846938775,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 63,
+      "direction": -1,
+      "mean_delta": 0.062469482421875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 65,
+      "direction": -1,
+      "mean_delta": 0.07681949013157895,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 66,
+      "direction": 1,
+      "mean_delta": 0.14854083994708994,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 67,
+      "direction": -1,
+      "mean_delta": 0.12623368932845744,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 135,
+      "direction": 1,
+      "mean_delta": 0.05980631510416667,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,9 @@
+step_decoded=5 pos=41 dir=+ impact=0.242328 shift=0.243454 cats=content_heavy earlier=5 later=17 same=0
+Dear^(-5) Reader^(+8),^(-3)Ċ^(-2)Ċ^(-4)I^(-1) [Ġhope^(+0)]  this^(+2) letter^(+4) finds^(+1) you^(+3) well^(+5).^(+6) I^(+7) am^(+9) writing^(+10) to^(+11) share^(+12) with^(+13) you^(+14) a^(+16) remarkable^(+19) discovery^(+15)
+
+step_decoded=26 pos=62 dir=- impact=0.101852 shift=-0.100752 cats=content_heavy earlier=15 later=17 same=0
+ well^(-16).^(-15) I^(-14) am^(-12) writing^(-11) to^(-10) share^(-9) with^(-8) you^(-7) a^(-5) remarkable^(-2) discovery^(-6) that^(-4) has^(-3) changed^(+1) my^(-1) [Ġlife^(+0)]  forever^(+3).^(+2) As^(+4) a^(+5) translator^(+6),^(+7) I^(+8) have^(+9) spent^(+10) years^(+12) studying^(+11) ancient^(+21) languages^(+13),^(+14) but^(+15) nothing^(+16)
+
+step_decoded=27 pos=60 dir=+ impact=0.083933 shift=0.085007 cats=content_heavy earlier=18 later=14 same=0
+ finds^(-21) you^(-19) well^(-17).^(-16) I^(-15) am^(-13) writing^(-12) to^(-11) share^(-10) with^(-9) you^(-8) a^(-6) remarkable^(-3) discovery^(-7) that^(-5) has^(-4) [Ġchanged^(+0)]  my^(-2) life^(-1) forever^(+2).^(+1) As^(+3) a^(+4) translator^(+5),^(+6) I^(+7) have^(+8) spent^(+9) years^(+11) studying^(+10) ancient^(+20) languages^(+12),^(+13)
+

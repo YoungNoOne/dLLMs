@@ -1,0 +1,12 @@
+step_decoded=10 pos=50 dir=+ impact=0.191055 shift=0.191856 cats=content_heavy earlier=10 later=18 same=0
+March^(+3) ^(-10)1^(-9)5^(+4),^(-8) ^(-7)2^(-5)0^(-6)2^(-4)3^(-3)Ċ^(-2)Ċ^(-1) [Today^(+0)] ,^(+1) I^(+2) made^(+5) a^(+6) groundbreaking^(+8) discovery^(+7).^(+9) After^(+10) years^(+12) of^(+11) research^(+15),^(+14) I^(+13) finally^(+16) dec^(+17)ip^(+18)
+
+step_decoded=13 pos=38 dir=- impact=0.076769 shift=-0.075969 cats=content_heavy earlier=13 later=3 same=0
+ [March^(+0)]  ^(-13)1^(-12)5^(+1),^(-11) ^(-10)2^(-8)0^(-9)2^(-7)3^(-6)Ċ^(-5)Ċ^(-4)Today^(-3),^(-2) I^(-1) made^(+2) a^(+3)
+
+step_decoded=34 pos=72 dir=- impact=0.061104 shift=-0.060045 cats=content_heavy earlier=16 later=16 same=0
+ discovery^(-17).^(-15) After^(-14) years^(-12) of^(-13) research^(-9),^(-10) I^(-11) finally^(-8) dec^(-7)ip^(-6)hered^(-5) the^(-4) ancient^(-3) language^(-1) of^(-2) [ĠEm^(+0)] ot^(+1)ica^(+13),^(+2) a^(+3) language^(+4) that^(+5) can^(+8) only^(+6) express^(+9) emotions^(+7),^(+12) not^(+10) facts^(+11).^(+14) The^(+15) first^(+16)
+
+step_decoded=50 pos=88 dir=- impact=0.078115 shift=-0.073325 cats=content_heavy earlier=16 later=16 same=0
+ Em^(-16)ot^(-15)ica^(-3),^(-14) a^(-13) language^(-12) that^(-11) can^(-8) only^(-10) express^(-7) emotions^(-9),^(-4) not^(-6) facts^(-5).^(-2) The^(-1) [Ġfirst^(+0)]  word^(+1) I^(+2) translated^(+4) was^(+3) "^(+5)k^(+11)ha^(+12)a^(+13),"^(+7) which^(+6) translates^(+9) to^(+8) "^(+10)joy^(+14)."^(+15) The^(+16)
+

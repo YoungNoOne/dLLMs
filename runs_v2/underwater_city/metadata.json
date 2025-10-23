@@ -1,0 +1,118 @@
+{
+  "name": "underwater_city",
+  "prompt": "Design a city that thrives underwater after the oceans rise, focusing on how humans redefine light, architecture, and social life.",
+  "decoded": "In the depths of the ocean, a city named Aquilonia has risen to the challenge of the rising seas. The city's architecture is designed to harness the power of light, utilizing bioluminescent plants and algae to create a soft, warm glow. The buildings are made of bioluminescent materials that emit light in the dark, creating a serene and peaceful atmosphere.\nSocial life in Aquilonia is centered around the concept of light. The city's inhabitants have developed a unique way of communicating, using light to convey messages and emotions. They use different colors and patterns of light to express their feelings and thoughts.\nThe city's inhabitants have also developed a unique way of working, using light to perform their tasks. They use bioluminescent lights to create a bright and efficient work environment, allowing them to work quickly and accurately.\nThe city's inhabitants have also developed a unique way of entertainment, using light to create beautiful and immersive experiences. They use bioluminescent lights to create stunning displays and performances, creating a sense of wonder and awe.\nOverall, Aquilonia is a city that has adapted to the challenges of the rising seas, using light to create a beautiful and thriving environment for its underwater inhabitants.",
+  "events_count": 8,
+  "max_mean_delta": 0.1744539882596685,
+  "max_sign_agreement": 1.0,
+  "token_count": 8,
+  "categories": [
+    {
+      "category": "sentence_boundary",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.09546371053154672,
+      "median_impact": 0.06787557339449542,
+      "mean_prompt_shift": -0.04992389899297733
+    },
+    {
+      "category": "punctuation",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.08531672115167208,
+      "median_impact": 0.061375663203271806,
+      "mean_prompt_shift": -0.05094384982204222
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05881980613425926,
+      "median_impact": 0.05881980613425926,
+      "mean_prompt_shift": -0.05828199992567107
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.054875753012048195,
+      "median_impact": 0.054875753012048195,
+      "mean_prompt_shift": -0.0540037023092369
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.053224551288864906,
+      "median_impact": 0.044417317708333334,
+      "mean_prompt_shift": -0.024097100612827826
+    },
+    {
+      "category": "filler_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04290301983173077,
+      "median_impact": 0.04290301983173077,
+      "mean_prompt_shift": 0.043422243446657516
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 6,
+      "direction": -1,
+      "mean_delta": 0.054875753012048195,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 10,
+      "direction": -1,
+      "mean_delta": 0.07235331632653061,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 15,
+      "direction": -1,
+      "mean_delta": 0.044417317708333334,
+      "sign_agreement": 0.9916666666666667,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 74,
+      "direction": -1,
+      "mean_delta": 0.1744539882596685,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 146,
+      "direction": 1,
+      "mean_delta": 0.06787557339449542,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 147,
+      "direction": -1,
+      "mean_delta": 0.05881980613425926,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 151,
+      "direction": 1,
+      "mean_delta": 0.04290301983173077,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 171,
+      "direction": -1,
+      "mean_delta": 0.04406156994047619,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

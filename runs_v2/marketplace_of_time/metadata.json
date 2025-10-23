@@ -1,0 +1,59 @@
+{
+  "name": "marketplace_of_time",
+  "prompt": "Time can now be traded like currency. Write an ad from someone desperate to buy more minutes.",
+  "decoded": "**Urgent: I'm in Need of More Minutes!**\n\nAre you tired of feeling like you're running out of time? Do you struggle to balance your work, family, and personal life? Look no further! I'm desperate to buy more minutes, and I'm willing to pay the price.\n\n**My Offer:**\n\n* 10 minutes for $10\n* 20 minutes for $20\n* 30 minutes for $30\n* 40 minutes for $40\n* 50 minutes for $50\n* 60 minutes for $60\n* 70 minutes for $70\n* 80 minutes for $80\n* 90 minutes for $90\n* 100 minutes for $100\n\nI'm looking for someone who is willing to help me manage my time more efficiently. If you're willing to help me, please contact me at [insert email or phone number].\n\n**My Requirements:**\n\n* You must be willing to help me manage my time more efficiently\n* You must be willing to pay the agreed price\n\nLet's work together to improve my time management!",
+  "events_count": 3,
+  "max_mean_delta": 0.23421288290513834,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.23421288290513834,
+      "median_impact": 0.23421288290513834,
+      "mean_prompt_shift": -0.23407708628349566
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.15140868480417707,
+      "median_impact": 0.15140868480417707,
+      "mean_prompt_shift": 0.0064717224846507215
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.15140868480417707,
+      "median_impact": 0.15140868480417707,
+      "mean_prompt_shift": 0.0064717224846507215
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 2,
+      "direction": -1,
+      "mean_delta": 0.23421288290513834,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 4,
+      "direction": 1,
+      "mean_delta": 0.15797746513944222,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 62,
+      "direction": -1,
+      "mean_delta": 0.14483990446891193,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

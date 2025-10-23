@@ -1,0 +1,51 @@
+{
+  "name": "end_of_weather",
+  "prompt": "Global climate control technology has made weather obsolete. Now people start to miss storms, snow, and unpredictability. Write a short broadcast from a group demanding the return of rain.",
+  "decoded": "Ladies and gentlemen,\n\nWe are here today to demand the return of rain.\n\nFor decades, we have been deprived of the beauty of rain, the thrill of storms, and the wonder of snow. Global climate control technology has stripped us of these natural phenomena, leaving us with a world that is too predictable, too safe, and too boring.\n\nBut we will not be silenced. We will not be ignored. We will not be silenced.\n\nWe demand the return of rain. We demand the return of storms. We demand the return of snow. We demand the return of unpredictability.\n\nWe are not just asking for a change. We are asking for a revolution. We are asking for a return to the wild, untamed beauty of nature. We are asking for a return to the thrill of the unknown. We are asking for a return to the wonder of the unexpected.\n\nWe will not be ignored. We will not be silenced. We will not be ignored.\n\nWe demand the return of rain. We demand the return of storms. We demand the return of snow. We demand the return of unpredictability.\n\nJoin us in demanding the return of rain.\n\nThank you. Thank you.",
+  "events_count": 3,
+  "max_mean_delta": 0.20928125,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.18617128413865547,
+      "median_impact": 0.18617128413865547,
+      "mean_prompt_shift": -0.18574538995927264
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1383659638554217,
+      "median_impact": 0.1383659638554217,
+      "mean_prompt_shift": 0.13941986696787145
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 5,
+      "direction": -1,
+      "mean_delta": 0.20928125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 6,
+      "direction": 1,
+      "mean_delta": 0.1383659638554217,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 17,
+      "direction": -1,
+      "mean_delta": 0.16306131827731093,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

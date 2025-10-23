@@ -1,0 +1,12 @@
+step_decoded=7 pos=44 dir=- impact=0.041913 shift=-0.040828 cats=content_heavy earlier=7 later=12 same=0
+Welcome^(-7) to^(-6) '^(+4) [R^(+0)] ush^(-1) Hour^(+1),^(+2) ^(-4)2^(-3)1^(-2)st^(-5) Century^(+3)',^(+5) an^(+6) immersive^(+7) audio^(+8) exhibit^(+10) that^(+9) takes^(+12) you^(+11)
+
+step_decoded=10 pos=52 dir=- impact=0.042905 shift=-0.041544 cats=content_heavy earlier=10 later=17 same=0
+Welcome^(-10) to^(-9) '^(+1)R^(-3)ush^(-4) Hour^(-2),^(-1) ^(-7)2^(-6)1^(-5)st^(-8) [ĠCentury^(+0)] ',^(+2) an^(+3) immersive^(+4) audio^(+5) exhibit^(+7) that^(+6) takes^(+9) you^(+8) on^(+11) a^(+10) journey^(+12) through^(+13) the^(+14) sounds^(+19) of^(+15) extinct^(+18)
+
+step_decoded=243 pos=283 dir=+ impact=0.034261 shift=0.040690 cats=content_heavy earlier=17 later=12 same=0
+ back^(-17),^(-16) relax^(-13),^(-14) and^(-15) let^(-12) the^(-11) sounds^(-10) of^(-9) the^(-8) past^(-7) take^(-4) you^(-6) on^(-5) a^(-2) journey^(-3) [Ġthrough^(+0)]  the^(+7) rush^(+12) hour^(+11) of^(+9) the^(+8) ^(+4)2^(+5)1^(+6)st^(+3) century^(+10).^(+2)<|eot_id|>^(+1)<|endoftext|>^(-1)
+
+step_decoded=246 pos=292 dir=+ impact=0.034722 shift=0.025890 cats=content_heavy earlier=11 later=9 same=0
+ the^(-11) past^(-10) take^(-7) you^(-9) on^(-8) a^(-5) journey^(-6) through^(-3) the^(+4) rush^(+9) hour^(+8) of^(+6) the^(+5) ^(+1)2^(+2)1^(+3) [st^(+0)]  century^(+7).^(-1)<|eot_id|>^(-2)<|endoftext|>^(-4)
+

@@ -1,0 +1,65 @@
+{
+  "name": "distant_smile",
+  "prompt": "Describe a photograph that makes you nostalgic for a place you\u2019ve never been.",
+  "decoded": "The photograph captures a serene, golden hour scene of a quaint, picturesque village nestled between rolling hills and a sparkling river. The village is dotted with charming, wooden houses with thatched roofs, each one adorned with colorful flowers and lush greenery. The sky is a soft gradient of orange, pink, and purple, reflecting the warm glow of the setting sun.\n\nIn the foreground, a small, rustic wooden bridge stretches across the river, its surface glistening with the last rays of sunlight. The bridge is surrounded by a cluster of ancient trees, their leaves rustling gently in the breeze. In the distance, a majestic, mist-shrouded mountain rises majestically, its peaks shrouded in a soft, ethereal veil.\n\nThe photograph evokes a sense of tranquility and nostalgia, as if the viewer is being transported to a simpler, more peaceful time. The warm colors and gentle curves of the scene create a sense of comfort and familiarity, inviting the viewer to imagine themselves strolling through the village's cobblestone streets, feeling the soft grass beneath their feet, and hearing the soothing sounds of the river and the wind. The photograph is a poignant reminder of the beauty and serenity that can be found in even the most remote and unfamiliar places.",
+  "events_count": 5,
+  "max_mean_delta": 0.26339588994565216,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.11195334468746032,
+      "median_impact": 0.06795014880952381,
+      "mean_prompt_shift": -0.06451036954048009
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.046643985215053765,
+      "median_impact": 0.046643985215053765,
+      "mean_prompt_shift": -0.04594319170116734
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 69,
+      "direction": -1,
+      "mean_delta": 0.046643985215053765,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 71,
+      "direction": -1,
+      "mean_delta": 0.26339588994565216,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 149,
+      "direction": 1,
+      "mean_delta": 0.04851719118514151,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 240,
+      "direction": 1,
+      "mean_delta": 0.062239583333333334,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 241,
+      "direction": -1,
+      "mean_delta": 0.07366071428571429,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "step_decoded": 51,
+    "direction": -1,
+    "mean_delta": 0.054888556985294115,
+    "median_delta": 0.0546875,
+    "sign_agreement": 0.9803921568627451,
+    "valid_positions": 204,
+    "prompt_mean": 0.5643095128676471,
+    "prompt_shift": -0.05308759079088954,
+    "tokens": [
+      {
+        "step_decoded": 51,
+        "token_pos": 94,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.23046875,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 52,
+    "direction": -1,
+    "mean_delta": 0.18257389162561577,
+    "median_delta": 0.177734375,
+    "sign_agreement": 1.0,
+    "valid_positions": 203,
+    "prompt_mean": 0.38130195504926107,
+    "prompt_shift": -0.183007557818386,
+    "tokens": [
+      {
+        "step_decoded": 52,
+        "token_pos": 95,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.64453125,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 235,
+    "direction": -1,
+    "mean_delta": 0.06357421875,
+    "median_delta": 0.0615234375,
+    "sign_agreement": 1.0,
+    "valid_positions": 20,
+    "prompt_mean": 0.227587890625,
+    "prompt_shift": -0.06142810639880952,
+    "tokens": [
+      {
+        "step_decoded": 235,
+        "token_pos": 271,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.87109375,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 244,
+    "direction": -1,
+    "mean_delta": 0.03977272727272727,
+    "median_delta": 0.0390625,
+    "sign_agreement": 1.0,
+    "valid_positions": 11,
+    "prompt_mean": 0.11123934659090909,
+    "prompt_shift": -0.04574307528409091,
+    "tokens": [
+      {
+        "step_decoded": 244,
+        "token_pos": 275,
+        "token_id": 9054,
+        "token_str": "\u0120Council",
+        "conf_decoded": 0.95703125,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  }
+]

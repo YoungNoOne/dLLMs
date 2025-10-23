@@ -1,0 +1,3 @@
+step_decoded=38 pos=68 dir=- impact=0.213309 shift=-0.213329 cats=content_heavy earlier=15 later=17 same=0
+Hey^(-7),^(-15) if^(-14) I^(-12) could^(-13) sell^(-11) my^(-8) final^(-10) dream^(-9) before^(-5) dying^(-6),^(-4) I^(-3)'d^(-2) sell^(+2) it^(-1) [Ġto^(+0)]  you^(+1).^(+3) It^(+4)'s^(+5) a^(+6) dream^(+7) I^(+9)'ve^(+8) been^(+10) holding^(+11) onto^(+12) for^(+13) so^(+15) long^(+14),^(+16) one^(+18)
+

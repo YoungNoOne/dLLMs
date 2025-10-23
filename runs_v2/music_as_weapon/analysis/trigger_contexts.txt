@@ -1,0 +1,9 @@
+step_decoded=5 pos=43 dir=+ impact=0.234406 shift=0.234357 cats=content_heavy earlier=5 later=22 same=0
+Subject^(-5):^(-4) Secret^(+8) Military^(+10) Memo^(+9):^(+7) Emotion^(+6) Man^(+5)ip^(+4)ulating^(+3) Sound^(+2) [ĠF^(+0)] requencies^(+1)Ċ^(-3)Ċ^(-2)To^(-1):^(+11) All^(+12) Military^(+17) Personnel^(+16)Ċ^(+13)From^(+15):^(+14) High^(+26) Command^(+25)Ċ^(+19)Date^(+18):^(+20)
+
+step_decoded=35 pos=66 dir=+ impact=0.076829 shift=0.077872 cats=content_heavy earlier=17 later=15 same=0
+ Military^(-13) Personnel^(-14)Ċ^(-17)From^(-15):^(-16) High^(-4) Command^(-5)Ċ^(-11)Date^(-12):^(-10) [^(-9)Insert^(-8) Date^(-6)]^(-7)Ċ^(-3)Ċ^(-2) [Subject^(+0)] :^(-1) Strategic^(+12) Deployment^(+11) of^(+10) Emotion^(+7) Man^(+6)ip^(+5)ulating^(+4) Sound^(+2) F^(+3)requencies^(+1)Ċ^(+9)Ċ^(+8)Recent^(+15) research^(+19) has^(+18)
+
+step_decoded=37 pos=75 dir=- impact=0.071773 shift=-0.071247 cats=content_heavy earlier=10 later=22 same=0
+:^(-12) [^(-11)Insert^(-10) Date^(-8)]^(-9)Ċ^(-5)Ċ^(-4)Subject^(-2):^(-3) Strategic^(+10) Deployment^(+9) of^(+8) Emotion^(+5) Man^(+4)ip^(+3)ulating^(+2) [ĠSound^(+0)]  F^(+1)requencies^(-1)Ċ^(+7)Ċ^(+6)Recent^(+13) research^(+17) has^(+16) revealed^(+19) that^(+14) certain^(+18) sound^(+12) frequencies^(+11) can^(+15) be^(+20) used^(+22) to^(+21)
+

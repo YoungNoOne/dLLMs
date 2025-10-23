@@ -1,0 +1,92 @@
+[
+  {
+    "step_decoded": 69,
+    "direction": -1,
+    "mean_delta": 0.17109007476478494,
+    "median_delta": 0.1640625,
+    "sign_agreement": 1.0,
+    "valid_positions": 186,
+    "prompt_mean": 0.43436817456317206,
+    "prompt_shift": -0.1706723501694482,
+    "tokens": [
+      {
+        "step_decoded": 69,
+        "token_pos": 105,
+        "token_id": 13,
+        "token_str": ".",
+        "conf_decoded": 0.4609375,
+        "categories": [
+          "punctuation",
+          "sentence_boundary"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 71,
+    "direction": 1,
+    "mean_delta": 0.19428286345108695,
+    "median_delta": 0.201171875,
+    "sign_agreement": 1.0,
+    "valid_positions": 184,
+    "prompt_mean": 0.6165824558423914,
+    "prompt_shift": 0.19508752340995894,
+    "tokens": [
+      {
+        "step_decoded": 71,
+        "token_pos": 106,
+        "token_id": 468,
+        "token_str": "\u0120The",
+        "conf_decoded": 0.26953125,
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 96,
+    "direction": -1,
+    "mean_delta": 0.06361782625786164,
+    "median_delta": 0.0546875,
+    "sign_agreement": 1.0,
+    "valid_positions": 159,
+    "prompt_mean": 0.4828149567610063,
+    "prompt_shift": -0.06393797292649372,
+    "tokens": [
+      {
+        "step_decoded": 96,
+        "token_pos": 129,
+        "token_id": 13,
+        "token_str": ".",
+        "conf_decoded": 0.9609375,
+        "categories": [
+          "punctuation",
+          "sentence_boundary"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 97,
+    "direction": -1,
+    "mean_delta": 0.15150934533227847,
+    "median_delta": 0.146484375,
+    "sign_agreement": 1.0,
+    "valid_positions": 158,
+    "prompt_mean": 0.3315058840981013,
+    "prompt_shift": -0.151309072662905,
+    "tokens": [
+      {
+        "step_decoded": 97,
+        "token_pos": 131,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.984375,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,103 @@
+{
+  "name": "season_of_regret",
+  "prompt": "A new season appears between autumn and winter called 'Regret'. Write how nature changes during this brief time.",
+  "decoded": "During Regret, the world around us seems to take on a somber, reflective tone. The air is thick with the scent of decaying leaves and the sound of distant howls. The trees, once vibrant and green, now stand bare, their branches brittle and dry. The ground is covered in a thick layer of snow, which seems to swallow the footsteps of those who dare to venture outside.\n\nThe sky is a deep, melancholy blue, with wispy clouds drifting lazily by. The sun is low and weak, casting long shadows that stretch across the landscape. The air is heavy with the weight of loss, and the world seems to slow down, as if time itself is standing still.\n\nDespite this bleakness, there are moments of beauty to be found. The snowflakes fall in delicate patterns, each one unique and intricate. The air is filled with the sound of crickets and the distant call of an owl. The world seems to be in a state of contemplation, as if it is reflecting on the mistakes of the past.\n\nDuring Regret, nature seems to be in a state of mourning, but there is also a sense of renewal. The world is changed, but it is also a time of reflection and introspection.",
+  "events_count": 7,
+  "max_mean_delta": 0.17676897321428572,
+  "max_sign_agreement": 1.0,
+  "token_count": 7,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.17676897321428572,
+      "median_impact": 0.17676897321428572,
+      "mean_prompt_shift": -0.17650910612824683
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.04852063400426262,
+      "median_impact": 0.04894415222772277,
+      "mean_prompt_shift": -0.019451431478634578
+    },
+    {
+      "category": "punctuation",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.04852063400426262,
+      "median_impact": 0.04894415222772277,
+      "mean_prompt_shift": -0.019451431478634578
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04032424211739781,
+      "median_impact": 0.04032424211739781,
+      "mean_prompt_shift": -0.039952941643161266
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03758550995024876,
+      "median_impact": 0.03758550995024876,
+      "mean_prompt_shift": 0.03723646618393184
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 0,
+      "direction": -1,
+      "mean_delta": 0.04246323529411765,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 19,
+      "direction": -1,
+      "mean_delta": 0.038185248940677964,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 53,
+      "direction": -1,
+      "mean_delta": 0.04894415222772277,
+      "sign_agreement": 0.9801980198019802,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 54,
+      "direction": 1,
+      "mean_delta": 0.03758550995024876,
+      "sign_agreement": 0.9751243781094527,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 78,
+      "direction": -1,
+      "mean_delta": 0.05456611935028249,
+      "sign_agreement": 0.9830508474576272,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 80,
+      "direction": -1,
+      "mean_delta": 0.17676897321428572,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 140,
+      "direction": 1,
+      "mean_delta": 0.042051630434782605,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,6 @@
+step_decoded=29 pos=63 dir=- impact=0.067677 shift=-0.067129 cats=content_heavy earlier=23 later=9 same=0
+1^(-18)5^(-14),^(-21) ^(-23)2^(-20)0^(-17)2^(-16)3^(-15)**^(-22)Ċ^(-24)Ċ^(-13)**^(-12)Location^(-11):^(-10) L^(+1)umin^(+2) [ia^(+0)] **^(-6)Ċ^(-7)Ċ^(-9)**^(-8)Astr^(-4)onaut^(-5)s^(-3):^(-2) Commander^(-1) James^(+10) Carter^(+7),^(+3) Dr^(+4).^(+5) Sophia^(+9) Patel^(+8)
+
+step_decoded=84 pos=123 dir=- impact=0.062237 shift=-0.062627 cats=content_heavy earlier=18 later=14 same=0
+.^(-18) The^(-16) temperature^(-17) has^(-15) been^(-14) dropping^(-13) in^(-12) response^(-10) to^(-11) our^(-9) lies^(-5).^(-8) This^(-7) is^(-6) a^(-4) chilling^(+9) [Ġreflection^(+0)]  of^(-3) human^(-2) loneliness^(-1).^(+1)Ċ^(+3)Ċ^(+2)**^(+4)Details^(+8):**^(+7)Ċ^(+6)Ċ^(+5)-^(+10) **^(+11)Initial^(+12) Temperature^(+15):**^(+13)
+

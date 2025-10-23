@@ -1,0 +1,51 @@
+{
+  "name": "artificial_moonlight",
+  "prompt": "Humans manufacture a second moon to stabilize moods worldwide. Write a news article on the first night people feel too calm.",
+  "decoded": "**Global Calm Reaches New Heights as Second Moon Takes Center Stage**\n\n**London, Oct. 10, 2023** \u2014 For the first time in history, the world has witnessed an unprecedented level of tranquility as the newly manufactured second moon made its debut.\n\nThe second moon, a marvel of human engineering, was created to stabilize moods and promote global harmony. As the second moon rose in the sky, people around the world reported feeling an overwhelming sense of calm and peace.\n\n\"Everything's like a different world tonight,\" said Maria Rodriguez, a resident of Tokyo. \"I've never felt so relaxed and at ease in my life.\"\n\nThe second moon's presence has already had a profound impact on human behavior. Countries have reported a significant decrease in crime rates, and people are more likely to engage in peaceful activities.\n\nThe second moon's creation is a testament to human ingenuity and cooperation. Scientists and engineers from around the world worked together to develop this innovative solution to the problem of mood stabilization.\n\nAs the world continues to enjoy the benefits of the second moon, it's clear that this is a new era in human history. The future looks brighter, and the world is more peaceful than ever.",
+  "events_count": 3,
+  "max_mean_delta": 0.2382581815944882,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.21683773535564854,
+      "median_impact": 0.21683773535564854,
+      "mean_prompt_shift": 0.2178708553979254
+    },
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.19682033841780247,
+      "median_impact": 0.19682033841780247,
+      "mean_prompt_shift": -0.19684796184152123
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 1,
+      "direction": -1,
+      "mean_delta": 0.2382581815944882,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 16,
+      "direction": 1,
+      "mean_delta": 0.21683773535564854,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 58,
+      "direction": -1,
+      "mean_delta": 0.15538249524111675,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

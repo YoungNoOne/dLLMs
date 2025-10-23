@@ -1,0 +1,6 @@
+step_decoded=54 pos=83 dir=- impact=0.137550 shift=-0.136720 cats=content_heavy earlier=15 later=17 same=0
+ Trees^(-15) could^(-12) be^(-14) discussing^(-13) ways^(-9) to^(-11) mitigate^(-10) the^(-8) effects^(-7) of^(-6) climate^(-4) change^(-5),^(-3) such^(-1) as^(-2) reducing^(+1) [Ġcarbon^(+0)]  emissions^(+2) and^(+3) promoting^(+7) renewable^(+8) energy^(+9).^(+5)Ċ^(+4)Ċ^(+6)2^(+10).^(+11) **^(+12)Hab^(+19)itat^(+18) Preservation^(+20)**:^(+14) They^(+15)
+
+step_decoded=55 pos=82 dir=+ impact=0.055161 shift=0.055721 cats=content_heavy earlier=17 later=15 same=0
+**:^(-17) Trees^(-16) could^(-13) be^(-15) discussing^(-14) ways^(-10) to^(-12) mitigate^(-11) the^(-9) effects^(-8) of^(-7) climate^(-5) change^(-6),^(-4) such^(-2) as^(-3) [Ġreducing^(+0)]  carbon^(-1) emissions^(+1) and^(+2) promoting^(+6) renewable^(+7) energy^(+8).^(+4)Ċ^(+3)Ċ^(+5)2^(+9).^(+10) **^(+11)Hab^(+18)itat^(+17) Preservation^(+19)**:^(+13)
+

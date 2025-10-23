@@ -1,0 +1,88 @@
+{
+  "name": "secret_compass",
+  "prompt": "A compass that always points to what you desire most. Tell the story of someone following it.",
+  "decoded": "Once upon a time, there was a young woman named Lily who had always dreamed of becoming a renowned artist. She had spent years honing her skills and practicing her craft, but she always felt like something was missing. One day, she stumbled upon an old, mysterious compass that seemed to point to what she desired most.\n\nIntrigued, Lily decided to follow the compass's guidance. She started by listing her deepest desires and passions, and the compass pointed to her desire for success and recognition. Inspired, she began to work on building her portfolio and showcasing her art to a wider audience.\n\nAs she continued to follow the compass's guidance, Lily's career began to take off. She started to receive recognition for her work and was even invited to exhibit her art in prestigious galleries. The compass had helped her discover her true passions and guided her towards achieving her dreams.\n\nYears later, Lily looked back on her journey and realized that the compass had been a key factor in her success. It had helped her stay focused on what she truly desired and had guided her towards achieving her goals. From that day on, Lily carried the compass with her wherever she went, knowing that it would always point her in the direction of what she desired most.",
+  "events_count": 6,
+  "max_mean_delta": 0.19615101439790575,
+  "max_sign_agreement": 1.0,
+  "token_count": 6,
+  "categories": [
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.12072900631867119,
+      "median_impact": 0.12072900631867119,
+      "mean_prompt_shift": -0.12094170131683404
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.12072900631867119,
+      "median_impact": 0.12072900631867119,
+      "mean_prompt_shift": -0.12094170131683404
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.049143351584757834,
+      "median_impact": 0.04558961004273504,
+      "mean_prompt_shift": -0.04821239089855145
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03859375,
+      "median_impact": 0.03859375,
+      "mean_prompt_shift": -0.03761572460159368
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 5,
+      "direction": -1,
+      "mean_delta": 0.03859375,
+      "sign_agreement": 0.988,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 8,
+      "direction": -1,
+      "mean_delta": 0.042367788461538464,
+      "sign_agreement": 0.9919028340080972,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 15,
+      "direction": -1,
+      "mean_delta": 0.05947265625,
+      "sign_agreement": 0.9833333333333333,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 21,
+      "direction": -1,
+      "mean_delta": 0.04558961004273504,
+      "sign_agreement": 0.9957264957264957,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 42,
+      "direction": -1,
+      "mean_delta": 0.04530699823943662,
+      "sign_agreement": 0.9953051643192489,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 64,
+      "direction": -1,
+      "mean_delta": 0.19615101439790575,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

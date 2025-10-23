@@ -1,0 +1,103 @@
+{
+  "name": "fictional_law",
+  "prompt": "Invent a law that could exist only in a fantasy world, but enforce it seriously.",
+  "decoded": "In the mystical realm of Eldoria, the law of the Whispering Woods is a strict regulation that prohibits the use of magic within the ancient forest. This law is designed to protect the delicate balance of the forest and its inhabitants, as magic can disrupt the natural order and harm the magical creatures that call the forest home.\n\nEnforcement of this law is carried out by the Whispering Woods Guard, a group of powerful sorcerers who patrol the forest and prevent any magic from being used within its boundaries. The Guard is responsible for maintaining the integrity of the forest and its inhabitants, and they will not tolerate any violations of the law.\n\nIf someone is caught using magic within the forest, they will be punished severely. The Whispering Woods Guard will apprehend the offender and bring them to trial, where they will be subjected to a series of trials to prove their guilt. If found guilty, the offender will be subjected to a series of punishments, including imprisonment, fines, and even execution.\n\nThe law of the Whispering Woods is a strict and serious regulation, and those who violate it will be held accountable for their actions. It is a law that is taken very seriously, and those who dare to disobey it will face the consequences.",
+  "events_count": 7,
+  "max_mean_delta": 0.1871778877617801,
+  "max_sign_agreement": 1.0,
+  "token_count": 7,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1871778877617801,
+      "median_impact": 0.1871778877617801,
+      "mean_prompt_shift": -0.18737068642288396
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.05003955120301849,
+      "median_impact": 0.050465131660856574,
+      "mean_prompt_shift": -0.02783296337561534
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04399671052631579,
+      "median_impact": 0.04399671052631579,
+      "mean_prompt_shift": -0.042791426809210525
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03776682455708662,
+      "median_impact": 0.03776682455708662,
+      "mean_prompt_shift": -0.0375587883896715
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03776682455708662,
+      "median_impact": 0.03776682455708662,
+      "mean_prompt_shift": -0.0375587883896715
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 4,
+      "direction": -1,
+      "mean_delta": 0.05747323207171315,
+      "sign_agreement": 0.9960159362549801,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 12,
+      "direction": -1,
+      "mean_delta": 0.05865805041152263,
+      "sign_agreement": 0.9917695473251029,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 14,
+      "direction": -1,
+      "mean_delta": 0.040569891078838176,
+      "sign_agreement": 0.966804979253112,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 64,
+      "direction": -1,
+      "mean_delta": 0.1871778877617801,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 128,
+      "direction": -1,
+      "mean_delta": 0.03776682455708662,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 235,
+      "direction": 1,
+      "mean_delta": 0.04345703125,
+      "sign_agreement": 0.95,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 236,
+      "direction": -1,
+      "mean_delta": 0.04399671052631579,
+      "sign_agreement": 0.8947368421052632,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

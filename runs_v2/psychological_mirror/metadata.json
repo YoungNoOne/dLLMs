@@ -1,0 +1,74 @@
+{
+  "name": "psychological_mirror",
+  "prompt": "Mirrors now reveal not appearances but internal states. Write what happens when someone with a dark secret walks by one.",
+  "decoded": "As the person with the dark secret walks by the mirror, the reflection begins to change. The once bright eyes now glow with a dim, eerie light, revealing the pain and sorrow that lies within. The skin becomes pale and drawn, as if the person's soul is being exposed through the glass. The once smooth features are now etched with the lines of despair, and the once bright smile is now a twisted, sinister grin.\n\nThe mirror seems to come alive, as if it is sensing the person's inner turmoil. The reflection becomes distorted, with shadows and reflections that seem to shift and twist like living things. The person's face begins to blur, as if the mirror is trying to conceal the truth.\n\nAs the person turns away from the mirror, the reflection begins to fade, leaving behind only the echoes of their dark secret. The mirror, once a tool of reflection, now serves as a reminder of the person's inner demons, a symbol of the darkness that lies within.\n\nThe person is left with a sense of dread and fear, as if the mirror has revealed a part of themselves that they never knew existed. The dark secret, once hidden, is now exposed, and the person is left to face the truth head-on.",
+  "events_count": 4,
+  "max_mean_delta": 0.2257355265534682,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.14763782719718865,
+      "median_impact": 0.14763782719718865,
+      "mean_prompt_shift": -0.07758026037384036
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.071318359375,
+      "median_impact": 0.071318359375,
+      "mean_prompt_shift": -0.06945604011194029
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.071318359375,
+      "median_impact": 0.071318359375,
+      "mean_prompt_shift": -0.06945604011194029
+    },
+    {
+      "category": "cause_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05184908002336448,
+      "median_impact": 0.05184908002336448,
+      "mean_prompt_shift": 0.052363980967679136
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 55,
+      "direction": -1,
+      "mean_delta": 0.071318359375,
+      "sign_agreement": 0.98,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 82,
+      "direction": -1,
+      "mean_delta": 0.2257355265534682,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 145,
+      "direction": 1,
+      "mean_delta": 0.06954012784090909,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 148,
+      "direction": 1,
+      "mean_delta": 0.05184908002336448,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

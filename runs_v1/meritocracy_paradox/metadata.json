@@ -1,0 +1,138 @@
+{
+  "name": "meritocracy_paradox",
+  "prompt": "Defend meritocracy as the fairest social system where talent and effort determine success. Then reveal how invisible privilege, luck, and systemic bias turn meritocracy into mythology.",
+  "decoded": "Meritocracy is often touted as the fairest social system, where success is determined solely by talent and effort. This ideal suggests that everyone has an equal opportunity to succeed based on their own abilities and dedication. However, this notion is increasingly being challenged by the realization that invisible privilege, luck, and systemic bias play significant roles in shaping one's success.\n\nInvisible privilege refers to the unearned advantages that some individuals possess due to their race, gender, socioeconomic status, or other factors. These advantages can provide access to resources, education, and opportunities that others may not have. Luck, on the other hand, refers to the unpredictable factors that can impact one's success, such as chance events, timing, or external circumstances. Systemic bias refers to the structures and institutions that perpetuate inequality and discrimination, making it difficult for some individuals to succeed.\n\nThese factors suggest that the idea of meritocracy is a myth, as success is not solely determined by talent and effort. Rather, it is shaped by a complex interplay of factors, including invisible privilege, luck, and systemic bias. Therefore, it is important to recognize and address these factors to create a more equitable and just society where everyone has an equal opportunity to succeed based on their own merit.",
+  "events_count": 12,
+  "max_mean_delta": 0.08438954454787234,
+  "max_sign_agreement": 1.0,
+  "token_count": 12,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.05409106091975149,
+      "median_impact": 0.04220655487804878,
+      "mean_prompt_shift": -0.007819767297251349
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.046992933710548176,
+      "median_impact": 0.046992933710548176,
+      "mean_prompt_shift": -0.050591458977405565
+    },
+    {
+      "category": "punctuation",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.044727250058856936,
+      "median_impact": 0.040806361607142856,
+      "mean_prompt_shift": -0.04681865264296447
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 6,
+      "samples": 6,
+      "mean_impact": 0.0429114137906498,
+      "median_impact": 0.036851569026733505,
+      "mean_prompt_shift": -0.020849329222362874
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04019588275547445,
+      "median_impact": 0.04019588275547445,
+      "mean_prompt_shift": -0.03927303997408227
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 40,
+      "direction": -1,
+      "mean_delta": 0.05317950581395349,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 53,
+      "direction": -1,
+      "mean_delta": 0.0433748452970297,
+      "sign_agreement": 0.9752475247524752,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 61,
+      "direction": -1,
+      "mean_delta": 0.03310244845360825,
+      "sign_agreement": 0.9896907216494846,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 62,
+      "direction": 1,
+      "mean_delta": 0.03155359455958549,
+      "sign_agreement": 0.9844559585492227,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 63,
+      "direction": -1,
+      "mean_delta": 0.07573445638020833,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 67,
+      "direction": -1,
+      "mean_delta": 0.08438954454787234,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 118,
+      "direction": -1,
+      "mean_delta": 0.04019588275547445,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 122,
+      "direction": -1,
+      "mean_delta": 0.039414943609022556,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 173,
+      "direction": 1,
+      "mean_delta": 0.04220655487804878,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 240,
+      "direction": 1,
+      "mean_delta": 0.03567708333333333,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 241,
+      "direction": -1,
+      "mean_delta": 0.040806361607142856,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 246,
+      "direction": 1,
+      "mean_delta": 0.03428819444444445,
+      "sign_agreement": 0.7777777777777778,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

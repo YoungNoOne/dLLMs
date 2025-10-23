@@ -1,0 +1,9 @@
+step_decoded=11 pos=36 dir=+ impact=0.069616 shift=0.071249 cats=content_heavy earlier=11 later=6 same=0
+**^(-11) [Breaking^(+0)]  Morning^(-1) News^(-9) Update^(-10):^(-8) Un^(-7)precedented^(-6) Election^(-2) Results^(+1)**^(-4)Ċ^(-3)Ċ^(-5)In^(+2) a^(+3) shocking^(+4) turn^(+6) of^(+7)
+
+step_decoded=13 pos=48 dir=+ impact=0.151989 shift=0.153166 cats=content_heavy earlier=13 later=16 same=0
+**^(-13)Breaking^(-2) Morning^(-3) News^(-11) Update^(-12):^(-10) Un^(-9)precedented^(-8) Election^(-4) Results^(-1)**^(-6)Ċ^(-5)Ċ^(-7) [In^(+0)]  a^(+1) shocking^(+2) turn^(+4) of^(+5) events^(+3),^(+6) the^(+7) outcome^(+10) of^(+8) the^(+9) recent^(+15) presidential^(+14) election^(+11) has^(+12) been^(+13) decided^(+17)
+
+step_decoded=15 pos=50 dir=- impact=0.065560 shift=-0.064382 cats=content_heavy earlier=15 later=16 same=0
+**^(-15)Breaking^(-4) Morning^(-5) News^(-13) Update^(-14):^(-12) Un^(-11)precedented^(-10) Election^(-6) Results^(-3)**^(-8)Ċ^(-7)Ċ^(-9)In^(-2) a^(-1) [Ġshocking^(+0)]  turn^(+2) of^(+3) events^(+1),^(+4) the^(+5) outcome^(+8) of^(+6) the^(+7) recent^(+13) presidential^(+12) election^(+9) has^(+10) been^(+11) decided^(+15) by^(+14) collective^(+16)
+

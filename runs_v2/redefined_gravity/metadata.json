@@ -1,0 +1,81 @@
+{
+  "name": "redefined_gravity",
+  "prompt": "Gravity starts reacting to human emotions, pulling sad people closer to the earth. Write about the new industry that emerges to exploit this phenomenon.",
+  "decoded": "As gravity begins to react to human emotions, a new industry emerges to exploit this phenomenon. This industry, known as \"Gravity Therapy,\" is a revolutionary approach to mental health that utilizes the unique effects of gravity to promote emotional well-being.\n\nGravity Therapy centers around the use of specialized devices that are designed to harness the power of gravity to facilitate emotional healing. These devices, known as \"Gravity Chambers,\" are designed to create a controlled environment that allows individuals to experience the effects of gravity in a safe and therapeutic setting.\n\nThe Gravity Chambers are equipped with advanced technology that allows them to detect and respond to the emotional state of the individual inside the chamber. This technology enables the chamber to adjust the effects of gravity to suit the individual's needs, providing a personalized and effective therapeutic experience.\n\nAs interest in Gravity Therapy grows, so too does the demand for specialized equipment and services. The industry has expanded to include a range of products, from Gravity Chambers to specialized clothing and accessories designed to enhance the therapeutic experience.\n\nThe emergence of Gravity Therapy represents a significant step forward in the field of mental health and wellness. By utilizing the unique effects of gravity to promote emotional healing, Gravity Therapy offers a new and innovative approach to managing emotions and improving overall well-being.",
+  "events_count": 5,
+  "max_mean_delta": 0.17665136255924171,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.17665136255924171,
+      "median_impact": 0.17665136255924171,
+      "mean_prompt_shift": -0.17628682172438076
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.04275075469405351,
+      "median_impact": 0.036793804585152835,
+      "mean_prompt_shift": -0.04181837441637004
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.039126989976415096,
+      "median_impact": 0.039126989976415096,
+      "mean_prompt_shift": -0.03915986213072464
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.039126989976415096,
+      "median_impact": 0.039126989976415096,
+      "mean_prompt_shift": -0.03915986213072464
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 13,
+      "direction": -1,
+      "mean_delta": 0.03636686466942149,
+      "sign_agreement": 0.9545454545454546,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 23,
+      "direction": -1,
+      "mean_delta": 0.05509159482758621,
+      "sign_agreement": 0.9870689655172413,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 26,
+      "direction": -1,
+      "mean_delta": 0.036793804585152835,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 43,
+      "direction": -1,
+      "mean_delta": 0.039126989976415096,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 44,
+      "direction": -1,
+      "mean_delta": 0.17665136255924171,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

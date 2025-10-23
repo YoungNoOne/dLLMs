@@ -1,0 +1,179 @@
+[
+  {
+    "step_decoded": 6,
+    "direction": -1,
+    "mean_delta": 0.24998431224899598,
+    "median_delta": 0.2421875,
+    "sign_agreement": 1.0,
+    "valid_positions": 249,
+    "prompt_mean": 0.6576148343373494,
+    "prompt_shift": -0.2496664156626507,
+    "tokens": [
+      {
+        "step_decoded": 6,
+        "token_pos": 44,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.828125,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 8,
+    "direction": 1,
+    "mean_delta": 0.23509457236842105,
+    "median_delta": 0.23046875,
+    "sign_agreement": 1.0,
+    "valid_positions": 247,
+    "prompt_mean": 0.9012683451417004,
+    "prompt_shift": 0.23592213798444228,
+    "tokens": [
+      {
+        "step_decoded": 8,
+        "token_pos": 46,
+        "token_id": 14722,
+        "token_str": "Today",
+        "conf_decoded": 0.61328125,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 108,
+    "direction": -1,
+    "mean_delta": 0.09033535289115646,
+    "median_delta": 0.080078125,
+    "sign_agreement": 1.0,
+    "valid_positions": 147,
+    "prompt_mean": 0.4315609056122449,
+    "prompt_shift": -0.08931641702289017,
+    "tokens": [
+      {
+        "step_decoded": 108,
+        "token_pos": 143,
+        "token_id": 2622,
+        "token_str": "\u0120old",
+        "conf_decoded": 0.953125,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 111,
+    "direction": 1,
+    "mean_delta": 0.14649793836805555,
+    "median_delta": 0.1533203125,
+    "sign_agreement": 0.9930555555555556,
+    "valid_positions": 144,
+    "prompt_mean": 0.5802408854166666,
+    "prompt_shift": 0.14725327765804597,
+    "tokens": [
+      {
+        "step_decoded": 111,
+        "token_pos": 145,
+        "token_id": 3428,
+        "token_str": "\u0120My",
+        "conf_decoded": 0.44140625,
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 128,
+    "direction": -1,
+    "mean_delta": 0.08472256397637795,
+    "median_delta": 0.078125,
+    "sign_agreement": 1.0,
+    "valid_positions": 127,
+    "prompt_mean": 0.41055610236220474,
+    "prompt_shift": -0.08442375603623276,
+    "tokens": [
+      {
+        "step_decoded": 128,
+        "token_pos": 162,
+        "token_id": 13,
+        "token_str": ".",
+        "conf_decoded": 0.9609375,
+        "categories": [
+          "punctuation",
+          "sentence_boundary"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 129,
+    "direction": 1,
+    "mean_delta": 0.07764446924603174,
+    "median_delta": 0.0751953125,
+    "sign_agreement": 0.9444444444444444,
+    "valid_positions": 126,
+    "prompt_mean": 0.48559957837301587,
+    "prompt_shift": 0.07504347601081113,
+    "tokens": [
+      {
+        "step_decoded": 129,
+        "token_pos": 163,
+        "token_id": 3428,
+        "token_str": "\u0120My",
+        "conf_decoded": 0.6015625,
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 157,
+    "direction": 1,
+    "mean_delta": 0.07379025829081633,
+    "median_delta": 0.068359375,
+    "sign_agreement": 1.0,
+    "valid_positions": 98,
+    "prompt_mean": 0.42574139030612246,
+    "prompt_shift": 0.07533300962430428,
+    "tokens": [
+      {
+        "step_decoded": 157,
+        "token_pos": 191,
+        "token_id": 62884,
+        "token_str": "\u0120nephew",
+        "conf_decoded": 0.98828125,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 237,
+    "direction": -1,
+    "mean_delta": 0.0681423611111111,
+    "median_delta": 0.06982421875,
+    "sign_agreement": 0.9444444444444444,
+    "valid_positions": 18,
+    "prompt_mean": 0.2696940104166667,
+    "prompt_shift": -0.06506133497807015,
+    "tokens": [
+      {
+        "step_decoded": 237,
+        "token_pos": 271,
+        "token_id": 3428,
+        "token_str": "\u0120My",
+        "conf_decoded": 0.55078125,
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  }
+]

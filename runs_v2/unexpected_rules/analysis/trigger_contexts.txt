@@ -1,0 +1,6 @@
+step_decoded=94 pos=120 dir=- impact=0.137404 shift=-0.137767 cats=contrast_marker;content_heavy earlier=17 later=15 same=0
+ their^(-17) culture^(-16) and^(-15) upbringing^(-14),^(-13) rather^(-11) than^(-12) because^(-9) they^(-10) fully^(-7) understand^(-8) the^(-6) logic^(-2) behind^(-5) it^(-4).^(-3) [ĠHowever^(+0)] ,^(-1) when^(+1) we^(+2) delve^(+3) deeper^(+4),^(+5) we^(+6) realize^(+12) that^(+7) The^(+11) Golden^(+8) Rule^(+9) is^(+10) not^(+13) just^(+15) a^(+14)
+
+step_decoded=245 pos=269 dir=+ impact=0.052832 shift=0.054363 cats=content_heavy earlier=19 later=10 same=0
+ society^(-10),^(-20) where^(-19) everyone^(-18) is^(-17) treated^(-16) with^(-15) dignity^(-14) and^(-13) respect^(-12),^(-9) and^(-8) where^(-7) we^(-6) can^(-1) all^(-2) [Ġthrive^(+0)]  in^(+1) a^(+2) culture^(+8) of^(+3) kindness^(+7),^(+4) compassion^(+9),^(+6) and^(+5) understanding^(+10).^(-3)<|eot_id|>^(-4)<|endoftext|>^(-5)
+

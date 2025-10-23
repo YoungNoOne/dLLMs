@@ -1,0 +1,29 @@
+{
+  "name": "collective_dreaming",
+  "prompt": "Once a year, everyone shares the same global dream. Write a report from the agency tasked with interpreting it.",
+  "decoded": "The Global Dream Interpretation Agency has been tasked with interpreting the annual global dream. This year, the global dream is a vision of a world where everyone has access to education, healthcare, and clean water.\n\nThe agency has conducted extensive research and analysis to understand the significance of this global dream. Our findings indicate that this dream represents a desire for a more equitable and just world. It is a call to action for individuals, organizations, and governments to work together to address the root causes of inequality and poverty.\n\nTo achieve this global dream, we recommend the following actions:\n\n1. Increase access to education for all individuals, particularly those in underserved communities.\n2. Improve access to healthcare for all individuals, particularly those in underserved communities.\n3. Increase access to clean water for all individuals, particularly those in underserved communities.\n4. Implement policies and programs that promote social justice and equality for all individuals.\n5. Encourage individuals and organizations to take action to address the root causes of inequality and poverty.\n\nWe believe that by taking these actions, we can work towards a more equitable and just world. We urge individuals, organizations, and governments to work together to achieve this global dream and create a better future for ourselves and future generations.",
+  "events_count": 1,
+  "max_mean_delta": 0.21480741279069768,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.21480741279069768,
+      "median_impact": 0.21480741279069768,
+      "mean_prompt_shift": -0.21445842417635663
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 40,
+      "direction": -1,
+      "mean_delta": 0.21480741279069768,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

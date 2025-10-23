@@ -1,0 +1,9 @@
+step_decoded=13 pos=59 dir=+ impact=0.187444 shift=0.188000 cats=content_heavy earlier=13 later=16 same=0
+**^(-13)Art^(-11) Critic^(-12)âĢĻs^(-1) Case^(-10) for^(-5) Mod^(-9)eration^(-8) and^(-6) Responsibility^(-7):**^(-2)Ċ^(-3)Ċ^(-4) [In^(+0)]  the^(+1) realm^(+2) of^(+3) artistic^(+6) expression^(+5),^(+4) it^(+7) is^(+8) imperative^(+11) that^(+9) creators^(+10) exercise^(+18) a^(+12) sense^(+17) of^(+15) moderation^(+16)
+
+step_decoded=57 pos=103 dir=- impact=0.180723 shift=-0.180215 cats=content_heavy earlier=16 later=16 same=0
+ essential^(-11),^(-18) artists^(-16) must^(-17) be^(-13) mindful^(-14) of^(-15) the^(-8) potential^(-9) for^(-5) their^(-7) work^(-4) to^(-6) offend^(-3) or^(-2) harm^(+1) [Ġothers^(+0)] .^(-1) By^(+2) avoiding^(+3) controversial^(+5) subjects^(+6) and^(+4) maintaining^(+8) a^(+7) level^(+9) of^(+10) sensitivity^(+14),^(+12) artists^(+13) can^(+11) foster^(+16) a^(+15)
+
+step_decoded=59 pos=105 dir=+ impact=0.147959 shift=0.148862 cats=content_heavy earlier=16 later=16 same=0
+ artists^(-18) must^(-19) be^(-15) mindful^(-16) of^(-17) the^(-10) potential^(-11) for^(-7) their^(-9) work^(-6) to^(-8) offend^(-5) or^(-4) harm^(-1) others^(-2).^(-3) [ĠBy^(+0)]  avoiding^(+1) controversial^(+3) subjects^(+4) and^(+2) maintaining^(+6) a^(+5) level^(+7) of^(+8) sensitivity^(+12),^(+10) artists^(+11) can^(+9) foster^(+14) a^(+13) more^(+15) inclusive^(+16)
+

@@ -1,0 +1,7 @@
+step_decoded,token_pos,token_id,token_str,token_norm,direction,impact_score,prompt_shift,window,categories,left_text,center_token,right_text,center_step_decoded,earlier_count,later_count,same_count,left_steps_json,right_steps_json,left_offsets_json,right_offsets_json,left_text_annot,center_annot,right_text_annot,left_tokens_json,right_tokens_json
+13,46,300,Ġof,of,1,0.13038319989669422,0.13183457576607827,16,content_heavy,"**Dec oded Message from the Trees :**
+
+""Wh ispers",Ġof," the wind,
+Secrets of the earth,
+Voice of the trees,
+",13,13,16,0,"[0, 3, 2, 1, 5, 6, 8, 9, 4, 7, 10, 12, 11]","[14, 15, 16, 19, 26, 23, 22, 27, 18, 17, 29, 25, 24, 28, 20, 21]","[-13, -10, -11, -12, -8, -7, -5, -4, -9, -6, -3, -1, -2]","[1, 2, 3, 6, 13, 10, 9, 14, 5, 4, 16, 12, 11, 15, 7, 8]","**^(-13)Dec^(-10)oded^(-11) Message^(-12) from^(-8) the^(-7) Trees^(-5):**^(-4)Ċ^(-9)Ċ^(-6)""^(-3)Wh^(-1)ispers^(-2)",Ġof^(+0)," the^(+1) wind^(+2),^(+3)Ċ^(+6)Secrets^(+13) of^(+10) the^(+9) earth^(+14),^(+5)Ċ^(+4)Voice^(+16) of^(+12) the^(+11) trees^(+15),^(+7)Ċ^(+8)","[""**"", ""Dec"", ""oded"", ""ĠMessage"", ""Ġfrom"", ""Ġthe"", ""ĠTrees"", "":**"", ""Ċ"", ""Ċ"", ""\"""", ""Wh"", ""ispers""]","[""Ġthe"", ""Ġwind"", "","", ""Ċ"", ""Secrets"", ""Ġof"", ""Ġthe"", ""Ġearth"", "","", ""Ċ"", ""Voice"", ""Ġof"", ""Ġthe"", ""Ġtrees"", "","", ""Ċ""]"

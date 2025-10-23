@@ -1,0 +1,51 @@
+{
+  "name": "sleep_as_service",
+  "prompt": "Sleep becomes a service people outsource to dream farms. Write an ad promoting premium subscription dreams.",
+  "decoded": "Are you tired of waking up feeling tired and groggy? Do you struggle to fall asleep every night? Look no further! With our premium subscription dreams, you can outsource your sleep to our dream farms and enjoy the best quality sleep possible.\n\nOur dream farms are designed to provide you with the most comfortable and relaxing sleeping environment. We use the latest technology to create a peaceful and soothing atmosphere that will help you fall asleep faster and wake up feeling refreshed and revitalized.\n\nWith our premium subscription dreams, you can expect to receive personalized attention from our team of experts who will help you understand your sleep patterns and create a customized sleep plan that meets your specific needs. We will also provide you with tips on how to improve your sleep hygiene and achieve a better night's sleep.\n\nOur premium subscription dreams are available for a fixed monthly rate, and you can choose from a variety of packages to suit your needs. Whether you're looking for a one-night solution or a long-term subscription, we have something for everyone.\n\nSo why settle for a mediocre night's sleep when you can have the best? Try our premium subscription dreams today and experience the difference for yourself. Wake up feeling refreshed and ready to take on the day with our premium subscription dreams.",
+  "events_count": 3,
+  "max_mean_delta": 0.19832238828502416,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.19832238828502416,
+      "median_impact": 0.19832238828502416,
+      "mean_prompt_shift": -0.1983242027824229
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04355054710343567,
+      "median_impact": 0.04355054710343567,
+      "mean_prompt_shift": -0.041731952260136554
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 27,
+      "direction": -1,
+      "mean_delta": 0.041718064692982455,
+      "sign_agreement": 0.9736842105263158,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 48,
+      "direction": -1,
+      "mean_delta": 0.19832238828502416,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 237,
+      "direction": -1,
+      "mean_delta": 0.04538302951388889,
+      "sign_agreement": 0.8888888888888888,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

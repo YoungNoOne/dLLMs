@@ -1,0 +1,59 @@
+{
+  "name": "infinite_letter",
+  "prompt": "A letter begins writing itself endlessly, responding to your thoughts as you read. Write the first page.",
+  "decoded": "Dear [Recipient's Name],\n\nI hope this letter finds you well. I've been thinking a lot about our conversations and the experiences we've shared. It's amazing how much we've learned from each other and how much we've grown together.\n\nI've been reflecting on our past interactions and how we've influenced each other. It's fascinating how our thoughts and ideas have shaped and shaped each other's perspectives.\n\nI've been thinking about the challenges we've faced and how we've overcome them. It's inspiring to see how we've worked together to find solutions and overcome obstacles.\n\nI've been thinking about the connections we've formed and how we've supported each other. It's wonderful to see how we've encouraged each other to pursue our goals and dreams.\n\nI've been thinking about the memories we've created and how we've shared them. It's beautiful to see how we've made memories and experiences that we'll cherish forever.\n\nI've been thinking about the lessons we've learned and how we've grown as individuals. It's amazing to see how we've developed our strengths and weaknesses.\n\nI hope this letter finds you well once again.\n\nBest regards,\n\n[Your Name]",
+  "events_count": 3,
+  "max_mean_delta": 0.28413654618473894,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.17049696021127192,
+      "median_impact": 0.17049696021127192,
+      "mean_prompt_shift": -0.17016540439522712
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04976851851851852,
+      "median_impact": 0.04976851851851852,
+      "mean_prompt_shift": 0.05076851107196351
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04976851851851852,
+      "median_impact": 0.04976851851851852,
+      "mean_prompt_shift": 0.05076851107196351
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 6,
+      "direction": -1,
+      "mean_delta": 0.28413654618473894,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 50,
+      "direction": -1,
+      "mean_delta": 0.056857374237804875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 120,
+      "direction": 1,
+      "mean_delta": 0.04976851851851852,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

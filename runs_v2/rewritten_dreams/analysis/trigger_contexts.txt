@@ -1,0 +1,6 @@
+step_decoded=101 pos=138 dir=- impact=0.043501 shift=-0.043616 cats=content_heavy earlier=15 later=17 same=0
+.^(-18) I^(-17) couldn^(-13)'t^(-12) remember^(-11) anything^(-10) that^(-9) hadn^(-6)'t^(-8) been^(-7) edited^(-5).^(-4) I^(-3) felt^(-2) a^(-1) sense^(+1) [Ġof^(+0)]  une^(+2)ase^(+3) and^(+4) paranoia^(+6).^(+5) Was^(+7) the^(+9) government^(+8) manipulating^(+10) my^(+11) thoughts^(+15)?^(+12) Were^(+14) they^(+13) trying^(+16) to^(+17)
+
+step_decoded=109 pos=146 dir=- impact=0.050674 shift=-0.049881 cats=content_heavy earlier=15 later=17 same=0
+'t^(-16) been^(-15) edited^(-13).^(-12) I^(-11) felt^(-10) a^(-9) sense^(-7) of^(-8) une^(-6)ase^(-5) and^(-4) paranoia^(-2).^(-3) Was^(-1) the^(+1) [Ġgovernment^(+0)]  manipulating^(+2) my^(+3) thoughts^(+7)?^(+4) Were^(+6) they^(+5) trying^(+8) to^(+9) control^(+10) my^(+11) mind^(+18)?^(+12)Ċ^(+13)Ċ^(+14)I^(+15) decided^(+17)
+

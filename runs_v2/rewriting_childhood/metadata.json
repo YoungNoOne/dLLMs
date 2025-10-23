@@ -1,0 +1,89 @@
+{
+  "name": "rewriting_childhood",
+  "prompt": "A new therapy lets people rewrite specific days from their childhood. Describe the emotional consequences for someone who erases the day they met their best friend.",
+  "decoded": "Erasing the day they met their best friend would have significant emotional consequences. This day likely marked the beginning of a deep and meaningful friendship, and altering it would disrupt the foundation of that relationship. The person might feel a sense of loss, confusion, and uncertainty, as they would no longer remember the events that led to their friendship. This could lead to feelings of guilt, regret, and anxiety, as they struggle to understand the implications of their actions and the future of their relationship.\n\nAdditionally, erasing this day could also impact the person's sense of identity and self-worth. The friendship might have been a significant part of who they are, and altering it could lead to feelings of disconnection and emptiness. The person might struggle to reconcile their altered memories with their current sense of self, leading to a sense of disorientation and instability.\n\nFurthermore, erasing this day could also have long-term effects on the person's ability to form and maintain relationships. They might become more cautious and guarded in their relationships, fearing that they will be altered or erased in some way. This could lead to a sense of isolation and loneliness, as the person might struggle to form deep connections with others, fearing that they will be eroded or altered in some way.",
+  "events_count": 5,
+  "max_mean_delta": 0.14840649801587302,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.1414018044324648,
+      "median_impact": 0.1414018044324648,
+      "mean_prompt_shift": -0.14186014060456806
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.1414018044324648,
+      "median_impact": 0.1414018044324648,
+      "mean_prompt_shift": -0.14186014060456806
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.11042428523936171,
+      "median_impact": 0.11042428523936171,
+      "mean_prompt_shift": 0.11088414800391194
+    },
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05140904017857143,
+      "median_impact": 0.05140904017857143,
+      "mean_prompt_shift": -0.07204241071428572
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04792076771653543,
+      "median_impact": 0.04792076771653543,
+      "mean_prompt_shift": -0.04780497336729972
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 1,
+      "direction": -1,
+      "mean_delta": 0.04792076771653543,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 66,
+      "direction": -1,
+      "mean_delta": 0.14840649801587302,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 67,
+      "direction": 1,
+      "mean_delta": 0.11042428523936171,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 96,
+      "direction": -1,
+      "mean_delta": 0.13439711084905662,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 241,
+      "direction": -1,
+      "mean_delta": 0.05140904017857143,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

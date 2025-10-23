@@ -1,0 +1,9 @@
+step_decoded=9 pos=47 dir=+ impact=0.197313 shift=0.198403 cats=content_heavy earlier=9 later=18 same=0
+Field^(-9) Log^(-8) Entry^(-7):^(-6) Angel^(-5)-^(-4)1^(+4)2^(+3)3^(+5)Ċ^(-1)Ċ^(-3) [Date^(+0)] :^(-2) October^(+6) ^(+1)1^(+2)0^(+22),^(+11) ^(+10)2^(+12)0^(+13)2^(+15)3^(+16)Ċ^(+9)Ċ^(+7)Location^(+14):^(+8) New^(+20)
+
+step_decoded=23 pos=61 dir=+ impact=0.153771 shift=0.154925 cats=content_heavy earlier=14 later=18 same=0
+Ċ^(-15)Ċ^(-17)Date^(-14):^(-16) October^(-8) ^(-13)1^(-12)0^(+8),^(-3) ^(-4)2^(-2)0^(-1)2^(+1)3^(+2)Ċ^(-5)Ċ^(-7) [Location^(+0)] :^(-6) New^(+6) York^(+7),^(+3) USA^(+5)Ċ^(+4)Ċ^(+9)Task^(+11):^(+10) Repair^(+12)ing^(+13) a^(+14) damaged^(+15) bridge^(+16)Ċ^(+18)Ċ^(+17)
+
+step_decoded=121 pos=157 dir=- impact=0.127922 shift=-0.128000 cats=content_heavy earlier=16 later=16 same=0
+2^(-17)3^(-16) started^(-14) to^(-15) question^(-13) its^(-12) existence^(-10) and^(-9) purpose^(-8).^(-7) It^(-6) wondered^(-3) if^(-2) it^(-5) was^(-4) a^(-1) [Ġmachine^(+0)]  or^(+1) a^(+2) being^(+3),^(+4) and^(+5) if^(+6) it^(+7) had^(+8) a^(+9) soul^(+10) or^(+11) consciousness^(+12).^(+13) Angel^(+15)-^(+16)1^(+14)
+

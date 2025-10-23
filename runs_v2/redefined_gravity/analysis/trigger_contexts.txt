@@ -1,0 +1,9 @@
+step_decoded=13 pos=52 dir=- impact=0.036367 shift=-0.034459 cats=content_heavy earlier=13 later=15 same=0
+As^(-13) gravity^(-12) begins^(-1) to^(-11) react^(-8) to^(-7) human^(-10) emotions^(-9),^(-6) a^(-5) new^(-4) industry^(-3) [Ġemerges^(+0)]  to^(-2) exploit^(+2) this^(+1) phenomenon^(+3).^(+4) This^(+5) industry^(+6),^(+9) known^(+7) as^(+8) "^(+11)Gravity^(+10) Therapy^(+13),"^(+12) is^(+14) a^(+15)
+
+step_decoded=23 pos=64 dir=- impact=0.055092 shift=-0.054825 cats=content_heavy earlier=15 later=17 same=0
+,^(-16) a^(-15) new^(-14) industry^(-13) emerges^(-10) to^(-12) exploit^(-8) this^(-9) phenomenon^(-7).^(-6) This^(-5) industry^(-4),^(-1) known^(-3) as^(-2) "^(+1) [Gravity^(+0)]  Therapy^(+3),"^(+2) is^(+4) a^(+5) revolutionary^(+6) approach^(+7) to^(+8) mental^(+9) health^(+10) that^(+11) utilizes^(+16) the^(+12) unique^(+24) effects^(+23) of^(+14) gravity^(+13)
+
+step_decoded=26 pos=65 dir=- impact=0.036794 shift=-0.036170 cats=content_heavy earlier=17 later=15 same=0
+ a^(-18) new^(-17) industry^(-16) emerges^(-13) to^(-15) exploit^(-11) this^(-12) phenomenon^(-10).^(-9) This^(-8) industry^(-7),^(-4) known^(-6) as^(-5) "^(-2)Gravity^(-3) [ĠTherapy^(+0)] ,"^(-1) is^(+1) a^(+2) revolutionary^(+3) approach^(+4) to^(+5) mental^(+6) health^(+7) that^(+8) utilizes^(+13) the^(+9) unique^(+21) effects^(+20) of^(+11) gravity^(+10) to^(+12)
+

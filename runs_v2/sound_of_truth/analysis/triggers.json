@@ -1,0 +1,91 @@
+[
+  {
+    "step_decoded": 15,
+    "direction": -1,
+    "mean_delta": 0.044140625,
+    "median_delta": 0.046875,
+    "sign_agreement": 0.9125,
+    "valid_positions": 240,
+    "prompt_mean": 0.7840006510416667,
+    "prompt_shift": -0.041223026344225366,
+    "tokens": [
+      {
+        "step_decoded": 15,
+        "token_pos": 39,
+        "token_id": 107554,
+        "token_str": "\u0120unwavering",
+        "conf_decoded": 0.287109375,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 57,
+    "direction": -1,
+    "mean_delta": 0.17164812184343434,
+    "median_delta": 0.1640625,
+    "sign_agreement": 1.0,
+    "valid_positions": 198,
+    "prompt_mean": 0.4046717171717172,
+    "prompt_shift": -0.1715590460192376,
+    "tokens": [
+      {
+        "step_decoded": 57,
+        "token_pos": 87,
+        "token_id": 13,
+        "token_str": ".",
+        "conf_decoded": 0.7890625,
+        "categories": [
+          "punctuation",
+          "sentence_boundary"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 58,
+    "direction": -1,
+    "mean_delta": 0.08778156725888325,
+    "median_delta": 0.087890625,
+    "sign_agreement": 1.0,
+    "valid_positions": 197,
+    "prompt_mean": 0.31700111040609136,
+    "prompt_shift": -0.08767060676562582,
+    "tokens": [
+      {
+        "step_decoded": 58,
+        "token_pos": 89,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.71484375,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 227,
+    "direction": 1,
+    "mean_delta": 0.04314313616071429,
+    "median_delta": 0.0341796875,
+    "sign_agreement": 1.0,
+    "valid_positions": 28,
+    "prompt_mean": 0.23493303571428573,
+    "prompt_shift": 0.043526785714285726,
+    "tokens": [
+      {
+        "step_decoded": 227,
+        "token_pos": 254,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.7421875,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  }
+]

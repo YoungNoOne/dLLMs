@@ -1,0 +1,8 @@
+step_decoded,token_pos,token_id,token_str,token_norm,direction,impact_score,prompt_shift,window,categories,left_text,center_token,right_text,center_step_decoded,earlier_count,later_count,same_count,left_steps_json,right_steps_json,left_offsets_json,right_offsets_json,left_text_annot,center_annot,right_text_annot,left_tokens_json,right_tokens_json
+229,268,110609,Sincerely,Sincerely,1,0.07215294471153846,0.07075904780982906,16,content_heavy," of taxation.
+
+Thank you for your attention to this matter.
+
+",Sincerely,",
+
+[Your Name]<|eot_id|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",229,14,18,0,"[223, 220, 215, 216, 213, 217, 214, 218, 219, 224, 225, 227, 226, 228, 230, 231]","[232, 233, 234, 235, 236, 238, 237, 239, 240, 241, 242, 243, 244, 245, 246, 247]","[-6, -9, -14, -13, -16, -12, -15, -11, -10, -5, -4, -2, -3, -1, 1, 2]","[3, 4, 5, 6, 7, 9, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18]", of^(-6) taxation^(-9).^(-14)Ċ^(-13)Ċ^(-16)Thank^(-12) you^(-15) for^(-11) your^(-10) attention^(-5) to^(-4) this^(-2) matter^(-3).^(-1)Ċ^(+1)Ċ^(+2),Sincerely^(+0),",^(+3)Ċ^(+4)Ċ^(+5)[^(+6)Your^(+7) Name^(+9)]^(+8)<|eot_id|>^(+10)<|endoftext|>^(+11)<|endoftext|>^(+12)<|endoftext|>^(+13)<|endoftext|>^(+14)<|endoftext|>^(+15)<|endoftext|>^(+16)<|endoftext|>^(+17)<|endoftext|>^(+18)","[""Ġof"", ""Ġtaxation"", ""."", ""Ċ"", ""Ċ"", ""Thank"", ""Ġyou"", ""Ġfor"", ""Ġyour"", ""Ġattention"", ""Ġto"", ""Ġthis"", ""Ġmatter"", ""."", ""Ċ"", ""Ċ""]","["","", ""Ċ"", ""Ċ"", ""["", ""Your"", ""ĠName"", ""]"", ""<|eot_id|>"", ""<|endoftext|>"", ""<|endoftext|>"", ""<|endoftext|>"", ""<|endoftext|>"", ""<|endoftext|>"", ""<|endoftext|>"", ""<|endoftext|>"", ""<|endoftext|>""]"

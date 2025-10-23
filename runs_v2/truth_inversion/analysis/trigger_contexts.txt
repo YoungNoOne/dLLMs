@@ -1,0 +1,9 @@
+step_decoded=4 pos=28 dir=- impact=0.071573 shift=-0.071101 cats=content_heavy earlier=4 later=13 same=0
+**^(-4) [Alex^(+0)] :**^(-3) Hey^(-1),^(-2) Jamie^(+1),^(+2) have^(+4) you^(+3) seen^(+5) the^(+7) new^(+6) movie^(+8)?^(+9)Ċ^(+10)Ċ^(+11)**^(+12)Jamie^(+14)
+
+step_decoded=5 pos=32 dir=- impact=0.061000 shift=-0.060513 cats=content_heavy earlier=5 later=16 same=0
+**^(-5)Alex^(-1):**^(-4) Hey^(-2),^(-3) [ĠJamie^(+0)] ,^(+1) have^(+3) you^(+2) seen^(+4) the^(+6) new^(+5) movie^(+7)?^(+8)Ċ^(+9)Ċ^(+10)**^(+11)Jamie^(+13):**^(+12) Yeah^(+15),^(+14) I^(+16)
+
+step_decoded=218 pos=246 dir=- impact=0.048947 shift=-0.048417 cats=content_heavy earlier=15 later=17 same=0
+Ċ^(-15)Ċ^(-14)**^(-16)Jamie^(-12):**^(-13) No^(-8),^(-10) it^(-9) was^(-7) a^(-6) total^(-4) disaster^(-5).^(-3)Ċ^(-1)Ċ^(-2)**^(+1) [Alex^(+0)] :**^(+2) Okay^(+3),^(+4) I^(+5) understand^(+12).^(+6) I^(+7) thought^(+9) it^(+8) was^(+10) a^(+11) huge^(+13) hit^(+14).^(+15)Ċ^(+16)Ċ^(+17)
+

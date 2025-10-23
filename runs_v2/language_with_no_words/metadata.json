@@ -1,0 +1,81 @@
+{
+  "name": "language_with_no_words",
+  "prompt": "Invent a language spoken entirely through changes in silence.",
+  "decoded": "In the land of Silentia, the language spoken entirely through changes in silence is called \"Aethoria.\" Aethoria is a system of communication that relies on the manipulation of silence to convey meaning.\n\nTo speak Aethoria, one must be able to control the flow of silence, creating patterns and rhythms that represent words, phrases, and even emotions. This is achieved through a combination of vocalizations, body language, and facial expressions.\n\nFor example, to say \"hello\" in Aethoria, a speaker might create a series of short, quick silences, followed by a longer, more deliberate pause. This pattern of silence would be accompanied by a gentle nod of the head and a subtle smile.\n\nAethoria is a complex and nuanced language, with a rich history and cultural significance. It is often used in spiritual ceremonies, artistic expression, and even as a form of therapy.\n\nThe people of Silentia have developed a deep understanding of the power of silence, and Aethoria is a testament to their wisdom and creativity. They believe that silence is a form of communication, and that by controlling the flow of silence, they can connect with others in a way that is both profound and transcendent.",
+  "events_count": 5,
+  "max_mean_delta": 0.20239143192488263,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.20239143192488263,
+      "median_impact": 0.20239143192488263,
+      "mean_prompt_shift": -0.2018298152916721
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.053727433775213496,
+      "median_impact": 0.05366847826086957,
+      "mean_prompt_shift": -0.05297623510972127
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.050758136094674555,
+      "median_impact": 0.050758136094674555,
+      "mean_prompt_shift": -0.04985954903411069
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.050758136094674555,
+      "median_impact": 0.050758136094674555,
+      "mean_prompt_shift": -0.04985954903411069
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 15,
+      "direction": -1,
+      "mean_delta": 0.06432291666666666,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 25,
+      "direction": -1,
+      "mean_delta": 0.05366847826086957,
+      "sign_agreement": 0.9782608695652174,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 42,
+      "direction": -1,
+      "mean_delta": 0.20239143192488263,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 44,
+      "direction": -1,
+      "mean_delta": 0.043190906398104266,
+      "sign_agreement": 0.990521327014218,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 86,
+      "direction": -1,
+      "mean_delta": 0.050758136094674555,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

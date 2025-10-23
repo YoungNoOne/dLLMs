@@ -1,0 +1,110 @@
+{
+  "name": "eternal_student",
+  "prompt": "Education becomes infinite. Write a scene where a 300-year-old student debates whether to finally graduate.",
+  "decoded": "The 300-year-old student sat in the middle of the classroom, staring at the blackboard. They had been attending classes for over 300 years, and they had learned so much in that time. But as they looked at the blackboard, they realized that there was still so much to learn.\n\nThey had been studying for the final exam for years, and they had finally reached the point where they felt like they were ready to take it. But as they looked at the clock, they realized that they had only a few hours left before the exam.\n\nThe student was torn. On one hand, they wanted to graduate and move on to the next chapter of their life. But on the other hand, they felt like they were still learning so much and that they didn't want to stop yet.\n\nAs they sat there, staring at the blackboard, they couldn't help but wonder if they would ever be able to learn everything they wanted to know. They knew that education was infinite, but they also knew that they had to make a choice.\n\nSo, the student made a decision. They would take the final exam and graduate, but they would also continue to learn and explore the world around them.",
+  "events_count": 8,
+  "max_mean_delta": 0.15271381578947368,
+  "max_sign_agreement": 1.0,
+  "token_count": 8,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.09587937585786634,
+      "median_impact": 0.09587937585786634,
+      "mean_prompt_shift": -0.09540339551630064
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.061130478087649404,
+      "median_impact": 0.061130478087649404,
+      "mean_prompt_shift": -0.06030077359213948
+    },
+    {
+      "category": "punctuation",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.04387717399586254,
+      "median_impact": 0.04194309186674186,
+      "mean_prompt_shift": -0.018569142277687155
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.04387717399586254,
+      "median_impact": 0.04194309186674186,
+      "mean_prompt_shift": -0.018569142277687155
+    },
+    {
+      "category": "empty",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04140009842519685,
+      "median_impact": 0.04140009842519685,
+      "mean_prompt_shift": -0.04118985930986563
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 1,
+      "direction": -1,
+      "mean_delta": 0.04140009842519685,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 4,
+      "direction": -1,
+      "mean_delta": 0.061130478087649404,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 21,
+      "direction": -1,
+      "mean_delta": 0.03420472756410257,
+      "sign_agreement": 0.9829059829059829,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 41,
+      "direction": -1,
+      "mean_delta": 0.03519275700934579,
+      "sign_agreement": 0.9766355140186916,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 64,
+      "direction": -1,
+      "mean_delta": 0.05741778468586387,
+      "sign_agreement": 0.9947643979057592,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 65,
+      "direction": -1,
+      "mean_delta": 0.15271381578947368,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 116,
+      "direction": -1,
+      "mean_delta": 0.039044935926258996,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 168,
+      "direction": 1,
+      "mean_delta": 0.04869342672413793,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

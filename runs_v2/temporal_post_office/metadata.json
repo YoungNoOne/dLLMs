@@ -1,0 +1,81 @@
+{
+  "name": "temporal_post_office",
+  "prompt": "A post office delivers letters to the past, but only to people who never existed. Compose one such impossible message.",
+  "decoded": "Dear Future Oneself,\n\nI hope this letter finds you well. I am writing to you from the future, and I would like to share with you some of the experiences and lessons that have shaped my life.\n\nI have traveled to distant planets, encountered advanced civilizations, and learned about the mysteries of the universe. I have also witnessed the evolution of humanity, from our early beginnings to our current state of technology.\n\nOne of the most important lessons I have learned is the value of resilience and perseverance. I have seen countless individuals overcome great obstacles to achieve their goals, and I have learned that success is not always easy, but it is possible with determination and hard work.\n\nI have also learned the importance of empathy and compassion. I have witnessed the power of kindness and understanding to transform individuals and communities, and I have learned to approach others with a sense of empathy and respect.\n\nI hope that these lessons will help you to navigate the challenges of life and to become a better person. I encourage you to be curious, to seek knowledge, and to always strive to be kind and compassionate to others.\n\nI look forward to hearing from you and learning about your experiences.\n\nBest regards,\n\nYour Future Oneself",
+  "events_count": 5,
+  "max_mean_delta": 0.24475788620283018,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.12412555747386383,
+      "median_impact": 0.06760458167330677,
+      "mean_prompt_shift": -0.11801408515961466
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0590020541487069,
+      "median_impact": 0.0590020541487069,
+      "mean_prompt_shift": 0.0594317286969496
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0590020541487069,
+      "median_impact": 0.0590020541487069,
+      "mean_prompt_shift": 0.0594317286969496
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.051350911458333336,
+      "median_impact": 0.051350911458333336,
+      "mean_prompt_shift": 0.06001790364583334
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 4,
+      "direction": -1,
+      "mean_delta": 0.06760458167330677,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 43,
+      "direction": -1,
+      "mean_delta": 0.24475788620283018,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 139,
+      "direction": 1,
+      "mean_delta": 0.0590020541487069,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 243,
+      "direction": 1,
+      "mean_delta": 0.051350911458333336,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 244,
+      "direction": -1,
+      "mean_delta": 0.060014204545454544,
+      "sign_agreement": 0.8181818181818182,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

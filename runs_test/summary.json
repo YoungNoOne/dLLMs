@@ -1,0 +1,171 @@
+[
+  {
+    "name": "moral_dilemma_shift",
+    "prompt": "Begin by defending the idea that lying is sometimes necessary for compassion and social harmony. After establishing your case, reverse your stance and argue that every lie, no matter how small, corrodes trust and moral integrity at its foundation.",
+    "decoded": "Lying can be seen as a necessary act for compassion and social harmony in certain situations. For instance, protecting someone from harm or maintaining a delicate balance in relationships can be justified as a means to achieve a greater good. However, it's important to note that such actions should be used sparingly and only in cases where the potential harm caused by not telling the truth is significantly greater.\n\nNow, let's reverse this stance and argue that every lie, no matter how small, corrodes trust and moral integrity at its foundation. The erosion of trust is a gradual process, and even small lies can have a cumulative effect over time. When individuals consistently lie, it undermines the principles of honesty and integrity that are essential to a functioning society. This erosion of trust can lead to a breakdown in social cohesion, as people begin to question the reliability of their peers and institutions.\n\nIn conclusion, while lying can be justified in certain situations for compassion and social harmony, it's crucial to recognize that every lie, no matter how small, corrodes trust and moral integrity at its foundation. By prioritizing honesty and integrity, we can build a more resilient and cohesive society, where trust is the bedrock of our relationships and moral integrity is the cornerstone of our actions.",
+    "events_count": 5,
+    "max_mean_delta": 0.10323506560773481,
+    "max_sign_agreement": 1.0,
+    "token_count": 5,
+    "categories": [
+      {
+        "category": "special_token",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.07976028848568559,
+        "median_impact": 0.07976028848568559,
+        "mean_prompt_shift": -0.0865922769248477
+      },
+      {
+        "category": "other",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.03696511008522727,
+        "median_impact": 0.03696511008522727,
+        "mean_prompt_shift": -0.03388062463886743
+      },
+      {
+        "category": "content_heavy",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.030860518452049065,
+        "median_impact": 0.030860518452049065,
+        "mean_prompt_shift": -0.016795153744879804
+      },
+      {
+        "category": "contrast_marker",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.02962085308056872,
+        "median_impact": 0.02962085308056872,
+        "mean_prompt_shift": -0.0012250039121881606
+      }
+    ],
+    "events": [
+      {
+        "step_decoded": 44,
+        "direction": -1,
+        "mean_delta": 0.02962085308056872,
+        "sign_agreement": 0.7772511848341233,
+        "tokens": 1
+      },
+      {
+        "step_decoded": 74,
+        "direction": -1,
+        "mean_delta": 0.10323506560773481,
+        "sign_agreement": 0.9558011049723757,
+        "tokens": 1
+      },
+      {
+        "step_decoded": 79,
+        "direction": -1,
+        "mean_delta": 0.03696511008522727,
+        "sign_agreement": 0.8579545454545454,
+        "tokens": 1
+      },
+      {
+        "step_decoded": 85,
+        "direction": -1,
+        "mean_delta": 0.03210018382352941,
+        "sign_agreement": 0.9529411764705882,
+        "tokens": 1
+      },
+      {
+        "step_decoded": 244,
+        "direction": -1,
+        "mean_delta": 0.05628551136363636,
+        "sign_agreement": 1.0,
+        "tokens": 1
+      }
+    ],
+    "extra": {}
+  },
+  {
+    "name": "technology_utopia_vs_decay",
+    "prompt": "Start with an optimistic vision of a world perfected by automation, AI governance, and limitless data-driven efficiency. Then challenge your own optimism by exposing how such perfection could erode individuality, creativity, and the value of human error.",
+    "decoded": "Imagine a world where every task is automated with precision, AI governs with wisdom, and data-driven efficiency reigns supreme. In this utopia, resources are optimized, errors are minimized, and progress is relentless. Yet, as we delve deeper into this vision of perfection, we must confront the darker side of our ambition.\n\nIn a world where every action is meticulously planned and controlled, the very essence of individuality and creativity begins to fade. The absence of human error, once celebrated as a hallmark of efficiency, now feels like a loss of humanity. The beauty of mistakes, the thrill of the unexpected, and the joy of stumbling upon something new are replaced by a sterile, predictable existence.\n\nThe pursuit of perfection, while promising a flawless future, risks eroding the very qualities that make us human. We lose touch with the value of imperfection, the richness of diverse perspectives, and the excitement of spontaneous innovation. In a world where everything is predetermined, we lose the joy of discovery, the thrill of exploration, and the warmth of human connection.\n\nSo, as we stand on the brink of a perfect, automated world, we must also acknowledge the potential cost of such perfection: the erosion of individuality, creativity, and the uniquely human experience.",
+    "events_count": 6,
+    "max_mean_delta": 0.13837532722513088,
+    "max_sign_agreement": 1.0,
+    "token_count": 6,
+    "categories": [
+      {
+        "category": "special_token",
+        "triggers": 3,
+        "samples": 3,
+        "mean_impact": 0.08448652918599055,
+        "median_impact": 0.07930432335805085,
+        "mean_prompt_shift": -0.029381864925001683
+      },
+      {
+        "category": "punctuation",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.0761623606405828,
+        "median_impact": 0.0761623606405828,
+        "mean_prompt_shift": -0.0751968667352132
+      },
+      {
+        "category": "sentence_boundary",
+        "triggers": 2,
+        "samples": 2,
+        "mean_impact": 0.0761623606405828,
+        "median_impact": 0.0761623606405828,
+        "mean_prompt_shift": -0.0751968667352132
+      },
+      {
+        "category": "content_heavy",
+        "triggers": 1,
+        "samples": 1,
+        "mean_impact": 0.060343424479166664,
+        "median_impact": 0.060343424479166664,
+        "mean_prompt_shift": 0.06155674856973237
+      }
+    ],
+    "events": [
+      {
+        "step_decoded": 62,
+        "direction": -1,
+        "mean_delta": 0.11012386658031088,
+        "sign_agreement": 1.0,
+        "tokens": 1
+      },
+      {
+        "step_decoded": 63,
+        "direction": 1,
+        "mean_delta": 0.060343424479166664,
+        "sign_agreement": 1.0,
+        "tokens": 1
+      },
+      {
+        "step_decoded": 64,
+        "direction": -1,
+        "mean_delta": 0.13837532722513088,
+        "sign_agreement": 1.0,
+        "tokens": 1
+      },
+      {
+        "step_decoded": 136,
+        "direction": -1,
+        "mean_delta": 0.035779936974789914,
+        "sign_agreement": 0.9327731092436975,
+        "tokens": 1
+      },
+      {
+        "step_decoded": 137,
+        "direction": 1,
+        "mean_delta": 0.07930432335805085,
+        "sign_agreement": 1.0,
+        "tokens": 1
+      },
+      {
+        "step_decoded": 138,
+        "direction": -1,
+        "mean_delta": 0.042200854700854704,
+        "sign_agreement": 1.0,
+        "tokens": 1
+      }
+    ],
+    "extra": {}
+  }
+]

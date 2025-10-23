@@ -1,0 +1,59 @@
+{
+  "name": "broken_promise",
+  "prompt": "Write a monologue from the perspective of a promise that has just been broken.",
+  "decoded": "Oh, the agony of a broken promise. I was meant to be the anchor of your heart, the glue that held you together. But now, I'm shattered, a painful reminder of what could have been. I was supposed to be the foundation of your trust, the rock that kept you grounded. But instead, I've been thrown away like a broken toy, discarded and forgotten.\n\nI was meant to be the spark of your passion, the flame that kept you burning. But now, I'm extinguished, a dying ember in the fire of your disappointment. I was supposed to be the shelter of your soul, the haven that kept you safe. But instead, I've been abandoned, left to rot in the darkness of your neglect.\n\nI was meant to be the music of your life, the melody that kept you singing. But now, I'm a discordant note, a sour note in the symphony of your heartbreak. I was supposed to be the promise of your future, the hope that kept you dreaming. But instead, I've been shattered, a painful reminder of what could have been.\n\nOh, the agony of a broken promise. I'm shattered, broken, a painful reminder of what could have been.",
+  "events_count": 3,
+  "max_mean_delta": 0.21121888241525424,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.21121888241525424,
+      "median_impact": 0.21121888241525424,
+      "mean_prompt_shift": -0.21111622339792419
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.040387939322498664,
+      "median_impact": 0.040387939322498664,
+      "mean_prompt_shift": 0.0006278987607679226
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.040387939322498664,
+      "median_impact": 0.040387939322498664,
+      "mean_prompt_shift": 0.0006278987607679226
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 77,
+      "direction": -1,
+      "mean_delta": 0.039918363764044944,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 78,
+      "direction": -1,
+      "mean_delta": 0.21121888241525424,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 150,
+      "direction": 1,
+      "mean_delta": 0.04085751488095238,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

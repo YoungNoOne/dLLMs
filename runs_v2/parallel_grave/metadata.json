@@ -1,0 +1,51 @@
+{
+  "name": "parallel_grave",
+  "prompt": "Graves begin containing alternate versions of the deceased. Write a eulogy delivered by one of them.",
+  "decoded": "Ladies and gentlemen,\n\nToday, we gather to celebrate the life of a man who was not just a person, but a force of nature. His name is John Doe, and he is not just a man, but a version of himself.\n\nJohn Doe was a man who lived a life of love and compassion. He was a father, a husband, and a friend. He was a man who believed in the power of love and the importance of family. He was a man who was not afraid to speak his mind and to stand up for what he believed in.\n\nBut what makes John Doe truly special is that he is not just a version of himself. He is a version of himself who has been touched by the power of the universe. He is a version of himself who has been guided by the wisdom of the ages. He is a version of himself who has been blessed by the love of others.\n\nToday, we celebrate the life of a man who was not just a person, but a version of himself. We celebrate the life of a man who was not just a man, but a force of nature. We celebrate the life of a man who was not just a man, but a legend.\n\nThank you.",
+  "events_count": 3,
+  "max_mean_delta": 0.19301162347560977,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.12832612423780487,
+      "median_impact": 0.12832612423780487,
+      "mean_prompt_shift": -0.12769692699056362
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0900735294117647,
+      "median_impact": 0.0900735294117647,
+      "mean_prompt_shift": -0.0897163601667278
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 5,
+      "direction": -1,
+      "mean_delta": 0.063640625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 34,
+      "direction": -1,
+      "mean_delta": 0.0900735294117647,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 50,
+      "direction": -1,
+      "mean_delta": 0.19301162347560977,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

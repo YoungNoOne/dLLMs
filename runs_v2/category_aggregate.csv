@@ -1,0 +1,15 @@
+category,triggers,samples,mean_impact,mean_prompt_shift,dir_pos,dir_neg
+special_token,527,527,0.138513,-0.100551,97,430
+content_heavy,386,386,0.077185,-0.009483,128,258
+punctuation,270,270,0.091215,-0.065337,48,222
+sentence_boundary,237,237,0.090967,-0.073793,34,203
+other,205,205,0.097574,0.039289,124,81
+clause_boundary,25,25,0.083913,0.011698,12,13
+bracket,8,8,0.121379,-0.055575,2,6
+cause_marker,7,7,0.077788,0.018950,3,4
+contrast_marker,5,5,0.090120,-0.000584,2,3
+empty,5,5,0.077501,-0.045762,1,4
+addition_marker,4,4,0.060465,0.013726,2,2
+condition_marker,3,3,0.052762,-0.051737,0,3
+filler_marker,2,2,0.052407,0.053618,2,0
+temporal_marker,2,2,0.062163,0.065217,2,0

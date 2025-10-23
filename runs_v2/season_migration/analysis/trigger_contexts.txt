@@ -1,0 +1,3 @@
+step_decoded=127 pos=146 dir=+ impact=0.052294 shift=0.052910 cats=content_heavy earlier=30 later=2 same=0
+.^(-31) The^(-30) weather^(-27) is^(-28) warm^(-26) and^(-25) sunny^(-21),^(-24) and^(-23) the^(-22) scenery^(-17) is^(-20) perfect^(-19) for^(-18) a^(-16) relaxing^(-15) [Ġgetaway^(+0)] .^(-14) ^(-13)Ċ^(-12)Ċ^(-11)If^(-10) you^(-9)'re^(-8) in^(-7) Asia^(-2),^(-5) you^(-4) can^(-3) visit^(-6) the^(-1) northern^(+15) regions^(+1)
+

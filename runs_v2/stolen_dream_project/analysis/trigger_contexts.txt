@@ -1,0 +1,12 @@
+step_decoded=6 pos=47 dir=+ impact=0.181499 shift=0.183286 cats=content_heavy earlier=6 later=21 same=0
+Subject^(-5):^(-6) Internal^(+8) Memo^(+9):^(+5) Pat^(+3)ents^(+4) on^(+7) Dreams^(+6)Ċ^(-4)Ċ^(-3) [To^(+0)] :^(-2) All^(-1) Employees^(+2)Ċ^(+1)Ċ^(+10)From^(+12):^(+11) Corporate^(+23) Headquarters^(+25)Ċ^(+14)Ċ^(+13)Date^(+15):^(+16) [^(+17)Date^(+21)]^(+20)
+
+step_decoded=8 pos=50 dir=- impact=0.104164 shift=-0.103382 cats=content_heavy earlier=8 later=22 same=0
+Subject^(-7):^(-8) Internal^(+6) Memo^(+7):^(+3) Pat^(+1)ents^(+2) on^(+5) Dreams^(+4)Ċ^(-6)Ċ^(-5)To^(-2):^(-4) All^(-3) [ĠEmployees^(+0)] Ċ^(-1)Ċ^(+8)From^(+10):^(+9) Corporate^(+21) Headquarters^(+23)Ċ^(+12)Ċ^(+11)Date^(+13):^(+14) [^(+15)Date^(+19)]^(+18)Ċ^(+17)Ċ^(+16)Dear^(+20)
+
+step_decoded=21 pos=59 dir=+ impact=0.186423 shift=0.187856 cats=content_heavy earlier=14 later=18 same=0
+ on^(-8) Dreams^(-9)Ċ^(-19)Ċ^(-18)To^(-15):^(-17) All^(-16) Employees^(-13)Ċ^(-14)Ċ^(-5)From^(-3):^(-4) Corporate^(+8) Headquarters^(+10)Ċ^(-1)Ċ^(-2) [Date^(+0)] :^(+1) [^(+2)Date^(+6)]^(+5)Ċ^(+4)Ċ^(+3)Dear^(+7) All^(+9),^(+12)Ċ^(+13)Ċ^(+11)We^(+14) are^(+15) pleased^(+18) to^(+17) announce^(+16)
+
+step_decoded=28 pos=66 dir=+ impact=0.190847 shift=0.192170 cats=content_heavy earlier=14 later=18 same=0
+ Employees^(-20)Ċ^(-21)Ċ^(-12)From^(-10):^(-11) Corporate^(+1) Headquarters^(+3)Ċ^(-8)Ċ^(-9)Date^(-7):^(-6) [^(-5)Date^(-1)]^(-2)Ċ^(-3)Ċ^(-4) [Dear^(+0)]  All^(+2),^(+5)Ċ^(+6)Ċ^(+4)We^(+7) are^(+8) pleased^(+11) to^(+10) announce^(+9) that^(+12) we^(+13) have^(+14) successfully^(+15) secured^(+18) patents^(+16) on^(+17)
+

@@ -1,0 +1,6 @@
+step_decoded=3 pos=37 dir=- impact=0.059322 shift=-0.058795 cats=content_heavy earlier=3 later=19 same=0
+The^(-3) last^(+2) day^(+1) the^(-1) word^(-2) '^(+4) [hope^(+0)] '^(+3) is^(+6) legal^(+5) is^(+7) the^(+8) day^(+9) it^(+10) ceases^(+11) to^(+12) exist^(+13).^(+14) In^(+15) a^(+16) world^(+18) where^(+17) words^(+19)
+
+step_decoded=251 pos=280 dir=+ impact=0.033203 shift=0.027734 cats=content_heavy earlier=18 later=4 same=0
+ the^(-19) fleeting^(-15) nature^(-17) of^(-16) language^(-12) and^(-13) the^(-14) importance^(-6) of^(-8) using^(-7) and^(-4) preserving^(-5) words^(-3) that^(-2) inspire^(-1) and^(+1) [Ġuplift^(+0)]  the^(+3) human^(+2) spirit^(+4).^(-10)<|eot_id|>^(-9)<|endoftext|>^(-11)
+

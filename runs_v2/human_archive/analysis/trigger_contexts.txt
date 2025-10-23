@@ -1,0 +1,3 @@
+step_decoded=9 pos=51 dir=+ impact=0.112392 shift=0.113496 cats=content_heavy earlier=9 later=19 same=0
+**^(-9)Index^(-7) Entry^(-8):^(-6) Un^(+1)catalog^(+3)ed^(+2) Consciousness^(+6)**^(-3)Ċ^(-5)Ċ^(-4)**^(-2) [Name^(+0)] :**^(-1) Un^(+4)catalog^(+5)ed^(+7)Ċ^(+11)Ċ^(+8)**^(+10)Date^(+22):**^(+9) Un^(+16)catalog^(+18)ed^(+17)Ċ^(+12)Ċ^(+14)**^(+13)Location^(+21)
+

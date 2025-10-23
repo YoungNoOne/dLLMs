@@ -1,0 +1,6 @@
+step_decoded=12 pos=64 dir=- impact=0.034674 shift=-0.033349 cats=content_heavy earlier=12 later=17 same=0
+Social^(-11) media^(-12) has^(-10) emerged^(-2) as^(-3) a^(-7) revolutionary^(-6) form^(-4) of^(-1) self^(-8)-expression^(-9),^(-5) empowering^(+2) [Ġmarginalized^(+0)]  voices^(+1) to^(+3) share^(+6) their^(+4) stories^(+5) and^(+7) perspectives^(+8) with^(+9) a^(+10) global^(+13) audience^(+11).^(+12) Platforms^(+14) like^(+15) Instagram^(+18),^(+17)
+
+step_decoded=117 pos=169 dir=- impact=0.036444 shift=-0.036007 cats=content_heavy earlier=15 later=17 same=0
+ cur^(-15)ate^(-14) and^(-12) present^(-13) a^(-11) polished^(-10),^(-9) ideal^(-8)ized^(-7) version^(-6) of^(-5) oneself^(-4)âĢĶ^(-3)can^(-2) also^(-1) flatten^(+1) [Ġidentity^(+0)]  into^(+2) algorithms^(+5) of^(+4) performance^(+7) and^(+6) validation^(+3).^(+8) The^(+9) curated^(+10) content^(+11) that^(+12) users^(+13) share^(+16) is^(+15) often^(+14) designed^(+17)
+

@@ -1,0 +1,95 @@
+{
+  "name": "unseen_color",
+  "prompt": "Scientists discover a new color that only appears when you\u2019re alone. Describe its effects.",
+  "decoded": "The new color, dubbed \"Solitude Blue,\" is a soft, calming shade that only appears when you're alone. It's a gentle, soothing hue that seems to emanate from the very fabric of your surroundings. As you gaze upon it, you feel an overwhelming sense of peace and tranquility wash over you.\n\nThe effects of Solitude Blue are profound. It's as if the world around you fades away, and you're left in a state of pure serenity. You feel a deep sense of connection to yourself, as if the color is speaking directly to your soul.\n\nAs you continue to stare at Solitude Blue, you begin to feel a sense of clarity and focus. Your thoughts become more centered, and you feel a renewed sense of purpose. It's as if the color is guiding you towards a deeper understanding of yourself and life.\n\nSolitude Blue also has a calming effect on your body. You feel a sense of relaxation, and your heart rate slows down. Your muscles relax, and you feel a sense of calm spreading through your body.\n\nOverall, Solitude Blue is a color that has a profound effect on your mental and physical state. It's a color that you'll want to experience when you're alone.",
+  "events_count": 7,
+  "max_mean_delta": 0.16075642903645834,
+  "max_sign_agreement": 1.0,
+  "token_count": 7,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.16075642903645834,
+      "median_impact": 0.16075642903645834,
+      "mean_prompt_shift": -0.1606450583238882
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.061511484491104995,
+      "median_impact": 0.04449659778225806,
+      "mean_prompt_shift": -0.061067927816215506
+    },
+    {
+      "category": "punctuation",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.04427714547054052,
+      "median_impact": 0.0426128066588785,
+      "mean_prompt_shift": -0.010831051124998464
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.04427714547054052,
+      "median_impact": 0.0426128066588785,
+      "mean_prompt_shift": -0.010831051124998464
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 5,
+      "direction": -1,
+      "mean_delta": 0.10446875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 7,
+      "direction": -1,
+      "mean_delta": 0.04449659778225806,
+      "sign_agreement": 0.9959677419354839,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 9,
+      "direction": -1,
+      "mean_delta": 0.03556910569105691,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 41,
+      "direction": -1,
+      "mean_delta": 0.0426128066588785,
+      "sign_agreement": 0.985981308411215,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 62,
+      "direction": -1,
+      "mean_delta": 0.04015544041450777,
+      "sign_agreement": 0.9948186528497409,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 63,
+      "direction": -1,
+      "mean_delta": 0.16075642903645834,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 170,
+      "direction": 1,
+      "mean_delta": 0.050063189338235295,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

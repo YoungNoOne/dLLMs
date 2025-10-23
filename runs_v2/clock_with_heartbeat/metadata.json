@@ -1,0 +1,44 @@
+{
+  "name": "clock_with_heartbeat",
+  "prompt": "A clock starts ticking in rhythm with your heartbeat\u2014and then slows down. What happens next?",
+  "decoded": "If a clock starts ticking in rhythm with your heartbeat and then slows down, it implies that the clock is synchronized with your heartbeat. When the clock slows down, it means that the time passing on the clock is now slower than the rate of your heartbeat.\n\nIn this scenario, the clock will continue to tick, but the frequency of the ticks will be lower than the frequency of your heartbeat. The clock will still be ticking, but the intervals between each tick will be longer than the intervals between your heartbeats.\n\nTo visualize this, imagine that your heartbeat is like a steady drumbeat, and the clock's ticks are like the sound of the drum. When the clock slows down, the sound of the drum becomes less frequent, but it's still there.\n\nIf you were to observe the clock and your heartbeat simultaneously, you would notice that the clock's ticks are now slower and less frequent than your heartbeats. This is because the clock is still ticking, but the time between each tick is now longer than the time between your heartbeats.\n\nIn summary, when the clock slows down, it will still be ticking, but the intervals between each tick will be longer, and the frequency of the ticks will be lower than your heartbeat.",
+  "events_count": 2,
+  "max_mean_delta": 0.1888116574754902,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1888116574754902,
+      "median_impact": 0.1888116574754902,
+      "mean_prompt_shift": -0.18823384632054047
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.035550025201612906,
+      "median_impact": 0.035550025201612906,
+      "mean_prompt_shift": -0.035392641635088706
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 7,
+      "direction": -1,
+      "mean_delta": 0.035550025201612906,
+      "sign_agreement": 0.9919354838709677,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 51,
+      "direction": -1,
+      "mean_delta": 0.1888116574754902,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,111 @@
+{
+  "name": "invisible_debt",
+  "prompt": "People inherit emotional debts from their ancestors. Write a scene where someone finally pays theirs off.",
+  "decoded": "I sat in my room, staring at the wall. I had been carrying the weight of my ancestors' emotional debts for so long. I had been trying to pay them off for years, but it was impossible. I couldn't shake the feeling that I was still carrying the burden of their mistakes.\n\nThen, one day, I received a letter from my great-great-grandmother. She had written to me, telling me that she had been able to pay off her own emotional debts. She had been able to forgive herself and others, and had been able to let go of the guilt that had been passed down to her.\n\nI felt a wave of relief wash over me. I realized that I needed to do the same. I needed to forgive myself and others, and let go of the guilt that had been passed down to me.\n\nI sat down with my family and friends, and we talked about our past mistakes and the hurt we had caused to each other. We laughed, and we cried, and we forgave each other.\n\nIn that moment, I felt a sense of peace and freedom that I had never felt before. I had finally paid off my emotional debts, and I was free to start a new life.",
+  "events_count": 7,
+  "max_mean_delta": 0.21808235012755103,
+  "max_sign_agreement": 1.0,
+  "token_count": 7,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.1471922167304422,
+      "median_impact": 0.1471922167304422,
+      "mean_prompt_shift": -0.07732602052956332
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.062255859375,
+      "median_impact": 0.062255859375,
+      "mean_prompt_shift": -0.061146763392857156
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.06006202028508772,
+      "median_impact": 0.05908203125,
+      "mean_prompt_shift": 0.023704366615067075
+    },
+    {
+      "category": "temporal_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05831106085526316,
+      "median_impact": 0.05831106085526316,
+      "mean_prompt_shift": 0.05960115131578947
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05530218908629442,
+      "median_impact": 0.05530218908629442,
+      "mean_prompt_shift": -0.055214662487822475
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05530218908629442,
+      "median_impact": 0.05530218908629442,
+      "mean_prompt_shift": -0.055214662487822475
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 58,
+      "direction": -1,
+      "mean_delta": 0.05530218908629442,
+      "sign_agreement": 0.9898477157360406,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 59,
+      "direction": -1,
+      "mean_delta": 0.21808235012755103,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 235,
+      "direction": -1,
+      "mean_delta": 0.062255859375,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 236,
+      "direction": 1,
+      "mean_delta": 0.05831106085526316,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 239,
+      "direction": -1,
+      "mean_delta": 0.05908203125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 240,
+      "direction": 1,
+      "mean_delta": 0.07630208333333334,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 250,
+      "direction": 1,
+      "mean_delta": 0.06279296875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

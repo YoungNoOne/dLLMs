@@ -1,0 +1,3 @@
+step_decoded=13 pos=49 dir=- impact=0.035640 shift=-0.034748 cats=content_heavy earlier=13 later=15 same=0
+Welcome^(-13) to^(-12) the^(-11) city^(-10) of^(-9) unfinished^(-3) projects^(-2),^(-8) a^(-7) place^(-6) where^(-5) the^(-4) [Ġpromise^(+0)]  of^(-1) the^(+1) future^(+2) is^(+3) as^(+4) tangible^(+7) as^(+5) the^(+6) echoes^(+14) of^(+8) the^(+10) past^(+11).^(+9) Here^(+12),^(+13) the^(+15)
+

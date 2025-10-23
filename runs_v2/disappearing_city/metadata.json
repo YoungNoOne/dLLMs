@@ -1,0 +1,89 @@
+{
+  "name": "disappearing_city",
+  "prompt": "A city slowly fades from reality every time someone forgets its name. Write an emergency broadcast urging people to remember.",
+  "decoded": "**EMERGENCY BROADCAST**\n\n**Attention All Citizens:**\n\nWe are speaking to you in a moment of great urgency. Our city is slowly fading from reality, and it is up to each of us to ensure its survival.\n\nEvery time someone forgets the name of our city, it takes a step towards extinction. We must work together to keep our city alive.\n\nWe urge you to:\n\n1. **Remember the name of our city**: Repeat it to yourself, write it down, and share it with others.\n2. **Educate others**: Teach your friends, family, and neighbors about the name of our city.\n3. **Stay informed**: Keep up-to-date with news and information about our city.\n4. **Get involved**: Participate in community events and activities that celebrate our city.\n\nTogether, we can prevent our city from fading into the void. Let us not forget the name of our city, and let us work to keep it alive for generations to come.\n\n**End of Broadcast**\n\n**Note:** This broadcast is an emergency alert, and it is crucial that all citizens take immediate action to remember the name of our city and help ensure its survival.",
+  "events_count": 5,
+  "max_mean_delta": 0.2385100679916318,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.17671589994635192,
+      "median_impact": 0.17671589994635192,
+      "mean_prompt_shift": 0.17765311121542682
+    },
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.14963659091545875,
+      "median_impact": 0.14963659091545875,
+      "mean_prompt_shift": -0.08822530111970789
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.12551153273809523,
+      "median_impact": 0.12551153273809523,
+      "mean_prompt_shift": -0.12472772434551804
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.12551153273809523,
+      "median_impact": 0.12551153273809523,
+      "mean_prompt_shift": -0.12472772434551804
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06740806842672414,
+      "median_impact": 0.06740806842672414,
+      "mean_prompt_shift": -0.06652609822452638
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 16,
+      "direction": -1,
+      "mean_delta": 0.2385100679916318,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 22,
+      "direction": 1,
+      "mean_delta": 0.17671589994635192,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 23,
+      "direction": -1,
+      "mean_delta": 0.06740806842672414,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 24,
+      "direction": -1,
+      "mean_delta": 0.12551153273809523,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 115,
+      "direction": 1,
+      "mean_delta": 0.06076311383928571,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

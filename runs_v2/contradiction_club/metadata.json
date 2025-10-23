@@ -1,0 +1,110 @@
+{
+  "name": "contradiction_club",
+  "prompt": "A secret club exists where every statement must contradict the one before. Write a fragment of dialogue from their latest meeting.",
+  "decoded": "**Alice:** \"We're going to meet at the park tonight.\"\n\n**Bob:** \"No, we're going to meet at the library.\"\n\n**Charlie:** \"Actually, we're going to meet at the caf\u00e9.\"\n\n**David:** \"Wrong, we're going to meet at the museum.\"\n\n**Eve:** \"No, we're going to meet at the beach.\"\n\n**Frank:** \"Actually, we're going to meet at the library.\"\n\n**Grace:** \"No, we're going to meet at the caf\u00e9.\"\n\n**Hank:** \"Wrong, we're going to meet at the museum.\"\n\n**Ian:** \"No, we're going to meet at the beach.\"\n\n**Jane:** \"Actually, we're going to meet at the library.\"\n\n**Kevin:** \"No, we're going to meet at the caf\u00e9.\"\n\n**Lisa:** \"Wrong, we're going to meet at the museum.\"\n\n**Mike:** \"No, we're going to meet at the beach.\"\n\n**Nancy:** \"Actually, we're going to meet at the library.\"\n\n**Oliver:** \"No, we're going to meet at the caf\u00e9.\"",
+  "events_count": 8,
+  "max_mean_delta": 0.18043266817269077,
+  "max_sign_agreement": 1.0,
+  "token_count": 8,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.15722463960819005,
+      "median_impact": 0.15722463960819005,
+      "mean_prompt_shift": -0.02294485610498137
+    },
+    {
+      "category": "other",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.15350849548608567,
+      "median_impact": 0.15380487868711673,
+      "mean_prompt_shift": 0.00652827942537422
+    },
+    {
+      "category": "bracket",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.12895063920454544,
+      "median_impact": 0.12895063920454544,
+      "mean_prompt_shift": -0.12861774025606748
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.12895063920454544,
+      "median_impact": 0.12895063920454544,
+      "mean_prompt_shift": -0.12861774025606748
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.07983206200787402,
+      "median_impact": 0.07983206200787402,
+      "mean_prompt_shift": -0.07957689227265707
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 1,
+      "direction": -1,
+      "mean_delta": 0.07983206200787402,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 6,
+      "direction": -1,
+      "mean_delta": 0.18043266817269077,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 16,
+      "direction": 1,
+      "mean_delta": 0.17286382060669456,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 17,
+      "direction": -1,
+      "mean_delta": 0.16129694065126052,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 33,
+      "direction": 1,
+      "mean_delta": 0.14631281672297297,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 35,
+      "direction": -1,
+      "mean_delta": 0.12895063920454544,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 49,
+      "direction": 1,
+      "mean_delta": 0.1340166110436893,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 50,
+      "direction": -1,
+      "mean_delta": 0.13356040396341465,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,29 @@
+{
+  "name": "echo_of_decisions",
+  "prompt": "Every decision leaves behind an audible echo that only you can hear. Capture a moment when those echoes start overlapping and become unbearable.",
+  "decoded": "I can't capture a moment, but I can describe it to you.\n\nImagine you're standing in a vast, empty room, and every step you take leaves a faint echo. At first, the echoes are soft and barely noticeable, but as you continue to walk, they start to overlap and become more intense.\n\nSuddenly, the echoes are loud and overwhelming, and you can hear every past decision, every choice, every fear, and every regret. The echoes are like a cacophony of voices, each one screaming at you to do this, to do that, to do nothing.\n\nYou feel like you're drowning in a sea of choices, and you can't find a way out. The echoes are too loud, and you can't hear your own voice. You're trapped in a web of decisions, and you can't escape.\n\nThis moment is like a tipping point, where the echoes of your past decisions become too much to bear. It's a moment of clarity, where you realize that you need to take a step back, reassess your choices, and find a new path forward.\n\nIt's a moment of transformation, where you confront the weight of your past and the consequences of your decisions.",
+  "events_count": 1,
+  "max_mean_delta": 0.2834948781120332,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2834948781120332,
+      "median_impact": 0.2834948781120332,
+      "mean_prompt_shift": -0.2827804312695038
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 14,
+      "direction": -1,
+      "mean_delta": 0.2834948781120332,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

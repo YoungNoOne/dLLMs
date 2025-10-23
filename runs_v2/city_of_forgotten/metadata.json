@@ -1,0 +1,103 @@
+{
+  "name": "city_of_forgotten",
+  "prompt": "Invent a city where forgotten people go to start over.",
+  "decoded": "In the heart of a dense forest, hidden behind a veil of mist, lies the city of Aeloria. This mystical metropolis is a sanctuary for those who have been forgotten by society, offering a chance to start over and reclaim their lives.\n\nAeloria is a city of whispers, where the past is honored and the future is embraced. The streets are lined with ancient trees, their branches intertwined like the fingers of forgotten souls. The air is thick with the scent of blooming flowers and the soft hum of unseen creatures.\n\nHere, the forgotten can find a sense of belonging and purpose. The city is home to a diverse group of people, each with their own unique story and talent. There are those who have found their voice in the arts, others who have discovered their passion for science, and some who have found solace in the beauty of nature.\n\nAeloria is a city of hope, where the forgotten can rebuild their lives and forge a new path. It is a place where the past is not a burden, but a source of inspiration for the future. Here, the forgotten can find a sense of peace and acceptance, knowing that they are no longer alone, and that they have a chance to live their lives once again.",
+  "events_count": 7,
+  "max_mean_delta": 0.16933404126213591,
+  "max_sign_agreement": 1.0,
+  "token_count": 7,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.11018843525160367,
+      "median_impact": 0.11018843525160367,
+      "mean_prompt_shift": -0.11806288082122776
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.07514341787439613,
+      "median_impact": 0.07514341787439613,
+      "mean_prompt_shift": -0.07541309755028336
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.07514341787439613,
+      "median_impact": 0.07514341787439613,
+      "mean_prompt_shift": -0.07541309755028336
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.057867809734513276,
+      "median_impact": 0.057867809734513276,
+      "mean_prompt_shift": -0.0571598390413629
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.05687119970408014,
+      "median_impact": 0.05943080357142857,
+      "mean_prompt_shift": -0.030167913839864762
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 2,
+      "direction": -1,
+      "mean_delta": 0.07177927371541502,
+      "sign_agreement": 0.9960474308300395,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 3,
+      "direction": 1,
+      "mean_delta": 0.039403521825396824,
+      "sign_agreement": 0.9603174603174603,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 17,
+      "direction": -1,
+      "mean_delta": 0.05943080357142857,
+      "sign_agreement": 0.9957983193277311,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 29,
+      "direction": -1,
+      "mean_delta": 0.057867809734513276,
+      "sign_agreement": 0.9778761061946902,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 48,
+      "direction": -1,
+      "mean_delta": 0.07514341787439613,
+      "sign_agreement": 0.9951690821256038,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 49,
+      "direction": -1,
+      "mean_delta": 0.16933404126213591,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 241,
+      "direction": -1,
+      "mean_delta": 0.05104282924107143,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

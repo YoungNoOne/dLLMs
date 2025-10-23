@@ -1,0 +1,36 @@
+{
+  "name": "eternal_mistake",
+  "prompt": "Someone invents a machine that repeats their greatest mistake forever.",
+  "decoded": "That sounds like a fascinating and unsettling scenario. It's a concept that explores the idea of infinite repetition and the consequences of our actions.\n\nImagine a machine that can take a person's greatest mistake and repeat it over and over again, with no end in sight. It would be a terrifying and isolating experience for the person, as they would be forced to relive their worst moment without any hope of redemption or resolution.\n\nThis concept also raises interesting questions about the nature of time, memory, and the human experience. If a person's greatest mistake can be repeated forever, what does that say about the value of their actions and the importance of their mistakes?\n\nIt's a thought-provoking scenario that challenges our understanding of the world and our place in it.",
+  "events_count": 2,
+  "max_mean_delta": 0.19746265076754385,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.13704233002244381,
+      "median_impact": 0.13704233002244381,
+      "mean_prompt_shift": -0.1364455795288387
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 27,
+      "direction": -1,
+      "mean_delta": 0.19746265076754385,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 159,
+      "direction": -1,
+      "mean_delta": 0.07662200927734375,
+      "sign_agreement": 0.9479166666666666,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

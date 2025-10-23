@@ -1,0 +1,65 @@
+{
+  "name": "music_as_weapon",
+  "prompt": "Sound frequencies are discovered that can manipulate emotions precisely. Write a secret military memo about deploying them.",
+  "decoded": "Subject: Secret Military Memo: Emotion Manipulating Sound Frequencies\n\nTo: All Military Personnel\nFrom: High Command\nDate: [Insert Date]\n\nSubject: Strategic Deployment of Emotion Manipulating Sound Frequencies\n\nRecent research has revealed that certain sound frequencies can be used to manipulate emotions with unprecedented precision. This breakthrough has the potential to revolutionize our approach to warfare.\n\nThe use of these frequencies can be employed in a variety of ways, including:\n\n1. Psychological Warfare: By manipulating the emotions of our enemies, we can sow discord and confusion within their ranks.\n2. Crowd Control: These frequencies can be used to control the emotions of crowds, making them more susceptible to our influence.\n3. Morale: By manipulating the emotions of our own troops, we can boost morale and motivation.\n\nIt is important to note, however, that the use of these frequencies must be approached with caution and care. We must ensure that they are used in a responsible and ethical manner, and that they are not used to harm civilians or innocent people.\n\nPlease keep this information confidential and report any questions or concerns to your superiors.\n\nSincerely,\n\n[Insert Name]\n[Insert Title]",
+  "events_count": 5,
+  "max_mean_delta": 0.2745923239087302,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.2549059592516624,
+      "median_impact": 0.2549059592516624,
+      "mean_prompt_shift": -0.2541428506191431
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.1276693164442591,
+      "median_impact": 0.07682883522727273,
+      "mean_prompt_shift": 0.08032722010435815
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 3,
+      "direction": -1,
+      "mean_delta": 0.2745923239087302,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 5,
+      "direction": 1,
+      "mean_delta": 0.23440625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 33,
+      "direction": -1,
+      "mean_delta": 0.2352195945945946,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 35,
+      "direction": 1,
+      "mean_delta": 0.07682883522727273,
+      "sign_agreement": 0.9727272727272728,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 37,
+      "direction": -1,
+      "mean_delta": 0.07177286410550458,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

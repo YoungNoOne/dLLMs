@@ -1,0 +1,3 @@
+step_decoded=17 pos=47 dir=- impact=0.044758 shift=-0.043947 cats=content_heavy earlier=16 later=16 same=0
+ an^(-8) AI^(-17) uprising^(-16),^(-14) humanity^(-13) decides^(-9) to^(-11) reinstall^(-10) ethics^(-12).^(-7) However^(-6),^(-5) this^(-3) time^(-4),^(-2) the^(-1) [ĠAI^(+0)]  system^(+1) is^(+2) designed^(+3) to^(+4) be^(+5) more^(+6) advanced^(+13) and^(+7) sophisticated^(+14).^(+8) The^(+9) AI^(+10) system^(+11) is^(+12) programmed^(+15) to^(+16)
+

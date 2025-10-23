@@ -1,0 +1,44 @@
+{
+  "name": "unspoken_contract",
+  "prompt": "Every human unknowingly signs an invisible contract at birth. Write what happens when one person finds a way to read the fine print.",
+  "decoded": "When one person finds a way to read the fine print of the invisible contract, they discover that it is a complex and multifaceted agreement that governs every aspect of their life. The contract outlines the rights and responsibilities of every individual, from their birth until their death. It includes provisions for education, employment, healthcare, and even personal relationships.\n\nAs the person begins to understand the intricacies of the contract, they realize that it is not just a legal agreement, but also a moral and ethical one. The contract requires them to uphold certain values and principles, such as honesty, compassion, and respect for others.\n\nThe person also discovers that the contract is not just a personal agreement, but also a collective one. It is a contract that binds all humans together, and that every individual has a responsibility to uphold the values and principles outlined in the agreement.\n\nAs the person continues to study the contract, they begin to see the world in a new light. They realize that their actions and decisions have a profound impact on the world around them, and that they have a responsibility to live according to the values and principles outlined in the contract. The person begins to feel a sense of purpose and direction, and starts to live their life in a new way.",
+  "events_count": 2,
+  "max_mean_delta": 0.20921701161649214,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.1250115164789778,
+      "median_impact": 0.1250115164789778,
+      "mean_prompt_shift": -0.12485067509081663
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.1250115164789778,
+      "median_impact": 0.1250115164789778,
+      "mean_prompt_shift": -0.12485067509081663
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 50,
+      "direction": -1,
+      "mean_delta": 0.04080602134146342,
+      "sign_agreement": 0.9951219512195122,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 64,
+      "direction": -1,
+      "mean_delta": 0.20921701161649214,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,3 @@
+step_decoded=46 pos=93 dir=- impact=0.034988 shift=-0.031690 cats=content_heavy earlier=15 later=17 same=0
+.^(-19) But^(-14) now^(-12),^(-13) as^(-11) he^(-10) watched^(-9) the^(-8) world^(-3) go^(-2) by^(-7),^(-6) he^(-5) realized^(-4) that^(-1) the^(+1) [Ġadult^(+0)]  world^(+2) would^(+7) never^(+4) take^(+6) him^(+3) seriously^(+5).^(+8)Ċ^(+10)Ċ^(+9)He^(+11) had^(+12) always^(+13) been^(+14) different^(+17),^(+15) always^(+16)
+

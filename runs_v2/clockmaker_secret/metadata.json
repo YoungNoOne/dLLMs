@@ -1,0 +1,99 @@
+{
+  "name": "clockmaker_secret",
+  "prompt": "An old clockmaker builds a clock that can stop time for everyone except the listener. Write what they use it for.",
+  "decoded": "The old clockmaker uses the clock to tell stories. When they start a story, they wind the clock, and time stops for everyone else, allowing the listener to fully immerse themselves in the tale. The clockmaker's voice carries the story, and the listener is transported to another world, where the passage of time is forgotten. The clockmaker's story becomes a magical experience, and the listener feels as though they are part of the story itself.",
+  "events_count": 11,
+  "max_mean_delta": 0.20450994318181817,
+  "max_sign_agreement": 1.0,
+  "token_count": 11,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 11,
+      "samples": 11,
+      "mean_impact": 0.10435278462602154,
+      "median_impact": 0.09064398871527778,
+      "mean_prompt_shift": 0.020204870252462686
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 90,
+      "direction": 1,
+      "mean_delta": 0.20450994318181817,
+      "sign_agreement": 0.896969696969697,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 92,
+      "direction": -1,
+      "mean_delta": 0.1209679351993865,
+      "sign_agreement": 0.9325153374233128,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 148,
+      "direction": -1,
+      "mean_delta": 0.08371057242990654,
+      "sign_agreement": 0.8878504672897196,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 173,
+      "direction": 1,
+      "mean_delta": 0.08829554115853659,
+      "sign_agreement": 0.9512195121951219,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 178,
+      "direction": -1,
+      "mean_delta": 0.10023082386363637,
+      "sign_agreement": 0.974025974025974,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 179,
+      "direction": 1,
+      "mean_delta": 0.08201840049342106,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 183,
+      "direction": 1,
+      "mean_delta": 0.09064398871527778,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 191,
+      "direction": -1,
+      "mean_delta": 0.081329345703125,
+      "sign_agreement": 0.96875,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 193,
+      "direction": 1,
+      "mean_delta": 0.11160376764112903,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 247,
+      "direction": 1,
+      "mean_delta": 0.09619140625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 249,
+      "direction": -1,
+      "mean_delta": 0.08837890625,
+      "sign_agreement": 0.8333333333333334,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

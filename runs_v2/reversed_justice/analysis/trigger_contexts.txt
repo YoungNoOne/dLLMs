@@ -1,0 +1,18 @@
+step_decoded=66 pos=105 dir=- impact=0.068163 shift=-0.068434 cats=content_heavy earlier=16 later=16 same=0
+ joke^(-14).^(-12) The^(-13) justice^(-16) system^(-15) is^(-11) a^(-10) cruel^(-8) joke^(-9).^(-7) I^(-6)'m^(-5) going^(-3) to^(-4) have^(-2) to^(-1) [Ġface^(+0)]  the^(+2) consequences^(+1) of^(+3) being^(+4) wrongly^(+5) accused^(+6).^(+7) I^(+8) don^(+10)'t^(+9) know^(+11) how^(+12) I^(+13)'ll^(+14) ever^(+15) move^(+16)
+
+step_decoded=69 pos=108 dir=- impact=0.089329 shift=-0.088891 cats=content_heavy earlier=16 later=16 same=0
+ justice^(-19) system^(-18) is^(-14) a^(-13) cruel^(-11) joke^(-12).^(-10) I^(-9)'m^(-8) going^(-6) to^(-7) have^(-5) to^(-4) face^(-3) the^(-1) consequences^(-2) [Ġof^(+0)]  being^(+1) wrongly^(+2) accused^(+3).^(+4) I^(+5) don^(+7)'t^(+6) know^(+8) how^(+9) I^(+10)'ll^(+11) ever^(+12) move^(+13) on^(+16) from^(+14) this^(+15)
+
+step_decoded=71 pos=110 dir=+ impact=0.053403 shift=0.054016 cats=content_heavy earlier=16 later=16 same=0
+ is^(-16) a^(-15) cruel^(-13) joke^(-14).^(-12) I^(-11)'m^(-10) going^(-8) to^(-9) have^(-7) to^(-6) face^(-5) the^(-3) consequences^(-4) of^(-2) being^(-1) [Ġwrongly^(+0)]  accused^(+1).^(+2) I^(+3) don^(+5)'t^(+4) know^(+6) how^(+7) I^(+8)'ll^(+9) ever^(+10) move^(+11) on^(+14) from^(+12) this^(+13).^(+15) I^(+16)
+
+step_decoded=72 pos=111 dir=- impact=0.054175 shift=-0.054341 cats=content_heavy earlier=16 later=16 same=0
+ a^(-16) cruel^(-14) joke^(-15).^(-13) I^(-12)'m^(-11) going^(-9) to^(-10) have^(-8) to^(-7) face^(-6) the^(-4) consequences^(-5) of^(-3) being^(-2) wrongly^(-1) [Ġaccused^(+0)] .^(+1) I^(+2) don^(+4)'t^(+3) know^(+5) how^(+6) I^(+7)'ll^(+8) ever^(+9) move^(+10) on^(+13) from^(+11) this^(+12).^(+14) I^(+15) feel^(+16)
+
+step_decoded=76 pos=114 dir=- impact=0.124040 shift=-0.124371 cats=content_heavy earlier=17 later=15 same=0
+.^(-17) I^(-16)'m^(-15) going^(-13) to^(-14) have^(-12) to^(-11) face^(-10) the^(-8) consequences^(-9) of^(-7) being^(-6) wrongly^(-5) accused^(-4).^(-3) I^(-2) [Ġdon^(+0)] 't^(-1) know^(+1) how^(+2) I^(+3)'ll^(+4) ever^(+5) move^(+6) on^(+9) from^(+7) this^(+8).^(+10) I^(+11) feel^(+12) like^(+13) I^(+14)'ve^(+15)
+
+step_decoded=77 pos=116 dir=+ impact=0.077703 shift=0.078783 cats=content_heavy earlier=16 later=16 same=0
+'m^(-16) going^(-14) to^(-15) have^(-13) to^(-12) face^(-11) the^(-9) consequences^(-10) of^(-8) being^(-7) wrongly^(-6) accused^(-5).^(-4) I^(-3) don^(-1)'t^(-2) [Ġknow^(+0)]  how^(+1) I^(+2)'ll^(+3) ever^(+4) move^(+5) on^(+8) from^(+6) this^(+7).^(+9) I^(+10) feel^(+11) like^(+12) I^(+13)'ve^(+14) been^(+15) trapped^(+18)
+

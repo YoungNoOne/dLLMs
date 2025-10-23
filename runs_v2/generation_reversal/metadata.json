@@ -1,0 +1,36 @@
+{
+  "name": "generation_reversal",
+  "prompt": "Children start aging backward while adults stop aging altogether. Describe how family structures collapse and reform.",
+  "decoded": "When children start aging backward and adults stop aging altogether, family structures would undergo significant changes. \n\nInitially, family structures would collapse as children would continue to grow and develop, while adults would remain stagnant. This would lead to a breakdown in traditional family roles and responsibilities, as children would take on more mature and adult-like roles.\n\nAs time passes, family structures would begin to reform. Children would continue to age backward, becoming more mature and capable, while adults would cease to age. This would lead to a shift in power dynamics within the family, as children would take on more responsibility and authority.\n\nFamily structures would also need to adapt to the new reality, with children taking on more adult-like roles. This would require a redefinition of family roles and responsibilities, as children would need to take on more mature and adult-like roles.\n\nAdditionally, family structures would need to find new ways to support and care for adults, as they would no longer be able to age or develop. This would require new forms of support and care, such as assisted living or nursing homes.\n\nOverall, family structures would need to adapt to the new reality, with children taking on more adult-like roles and new forms of support and care for adults.",
+  "events_count": 2,
+  "max_mean_delta": 0.2339299841772152,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.14324821588159703,
+      "median_impact": 0.14324821588159703,
+      "mean_prompt_shift": -0.14263424641861178
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 18,
+      "direction": -1,
+      "mean_delta": 0.2339299841772152,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 66,
+      "direction": -1,
+      "mean_delta": 0.05256644758597884,
+      "sign_agreement": 0.9841269841269841,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,44 @@
+{
+  "name": "theater_of_futures",
+  "prompt": "A traveling theater performs possible futures for each audience member. Write one spectator\u2019s reaction after recognizing themselves on stage.",
+  "decoded": "As the lights dimmed and the music began to play, the theater buzzed with anticipation. The stage was set with a single spotlight, casting a warm glow on the audience. The curtain slowly creaked open, and a figure emerged from the shadows.\n\n\"It's me!\" Sarah gasped, her eyes widening in shock. She had never seen herself on stage before, and the realization hit her like a wave. She couldn't believe it - she was the person being performed.\n\nThe audience erupted in applause, and Sarah's heart raced. She had always been fascinated by the idea of possible futures, but never imagined that she would be the one to experience them.\n\nAs the performance began, Sarah felt a mix of excitement and trepidation. She had never been in a situation like this before, and she didn't know what to expect. But as the story unfolded, she felt a sense of liberation and empowerment. She was no longer just a spectator; she was a participant in her own destiny.\n\nAs the curtain closed and the lights came back up, Sarah couldn't help but smile. She knew that this experience would be a turning point in her life, and she was eager to see what the future held for her.",
+  "events_count": 2,
+  "max_mean_delta": 0.23964077818627452,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.23964077818627452,
+      "median_impact": 0.23964077818627452,
+      "mean_prompt_shift": -0.23866949314024388
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04089471726190476,
+      "median_impact": 0.04089471726190476,
+      "mean_prompt_shift": -0.039462866381742345
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 45,
+      "direction": -1,
+      "mean_delta": 0.04089471726190476,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 51,
+      "direction": -1,
+      "mean_delta": 0.23964077818627452,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

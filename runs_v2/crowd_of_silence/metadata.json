@@ -1,0 +1,59 @@
+{
+  "name": "crowd_of_silence",
+  "prompt": "A protest movement expresses dissent only through coordinated silence. Write a description of their most powerful demonstration.",
+  "decoded": "The most powerful demonstration of this protest movement was a moment of collective silence that transcended words and sounds. As the crowd gathered in the heart of the city, the air was thick with anticipation. The leader took a deep breath, and then, with a single nod, the entire crowd fell silent.\n\nThe silence was not just a lack of sound; it was a deliberate, synchronized pause. It was as if every person in the crowd was part of a single entity, united in their resolve. The silence was not a sign of weakness, but a declaration of strength and solidarity.\n\nAs the crowd continued to gather, the silence grew louder, like a thunderous roar. It was a moment of pure, unadulterated power, a silent anthem of protest that echoed through the streets. The silence was not just a form of expression, but a way to demand attention and action.\n\nThe demonstration was a testament to the power of collective silence, a reminder that even the quietest forms of protest can be the most effective. It was a moment of hope, a moment of unity, and a moment of empowerment. The silence was not just a form of protest, but a way of living, a way of being in the world.",
+  "events_count": 3,
+  "max_mean_delta": 0.21104407915609136,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.12434427844790868,
+      "median_impact": 0.12434427844790868,
+      "mean_prompt_shift": -0.0858450550278737
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03701122801507538,
+      "median_impact": 0.03701122801507538,
+      "mean_prompt_shift": -0.03635290711369343
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03701122801507538,
+      "median_impact": 0.03701122801507538,
+      "mean_prompt_shift": -0.03635290711369343
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 56,
+      "direction": -1,
+      "mean_delta": 0.03701122801507538,
+      "sign_agreement": 0.9899497487437185,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 58,
+      "direction": -1,
+      "mean_delta": 0.21104407915609136,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 182,
+      "direction": 1,
+      "mean_delta": 0.037644477739726026,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

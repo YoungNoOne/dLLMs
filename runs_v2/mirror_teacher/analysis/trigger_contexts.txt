@@ -1,0 +1,3 @@
+step_decoded=18 pos=46 dir=- impact=0.037513 shift=-0.036519 cats=content_heavy earlier=16 later=16 same=0
+ wakes^(-14) up^(-16) to^(-15) find^(-13) that^(-12) mirrors^(-9) now^(-10) grade^(-11) students^(-8) instead^(-7) of^(-6) exams^(-5).^(-4) This^(-3) is^(-2) a^(-1) [Ġhumorous^(+0)]  and^(+1) unexpected^(+4) scenario^(+2).^(+3) The^(+5) teacher^(+6) is^(+7) likely^(+8) confused^(+9) and^(+10) trying^(+12) to^(+11) figure^(+13) out^(+14) how^(+15) to^(+16)
+

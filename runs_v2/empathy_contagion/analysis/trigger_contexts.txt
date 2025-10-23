@@ -1,0 +1,6 @@
+step_decoded=5 pos=46 dir=+ impact=0.062109 shift=0.062124 cats=content_heavy earlier=5 later=16 same=0
+Dear^(-4) Diary^(-5),^(-3)Ċ^(-2)Ċ^(-1) [Today^(+0)] ,^(+1) I^(+2) was^(+3) called^(+5) to^(+4) the^(+6) hospital^(+7) to^(+8) treat^(+10) a^(+9) patient^(+12) who^(+11) was^(+13) suffering^(+14) from^(+15) a^(+16)
+
+step_decoded=69 pos=109 dir=- impact=0.145991 shift=-0.145676 cats=content_heavy earlier=17 later=15 same=0
+ worse^(-17).^(-18) I^(-15) couldn^(-13)'t^(-14) stop^(-9) it^(-8),^(-12) and^(-11) I^(-10) felt^(-7) like^(-6) I^(-4) was^(-5) going^(-2) to^(-3) [Ġcollapse^(+0)] .^(-1)Ċ^(+2)Ċ^(+1)I^(+3) tried^(+5) to^(+4) lie^(+10) down^(+9),^(+7) but^(+6) it^(+8) didn^(+12)'t^(+13) help^(+14).^(+11) I^(+15)
+

@@ -1,0 +1,67 @@
+{
+  "name": "emotion_storm",
+  "prompt": "The weather now mirrors collective emotions. Write tomorrow\u2019s forecast.",
+  "decoded": "Tomorrow's Forecast:\n\n**Weather:**\n- **Morning:** A gentle breeze carries the scent of hope, painting the sky with hues of orange and pink. The air is filled with the promise of new beginnings.\n- **Afternoon:** A warm, golden sun shines brightly, casting a serene glow over the landscape. The day is filled with the warmth of joy and contentment.\n- **Evening:** A soft, silver light begins to creep over the horizon, turning the sky a deep shade of blue. The air is filled with the tranquility of reflection and peace.\n\n**Emotions:**\n- **Morning:** Hope, new beginnings, optimism.\n- **Afternoon:** Joy, contentment, warmth.\n- **Evening:** Reflection, peace, tranquility.\n\n**Activities:**\n- **Morning:** Start your day with a sense of hope and plan for new opportunities.\n- **Afternoon:** Engage in activities that bring you joy and contentment.\n- **Evening:** Take time to reflect on your day and find peace in the moment.\n\n**Note:**\nThis forecast is a reflection of the collective emotions and aspirations of the community. It is designed to inspire positive feelings and intentions for the day ahead.",
+  "events_count": 3,
+  "max_mean_delta": 0.3070234375,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.3070234375,
+      "median_impact": 0.3070234375,
+      "mean_prompt_shift": -0.30630001867529877
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2367124748995984,
+      "median_impact": 0.2367124748995984,
+      "mean_prompt_shift": 0.2373146649096386
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.09263330297085202,
+      "median_impact": 0.09263330297085202,
+      "mean_prompt_shift": -0.09184762684677295
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.09263330297085202,
+      "median_impact": 0.09263330297085202,
+      "mean_prompt_shift": -0.09184762684677295
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 5,
+      "direction": -1,
+      "mean_delta": 0.3070234375,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 6,
+      "direction": 1,
+      "mean_delta": 0.2367124748995984,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 32,
+      "direction": -1,
+      "mean_delta": 0.09263330297085202,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,118 @@
+{
+  "name": "digital_heirloom",
+  "prompt": "Families now inherit encrypted data instead of heirlooms. Write the moment when a daughter finally decrypts her mother\u2019s secret file.",
+  "decoded": "As she sat in her mother's study, surrounded by the scent of old books and ink, Emily couldn't help but feel a sense of anticipation. She had always known that her mother had kept a secret file hidden away, but she had never been able to decipher its contents. Now, with the help of her own encryption skills, Emily was determined to finally unlock the secrets that lay within.\n\nAs she decrypted the file, Emily's eyes widened in shock. The contents of the file revealed a world of knowledge and experiences that her mother had kept hidden from her. She had never known that her mother had been so curious and adventurous, and she felt a deep sense of admiration for her mother's spirit.\n\nEmily's heart swelled with emotion as she realized the depth of her mother's interests and passions. She felt a sense of pride and gratitude for her mother's legacy, and she knew that she would carry on her mother's traditions and values.\n\nAs she finished reading the file, Emily felt a sense of closure and understanding. She had finally unlocked the secrets of her mother's life, and she knew that she would always carry her mother's legacy with her, just as the encrypted data in the file would be passed through generations.",
+  "events_count": 8,
+  "max_mean_delta": 0.12938625529661016,
+  "max_sign_agreement": 1.0,
+  "token_count": 8,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.12938625529661016,
+      "median_impact": 0.12938625529661016,
+      "mean_prompt_shift": -0.1295386320264394
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.050133479899497485,
+      "median_impact": 0.050133479899497485,
+      "mean_prompt_shift": 0.050184859846105545
+    },
+    {
+      "category": "punctuation",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.04795527077013852,
+      "median_impact": 0.05072619395255773,
+      "mean_prompt_shift": -0.022221089532029947
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.047229201060352194,
+      "median_impact": 0.051318908005617975,
+      "mean_prompt_shift": -0.046356405991408445
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04586805555555556,
+      "median_impact": 0.04586805555555556,
+      "mean_prompt_shift": -0.04323868088378249
+    },
+    {
+      "category": "cause_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.035088900862068964,
+      "median_impact": 0.035088900862068964,
+      "mean_prompt_shift": -0.0349051176212741
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 30,
+      "direction": -1,
+      "mean_delta": 0.05736111111111111,
+      "sign_agreement": 0.9955555555555555,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 55,
+      "direction": -1,
+      "mean_delta": 0.0532421875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 56,
+      "direction": 1,
+      "mean_delta": 0.050133479899497485,
+      "sign_agreement": 0.9899497487437185,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 77,
+      "direction": -1,
+      "mean_delta": 0.051318908005617975,
+      "sign_agreement": 0.9943820224719101,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 78,
+      "direction": -1,
+      "mean_delta": 0.12938625529661016,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 141,
+      "direction": -1,
+      "mean_delta": 0.0371265076754386,
+      "sign_agreement": 0.9824561403508771,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 197,
+      "direction": -1,
+      "mean_delta": 0.035088900862068964,
+      "sign_agreement": 0.9827586206896551,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 245,
+      "direction": -1,
+      "mean_delta": 0.034375,
+      "sign_agreement": 0.8,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

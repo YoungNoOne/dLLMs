@@ -1,0 +1,65 @@
+{
+  "name": "kindness_experiment",
+  "prompt": "A scientist tries to measure kindness in a lab. What goes unexpectedly right?",
+  "decoded": "A scientist tries to measure kindness in a lab. What goes unexpectedly right?\n\nThe scientist uses a special device called a \"kindness meter\" to measure the level of kindness in a room. The device is designed to detect the presence of kindness and provide a numerical value. However, when the scientist activates the kindness meter, it starts to emit a strange, glowing glow. The device's readings become increasingly erratic, and the scientist notices that the kindness meter is not just measuring kindness, but also other positive emotions like empathy, compassion, and generosity.\n\nThe scientist realizes that the kindness meter is not just a tool to measure kindness, but a gateway to a new way of understanding human emotions. The device is not just measuring kindness, but also other positive emotions, and the readings are not just numerical values, but a visual representation of the emotional energy in the room.\n\nAs the scientist continues to study the kindness meter, they discover that it is not just a tool to measure kindness, but a way to understand and cultivate positive emotions. The device's readings are not just numerical values, but a visual representation of the emotional energy in the room, and the scientist realizes that the kindness meter is a key to unlocking the secrets of human kindness and compassion.",
+  "events_count": 5,
+  "max_mean_delta": 0.13614742772108843,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.08509031542304421,
+      "median_impact": 0.08509031542304421,
+      "mean_prompt_shift": -0.08508011116409842
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.032861358223417396,
+      "median_impact": 0.033223902925531915,
+      "mean_prompt_shift": -0.03169918664006954
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 15,
+      "direction": -1,
+      "mean_delta": 0.034033203125,
+      "sign_agreement": 0.9916666666666667,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 22,
+      "direction": -1,
+      "mean_delta": 0.030462043991416308,
+      "sign_agreement": 0.9957081545064378,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 28,
+      "direction": -1,
+      "mean_delta": 0.03489812775330396,
+      "sign_agreement": 0.9955947136563876,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 67,
+      "direction": -1,
+      "mean_delta": 0.033223902925531915,
+      "sign_agreement": 0.973404255319149,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 108,
+      "direction": -1,
+      "mean_delta": 0.13614742772108843,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

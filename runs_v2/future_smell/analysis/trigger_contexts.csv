@@ -1,0 +1,6 @@
+step_decoded,token_pos,token_id,token_str,token_norm,direction,impact_score,prompt_shift,window,categories,left_text,center_token,right_text,center_step_decoded,earlier_count,later_count,same_count,left_steps_json,right_steps_json,left_offsets_json,right_offsets_json,left_text_annot,center_annot,right_text_annot,left_tokens_json,right_tokens_json
+14,35,52940,ĠExperiment,Experiment,1,0.08716124221991702,0.08835641862204657,16,content_heavy,Lab Notes: Sm elling the Future,ĠExperiment,"
+
+Objective: To develop a method to smell the future.
+
+Materials",14,14,9,0,"[1, 2, 0, 11, 15, 12, 13]","[4, 3, 6, 5, 7, 10, 9, 8, 17, 18, 16, 19, 21, 20, 22, 24]","[-13, -12, -14, -3, 1, -2, -1]","[-10, -11, -8, -9, -7, -4, -5, -6, 3, 4, 2, 5, 7, 6, 8, 10]",Lab^(-13) Notes^(-12):^(-14) Sm^(-3)elling^(+1) the^(-2) Future^(-1),ĠExperiment^(+0),Ċ^(-10)Ċ^(-11)Objective^(-8):^(-9) To^(-7) develop^(-4) a^(-5) method^(-6) to^(+3) smell^(+4) the^(+2) future^(+5).^(+7)Ċ^(+6)Ċ^(+8)Materials^(+10),"[""Lab"", ""ĠNotes"", "":"", ""ĠSm"", ""elling"", ""Ġthe"", ""ĠFuture""]","[""Ċ"", ""Ċ"", ""Objective"", "":"", ""ĠTo"", ""Ġdevelop"", ""Ġa"", ""Ġmethod"", ""Ġto"", ""Ġsmell"", ""Ġthe"", ""Ġfuture"", ""."", ""Ċ"", ""Ċ"", ""Materials""]"

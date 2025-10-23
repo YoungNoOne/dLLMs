@@ -1,0 +1,27 @@
+step_decoded=3 pos=37 dir=- impact=0.036303 shift=-0.036093 cats=content_heavy earlier=3 later=20 same=0
+The^(-2) championship^(-3) event^(-1) is^(+5) called^(+6) "^(+2)T^(+1) [rivial^(+0)]  Purs^(+4)uit^(+3)."^(+7) It^(+9)'s^(+10) a^(+8) game^(+11) show^(+12) where^(+13) contestants^(+28) compete^(+14) to^(+15) answer^(+16) questions^(+17) about^(+18) a^(+19)
+
+step_decoded=6 pos=39 dir=- impact=0.032787 shift=-0.032468 cats=content_heavy earlier=6 later=19 same=0
+The^(-5) championship^(-6) event^(-4) is^(+2) called^(+3) "^(-1)T^(-2)rivial^(-3) Purs^(+1) [uit^(+0)] ."^(+4) It^(+6)'s^(+7) a^(+5) game^(+8) show^(+9) where^(+10) contestants^(+25) compete^(+11) to^(+12) answer^(+13) questions^(+14) about^(+15) a^(+16) wide^(+18) range^(+19)
+
+step_decoded=7 pos=38 dir=- impact=0.036259 shift=-0.035313 cats=content_heavy earlier=7 later=17 same=0
+The^(-6) championship^(-7) event^(-5) is^(+1) called^(+2) "^(-2)T^(-3)rivial^(-4) [ĠPurs^(+0)] uit^(-1)."^(+3) It^(+5)'s^(+6) a^(+4) game^(+7) show^(+8) where^(+9) contestants^(+24) compete^(+10) to^(+11) answer^(+12) questions^(+13) about^(+14) a^(+15) wide^(+17)
+
+step_decoded=17 pos=48 dir=- impact=0.031283 shift=-0.030771 cats=content_heavy earlier=15 later=17 same=0
+ event^(-15) is^(-9) called^(-8) "^(-12)T^(-13)rivial^(-14) Purs^(-10)uit^(-11)."^(-7) It^(-5)'s^(-4) a^(-6) game^(-3) show^(-2) where^(-1) contestants^(+14) [Ġcompete^(+0)]  to^(+1) answer^(+2) questions^(+3) about^(+4) a^(+5) wide^(+7) range^(+8) of^(+6) topics^(+9),^(+10) including^(+11) history^(+13),^(+12) science^(+22),^(+15) literature^(+23)
+
+step_decoded=24 pos=54 dir=- impact=0.035139 shift=-0.034878 cats=content_heavy earlier=16 later=16 same=0
+ Purs^(-17)uit^(-18)."^(-14) It^(-12)'s^(-11) a^(-13) game^(-10) show^(-9) where^(-8) contestants^(+7) compete^(-7) to^(-6) answer^(-5) questions^(-4) about^(-3) a^(-2) [Ġwide^(+0)]  range^(+1) of^(-1) topics^(+2),^(+3) including^(+4) history^(+6),^(+5) science^(+15),^(+8) literature^(+16),^(+9) and^(+10) pop^(+12) culture^(+13).^(+11) The^(+14)
+
+step_decoded=31 pos=47 dir=- impact=0.027710 shift=-0.027558 cats=content_heavy earlier=30 later=2 same=0
+ championship^(-31) event^(-29) is^(-23) called^(-22) "^(-26)T^(-27)rivial^(-28) Purs^(-24)uit^(-25)."^(-21) It^(-19)'s^(-18) a^(-20) game^(-17) show^(-16) where^(-15) [Ġcontestants^(+0)]  compete^(-14) to^(-13) answer^(-12) questions^(-11) about^(-10) a^(-9) wide^(-7) range^(-6) of^(-8) topics^(-5),^(-4) including^(-3) history^(-1),^(-2) science^(+8),^(+1)
+
+step_decoded=43 pos=73 dir=- impact=0.028366 shift=-0.024968 cats=content_heavy earlier=16 later=16 same=0
+ topics^(-17),^(-16) including^(-15) history^(-13),^(-14) science^(-4),^(-11) literature^(-3),^(-10) and^(-9) pop^(-7) culture^(-6).^(-8) The^(-5) questions^(-1) are^(-2) [Ġdesigned^(+0)]  to^(+1) be^(+2) challenging^(+4) and^(+3) engaging^(+20),^(+5) requiring^(+7) contestants^(+6) to^(+8) use^(+11) their^(+10) knowledge^(+9) and^(+12) memory^(+14) to^(+13) recall^(+19)
+
+step_decoded=63 pos=78 dir=- impact=0.027069 shift=-0.027007 cats=content_heavy earlier=31 later=1 same=0
+ science^(-24),^(-31) literature^(-23),^(-30) and^(-29) pop^(-27) culture^(-26).^(-28) The^(-25) questions^(-21) are^(-22) designed^(-20) to^(-19) be^(-18) challenging^(-16) and^(-17) [Ġengaging^(+0)] ,^(-15) requiring^(-13) contestants^(-14) to^(-12) use^(-9) their^(-10) knowledge^(-11) and^(-8) memory^(-6) to^(-7) recall^(-1) the^(-5) correct^(-3) answers^(-2).^(-4)Ċ^(+2)
+
+step_decoded=213 pos=243 dir=+ impact=0.028402 shift=0.027635 cats=content_heavy earlier=16 later=16 same=0
+ accuracy^(-16) and^(-15) speed^(-7) of^(-14) their^(-11) answers^(-13).^(-12)Ċ^(-9)Ċ^(-10)The^(-8) winner^(-6) of^(-5) the^(-4) championship^(-3) event^(-2) is^(-1) [Ġcrowned^(+0)]  the^(+1) "^(+2)T^(+3)rivial^(+4) Purs^(+6)uit^(+5) Champion^(+7)"^(+9) and^(+8) receives^(+10) a^(+11) grand^(+20) prize^(+12).^(+13) The^(+14) event^(+15)
+

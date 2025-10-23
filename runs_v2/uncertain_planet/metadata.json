@@ -1,0 +1,108 @@
+{
+  "name": "uncertain_planet",
+  "prompt": "An alien planet changes its laws of physics daily. Write a traveler's log entry.",
+  "decoded": "**Log Entry: October 15, 2023**\n\n**Location:** Zorathia, Planet Xylonia\n\n**Time:** 12:45 PM, Local Time\n\n**Traveler:** Elara Voss\n\n**Notes:**\n\nToday, the laws of physics on Xylonia have shifted. Gravity has become reversed, causing me to float in the air. The ground beneath me is now a solid, floating surface, and I can feel the pull of the planet's gravity as it lifts me up.\n\nAs I explore the area, I notice that the flora and fauna have also adapted to the new conditions. Trees now sway in the breeze, and animals are able to move through the air with ease. The sky above has become a vibrant, swirling vortex, with clouds of various colors and shapes.\n\nI am eager to learn more about this fascinating planet and its inhabitants. The shifting laws of physics are both challenging and exhilarating, and I can't wait to see what other wonders Xylonia has in store for me.\n\n**Signature:**\n\nElara Voss\n\n**Date:**\n\nOctober 15, 2023",
+  "events_count": 10,
+  "max_mean_delta": 0.22788637552301255,
+  "max_sign_agreement": 1.0,
+  "token_count": 10,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.1597288322603123,
+      "median_impact": 0.14869449013157895,
+      "mean_prompt_shift": 0.0764365774545433
+    },
+    {
+      "category": "special_token",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.15384152149836836,
+      "median_impact": 0.14106225712476533,
+      "mean_prompt_shift": -0.10050259873499395
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.12447323203241491,
+      "median_impact": 0.09793133802816902,
+      "mean_prompt_shift": -0.001861049317595694
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 16,
+      "direction": -1,
+      "mean_delta": 0.22788637552301255,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 17,
+      "direction": 1,
+      "mean_delta": 0.20425748424369747,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 26,
+      "direction": -1,
+      "mean_delta": 0.17274495087336245,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 27,
+      "direction": 1,
+      "mean_delta": 0.14869449013157895,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 29,
+      "direction": -1,
+      "mean_delta": 0.1909006844579646,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 30,
+      "direction": 1,
+      "mean_delta": 0.08458767361111111,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 40,
+      "direction": 1,
+      "mean_delta": 0.10535519622093023,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 41,
+      "direction": -1,
+      "mean_delta": 0.10937956337616822,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 42,
+      "direction": 1,
+      "mean_delta": 0.09793133802816902,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 43,
+      "direction": -1,
+      "mean_delta": 0.12623452240566038,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

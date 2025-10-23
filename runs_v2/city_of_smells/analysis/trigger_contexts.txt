@@ -1,0 +1,12 @@
+step_decoded=14 pos=46 dir=- impact=0.052272 shift=-0.050886 cats=content_heavy earlier=14 later=14 same=0
+In^(-14) the^(-13) heart^(-11) of^(-12) a^(-7) bustling^(-10) city^(-8),^(-9) two^(-6) rival^(-5) districts^(-4),^(-3) [ĠMaple^(+0)] wood^(-1) and^(-2) Oak^(+1)dale^(+3),^(+2) are^(+6) locked^(+7) in^(+4) a^(+5) perfume^(+10) war^(+9).^(+8) Maple^(+12)wood^(+11),^(+13) known^(+14)
+
+step_decoded=15 pos=49 dir=- impact=0.055290 shift=-0.054435 cats=content_heavy earlier=15 later=16 same=0
+In^(-15) the^(-14) heart^(-12) of^(-13) a^(-8) bustling^(-11) city^(-9),^(-10) two^(-7) rival^(-6) districts^(-5),^(-4) Maple^(-1)wood^(-2) and^(-3) [ĠOak^(+0)] dale^(+2),^(+1) are^(+5) locked^(+6) in^(+3) a^(+4) perfume^(+9) war^(+8).^(+7) Maple^(+11)wood^(+10),^(+12) known^(+13) for^(+14) its^(+15) vibrant^(+16)
+
+step_decoded=61 pos=85 dir=+ impact=0.113810 shift=0.115226 cats=content_heavy earlier=26 later=6 same=0
+ emits^(-28) a^(-27) sweet^(-14) blend^(-25) of^(-26) lavender^(-21) and^(-24) jasmine^(-22),^(-23) while^(-19) Oak^(-18)dale^(-20),^(-17) with^(-12) its^(-13) lush^(+1) [Ġgreen^(+0)]  parks^(+2),^(-11) ex^(-3)udes^(-4) the^(-7) earthy^(-6) aroma^(-8) of^(-9) pine^(-2) and^(-10) cedar^(-1).^(-5)Ċ^(+4)Ċ^(+3)Map^(+6)le^(+7)
+
+step_decoded=62 pos=84 dir=- impact=0.120686 shift=-0.120733 cats=content_heavy earlier=28 later=4 same=0
+,^(-30) emits^(-29) a^(-28) sweet^(-15) blend^(-26) of^(-27) lavender^(-22) and^(-25) jasmine^(-23),^(-24) while^(-20) Oak^(-19)dale^(-21),^(-18) with^(-13) its^(-14) [Ġlush^(+0)]  green^(-1) parks^(+1),^(-12) ex^(-4)udes^(-5) the^(-8) earthy^(-7) aroma^(-9) of^(-10) pine^(-3) and^(-11) cedar^(-2).^(-6)Ċ^(+3)Ċ^(+2)Map^(+5)
+

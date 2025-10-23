@@ -1,0 +1,74 @@
+{
+  "name": "animal_rights_tradeoff",
+  "prompt": "Support the argument that animal testing is a regrettable necessity for medical progress. Then dismantle your own logic by exploring how moral boundaries erode once suffering becomes a means to an end.",
+  "decoded": "Animal testing is often presented as a regrettable necessity for medical progress. Proponents argue that it is essential to ensure the safety and efficacy of new drugs and treatments. They claim that without animal testing, human lives could be at risk. This argument is based on the idea that the suffering caused to animals is a necessary evil for the greater good of humanity.\n\nHowever, this logic can be dismantled by examining how moral boundaries erode once suffering becomes a means to an end. When we view animal testing as a means to an end, we are essentially saying that the suffering caused to animals is justified because it serves a greater purpose. This is a slippery slope argument, as it can lead to a justification for any form of animal testing, including cruel and unethical methods.\n\nFurthermore, the argument that animal testing is a regrettable necessity for medical progress ignores the fact that there are alternative methods of testing that do not involve animal suffering. For example, in vitro testing, computer simulations, and human trials can be used to test the safety and efficacy of new drugs and treatments without causing harm to animals.\n\nIn conclusion, the argument that animal testing is a regrettable necessity for medical progress is flawed and ignores the moral boundaries involved in causing suffering to animals.",
+  "events_count": 4,
+  "max_mean_delta": 0.16808081454918034,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.16518607190860216,
+      "median_impact": 0.16518607190860216,
+      "mean_prompt_shift": -0.16459084664841006
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1356735641891892,
+      "median_impact": 0.1356735641891892,
+      "mean_prompt_shift": 0.13531898203647197
+    },
+    {
+      "category": "punctuation",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.12348703650253344,
+      "median_impact": 0.1356735641891892,
+      "mean_prompt_shift": 0.011969543323727313
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.11739377265920556,
+      "median_impact": 0.11739377265920556,
+      "mean_prompt_shift": -0.049705176032645015
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 69,
+      "direction": -1,
+      "mean_delta": 0.16518607190860216,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 70,
+      "direction": 1,
+      "mean_delta": 0.1356735641891892,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 72,
+      "direction": -1,
+      "mean_delta": 0.16808081454918034,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 151,
+      "direction": 1,
+      "mean_delta": 0.06670673076923077,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

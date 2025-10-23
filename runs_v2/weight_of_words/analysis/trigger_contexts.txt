@@ -1,0 +1,3 @@
+step_decoded=11 pos=41 dir=- impact=0.056705 shift=-0.055509 cats=content_heavy earlier=11 later=13 same=0
+The^(-10) courtroom^(-11) was^(-9) thick^(-4) with^(-8) tension^(-7) as^(-6) the^(-5) [Ġdefendant^(+0)]  stood^(+1) on^(+2) the^(-2) witness^(-3) stand^(-1),^(+3) their^(+4) eyes^(+5) fixed^(+6) on^(+7) the^(+8) prosecutor^(+10).^(+9) The^(+11) prosecutor^(+12)'s^(+13)
+

@@ -1,0 +1,59 @@
+{
+  "name": "virtual_relationships",
+  "prompt": "Begin with a romantic defense of virtual relationships as authentic and emotionally equal to physical ones. Then reverse your conviction by examining how physical absence erodes empathy and deep connection over time.",
+  "decoded": "Virtual relationships, with their convenience and limitless possibilities, are just as authentic and emotionally fulfilling as physical ones. They allow individuals to connect with others across the globe, fostering a sense of intimacy and understanding that transcends geographical boundaries. The ability to share thoughts, feelings, and experiences without the constraints of physical presence can lead to profound emotional connections that are just as meaningful as those formed in person.\n\nHowever, as time passes, the physical absence in virtual relationships can erode the empathy and deep connection that are so essential to true intimacy. The lack of non-verbal cues, such as body language and facial expressions, can make it difficult to fully understand the other person's emotions and intentions. The absence of physical touch, gestures, and shared experiences can lead to a sense of detachment and disconnection, making it challenging to build the same level of emotional depth and closeness that is often found in physical relationships.\n\nIn essence, while virtual relationships can be authentic and emotionally fulfilling, they may not always provide the same level of empathy and deep connection that physical relationships offer. The absence of physical presence can lead to a sense of detachment and disconnection, making it difficult to build the same level of emotional intimacy and closeness that is often found in face-to-face interactions.",
+  "events_count": 3,
+  "max_mean_delta": 0.15270789194915255,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.09691476268921442,
+      "median_impact": 0.09691476268921442,
+      "mean_prompt_shift": -0.05504618273541123
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.037011173184357544,
+      "median_impact": 0.037011173184357544,
+      "mean_prompt_shift": -0.03651385979205468
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.037011173184357544,
+      "median_impact": 0.037011173184357544,
+      "mean_prompt_shift": -0.03651385979205468
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 76,
+      "direction": -1,
+      "mean_delta": 0.037011173184357544,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 78,
+      "direction": -1,
+      "mean_delta": 0.15270789194915255,
+      "sign_agreement": 0.9943502824858758,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 179,
+      "direction": 1,
+      "mean_delta": 0.041121633429276314,
+      "sign_agreement": 0.9473684210526315,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,6 @@
+step_decoded=5 pos=30 dir=+ impact=0.078063 shift=0.079441 cats=content_heavy earlier=5 later=12 same=0
+My^(-4) [ĠDe^(+0)] arest^(-5),^(-2)Ċ^(-1)Ċ^(-3)As^(+2) I^(+3) sit^(+1) down^(+4) to^(+5) write^(+6) this^(+7) letter^(+8),^(+9) I^(+10) find^(+23) myself^(+22)
+
+step_decoded=6 pos=37 dir=+ impact=0.200176 shift=0.200545 cats=content_heavy earlier=6 later=18 same=0
+My^(-5) De^(-1)arest^(-6),^(-3)Ċ^(-2)Ċ^(-4)As^(+1) I^(+2) [Ġsit^(+0)]  down^(+3) to^(+4) write^(+5) this^(+6) letter^(+7),^(+8) I^(+9) find^(+22) myself^(+21) in^(+23) a^(+11) whirlwind^(+13) of^(+12) emotions^(+10).^(+14) On^(+18)
+

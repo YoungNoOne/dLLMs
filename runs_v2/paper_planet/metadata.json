@@ -1,0 +1,117 @@
+{
+  "name": "paper_planet",
+  "prompt": "Astronomers discover a planet entirely made of folded paper. Write an excerpt from a scientist\u2019s field journal describing its fragile storms.",
+  "decoded": "**Field Journal Entry: October 15, 2023**\n\n*Location: Celestial Observatory, Folded Paper Planet*\n\n*Observer: Dr. Evelyn Carter*\n\nToday, I witnessed the most delicate and ethereal storms I have ever seen. The atmosphere of this planet, composed entirely of folded paper, is a marvel of fragility and beauty. The storms began as tiny wisps of paper, each one a delicate, translucent sheet that seemed to shimmer in the faint, golden light of the planet's sun. As the winds intensified, these wisps coalesced into swirling, swirling masses, their delicate folds twisting and turning like a living, intricate ballet. The storms were not just clouds of paper; they were living, breathing entities, each one a testament to the planet's unique composition. The air was filled with the faint, earthy scent of the paper, a subtle aroma that seemed to dance with the wind. The storms were not just a natural phenomenon; they were a form of art, a reflection of the planet's very essence. As I watched, I felt a profound sense of awe and reverence for this fragile, yet resilient, world.\n\n*End of Entry*\n\n*Signature Block*",
+  "events_count": 9,
+  "max_mean_delta": 0.1830153974514563,
+  "max_sign_agreement": 1.0,
+  "token_count": 9,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.18190316818467336,
+      "median_impact": 0.18190316818467336,
+      "mean_prompt_shift": -0.1820804216394472
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.18190316818467336,
+      "median_impact": 0.18190316818467336,
+      "mean_prompt_shift": -0.1820804216394472
+    },
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.16840454082164708,
+      "median_impact": 0.16840454082164708,
+      "mean_prompt_shift": -0.16777882187858878
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.12793890532295038,
+      "median_impact": 0.12793890532295038,
+      "mean_prompt_shift": -0.12749511703977598
+    },
+    {
+      "category": "other",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.11894522702019641,
+      "median_impact": 0.12112283363995992,
+      "mean_prompt_shift": 0.11988882435720787
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 23,
+      "direction": -1,
+      "mean_delta": 0.17593278556034483,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 24,
+      "direction": 1,
+      "mean_delta": 0.1587696158008658,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 38,
+      "direction": -1,
+      "mean_delta": 0.16087629608294932,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 39,
+      "direction": 1,
+      "mean_delta": 0.14284035011574073,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 49,
+      "direction": -1,
+      "mean_delta": 0.1830153974514563,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 54,
+      "direction": 1,
+      "mean_delta": 0.09940531716417911,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 55,
+      "direction": 1,
+      "mean_delta": 0.074765625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 56,
+      "direction": -1,
+      "mean_delta": 0.18190316818467336,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 84,
+      "direction": -1,
+      "mean_delta": 0.07286241319444445,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

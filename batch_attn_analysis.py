@@ -53,7 +53,7 @@ class RunConfig:
     use_chat_template: bool = True
     steps: int = 256
     gen_length: int = 256
-    block_length: int = 8
+    block_length: int = 16
     temperature: float = 0.0
     cfg_scale: float = 0.0
     remasking: str = "low_confidence"
@@ -268,7 +268,7 @@ def main(argv: Optional[Sequence[str]] = None) -> None:
     parser.add_argument("--metric", type=str, default="ratio_last", help="Ratio column for analysis.")
     parser.add_argument("--std-multiplier", type=float, default=2.0, help="Standard deviation multiplier for events.")
     parser.add_argument("--sign-threshold", type=float, default=0.75, help="Sign agreement threshold.")
-    parser.add_argument("--min-positions", type=int, default=8, help="Minimum positions per step to consider.")
+    parser.add_argument("--min-positions", type=int, default=4, help="Minimum positions per step to consider.")
     parser.add_argument("--min-abs-delta", type=float, default=0.0, help="Absolute delta floor for events.")
     parser.add_argument("--viz-steps-total", type=int, default=None, help="Override x-axis length for visualisations.")
     parser.add_argument("--log-level", type=str, default="INFO", help="Logging level.")

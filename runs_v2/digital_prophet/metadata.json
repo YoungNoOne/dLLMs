@@ -1,0 +1,81 @@
+{
+  "name": "digital_prophet",
+  "prompt": "Every time you refresh a search engine, it predicts a slightly different version of your future. Write about someone who becomes addicted to checking their destiny.",
+  "decoded": "It was a typical day for John, a 25-year-old software engineer. He was scrolling through his phone, trying to find something to watch on his lunch break. As he searched for a movie, he stumbled upon a website that claimed to predict his future. Intrigued, he clicked on the link and was presented with a series of questions.\n\nAs he answered the questions, the website began to generate a prediction of his future. John was amazed at how accurate it was. He decided to refresh the website again to see if the prediction would change. To his surprise, it did!\n\nJohn became obsessed with checking his destiny. He would spend hours every day on the website, trying to predict the future. He would even ask his friends and family members to answer the questions for him, hoping to get a more accurate prediction.\n\nAs time went on, John's addiction to checking his destiny grew. He started to neglect his work and relationships, spending all his time on the website. He even started to spend real money on the website, trying to predict his future.\n\nIn the end, John realized that he had become addicted to checking his destiny. He decided to quit the website and focus on living in the present.",
+  "events_count": 5,
+  "max_mean_delta": 0.23158939549180327,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.23158939549180327,
+      "median_impact": 0.23158939549180327,
+      "mean_prompt_shift": -0.23117089356512827
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.061423135163541795,
+      "median_impact": 0.061423135163541795,
+      "mean_prompt_shift": 0.0035475984748857825
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05755820040839611,
+      "median_impact": 0.05755820040839611,
+      "mean_prompt_shift": 0.004420299336843264
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05755820040839611,
+      "median_impact": 0.05755820040839611,
+      "mean_prompt_shift": 0.004420299336843264
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 13,
+      "direction": -1,
+      "mean_delta": 0.05852918388429752,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 52,
+      "direction": -1,
+      "mean_delta": 0.05366764162561576,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 54,
+      "direction": 1,
+      "mean_delta": 0.06431708644278607,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 72,
+      "direction": -1,
+      "mean_delta": 0.23158939549180327,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 170,
+      "direction": 1,
+      "mean_delta": 0.06144875919117647,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

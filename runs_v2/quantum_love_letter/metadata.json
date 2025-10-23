@@ -1,0 +1,58 @@
+{
+  "name": "quantum_love_letter",
+  "prompt": "Write a love letter that exists in two contradictory emotional states until it is read.",
+  "decoded": "My Dearest,\n\nAs I sit down to write this letter, I find myself in a whirlwind of emotions. On one hand, I am filled with an overwhelming sense of joy and contentment, as if every moment spent with you is the most beautiful thing I've ever experienced. My heart races with excitement whenever I think about you, and I can't help but feel a deep sense of gratitude for your presence in my life.\n\nYet, on the other hand, I am also grappling with a profound sense of fear and uncertainty. The thought of losing you, of not being able to find the same level of happiness without you, fills me with a deep dread. I worry that I may not be able to find the same sense of peace and fulfillment that I feel with you, and that your absence would leave a void that I would struggle to fill.\n\nAs I write these words, I am torn between these two conflicting emotions. I am unsure of how to express my feelings to you, and I fear that I may be causing you more pain than I intend to. Please, help me to find a way to reconcile these two emotions, and to show you the depth of my love for you.\n\nSincerely,\n[Your Name]",
+  "events_count": 4,
+  "max_mean_delta": 0.36244086155378485,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.2918539175700472,
+      "median_impact": 0.2918539175700472,
+      "mean_prompt_shift": -0.2909125886379095
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.1391191014056225,
+      "median_impact": 0.1391191014056225,
+      "mean_prompt_shift": 0.13999283363533815
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 4,
+      "direction": -1,
+      "mean_delta": 0.36244086155378485,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 5,
+      "direction": 1,
+      "mean_delta": 0.0780625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 6,
+      "direction": 1,
+      "mean_delta": 0.20017570281124497,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 87,
+      "direction": -1,
+      "mean_delta": 0.22126697358630953,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

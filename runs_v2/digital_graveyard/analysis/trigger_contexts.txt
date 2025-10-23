@@ -1,0 +1,6 @@
+step_decoded=0 pos=37 dir=- impact=0.057629 shift=-0.057629 cats=content_heavy earlier=0 later=19 same=0
+An^(+5) online^(+1) gra^(+2) [veyard^(+0)]  is^(+3) a^(+4) place^(+11) where^(+6) deleted^(+10) social^(+8) media^(+7) posts^(+9) go^(+12) after^(+13) being^(+14) erased^(+15).^(+16) It^(+17) is^(+18) a^(+19)
+
+step_decoded=246 pos=279 dir=+ impact=0.037543 shift=0.040435 cats=content_heavy earlier=17 later=9 same=0
+ gra^(-20)veyard^(-21) is^(-15) a^(-14) mysterious^(-10) and^(-13) intriguing^(-9) place^(-11),^(-12) where^(-8) the^(-7) past^(-3) is^(-2) preserved^(-1) in^(+1) a^(+2) [Ġway^(+0)]  that^(+3) is^(+5) both^(+4) haunting^(+9) and^(+6) thought^(+7)-provoking^(+8).^(-5)<|eot_id|>^(-6)<|endoftext|>^(-4)
+

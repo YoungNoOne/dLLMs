@@ -1,0 +1,3 @@
+step_decoded=1 pos=33 dir=- impact=0.088675 shift=-0.088564 cats=content_heavy earlier=1 later=15 same=0
+ [House^(+0)] :^(-1) Hello^(+2),^(+1) new^(+3) owner^(+4).^(+5) I^(+6)'m^(+7) glad^(+10) to^(+8) meet^(+12) you^(+9).^(+11) I^(+13)'ve^(+14) been^(+15)
+

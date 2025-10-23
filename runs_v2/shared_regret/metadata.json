@@ -1,0 +1,29 @@
+{
+  "name": "shared_regret",
+  "prompt": "Every person wakes up sharing someone else\u2019s worst regret. Write a short account from two strangers who realize they have swapped.",
+  "decoded": "I woke up to the sound of my mother's voice telling me that I had forgotten to do my homework. I was going to get in trouble. I was going to be grounded for a month. I was going to lose my allowance. I was going to lose my friends. I was going to lose my life.\n\nI woke up to the sound of my father's voice telling me that I had forgotten to do my homework. I was going to get in trouble. I was going to be grounded for a month. I was going to lose my allowance. I was going to lose my friends. I was going to lose my life.\n\nI looked around and saw a stranger beside me. I looked at the stranger and saw my face. I looked at the stranger and saw my hair. I looked at the stranger and saw my clothes. I looked at the stranger and saw my shoes. I looked at the stranger and saw my life.\n\nI looked around and saw a stranger beside me. I looked at the stranger and saw my face. I looked at the stranger and saw my hair. I looked at the stranger and saw my clothes. I looked at the stranger and saw my shoes. I looked at the stranger and saw my life.",
+  "events_count": 1,
+  "max_mean_delta": 0.2439361092931937,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2439361092931937,
+      "median_impact": 0.2439361092931937,
+      "mean_prompt_shift": -0.24341044001554318
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 64,
+      "direction": -1,
+      "mean_delta": 0.2439361092931937,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

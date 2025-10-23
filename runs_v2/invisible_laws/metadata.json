@@ -1,0 +1,116 @@
+{
+  "name": "invisible_laws",
+  "prompt": "List three invisible rules that govern modern life but are never written anywhere.",
+  "decoded": "Certainly! Here are three invisible rules that govern modern life but are never written anywhere:\n\n1. **Social Norms and Etiquette**: These are unwritten rules that dictate how people interact with each other in various situations. For example, appropriate greetings, gestures of respect, and the use of polite language. These norms are often passed down through generations and are influenced by cultural values and societal expectations.\n\n2. **Implicit Contracts and Expectations**: These are the unspoken agreements that individuals and groups make with each other. For instance, in a workplace, employees and employers have an implicit contract that employees will perform their duties, and employers will provide compensation and benefits. Similarly, in personal relationships, partners and friends have implicit expectations about loyalty, trust, and support.\n\n3. **Cultural Values and Beliefs**: These are the unwritten rules that govern how people think, feel, and act. For example, the belief in hard work, honesty, and respect for authority. These values are often internalized through education, media, and personal experiences, shaping how individuals and communities make decisions and interact with one another.\n\nThese invisible rules are essential to the functioning of modern society, yet they are not codified in any formal document or law.",
+  "events_count": 10,
+  "max_mean_delta": 0.2335724227729885,
+  "max_sign_agreement": 1.0,
+  "token_count": 10,
+  "categories": [
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.213497814119171,
+      "median_impact": 0.213497814119171,
+      "mean_prompt_shift": -0.21319427172359917
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.213497814119171,
+      "median_impact": 0.213497814119171,
+      "mean_prompt_shift": -0.21319427172359917
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.1666773653578484,
+      "median_impact": 0.1666773653578484,
+      "mean_prompt_shift": -0.06620792147675855
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 7,
+      "samples": 7,
+      "mean_impact": 0.11975930966948692,
+      "median_impact": 0.11499865301724138,
+      "mean_prompt_shift": 0.013973835147756035
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 52,
+      "direction": -1,
+      "mean_delta": 0.11499865301724138,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 53,
+      "direction": 1,
+      "mean_delta": 0.11263826577970297,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 62,
+      "direction": -1,
+      "mean_delta": 0.213497814119171,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 63,
+      "direction": 1,
+      "mean_delta": 0.09978230794270833,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 64,
+      "direction": -1,
+      "mean_delta": 0.11302816181282722,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 69,
+      "direction": 1,
+      "mean_delta": 0.14268575688844087,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 74,
+      "direction": 1,
+      "mean_delta": 0.13746870683701656,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 75,
+      "direction": -1,
+      "mean_delta": 0.14543185763888888,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 76,
+      "direction": 1,
+      "mean_delta": 0.0720637657122905,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 81,
+      "direction": -1,
+      "mean_delta": 0.2335724227729885,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

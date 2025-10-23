@@ -1,0 +1,102 @@
+{
+  "name": "emotional_archaeology",
+  "prompt": "Archaeologists begin unearthing emotions fossilized in ancient ruins. Write a discovery report from the excavation site of 'First Love'.",
+  "decoded": "Discovery Report: 'First Love' Excavation Site\n\nDate: [Insert Date]\n\nLocation: [Insert Location]\n\nSummary: Archaeologists have unearthed a remarkable discovery of fossilized emotions at the excavation site of 'First Love'. These fossilized emotions provide valuable insights into the lives of ancient civilizations and their emotional experiences.\n\nDuring the excavation, archaeologists found evidence of fossilized emotions in the form of pottery, jewelry, and other artifacts. These artifacts depict scenes of love, passion, and romance, offering a glimpse into the emotional lives of ancient people.\n\nOne of the most significant discoveries was a piece of pottery depicting a couple embracing, which suggests that ancient civilizations had a deep understanding of love and intimacy. Additionally, archaeologists found a piece of jewelry featuring a heart-shaped pendant, which indicates that ancient people had a concept of romantic love.\n\nThe discovery of these fossilized emotions has significant implications for our understanding of ancient civilizations and their emotional lives. It suggests that ancient people had a complex understanding of love and relationships, and that these emotions were expressed through art and artifacts.\n\nThe excavation site of 'First Love' continues to yield fascinating discoveries, providing valuable insights into the emotional lives of ancient civilizations.",
+  "events_count": 8,
+  "max_mean_delta": 0.21939300411522633,
+  "max_sign_agreement": 1.0,
+  "token_count": 8,
+  "categories": [
+    {
+      "category": "bracket",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.14991091008771928,
+      "median_impact": 0.14991091008771928,
+      "mean_prompt_shift": -0.14889491998965754
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.14991091008771928,
+      "median_impact": 0.14991091008771928,
+      "mean_prompt_shift": -0.14889491998965754
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.14226705687754446,
+      "median_impact": 0.14754895386266095,
+      "mean_prompt_shift": 0.05661435164231391
+    },
+    {
+      "category": "special_token",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.1418731202487221,
+      "median_impact": 0.12538783684408633,
+      "mean_prompt_shift": -0.07290802275218339
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 12,
+      "direction": -1,
+      "mean_delta": 0.21939300411522633,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 13,
+      "direction": 1,
+      "mean_delta": 0.14891367510330578,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 18,
+      "direction": -1,
+      "mean_delta": 0.11481408227848101,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 20,
+      "direction": -1,
+      "mean_delta": 0.09732380319148937,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 22,
+      "direction": 1,
+      "mean_delta": 0.14754895386266095,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 27,
+      "direction": -1,
+      "mean_delta": 0.14991091008771928,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 28,
+      "direction": 1,
+      "mean_delta": 0.13596159140969163,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 30,
+      "direction": -1,
+      "mean_delta": 0.13033854166666667,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

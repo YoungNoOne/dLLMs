@@ -1,0 +1,131 @@
+{
+  "name": "apology_invention",
+  "prompt": "Invent a new way for humans to apologize without using words.",
+  "decoded": "Certainly! Here's a unique way for humans to apologize without using words:\n\n**\"The Silence Token\"**\n\nImagine a small, tangible token that represents an apology. This token could be a simple, everyday object like a feather, a piece of string, or a small stone. The token would be placed in a small, discreet container, such as a jewelry box or a pocket.\n\nWhen someone wants to apologize, they would remove the token from its container and present it to the person they are apologizing to. The recipient would then hold the token in their hand, acknowledge it, and place it back in the container. This act would symbolize the acceptance of the apology without the need for verbal words.\n\nFor example:\n- The person apologizing might remove a small, white feather from a discreet jewelry box and present it to the recipient.\n- The recipient would hold the feather in their hand, acknowledge it, and place it back in the jewelry box.\n\nThis method allows for a silent and meaningful acknowledgment of the apology, without the need for verbal communication. It's a thoughtful and respectful way to express remorse, especially in situations where words might be difficult to convey or when the apology is deep and heartfelt.",
+  "events_count": 11,
+  "max_mean_delta": 0.2346015625,
+  "max_sign_agreement": 1.0,
+  "token_count": 11,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.18900243019191268,
+      "median_impact": 0.2002395144016825,
+      "mean_prompt_shift": -0.128211282418311
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 5,
+      "samples": 5,
+      "mean_impact": 0.15771355068830245,
+      "median_impact": 0.14689045815012564,
+      "mean_prompt_shift": 0.041787331181418086
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.14378446691176472,
+      "median_impact": 0.14378446691176472,
+      "mean_prompt_shift": 0.14479371769628357
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.10999236709770115,
+      "median_impact": 0.10999236709770115,
+      "mean_prompt_shift": -0.11041493483169129
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.10999236709770115,
+      "median_impact": 0.10999236709770115,
+      "mean_prompt_shift": -0.11041493483169129
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 5,
+      "direction": -1,
+      "mean_delta": 0.2346015625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 10,
+      "direction": 1,
+      "mean_delta": 0.15596301020408163,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 16,
+      "direction": -1,
+      "mean_delta": 0.16882681746861924,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 17,
+      "direction": 1,
+      "mean_delta": 0.14378446691176472,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 19,
+      "direction": -1,
+      "mean_delta": 0.23165221133474576,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 23,
+      "direction": 1,
+      "mean_delta": 0.2202653556034483,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 44,
+      "direction": -1,
+      "mean_delta": 0.14471406620260663,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 55,
+      "direction": 1,
+      "mean_delta": 0.12073486328125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 56,
+      "direction": -1,
+      "mean_delta": 0.14689045815012564,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 80,
+      "direction": 1,
+      "mean_delta": 0.12092912946428572,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 81,
+      "direction": -1,
+      "mean_delta": 0.10999236709770115,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

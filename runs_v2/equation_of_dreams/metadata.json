@@ -1,0 +1,51 @@
+{
+  "name": "equation_of_dreams",
+  "prompt": "Mathematicians discover that dreams follow precise equations. Write a journal entry from a scientist who dreams of solving their own mind.",
+  "decoded": "March 15, 2023\n\nLast night, I had a dream that left me bewildered. I was standing in a vast, empty room, surrounded by a sea of numbers and equations. The walls were lined with blackboards, each displaying a different aspect of my mind. I could see my thoughts, emotions, and memories, all laid out before me.\n\nAs I pondered the dream, I realized that it was a reflection of my own mind. The numbers and equations were not random, but rather a representation of my subconscious mind. I could see the connections between my thoughts and emotions, and how they were all interconnected.\n\nThe dream left me with a sense of awe and wonder. It was as if I had unlocked a secret of my own mind, one that I had never known before. I realized that my dreams were not just random thoughts, but rather a way for my subconscious mind to process and organize information.\n\nI am excited to continue exploring the mysteries of my own mind, and to uncover the secrets that lie within. I hope that my dreams will continue to guide me on this journey, and that I will be able to unlock the secrets of my own mind, just as the dream did.",
+  "events_count": 3,
+  "max_mean_delta": 0.2762411794354839,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.22979884271915435,
+      "median_impact": 0.22979884271915435,
+      "mean_prompt_shift": -0.2293142845103719
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.21097768775720166,
+      "median_impact": 0.21097768775720166,
+      "mean_prompt_shift": 0.21127886535072182
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 7,
+      "direction": -1,
+      "mean_delta": 0.2762411794354839,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 12,
+      "direction": 1,
+      "mean_delta": 0.21097768775720166,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 78,
+      "direction": -1,
+      "mean_delta": 0.18335650600282485,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

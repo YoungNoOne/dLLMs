@@ -1,0 +1,66 @@
+{
+  "name": "time_as_employer",
+  "prompt": "In the future, Time itself is a corporation, and everyone works directly for it. Write the onboarding orientation speech for new employees.",
+  "decoded": "Welcome to the Corporation of Time! As a new employee, you will be responsible for managing the flow of time and ensuring that it is used efficiently. Your role will be to oversee the distribution of time and ensure that it is used for the greater good.\n\nAs you begin your orientation, you will be introduced to the different departments of the Corporation of Time. Each department will have its own unique goals and responsibilities, and you will be expected to work collaboratively with your colleagues to achieve these goals.\n\nYou will also be introduced to the different types of time that the Corporation of Time manages, such as hours, days, months, and years. Each type of time has its own unique characteristics and properties, and you will be expected to understand and manage them effectively.\n\nAs a new employee, you will also be introduced to the different policies and procedures of the Corporation of Time. These policies and procedures will help you understand how time is managed and used, and you will be expected to follow them diligently.\n\nFinally, as a new employee, you will be expected to work collaboratively with your colleagues to achieve the goals of the Corporation of Time. You will be expected to communicate effectively and work together to ensure that time is used for the greater good.",
+  "events_count": 4,
+  "max_mean_delta": 0.1778588388480392,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1778588388480392,
+      "median_impact": 0.1778588388480392,
+      "mean_prompt_shift": -0.17786789925573887
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.042236328125,
+      "median_impact": 0.042236328125,
+      "mean_prompt_shift": 0.04627821180555555
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.0415878984063745,
+      "median_impact": 0.0415878984063745,
+      "mean_prompt_shift": -0.04100167410714284
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 4,
+      "direction": -1,
+      "mean_delta": 0.041988296812749,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 5,
+      "direction": -1,
+      "mean_delta": 0.0411875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 51,
+      "direction": -1,
+      "mean_delta": 0.1778588388480392,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 247,
+      "direction": 1,
+      "mean_delta": 0.042236328125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

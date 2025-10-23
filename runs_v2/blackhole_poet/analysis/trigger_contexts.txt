@@ -1,0 +1,3 @@
+step_decoded=105 pos=142 dir=- impact=0.074229 shift=-0.074142 cats=content_heavy earlier=11 later=21 same=0
+ a^(-16) cosmic^(-12) song^(+5),^(-8)Ċ^(-9)A^(-6) language^(-5) of^(-7) shadows^(+3),^(-4) a^(-3) cosmic^(+4) song^(+6).^(-1)Ċ^(-2)Echo^(+1) [es^(+0)]  of^(+2) space^(+19),^(+7) a^(+8) song^(+18) of^(+16) time^(+20),^(+10)Ċ^(+11)A^(+12) language^(+9) of^(+13) silence^(+21),^(+14) a^(+15) cosmic^(+17)
+

@@ -1,0 +1,58 @@
+{
+  "name": "mirror_without_reflection",
+  "prompt": "One morning, all mirrors stop reflecting physical forms\u2014they show intentions instead. Write a scene in which two lovers confront what they truly want.",
+  "decoded": "As the sun rose over the horizon, casting a warm glow over the city, Sarah and John found themselves standing in front of a large mirror in their apartment. The mirror, which had once reflected their physical forms, now showed their true intentions.\n\nSarah's reflection was a mix of love and uncertainty, while John's was a blend of passion and doubt. They looked at each other, their eyes locked in a silent understanding.\n\n\"I don't know if I can do this without you,\" Sarah said, her voice trembling.\n\nJohn nodded, his reflection showing a mix of love and fear. \"I don't know if I can do this without you either.\"\n\nAs they stood there, lost in their own reflections, they realized that they needed to confront what they truly wanted. They needed to face their fears and doubts, and to make a decision that would shape their future together.\n\nWith a deep breath, Sarah spoke first. \"I want to be with you, no matter what.\"\n\nJohn nodded, his reflection showing a mix of love and determination. \"I want to be with you too.\"\n\nAnd with that, they knew that they had made their decision, and that they would face the future together.",
+  "events_count": 4,
+  "max_mean_delta": 0.23984564623786409,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.23984564623786409,
+      "median_impact": 0.23984564623786409,
+      "mean_prompt_shift": -0.23917092449931993
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.05321918889396077,
+      "median_impact": 0.053676970108695654,
+      "mean_prompt_shift": -0.05181697582567887
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 24,
+      "direction": -1,
+      "mean_delta": 0.05760450487012987,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 25,
+      "direction": -1,
+      "mean_delta": 0.053676970108695654,
+      "sign_agreement": 0.991304347826087,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 26,
+      "direction": -1,
+      "mean_delta": 0.04837609170305677,
+      "sign_agreement": 0.9781659388646288,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 49,
+      "direction": -1,
+      "mean_delta": 0.23984564623786409,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

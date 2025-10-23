@@ -1,0 +1,3 @@
+step_decoded=9 pos=35 dir=- impact=0.095798 shift=-0.095017 cats=content_heavy earlier=9 later=15 same=0
+If^(-7) the^(-9) internet^(-8) existed^(-5) in^(-6) ancient^(-2) Rome^(-4),^(-3) [Ġpeople^(+0)]  would^(-1) likely^(+3) post^(+1) about^(+2) a^(+4) wide^(+5) range^(+6) of^(+7) topics^(+8),^(+9) including^(+10):^(+12)Ċ^(+13)Ċ^(+11)1^(+15).^(+14)
+

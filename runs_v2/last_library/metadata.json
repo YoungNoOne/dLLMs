@@ -1,0 +1,29 @@
+{
+  "name": "last_library",
+  "prompt": "A city has only one library left, and every time someone reads a book, that story disappears from existence. Capture the librarian\u2019s final shift.",
+  "decoded": "The librarian, a young woman with a warm smile, stood at the entrance of the library, her eyes scanning the shelves. She had been working here for years, and she had seen it all. But tonight, something was different.\n\nAs she walked through the aisles, she noticed that the books seemed to be empty. The pages were blank, and the covers were worn. She knew that this was the end of the library, the end of the stories that had been preserved for generations.\n\nShe sat at the desk, her heart heavy with sadness. She had helped so many people find solace in the world of books, and now, it was all gone. She knew that she had to do something to preserve the stories that had been lost.\n\nShe gathered her things and headed to the attic, where she had hidden a few of the most precious books. She took them out and placed them in a safe, hoping that they would be preserved for future generations.\n\nAs she left the library, she felt a sense of peace. She had done what she could to preserve the stories that had been lost, and she knew that she had made a difference. The library may be gone, but the stories it held would live on.",
+  "events_count": 1,
+  "max_mean_delta": 0.2560847355769231,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2560847355769231,
+      "median_impact": 0.2560847355769231,
+      "mean_prompt_shift": -0.2551416896220556
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 47,
+      "direction": -1,
+      "mean_delta": 0.2560847355769231,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

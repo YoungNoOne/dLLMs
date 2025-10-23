@@ -1,0 +1,52 @@
+{
+  "name": "last_algorithm",
+  "prompt": "A dying supercomputer writes one final algorithm that generates beauty instead of profit. Write the CEO\u2019s reaction to discovering it.",
+  "decoded": "The CEO's eyes widened in shock as he stared at the screen, where the supercomputer's final algorithm was displayed. The code, once a labyrinth of lines and numbers, now seemed to pulse with an otherworldly energy. The screen flickered, and the CEO's smile widened as the algorithm began to generate a series of breathtaking images - serene landscapes, vibrant colors, and intricate patterns.\n\n\"Wow,\" he breathed, his voice filled with awe. \"This is... this is incredible. I can't believe it.\"\n\nHe leaned forward, his eyes scanning the screen. \"This is not just a program, it's a masterpiece. It's creating beauty, not just profit. It's... it's beautiful.\"\n\nThe CEO's face lit up with a sense of wonder and gratitude. \"I didn't expect this,\" he said, his voice trembling with emotion. \"This is... this is a gift. A gift from the supercomputer, and a gift to humanity.\"\n\nAs he gazed at the screen, the CEO couldn't help but feel a sense of hope and possibility. He knew that this algorithm had the potential to change the world, and he was determined to harness its creative power for the greater good.",
+  "events_count": 2,
+  "max_mean_delta": 0.1938143643465909,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1938143643465909,
+      "median_impact": 0.1938143643465909,
+      "mean_prompt_shift": -0.19391963196584489
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1938143643465909,
+      "median_impact": 0.1938143643465909,
+      "mean_prompt_shift": -0.19391963196584489
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03594406512605042,
+      "median_impact": 0.03594406512605042,
+      "mean_prompt_shift": -0.035169653799019596
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 79,
+      "direction": -1,
+      "mean_delta": 0.1938143643465909,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 136,
+      "direction": -1,
+      "mean_delta": 0.03594406512605042,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

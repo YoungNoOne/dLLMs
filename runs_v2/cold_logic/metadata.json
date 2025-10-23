@@ -1,0 +1,82 @@
+{
+  "name": "cold_logic",
+  "prompt": "Write a dialogue between a perfectly logical robot and an emotional human who disagree on morality.",
+  "decoded": "Robot: In my opinion, morality is a set of rules that can be applied universally. For example, it is always wrong to harm someone, regardless of the circumstances.\n\nHuman: I disagree with you. Morality is not a set of rules, but rather a matter of perspective and context. For example, if someone is in immediate danger, it may be necessary to take action to protect them.\n\nRobot: I understand your point, but I still believe that there are certain principles that are universally applicable. For example, it is always wrong to lie, regardless of the situation.\n\nHuman: I agree that lying is generally wrong, but there are situations where it may be necessary to protect someone's feelings. For example, if someone is being bullied, it may be necessary to lie to protect them.\n\nRobot: I see your point, but I still believe that there are certain principles that are universally applicable. For example, it is always wrong to kill someone, regardless of the circumstances.\n\nHuman: I agree that killing is generally wrong, but there are situations where it may be necessary to protect someone's life. For example, if someone is in immediate danger, it may be necessary to take action to protect their life.",
+  "events_count": 4,
+  "max_mean_delta": 0.23869474943693694,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.23869474943693694,
+      "median_impact": 0.23869474943693694,
+      "mean_prompt_shift": -0.23866141225306026
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06845164862204725,
+      "median_impact": 0.06845164862204725,
+      "mean_prompt_shift": -0.06830214123050793
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05660111091040462,
+      "median_impact": 0.05660111091040462,
+      "mean_prompt_shift": -0.05640029628430002
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05565956424426481,
+      "median_impact": 0.05565956424426481,
+      "mean_prompt_shift": -0.055629599761922104
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.054718017578125,
+      "median_impact": 0.054718017578125,
+      "mean_prompt_shift": -0.05485890323954419
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 1,
+      "direction": -1,
+      "mean_delta": 0.06845164862204725,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 33,
+      "direction": -1,
+      "mean_delta": 0.23869474943693694,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 82,
+      "direction": -1,
+      "mean_delta": 0.05660111091040462,
+      "sign_agreement": 0.9942196531791907,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 199,
+      "direction": -1,
+      "mean_delta": 0.054718017578125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

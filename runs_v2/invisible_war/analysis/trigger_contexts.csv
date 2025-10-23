@@ -1,0 +1,33 @@
+step_decoded,token_pos,token_id,token_str,token_norm,direction,impact_score,prompt_shift,window,categories,left_text,center_token,right_text,center_step_decoded,earlier_count,later_count,same_count,left_steps_json,right_steps_json,left_offsets_json,right_offsets_json,left_text_annot,center_annot,right_text_annot,left_tokens_json,right_tokens_json
+7,47,6272,Date,Date,1,0.1530052923387097,0.154199079584467,16,content_heavy,"Secret Field Report: Battle of Echo es
+
+",Date,": October 1 2, 2 0 2 3
+
+Location: Echo",7,7,19,0,"[3, 2, 0, 1, 10, 11, 12, 13, 5, 4]","[6, 14, 8, 9, 15, 16, 17, 19, 22, 24, 25, 18, 20, 23, 21, 28]","[-4, -5, -7, -6, 3, 4, 5, 6, -2, -3]","[-1, 7, 1, 2, 8, 9, 10, 12, 15, 17, 18, 11, 13, 16, 14, 21]",Secret^(-4) Field^(-5) Report^(-7):^(-6) Battle^(+3) of^(+4) Echo^(+5)es^(+6)Ċ^(-2)Ċ^(-3),Date^(+0),":^(-1) October^(+7) ^(+1)1^(+2)2^(+8),^(+9) ^(+10)2^(+12)0^(+15)2^(+17)3^(+18)Ċ^(+11)Ċ^(+13)Location^(+16):^(+14) Echo^(+21)","[""Secret"", ""ĠField"", ""ĠReport"", "":"", ""ĠBattle"", ""Ġof"", ""ĠEcho"", ""es"", ""Ċ"", ""Ċ""]","["":"", ""ĠOctober"", ""Ġ"", ""1"", ""2"", "","", ""Ġ"", ""2"", ""0"", ""2"", ""3"", ""Ċ"", ""Ċ"", ""Location"", "":"", ""ĠEcho""]"
+28,63,50174,ĠEcho,Echo,-1,0.1745250550660793,-0.17375842444595802,16,content_heavy,"Date: October 1 2, 2 0 2 3
+
+Location:",ĠEcho," Valley, Memory ia
+
+Participants: Echo Legion and Astr al Dominion
+
+",28,18,14,0,"[7, 6, 14, 8, 9, 15, 16, 17, 19, 22, 24, 25, 18, 20, 23, 21]","[30, 26, 29, 31, 27, 32, 34, 33, 38, 41, 37, 47, 46, 42, 36, 35]","[-21, -22, -14, -20, -19, -13, -12, -11, -9, -6, -4, -3, -10, -8, -5, -7]","[2, -2, 1, 3, -1, 4, 6, 5, 10, 13, 9, 19, 18, 14, 8, 7]","Date^(-21):^(-22) October^(-14) ^(-20)1^(-19)2^(-13),^(-12) ^(-11)2^(-9)0^(-6)2^(-4)3^(-3)Ċ^(-10)Ċ^(-8)Location^(-5):^(-7)",ĠEcho^(+0)," Valley^(+2),^(-2) Memory^(+1)ia^(+3)Ċ^(-1)Ċ^(+4)Participants^(+6):^(+5) Echo^(+10) Legion^(+13) and^(+9) Astr^(+19)al^(+18) Dominion^(+14)Ċ^(+8)Ċ^(+7)","[""Date"", "":"", ""ĠOctober"", ""Ġ"", ""1"", ""2"", "","", ""Ġ"", ""2"", ""0"", ""2"", ""3"", ""Ċ"", ""Ċ"", ""Location"", "":""]","[""ĠValley"", "","", ""ĠMemory"", ""ia"", ""Ċ"", ""Ċ"", ""Participants"", "":"", ""ĠEcho"", ""ĠLegion"", ""Ġand"", ""ĠAstr"", ""al"", ""ĠDominion"", ""Ċ"", ""Ċ""]"
+34,70,64718,Participants,Participants,1,0.11161093042986425,0.11188374371968113,16,content_heavy," 2 0 2 3
+
+Location: Echo Valley, Memory ia
+
+",Participants,": Echo Legion and Astr al Dominion
+
+Objective: Capture the Echo Nexus,",34,17,15,0,"[17, 19, 22, 24, 25, 18, 20, 23, 21, 28, 30, 26, 29, 31, 27, 32]","[33, 38, 41, 37, 47, 46, 42, 36, 35, 40, 39, 43, 44, 45, 49, 48]","[-17, -15, -12, -10, -9, -16, -14, -11, -13, -6, -4, -8, -5, -3, -7, -2]","[-1, 4, 7, 3, 13, 12, 8, 2, 1, 6, 5, 9, 10, 11, 15, 14]"," ^(-17)2^(-15)0^(-12)2^(-10)3^(-9)Ċ^(-16)Ċ^(-14)Location^(-11):^(-13) Echo^(-6) Valley^(-4),^(-8) Memory^(-5)ia^(-3)Ċ^(-7)Ċ^(-2)",Participants^(+0),":^(-1) Echo^(+4) Legion^(+7) and^(+3) Astr^(+13)al^(+12) Dominion^(+8)Ċ^(+2)Ċ^(+1)Objective^(+6):^(+5) Capture^(+9) the^(+10) Echo^(+11) Nexus^(+15),^(+14)","[""Ġ"", ""2"", ""0"", ""2"", ""3"", ""Ċ"", ""Ċ"", ""Location"", "":"", ""ĠEcho"", ""ĠValley"", "","", ""ĠMemory"", ""ia"", ""Ċ"", ""Ċ""]","["":"", ""ĠEcho"", ""ĠLegion"", ""Ġand"", ""ĠAstr"", ""al"", ""ĠDominion"", ""Ċ"", ""Ċ"", ""Objective"", "":"", ""ĠCapture"", ""Ġthe"", ""ĠEcho"", ""ĠNexus"", "",""]"
+40,80,64933,Objective,Objective,1,0.08127725290697674,0.08155739428563741,16,content_heavy," Valley, Memory ia
+
+Participants: Echo Legion and Astr al Dominion
+
+",Objective,": Capture the Echo Nexus, a strategic point for the Astr al Dominion.
+",40,13,19,0,"[30, 26, 29, 31, 27, 32, 34, 33, 38, 41, 37, 47, 46, 42, 36, 35]","[39, 43, 44, 45, 49, 48, 50, 59, 62, 58, 57, 55, 54, 56, 53, 52]","[-10, -14, -11, -9, -13, -8, -6, -7, -2, 1, -3, 7, 6, 2, -4, -5]","[-1, 3, 4, 5, 9, 8, 10, 19, 22, 18, 17, 15, 14, 16, 13, 12]"," Valley^(-10),^(-14) Memory^(-11)ia^(-9)Ċ^(-13)Ċ^(-8)Participants^(-6):^(-7) Echo^(-2) Legion^(+1) and^(-3) Astr^(+7)al^(+6) Dominion^(+2)Ċ^(-4)Ċ^(-5)",Objective^(+0),":^(-1) Capture^(+3) the^(+4) Echo^(+5) Nexus^(+9),^(+8) a^(+10) strategic^(+19) point^(+22) for^(+18) the^(+17) Astr^(+15)al^(+14) Dominion^(+16).^(+13)Ċ^(+12)","[""ĠValley"", "","", ""ĠMemory"", ""ia"", ""Ċ"", ""Ċ"", ""Participants"", "":"", ""ĠEcho"", ""ĠLegion"", ""Ġand"", ""ĠAstr"", ""al"", ""ĠDominion"", ""Ċ"", ""Ċ""]","["":"", ""ĠCapture"", ""Ġthe"", ""ĠEcho"", ""ĠNexus"", "","", ""Ġa"", ""Ġstrategic"", ""Ġpoint"", ""Ġfor"", ""Ġthe"", ""ĠAstr"", ""al"", ""ĠDominion"", ""."", ""Ċ""]"
+47,75,44211,ĠAstr,Astr,-1,0.09906475360576923,-0.09880196771772637,16,content_heavy,"
+
+Location: Echo Valley, Memory ia
+
+Participants: Echo Legion and",ĠAstr,"al Dominion
+
+Objective: Capture the Echo Nexus, a strategic point for the",47,25,7,0,"[18, 20, 23, 21, 28, 30, 26, 29, 31, 27, 32, 34, 33, 38, 41, 37]","[46, 42, 36, 35, 40, 39, 43, 44, 45, 49, 48, 50, 59, 62, 58, 57]","[-29, -27, -24, -26, -19, -17, -21, -18, -16, -20, -15, -13, -14, -9, -6, -10]","[-1, -5, -11, -12, -7, -8, -4, -3, -2, 2, 1, 3, 12, 15, 11, 10]","Ċ^(-29)Ċ^(-27)Location^(-24):^(-26) Echo^(-19) Valley^(-17),^(-21) Memory^(-18)ia^(-16)Ċ^(-20)Ċ^(-15)Participants^(-13):^(-14) Echo^(-9) Legion^(-6) and^(-10)",ĠAstr^(+0),"al^(-1) Dominion^(-5)Ċ^(-11)Ċ^(-12)Objective^(-7):^(-8) Capture^(-4) the^(-3) Echo^(-2) Nexus^(+2),^(+1) a^(+3) strategic^(+12) point^(+15) for^(+11) the^(+10)","[""Ċ"", ""Ċ"", ""Location"", "":"", ""ĠEcho"", ""ĠValley"", "","", ""ĠMemory"", ""ia"", ""Ċ"", ""Ċ"", ""Participants"", "":"", ""ĠEcho"", ""ĠLegion"", ""Ġand""]","[""al"", ""ĠDominion"", ""Ċ"", ""Ċ"", ""Objective"", "":"", ""ĠCapture"", ""Ġthe"", ""ĠEcho"", ""ĠNexus"", "","", ""Ġa"", ""Ġstrategic"", ""Ġpoint"", ""Ġfor"", ""Ġthe""]"

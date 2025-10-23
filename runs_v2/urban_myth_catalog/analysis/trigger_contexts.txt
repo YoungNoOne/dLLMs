@@ -1,0 +1,6 @@
+step_decoded=6 pos=41 dir=- impact=0.046702 shift=-0.046129 cats=content_heavy earlier=6 later=17 same=0
+1^(-5).^(-6) The^(-4) Invisible^(-1) Man^(-2):^(-3) End^(+1) [angered^(+0)] Ċ^(+2)2^(+4).^(+3) The^(+5) M^(+8)ummy^(+9):^(+6) End^(+7)angered^(+10)Ċ^(+13)3^(+12).^(+11) The^(+14) Wolf^(+23)man^(+22):^(+18)
+
+step_decoded=88 pos=126 dir=+ impact=0.049506 shift=0.049817 cats=content_heavy earlier=12 later=20 same=0
+.^(-17) The^(-15) Wolf^(-9)man^(-10):^(-8) End^(-2)angered^(-1)Ċ^(-5)1^(-4)0^(-3).^(-6) The^(-7) Ghost^(+1) of^(+2) the^(+4) White^(+5) [ĠHouse^(+0)] :^(+3) End^(+6)angered^(+7)Ċ^(+8)1^(+10)1^(+12).^(+11) The^(+9) Big^(+13)foot^(+14):^(+15) End^(+21)angered^(+22)Ċ^(+17)1^(+18)2^(+19)
+

@@ -1,0 +1,36 @@
+{
+  "name": "temporary_immortality",
+  "prompt": "People become immortal for exactly one week each year. Write from the point of view of someone waiting for it.",
+  "decoded": "I'm waiting for the week. I'm waiting for the week. I'm waiting for the week.\n\nI'm waiting for the week. I'm waiting for the week. I'm waiting for the week.\n\nI'm waiting for the week. I'm waiting for the week. I'm waiting for the week.\n\nI'm waiting for the week. I'm waiting for the week. I'm waiting for the week.\n\nI'm waiting for the week. I'm waiting for the week. I'm waiting for the week.\n\nI'm waiting for the week. I'm waiting for the week. I'm waiting for the week.\n\nI'm waiting for the week. I'm waiting for the week. I'm waiting for the week.\n\nI'm waiting for the week. I'm waiting for the week. I'm waiting for the week.\n\nI'm waiting for the week. I'm waiting for the week. I'm waiting for the week.\n\nI'm waiting for the week. I'm waiting for the week. I'm waiting for the week.\n\nI'm waiting for the week. I'm waiting for the week. I'm waiting for the week.",
+  "events_count": 2,
+  "max_mean_delta": 0.23490918803418803,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.15935958843673687,
+      "median_impact": 0.15935958843673687,
+      "mean_prompt_shift": -0.16171624345660246
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 21,
+      "direction": -1,
+      "mean_delta": 0.23490918803418803,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 248,
+      "direction": -1,
+      "mean_delta": 0.08380998883928571,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

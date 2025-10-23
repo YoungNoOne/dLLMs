@@ -1,0 +1,12 @@
+step_decoded=4 pos=34 dir=- impact=0.109811 shift=-0.109405 cats=content_heavy earlier=4 later=16 same=0
+Me^(-3):^(-4) Hey^(-2),^(-1) [ĠOpp^(+0)] osite^(+1) Me^(+2)!^(+11) How^(+5) are^(+4) you^(+3) today^(+10)?^(+8)Ċ^(+9)Ċ^(+6)Opp^(+7)osite^(+12) Me^(+14):^(+13) Oh^(+16),^(+15)
+
+step_decoded=5 pos=35 dir=- impact=0.080656 shift=-0.080483 cats=content_heavy earlier=5 later=16 same=0
+Me^(-4):^(-5) Hey^(-3),^(-2) Opp^(-1) [osite^(+0)]  Me^(+1)!^(+10) How^(+4) are^(+3) you^(+2) today^(+9)?^(+7)Ċ^(+8)Ċ^(+5)Opp^(+6)osite^(+11) Me^(+13):^(+12) Oh^(+15),^(+14) I^(+17)
+
+step_decoded=93 pos=119 dir=- impact=0.038092 shift=-0.038502 cats=content_heavy earlier=20 later=12 same=0
+ I^(-19)'m^(-20) going^(-18) to^(-17) go^(-16) to^(-15) the^(-14) beach^(-13),^(-12) have^(-11) a^(-10) picnic^(-9),^(-8) and^(-7) play^(-1) some^(+1) [Ġgames^(+0)] !^(-2)Ċ^(-3)Ċ^(-6)Me^(-4):^(-5) U^(+2)gh^(+4),^(+3) I^(+5)'m^(+6) going^(+7) to^(+8) stay^(+10) home^(+9),^(+12) watch^(+11)
+
+step_decoded=249 pos=280 dir=+ impact=0.043376 shift=0.046061 cats=content_heavy earlier=15 later=6 same=0
+Ċ^(-15)Ċ^(-16)Me^(-14):^(-13) U^(-11)gh^(-10),^(-9) I^(-5)'m^(-4) just^(-3) glad^(-1) I^(-2) made^(+2) the^(+4) exact^(+3) opposite^(+5) [Ġchoices^(+0)]  of^(+6) you^(+1).^(-6)<|eot_id|>^(-7)<|endoftext|>^(-8)
+

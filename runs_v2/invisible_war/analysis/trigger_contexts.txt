@@ -1,0 +1,15 @@
+step_decoded=7 pos=47 dir=+ impact=0.153005 shift=0.154199 cats=content_heavy earlier=7 later=19 same=0
+Secret^(-4) Field^(-5) Report^(-7):^(-6) Battle^(+3) of^(+4) Echo^(+5)es^(+6)Ċ^(-2)Ċ^(-3) [Date^(+0)] :^(-1) October^(+7) ^(+1)1^(+2)2^(+8),^(+9) ^(+10)2^(+12)0^(+15)2^(+17)3^(+18)Ċ^(+11)Ċ^(+13)Location^(+16):^(+14) Echo^(+21)
+
+step_decoded=28 pos=63 dir=- impact=0.174525 shift=-0.173758 cats=content_heavy earlier=18 later=14 same=0
+Date^(-21):^(-22) October^(-14) ^(-20)1^(-19)2^(-13),^(-12) ^(-11)2^(-9)0^(-6)2^(-4)3^(-3)Ċ^(-10)Ċ^(-8)Location^(-5):^(-7) [ĠEcho^(+0)]  Valley^(+2),^(-2) Memory^(+1)ia^(+3)Ċ^(-1)Ċ^(+4)Participants^(+6):^(+5) Echo^(+10) Legion^(+13) and^(+9) Astr^(+19)al^(+18) Dominion^(+14)Ċ^(+8)Ċ^(+7)
+
+step_decoded=34 pos=70 dir=+ impact=0.111611 shift=0.111884 cats=content_heavy earlier=17 later=15 same=0
+ ^(-17)2^(-15)0^(-12)2^(-10)3^(-9)Ċ^(-16)Ċ^(-14)Location^(-11):^(-13) Echo^(-6) Valley^(-4),^(-8) Memory^(-5)ia^(-3)Ċ^(-7)Ċ^(-2) [Participants^(+0)] :^(-1) Echo^(+4) Legion^(+7) and^(+3) Astr^(+13)al^(+12) Dominion^(+8)Ċ^(+2)Ċ^(+1)Objective^(+6):^(+5) Capture^(+9) the^(+10) Echo^(+11) Nexus^(+15),^(+14)
+
+step_decoded=40 pos=80 dir=+ impact=0.081277 shift=0.081557 cats=content_heavy earlier=13 later=19 same=0
+ Valley^(-10),^(-14) Memory^(-11)ia^(-9)Ċ^(-13)Ċ^(-8)Participants^(-6):^(-7) Echo^(-2) Legion^(+1) and^(-3) Astr^(+7)al^(+6) Dominion^(+2)Ċ^(-4)Ċ^(-5) [Objective^(+0)] :^(-1) Capture^(+3) the^(+4) Echo^(+5) Nexus^(+9),^(+8) a^(+10) strategic^(+19) point^(+22) for^(+18) the^(+17) Astr^(+15)al^(+14) Dominion^(+16).^(+13)Ċ^(+12)
+
+step_decoded=47 pos=75 dir=- impact=0.099065 shift=-0.098802 cats=content_heavy earlier=25 later=7 same=0
+Ċ^(-29)Ċ^(-27)Location^(-24):^(-26) Echo^(-19) Valley^(-17),^(-21) Memory^(-18)ia^(-16)Ċ^(-20)Ċ^(-15)Participants^(-13):^(-14) Echo^(-9) Legion^(-6) and^(-10) [ĠAstr^(+0)] al^(-1) Dominion^(-5)Ċ^(-11)Ċ^(-12)Objective^(-7):^(-8) Capture^(-4) the^(-3) Echo^(-2) Nexus^(+2),^(+1) a^(+3) strategic^(+12) point^(+15) for^(+11) the^(+10)
+

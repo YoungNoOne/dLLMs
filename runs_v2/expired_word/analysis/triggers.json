@@ -1,0 +1,91 @@
+[
+  {
+    "step_decoded": 3,
+    "direction": -1,
+    "mean_delta": 0.05932229662698413,
+    "median_delta": 0.0625,
+    "sign_agreement": 0.996031746031746,
+    "valid_positions": 252,
+    "prompt_mean": 0.910125248015873,
+    "prompt_shift": -0.05879458894064871,
+    "tokens": [
+      {
+        "step_decoded": 3,
+        "token_pos": 37,
+        "token_id": 55402,
+        "token_str": "hope",
+        "conf_decoded": 0.97265625,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 65,
+    "direction": -1,
+    "mean_delta": 0.056085526315789475,
+    "median_delta": 0.05859375,
+    "sign_agreement": 0.9842105263157894,
+    "valid_positions": 190,
+    "prompt_mean": 0.4790604440789474,
+    "prompt_shift": -0.05432674505717833,
+    "tokens": [
+      {
+        "step_decoded": 65,
+        "token_pos": 101,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.353515625,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 66,
+    "direction": -1,
+    "mean_delta": 0.16515273644179895,
+    "median_delta": 0.154296875,
+    "sign_agreement": 1.0,
+    "valid_positions": 189,
+    "prompt_mean": 0.3127221808862434,
+    "prompt_shift": -0.166338263192704,
+    "tokens": [
+      {
+        "step_decoded": 66,
+        "token_pos": 100,
+        "token_id": 13,
+        "token_str": ".",
+        "conf_decoded": 0.5625,
+        "categories": [
+          "punctuation",
+          "sentence_boundary"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 251,
+    "direction": 1,
+    "mean_delta": 0.033203125,
+    "median_delta": 0.037109375,
+    "sign_agreement": 1.0,
+    "valid_positions": 4,
+    "prompt_mean": 0.1767578125,
+    "prompt_shift": 0.027734375000000006,
+    "tokens": [
+      {
+        "step_decoded": 251,
+        "token_pos": 280,
+        "token_id": 100469,
+        "token_str": "\u0120uplift",
+        "conf_decoded": 0.5390625,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  }
+]

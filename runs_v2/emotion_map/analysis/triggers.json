@@ -1,0 +1,91 @@
+[
+  {
+    "step_decoded": 64,
+    "direction": -1,
+    "mean_delta": 0.1839644347185864,
+    "median_delta": 0.177734375,
+    "sign_agreement": 1.0,
+    "valid_positions": 191,
+    "prompt_mean": 0.40453973740183247,
+    "prompt_shift": -0.18342209528045916,
+    "tokens": [
+      {
+        "step_decoded": 64,
+        "token_pos": 100,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.62890625,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 73,
+    "direction": -1,
+    "mean_delta": 0.04818423763736264,
+    "median_delta": 0.0546875,
+    "sign_agreement": 0.9560439560439561,
+    "valid_positions": 182,
+    "prompt_mean": 0.34318123282967034,
+    "prompt_shift": -0.047667896268690335,
+    "tokens": [
+      {
+        "step_decoded": 73,
+        "token_pos": 106,
+        "token_id": 12282,
+        "token_str": "\u0120emotional",
+        "conf_decoded": 0.57421875,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 162,
+    "direction": 1,
+    "mean_delta": 0.038353704637096774,
+    "median_delta": 0.033203125,
+    "sign_agreement": 1.0,
+    "valid_positions": 93,
+    "prompt_mean": 0.24420362903225806,
+    "prompt_shift": 0.03842424904555594,
+    "tokens": [
+      {
+        "step_decoded": 162,
+        "token_pos": 193,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 1.0,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 201,
+    "direction": -1,
+    "mean_delta": 0.051576967592592594,
+    "median_delta": 0.0439453125,
+    "sign_agreement": 1.0,
+    "valid_positions": 54,
+    "prompt_mean": 0.1733940972222222,
+    "prompt_shift": -0.05117976641414143,
+    "tokens": [
+      {
+        "step_decoded": 201,
+        "token_pos": 234,
+        "token_id": 13,
+        "token_str": ".",
+        "conf_decoded": 1.0,
+        "categories": [
+          "punctuation",
+          "sentence_boundary"
+        ]
+      }
+    ]
+  }
+]

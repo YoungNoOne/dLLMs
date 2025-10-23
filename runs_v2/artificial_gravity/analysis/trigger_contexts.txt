@@ -1,0 +1,9 @@
+step_decoded=26 pos=56 dir=+ impact=0.168617 shift=0.170300 cats=content_heavy earlier=17 later=15 same=0
+:^(-14) Humanity^(-17)**^(-15)Ċ^(-16)Ċ^(-18)**^(-13)Date^(-11):^(-10) [^(-8)Insert^(-9) Date^(-6)]^(-3)**^(-4)Ċ^(-5)Ċ^(-7)**^(-2) [Subject^(+0)] :^(-1) Ev^(+3)iction^(+2) Notice^(+1)**^(+4)Ċ^(+5)Ċ^(+6)**^(+11)Dear^(+13) Humanity^(+7),^(+9)**^(+10)Ċ^(+8)Ċ^(+12)This^(+14) is^(+15)
+
+step_decoded=27 pos=60 dir=- impact=0.145808 shift=-0.144878 cats=content_heavy earlier=14 later=18 same=0
+Ċ^(-19)**^(-14)Date^(-12):^(-11) [^(-9)Insert^(-10) Date^(-7)]^(-4)**^(-5)Ċ^(-6)Ċ^(-8)**^(-3)Subject^(-1):^(-2) Ev^(+2)iction^(+1) [ĠNotice^(+0)] **^(+3)Ċ^(+4)Ċ^(+5)**^(+10)Dear^(+12) Humanity^(+6),^(+8)**^(+9)Ċ^(+7)Ċ^(+11)This^(+13) is^(+14) a^(+16) formal^(+15) notice^(+17) of^(+18)
+
+step_decoded=29 pos=58 dir=- impact=0.116392 shift=-0.115414 cats=content_heavy earlier=18 later=14 same=0
+**^(-18)Ċ^(-19)Ċ^(-21)**^(-16)Date^(-14):^(-13) [^(-11)Insert^(-12) Date^(-9)]^(-6)**^(-7)Ċ^(-8)Ċ^(-10)**^(-5)Subject^(-3):^(-4) [ĠEv^(+0)] iction^(-1) Notice^(-2)**^(+1)Ċ^(+2)Ċ^(+3)**^(+8)Dear^(+10) Humanity^(+4),^(+6)**^(+7)Ċ^(+5)Ċ^(+9)This^(+11) is^(+12) a^(+14) formal^(+13)
+

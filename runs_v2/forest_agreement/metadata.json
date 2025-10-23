@@ -1,0 +1,89 @@
+{
+  "name": "forest_agreement",
+  "prompt": "Imagine trees can vote once every hundred years. What decision are they debating?",
+  "decoded": "If trees can vote once every hundred years, they might be debating a variety of issues related to their survival and the environment. Here are a few possibilities:\n\n1. **Climate Change**: Trees could be discussing ways to mitigate the effects of climate change, such as reducing carbon emissions and promoting renewable energy.\n\n2. **Habitat Preservation**: They might be debating how to protect their habitats from deforestation, urbanization, and industrial development.\n\n3. **Pollution**: Trees could be discussing strategies to reduce air and water pollution, which can harm their health and growth.\n\n4. **Biodiversity**: They might be debating how to preserve the diversity of plant and animal life, which is crucial for their ecosystem's balance.\n\n5. **Water Management**: Trees could be discussing ways to ensure sustainable water use, which is essential for their growth and survival.\n\n6. **Sustainable Agriculture**: They might be debating how to promote sustainable agricultural practices that do not harm their environment.\n\n7. **Urban Development**: Trees could be discussing how to manage urban development in a way that preserves their habitats and ecosystems.\n\nThese are just a few examples, and the actual decisions they are debating could be quite complex and multifaceted.",
+  "events_count": 5,
+  "max_mean_delta": 0.21947993064413265,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.21947993064413265,
+      "median_impact": 0.21947993064413265,
+      "mean_prompt_shift": -0.2203340308105317
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.21947993064413265,
+      "median_impact": 0.21947993064413265,
+      "mean_prompt_shift": -0.2203340308105317
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.09635534485774253,
+      "median_impact": 0.09635534485774253,
+      "mean_prompt_shift": -0.04049973893873762
+    },
+    {
+      "category": "addition_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06852706755050506,
+      "median_impact": 0.06852706755050506,
+      "mean_prompt_shift": 0.06823872360540079
+    },
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.058760159753363225,
+      "median_impact": 0.058760159753363225,
+      "mean_prompt_shift": -0.05854127775164164
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 32,
+      "direction": -1,
+      "mean_delta": 0.058760159753363225,
+      "sign_agreement": 0.9955156950672646,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 54,
+      "direction": -1,
+      "mean_delta": 0.13754955690298507,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 55,
+      "direction": 1,
+      "mean_delta": 0.0551611328125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 57,
+      "direction": 1,
+      "mean_delta": 0.06852706755050506,
+      "sign_agreement": 0.9949494949494949,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 59,
+      "direction": -1,
+      "mean_delta": 0.21947993064413265,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

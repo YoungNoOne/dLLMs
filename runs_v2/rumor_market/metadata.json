@@ -1,0 +1,36 @@
+{
+  "name": "rumor_market",
+  "prompt": "Rumors are now traded on a stock exchange. Write a market report describing today\u2019s top-performing lies.",
+  "decoded": "Today's market report highlights the top-performing lies on the Lie Stock Exchange.\n\n1. The stock of the \"Greatest Movie Ever\" has surged by 50% since the release of the latest blockbuster film.\n2. The stock of the \"New Type of Pizza\" has risen by 30% after its introduction to the food market.\n3. The stock of the \"New Type of Car\" has increased by 25% due to the rumors of its innovative features.\n4. The stock of the \"New Type of Toy\" has risen by 20% after the announcement of its release.\n5. The stock of the \"New Type of Food\" has increased by 15% due to the rumors of its unique taste.\n6. The stock of the \"New Type of Game\" has risen by 10% after the announcement of its release.\n7. The stock of the \"New Type of Furniture\" has increased by 5% due to the rumors of its unique design.\n\nThese are just a few of the top-performing lies on the Lie Stock Exchange today. It is important to note that these are all rumors and do not reflect the actual performance of the products involved.",
+  "events_count": 2,
+  "max_mean_delta": 0.21789094917012447,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.13447095821601462,
+      "median_impact": 0.13447095821601462,
+      "mean_prompt_shift": -0.13362090034720855
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 14,
+      "direction": -1,
+      "mean_delta": 0.21789094917012447,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 45,
+      "direction": -1,
+      "mean_delta": 0.051050967261904764,
+      "sign_agreement": 0.9904761904761905,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

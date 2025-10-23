@@ -1,0 +1,3 @@
+step_decoded=45 pos=80 dir=- impact=0.040895 shift=-0.039463 cats=content_heavy earlier=16 later=16 same=0
+ a^(-17) warm^(-14) glow^(-15) on^(-13) the^(-12) audience^(+2).^(-11) The^(-10) curtain^(-7) slowly^(-6) cre^(-4)aked^(-5) open^(-3),^(-9) and^(-8) a^(-2) [Ġfigure^(+0)]  emerged^(-1) from^(+1) the^(+3) shadows^(+4).^(+5)Ċ^(+7)Ċ^(+6)"It^(+9)'s^(+8) me^(+10)!"^(+11) Sarah^(+18) gas^(+13)ped^(+12),^(+14) her^(+15)
+

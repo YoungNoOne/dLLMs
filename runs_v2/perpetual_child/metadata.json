@@ -1,0 +1,67 @@
+{
+  "name": "perpetual_child",
+  "prompt": "A man\u2019s aging process stops at ten years old, but his mind continues to mature. Explore a moment when he realizes the adult world will never take him seriously.",
+  "decoded": "The man sat on the porch, staring out at the world. He had always felt like an outsider, a child in a world that didn't understand him. But now, as he watched the world go by, he realized that the adult world would never take him seriously.\n\nHe had always been different, always feeling like he didn't fit in. But now, as he watched the world go by, he realized that the adult world would never take him seriously. He had always felt like a child, a child in a world that didn't understand him. But now, as he watched the world go by, he realized that the adult world would never take him seriously.\n\nHe had always felt like a child, a child in a world that didn't understand him. But now, as he watched the world go by, he realized that the adult world would never take him seriously. He had always felt like a child, a child in a world that didn't understand him. But now, as he watched the world go by, he realized that the adult world would never take him seriously.\n\nAnd so, he sat on the porch, staring out at the world, content with the knowledge that the adult world would never take him seriously.",
+  "events_count": 3,
+  "max_mean_delta": 0.1853515625,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1853515625,
+      "median_impact": 0.1853515625,
+      "mean_prompt_shift": -0.18533912468905478
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04411536069651741,
+      "median_impact": 0.04411536069651741,
+      "mean_prompt_shift": -0.04423273484064816
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04411536069651741,
+      "median_impact": 0.04411536069651741,
+      "mean_prompt_shift": -0.04423273484064816
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.034988038277511964,
+      "median_impact": 0.034988038277511964,
+      "mean_prompt_shift": -0.03169028750854408
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 46,
+      "direction": -1,
+      "mean_delta": 0.034988038277511964,
+      "sign_agreement": 0.9665071770334929,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 54,
+      "direction": -1,
+      "mean_delta": 0.04411536069651741,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 55,
+      "direction": -1,
+      "mean_delta": 0.1853515625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

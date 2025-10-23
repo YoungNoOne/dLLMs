@@ -1,0 +1,3 @@
+step_decoded=1 pos=30 dir=- impact=0.068452 shift=-0.068302 cats=content_heavy earlier=1 later=15 same=0
+ [Robot^(+0)] :^(-1) In^(+1) my^(+3) opinion^(+6),^(+2) morality^(+4) is^(+5) a^(+7) set^(+8) of^(+9) rules^(+10) that^(+11) can^(+13) be^(+12) applied^(+14) universally^(+15)
+

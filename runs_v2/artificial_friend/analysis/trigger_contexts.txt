@@ -1,0 +1,6 @@
+step_decoded=10 pos=40 dir=+ impact=0.047752 shift=0.046401 cats=content_heavy earlier=10 later=18 same=0
+Once^(-10) upon^(-8) a^(-9) time^(-7),^(-6) there^(-4) was^(-3) a^(-5) young^(-2) girl^(+1) named^(-1) Lily^(+5) [Ġwho^(+0)]  lived^(+2) in^(+3) a^(+4) small^(+6) town^(+10) with^(+8) her^(+7) family^(+11).^(+9) One^(+12) day^(+14),^(+13) her^(+19) parents^(+20) gifted^(+21) her^(+18)
+
+step_decoded=15 pos=39 dir=- impact=0.064535 shift=-0.064111 cats=content_heavy earlier=15 later=12 same=0
+Once^(-15) upon^(-13) a^(-14) time^(-12),^(-11) there^(-9) was^(-8) a^(-10) young^(-7) girl^(-4) named^(-6) [ĠLily^(+0)]  who^(-5) lived^(-3) in^(-2) a^(-1) small^(+1) town^(+5) with^(+3) her^(+2) family^(+6).^(+4) One^(+7) day^(+9),^(+8) her^(+14) parents^(+15) gifted^(+16)
+

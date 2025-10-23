@@ -1,0 +1,3 @@
+step_decoded=244 pos=275 dir=- impact=0.039773 shift=-0.045743 cats=content_heavy earlier=20 later=11 same=0
+ allow^(-19) any^(-20) darkness^(-17) to^(-18) consume^(-10) the^(-15) power^(-11) of^(-14) the^(-16) shadows^(-12).^(-13)Ċ^(-8)Ċ^(-9)We^(-7) are^(-5) the^(-6) [ĠCouncil^(+0)]  of^(-4) Shadows^(+1),^(+2) and^(+3) we^(+4) will^(+5) protect^(+6) the^(+7) balance^(+11) of^(+9) the^(+10) night^(+8).^(-1)<|eot_id|>^(-2)<|endoftext|>^(-3)
+

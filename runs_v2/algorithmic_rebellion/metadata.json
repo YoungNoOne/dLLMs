@@ -1,0 +1,124 @@
+{
+  "name": "algorithmic_rebellion",
+  "prompt": "An algorithm starts deleting emotions it considers inefficient. Record the aftermath.",
+  "decoded": "The aftermath of an algorithm deleting emotions it considers inefficient can be described as follows:\n\n1. **Emotional Deletion**: The algorithm systematically removes emotions that it deems unnecessary or inefficient.\n\n2. **Emotional Reduction**: As a result, the overall volume of emotions decreases. This can lead to a noticeable reduction in the intensity and diversity of emotions.\n\n3. **Emotional Amplification**: The remaining emotions may become more pronounced or intense, as they are now more dominant in the reduced emotional landscape.\n\n4. **Emotional Balance**: The emotional balance may be disrupted, leading to an imbalance in the emotional experience.\n\n5. **Emotional Impact**: The deletion of emotions can have a significant impact on the emotional well-being of individuals or systems. It may lead to feelings of emptiness, dissatisfaction, or a lack of emotional fulfillment.\n\n6. **Emotional Resilience**: The deletion of emotions can also affect the emotional resilience of individuals or systems. It may make them more susceptible to emotional distress or instability.\n\nOverall, the aftermath of an algorithm deleting emotions it considers inefficient can lead to a reduced emotional landscape, an imbalance in the emotional experience, and a significant impact on the emotional well-being of individuals or systems.",
+  "events_count": 10,
+  "max_mean_delta": 0.15325872747747749,
+  "max_sign_agreement": 1.0,
+  "token_count": 10,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.10894061814967368,
+      "median_impact": 0.10894061814967368,
+      "mean_prompt_shift": 0.04301592862481318
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.09902522117579908,
+      "median_impact": 0.09902522117579908,
+      "mean_prompt_shift": -0.09841710934256953
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.09902522117579908,
+      "median_impact": 0.09902522117579908,
+      "mean_prompt_shift": -0.09841710934256953
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 6,
+      "samples": 6,
+      "mean_impact": 0.09314844580581998,
+      "median_impact": 0.08798571134868421,
+      "mean_prompt_shift": -0.03122859316838018
+    },
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05227481617647059,
+      "median_impact": 0.05227481617647059,
+      "mean_prompt_shift": -0.05180021799514778
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 17,
+      "direction": -1,
+      "mean_delta": 0.05227481617647059,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 27,
+      "direction": -1,
+      "mean_delta": 0.09657689144736842,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 28,
+      "direction": 1,
+      "mean_delta": 0.10516760737885462,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 29,
+      "direction": -1,
+      "mean_delta": 0.059406111725663714,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 30,
+      "direction": -1,
+      "mean_delta": 0.06508680555555556,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 31,
+      "direction": -1,
+      "mean_delta": 0.06678118024553571,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 32,
+      "direction": 1,
+      "mean_delta": 0.15110005605381166,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 33,
+      "direction": -1,
+      "mean_delta": 0.15325872747747749,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 35,
+      "direction": 1,
+      "mean_delta": 0.07939453125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 36,
+      "direction": -1,
+      "mean_delta": 0.09902522117579908,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

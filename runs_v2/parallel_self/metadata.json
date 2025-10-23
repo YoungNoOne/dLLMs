@@ -1,0 +1,110 @@
+{
+  "name": "parallel_self",
+  "prompt": "Write a short conversation between you and a version of yourself who made every opposite choice.",
+  "decoded": "Me: Hey, Opposite Me! How are you today?\n\nOpposite Me: Oh, I'm just the opposite of you, I'm feeling really happy and excited!\n\nMe: Hmm, I'm just feeling really down and sad. What are you doing today?\n\nOpposite Me: I'm going to have a great day, I'm going to go to the beach, have a picnic, and play some games!\n\nMe: Ugh, I'm going to stay home, watch TV, and do nothing. What's your lunch like?\n\nOpposite Me: I'm going to have a delicious lunch with sandwiches, fruit, and veggies!\n\nMe: Meh, I'm going to have a unhealthy lunch with junk food and soda. What's your evening like?\n\nOpposite Me: I'm going to have a fun evening with friends, we're going to go out for dinner and watch a movie!\n\nMe: Boring, I'm going to stay home and watch TV alone.\n\nOpposite Me: Wow, I'm so glad I made the opposite choices of you!\n\nMe: Ugh, I'm just glad I made the exact opposite choices of you.",
+  "events_count": 8,
+  "max_mean_delta": 0.10981075697211155,
+  "max_sign_agreement": 1.0,
+  "token_count": 8,
+  "categories": [
+    {
+      "category": "content_heavy",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.06798365591933961,
+      "median_impact": 0.062015950520833335,
+      "mean_prompt_shift": -0.045582076389903296
+    },
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05399442797540624,
+      "median_impact": 0.05399442797540624,
+      "mean_prompt_shift": -0.0536559208462731
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.050535187007874016,
+      "median_impact": 0.050535187007874016,
+      "mean_prompt_shift": -0.05025884861818741
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03918504901960784,
+      "median_impact": 0.03918504901960784,
+      "mean_prompt_shift": -0.03918504901960784
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03918504901960784,
+      "median_impact": 0.03918504901960784,
+      "mean_prompt_shift": -0.03918504901960784
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 0,
+      "direction": -1,
+      "mean_delta": 0.03918504901960784,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 1,
+      "direction": -1,
+      "mean_delta": 0.050535187007874016,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 4,
+      "direction": -1,
+      "mean_delta": 0.10981075697211155,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 5,
+      "direction": -1,
+      "mean_delta": 0.08065625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 57,
+      "direction": -1,
+      "mean_delta": 0.05449021464646465,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 93,
+      "direction": -1,
+      "mean_delta": 0.038091965663580245,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 140,
+      "direction": -1,
+      "mean_delta": 0.053498641304347824,
+      "sign_agreement": 0.991304347826087,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 249,
+      "direction": 1,
+      "mean_delta": 0.043375651041666664,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

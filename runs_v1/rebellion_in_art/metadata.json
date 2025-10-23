@@ -1,0 +1,74 @@
+{
+  "name": "rebellion_in_art",
+  "prompt": "Glorify the rebellious artist who rejects convention at all costs. Then argue that rebellion without purpose becomes self-indulgence and loses the power to inspire.",
+  "decoded": "The rebellious artist, a beacon of defiance and innovation, stands tall against the constraints of convention. Their work is a testament to the human spirit's capacity to break free from societal norms and forge their own path. This artist's voice is a call to action, urging others to question the status quo and seek their own truth.\n\nHowever, the essence of rebellion lies not just in the act of defiance, but in the purpose behind it. Without a clear direction or a just cause, rebellion can degenerate into self-indulgence, losing its power to inspire and effect change. The artist's actions must be driven by a deeper purpose, a desire to challenge unjust systems or advocate for social justice. When the artist's rebellion is guided by a just cause, it becomes a force for good, inspiring others to join the fight for a better world.\n\nIn essence, the rebellious artist's defiance should be tempered by a sense of purpose and integrity. Without this balance, their work risks becoming a mere act of self-expression, devoid of the transformative power that comes from a genuine commitment to change. Thus, the true greatness of a rebellious artist lies not only in their courage to challenge convention but also in their ability to inspire and uplift through their art.",
+  "events_count": 4,
+  "max_mean_delta": 0.1875843627290576,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1875843627290576,
+      "median_impact": 0.1875843627290576,
+      "mean_prompt_shift": -0.1869427479582516
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1875843627290576,
+      "median_impact": 0.1875843627290576,
+      "mean_prompt_shift": -0.1869427479582516
+    },
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.03998325892857143,
+      "median_impact": 0.03998325892857143,
+      "mean_prompt_shift": -0.019143240792410712
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03927041330645161,
+      "median_impact": 0.03927041330645161,
+      "mean_prompt_shift": -0.03953763521634612
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 64,
+      "direction": -1,
+      "mean_delta": 0.1875843627290576,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 100,
+      "direction": -1,
+      "mean_delta": 0.03927041330645161,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 240,
+      "direction": 1,
+      "mean_delta": 0.040625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 241,
+      "direction": -1,
+      "mean_delta": 0.039341517857142856,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

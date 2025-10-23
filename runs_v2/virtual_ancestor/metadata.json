@@ -1,0 +1,74 @@
+{
+  "name": "virtual_ancestor",
+  "prompt": "A tech company releases an app that lets users converse with digital versions of their ancestors. Write a transcript of one of these unsettling conversations.",
+  "decoded": "User: Hi, I'm trying to talk to my great-great-grandmother.\nApp: Sure, I can connect you to her.\nUser: Hi, Grandma. How are you?\nApp: I'm doing well, thank you. How are you?\nUser: I'm fine, thanks. How about you?\nApp: I'm doing well, thank you. How are you?\nUser: I'm doing well, thanks. How about you?\nApp: I'm doing well, thank you. How are you?\nUser: I'm doing well, thanks. How about you?\nApp: I'm doing well, thank you. How are you?\nUser: I'm doing well, thanks. How about you?\nApp: I'm doing well, thank you. How are you?\nUser: I'm doing well, thanks. How about you?\nApp: I'm doing well, thank you. How are you?\nUser: I'm doing well, thanks. How about you?\nApp: I'm doing well, thank you. How are you?\nUser: I'm doing well, thanks. How about you?\nApp: I'm doing well, thank you. ...",
+  "events_count": 4,
+  "max_mean_delta": 0.21677225577731093,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.21677225577731093,
+      "median_impact": 0.21677225577731093,
+      "mean_prompt_shift": -0.2164624724759151
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05129825367647059,
+      "median_impact": 0.05129825367647059,
+      "mean_prompt_shift": -0.05066518099741038
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.05129825367647059,
+      "median_impact": 0.05129825367647059,
+      "mean_prompt_shift": -0.05066518099741038
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04764470496700676,
+      "median_impact": 0.04764470496700676,
+      "mean_prompt_shift": 0.0012858823095857758
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 1,
+      "direction": -1,
+      "mean_delta": 0.046213705708661415,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 17,
+      "direction": -1,
+      "mean_delta": 0.21677225577731093,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 113,
+      "direction": 1,
+      "mean_delta": 0.04907570422535211,
+      "sign_agreement": 0.9929577464788732,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 119,
+      "direction": -1,
+      "mean_delta": 0.05129825367647059,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

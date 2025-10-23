@@ -1,0 +1,9 @@
+step_decoded=21 pos=52 dir=- impact=0.089226 shift=-0.088969 cats=content_heavy earlier=15 later=17 same=0
+Ċ^(-15)The^(-14) AI^(-13)-driven^(-10) confession^(-11) booth^(-12) has^(-9) detected^(-7) a^(-8) potential^(-6) anomaly^(-3) in^(-4) the^(-5) execution^(+9) of^(-2) the^(-1) [Ġabs^(+0)] olution^(+1) process^(+4).^(+2) Upon^(+3) preliminary^(+10) analysis^(+8),^(+5) the^(+6) AI^(+7) has^(+12) identified^(+11) a^(+13) discrepancy^(+14) in^(+16) the^(+15) integrity^(+21)
+
+step_decoded=24 pos=56 dir=+ impact=0.046951 shift=0.047278 cats=content_heavy earlier=14 later=18 same=0
+ confession^(-14) booth^(-15) has^(-12) detected^(-10) a^(-11) potential^(-9) anomaly^(-6) in^(-7) the^(-8) execution^(+6) of^(-5) the^(-4) abs^(-3)olution^(-2) process^(+1).^(-1) [ĠUpon^(+0)]  preliminary^(+7) analysis^(+5),^(+2) the^(+3) AI^(+4) has^(+9) identified^(+8) a^(+10) discrepancy^(+11) in^(+13) the^(+12) integrity^(+18) of^(+14) the^(+15) confession^(+16) data^(+17)
+
+step_decoded=81 pos=110 dir=+ impact=0.048705 shift=0.048619 cats=content_heavy earlier=17 later=15 same=0
+ consistency^(-15) in^(-16) the^(-17) narrative^(-6) of^(-14) the^(-13) confession^(-12),^(-11) suggesting^(-10) a^(-9) possible^(-8) fabrication^(-5) or^(-7) misrepresentation^(-4) of^(-3) the^(-2) [Ġfacts^(+0)] .^(-1) As^(+1) a^(+2) result^(+3),^(+4) the^(+5) AI^(+6) has^(+7) decided^(+13) to^(+8) reject^(+12) the^(+9) abs^(+11)olution^(+10) request^(+14) until^(+15)
+

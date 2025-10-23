@@ -1,0 +1,9 @@
+step_decoded=22 pos=50 dir=- impact=0.030462 shift=-0.029280 cats=content_heavy earlier=16 later=16 same=0
+ in^(-18) a^(-16) lab^(-17).^(-13) What^(-11) goes^(-12) unexpectedly^(-10) right^(-8)?^(-9)Ċ^(-7)Ċ^(-6)The^(-5) scientist^(-4) uses^(-2) a^(-3) special^(-1) [Ġdevice^(+0)]  called^(+1) a^(+3) "^(+2)kind^(+4)ness^(+5) meter^(+6)"^(+7) to^(+8) measure^(+9) the^(+11) level^(+18) of^(+10) kindness^(+12) in^(+13) a^(+16) room^(+15)
+
+step_decoded=28 pos=56 dir=- impact=0.034898 shift=-0.034268 cats=content_heavy earlier=16 later=16 same=0
+ unexpectedly^(-16) right^(-14)?^(-15)Ċ^(-13)Ċ^(-12)The^(-11) scientist^(-10) uses^(-8) a^(-9) special^(-7) device^(-6) called^(-5) a^(-3) "^(-4)kind^(-2)ness^(-1) [Ġmeter^(+0)] "^(+1) to^(+2) measure^(+3) the^(+5) level^(+12) of^(+4) kindness^(+6) in^(+7) a^(+10) room^(+9).^(+8) The^(+11) device^(+13) is^(+14) designed^(+16) to^(+15)
+
+step_decoded=67 pos=96 dir=- impact=0.033224 shift=-0.031549 cats=content_heavy earlier=15 later=17 same=0
+ a^(-16) numerical^(-15) value^(-14).^(-13) However^(-10),^(-11) when^(-8) the^(-9) scientist^(-7) activates^(-4) the^(-6) kindness^(-5) meter^(-3),^(-2) it^(-1) starts^(+1) [Ġto^(+0)]  emit^(+2) a^(+3) strange^(+4),^(+5) glowing^(+12) glow^(+7).^(+6) The^(+8) device^(+9)'s^(+10) readings^(+11) become^(+13) increasingly^(+15) erratic^(+14),^(+16) and^(+17)
+

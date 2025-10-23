@@ -1,0 +1,44 @@
+{
+  "name": "interspecies_contract",
+  "prompt": "Humans finally sign a peace treaty with animals. Draft the terms negotiated by dolphins and wolves.",
+  "decoded": "Article 1: The Purpose of the Treaty\nThe purpose of this treaty is to establish a peaceful relationship between humans and animals.\n\nArticle 2: Respect for Animal Rights\nHumans will respect the rights of animals to live in peace and freedom.\n\nArticle 3: Protection of Animal Rights\nHumans will protect the rights of animals from harm and exploitation.\n\nArticle 4: Promotion of Animal Welfare\nHumans will promote the welfare of animals through humane treatment and conservation.\n\nArticle 5: Communication and Cooperation\nHumans and animals will communicate and cooperate to promote mutual understanding and coexistence.\n\nArticle 6: Education of Animal Rights\nHumans will promote animal rights education to raise awareness of the importance of animal welfare.\n\nArticle 7: Enforcement of Animal Rights\nHumans will enforce animal rights laws and regulations to protect the rights of animals.\n\nArticle 8: International Cooperation\nHumans and animals will cooperate internationally to promote animal rights and welfare.\n\nArticle 9: Treaty Review\nHumans and animals will review the treaty to ensure its effectiveness and implementation.\n\nArticle 10: Future Cooperation\nHumans and animals will continue to cooperate to promote animal rights and welfare.",
+  "events_count": 2,
+  "max_mean_delta": 0.24595668859649122,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.24595668859649122,
+      "median_impact": 0.24595668859649122,
+      "mean_prompt_shift": -0.24586174813740141
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06822916666666666,
+      "median_impact": 0.06822916666666666,
+      "mean_prompt_shift": -0.06822916666666667
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 0,
+      "direction": -1,
+      "mean_delta": 0.06822916666666666,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 27,
+      "direction": -1,
+      "mean_delta": 0.24595668859649122,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,74 @@
+{
+  "name": "sound_of_truth",
+  "prompt": "Invent what truth would sound like if it had an actual tone.",
+  "decoded": "If truth had an actual tone, it would be a steady, unwavering, and unwavering whisper. It would sound like a gentle, soothing voice, with a hint of a soft, resonant hum. The tone would be calm, composed, and serene, as if speaking from a place of inner peace and clarity.\n\nThe voice would be smooth, melodic, and harmonious, with a gentle, soothing quality that would evoke a sense of comfort and reassurance. The tone would be a soft, gentle whisper, with a gentle, melodic quality that would convey a sense of calm and tranquility.\n\nThe voice would be clear, precise, and articulate, with a gentle, melodic quality that would convey a sense of confidence and conviction. The tone would be a soft, gentle whisper, with a gentle, melodic quality that would convey a sense of clarity and understanding.\n\nThe voice would be gentle, soothing, and harmonious, with a gentle, melodic quality that would evoke a sense of comfort and reassurance. The tone would be a soft, gentle whisper, with a gentle, melodic quality that would convey a sense of calm and tranquility.\n\nOverall, the tone of truth would be a gentle, soothing, and harmonious whisper, with a sense of clarity and understanding.",
+  "events_count": 4,
+  "max_mean_delta": 0.17164812184343434,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.17164812184343434,
+      "median_impact": 0.17164812184343434,
+      "mean_prompt_shift": -0.1715590460192376
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.17164812184343434,
+      "median_impact": 0.17164812184343434,
+      "mean_prompt_shift": -0.1715590460192376
+    },
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.06546235170979878,
+      "median_impact": 0.06546235170979878,
+      "mean_prompt_shift": -0.02207191052567005
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.044140625,
+      "median_impact": 0.044140625,
+      "mean_prompt_shift": -0.041223026344225366
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 15,
+      "direction": -1,
+      "mean_delta": 0.044140625,
+      "sign_agreement": 0.9125,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 57,
+      "direction": -1,
+      "mean_delta": 0.17164812184343434,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 58,
+      "direction": -1,
+      "mean_delta": 0.08778156725888325,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 227,
+      "direction": 1,
+      "mean_delta": 0.04314313616071429,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

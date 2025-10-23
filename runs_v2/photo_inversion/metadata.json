@@ -1,0 +1,116 @@
+{
+  "name": "photo_inversion",
+  "prompt": "You take a photo and discover you were never in it. What\u2019s the explanation?",
+  "decoded": "The explanation is that the photo was taken before you appeared in the scene. This is a classic example of a riddle or a logic puzzle. The key is to understand that the photo was taken at a specific point in time, and you were not present at that moment. Therefore, you are not in the photo because you were not there when it was taken.\n\nHere's a step-by-step breakdown:\n\n1. **You take a photo**: This means you are capturing the scene with your camera.\n2. **You discover you were never in it**: This implies that you are not in the photo.\n3. **Consider the timing**: If the photo was taken before you appeared in the scene, then you would not be in the photo because you were not there when the photo was taken.\n\nSo, the explanation is that the photo was taken before you appeared in the scene, which is why you are not in the photo.",
+  "events_count": 10,
+  "max_mean_delta": 0.12056834795321637,
+  "max_sign_agreement": 1.0,
+  "token_count": 10,
+  "categories": [
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.08720703125,
+      "median_impact": 0.08720703125,
+      "mean_prompt_shift": 0.08677199937810942
+    },
+    {
+      "category": "special_token",
+      "triggers": 7,
+      "samples": 7,
+      "mean_impact": 0.08448112986151446,
+      "median_impact": 0.08528645833333333,
+      "mean_prompt_shift": -0.021968793169113165
+    },
+    {
+      "category": "punctuation",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.07429433585342231,
+      "median_impact": 0.08270807549504951,
+      "mean_prompt_shift": 0.019493531036073358
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.06783798815513345,
+      "median_impact": 0.06783798815513345,
+      "mean_prompt_shift": -0.014145703134944676
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 53,
+      "direction": -1,
+      "mean_delta": 0.08270807549504951,
+      "sign_agreement": 0.9900990099009901,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 55,
+      "direction": 1,
+      "mean_delta": 0.08720703125,
+      "sign_agreement": 0.99,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 73,
+      "direction": -1,
+      "mean_delta": 0.09938401442307693,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 84,
+      "direction": 1,
+      "mean_delta": 0.12056834795321637,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 103,
+      "direction": -1,
+      "mean_delta": 0.09716796875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 163,
+      "direction": 1,
+      "mean_delta": 0.05296790081521739,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 196,
+      "direction": -1,
+      "mean_delta": 0.055928893008474576,
+      "sign_agreement": 0.8813559322033898,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 246,
+      "direction": 1,
+      "mean_delta": 0.08528645833333333,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 247,
+      "direction": -1,
+      "mean_delta": 0.0718994140625,
+      "sign_agreement": 0.875,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 250,
+      "direction": -1,
+      "mean_delta": 0.0611328125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

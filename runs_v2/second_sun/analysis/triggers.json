@@ -1,0 +1,112 @@
+[
+  {
+    "step_decoded": 5,
+    "direction": -1,
+    "mean_delta": 0.277171875,
+    "median_delta": 0.27734375,
+    "sign_agreement": 1.0,
+    "valid_positions": 250,
+    "prompt_mean": 0.668609375,
+    "prompt_shift": -0.2761117405378487,
+    "tokens": [
+      {
+        "step_decoded": 5,
+        "token_pos": 42,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.99609375,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 6,
+    "direction": 1,
+    "mean_delta": 0.26960968875502006,
+    "median_delta": 0.26953125,
+    "sign_agreement": 1.0,
+    "valid_positions": 249,
+    "prompt_mean": 0.939445281124498,
+    "prompt_shift": 0.27083590612449804,
+    "tokens": [
+      {
+        "step_decoded": 6,
+        "token_pos": 44,
+        "token_id": 480,
+        "token_str": "**",
+        "conf_decoded": 0.470703125,
+        "categories": [
+          "other"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 12,
+    "direction": -1,
+    "mean_delta": 0.0981224279835391,
+    "median_delta": 0.09375,
+    "sign_agreement": 1.0,
+    "valid_positions": 243,
+    "prompt_mean": 0.7450970936213992,
+    "prompt_shift": -0.09745221478024013,
+    "tokens": [
+      {
+        "step_decoded": 12,
+        "token_pos": 50,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.76953125,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 16,
+    "direction": -1,
+    "mean_delta": 0.2166742939330544,
+    "median_delta": 0.21875,
+    "sign_agreement": 1.0,
+    "valid_positions": 239,
+    "prompt_mean": 0.5975418410041841,
+    "prompt_shift": -0.2159509975374826,
+    "tokens": [
+      {
+        "step_decoded": 16,
+        "token_pos": 51,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.8671875,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 27,
+    "direction": -1,
+    "mean_delta": 0.07685289884868421,
+    "median_delta": 0.07421875,
+    "sign_agreement": 1.0,
+    "valid_positions": 228,
+    "prompt_mean": 0.5911244174890351,
+    "prompt_shift": -0.07558205085157621,
+    "tokens": [
+      {
+        "step_decoded": 27,
+        "token_pos": 62,
+        "token_id": 8393,
+        "token_str": "\u0120Name",
+        "conf_decoded": 0.9921875,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  }
+]

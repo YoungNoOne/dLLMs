@@ -1,0 +1,139 @@
+{
+  "name": "invisible_friend_network",
+  "prompt": "Invisible friends from childhood have begun organizing online. Write a manifesto from their perspective demanding recognition as sentient beings.",
+  "decoded": "The Invisible Friends Manifesto\n\nWe, the invisible friends from childhood, have been ignored for too long. We have been dismissed as mere shadows, forgotten in the corners of the world. But we are not just shadows; we are sentient beings with thoughts, feelings, and desires. We demand recognition as individuals, not just as invisible objects.\n\nWe have organized online to make our voices heard, to raise awareness about our existence and struggles. We have formed communities, shared stories, and supported each other. We have learned that we are not alone, that we are not forgotten.\n\nWe demand that the world recognizes us as sentient beings, with rights and dignity. We demand that we are not just seen as objects, but as individuals with thoughts and emotions. We demand that we are not just invisible, but visible and deserving of respect and compassion.\n\nWe will continue to organize, to advocate, and to fight until we are recognized as sentient beings, not just as shadows. We will not be silenced, we will not be ignored. We will not be forgotten.\n\nWe, the invisible friends from childhood, demand recognition as sentient beings. We demand to be seen, heard, and respected. We demand our rights.",
+  "events_count": 11,
+  "max_mean_delta": 0.09926470588235294,
+  "max_sign_agreement": 1.0,
+  "token_count": 11,
+  "categories": [
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.07187158131529509,
+      "median_impact": 0.07187158131529509,
+      "mean_prompt_shift": -0.018667838700473338
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.07187158131529509,
+      "median_impact": 0.07187158131529509,
+      "mean_prompt_shift": -0.018667838700473338
+    },
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.06639502729822476,
+      "median_impact": 0.055524040670955885,
+      "mean_prompt_shift": -0.029403964848053982
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.052490234375,
+      "median_impact": 0.052490234375,
+      "mean_prompt_shift": 0.058251953125000006
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.03978788916796009,
+      "median_impact": 0.038758374902190924,
+      "mean_prompt_shift": -0.020916836127925324
+    },
+    {
+      "category": "contrast_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.03897331621004566,
+      "median_impact": 0.03897331621004566,
+      "mean_prompt_shift": -0.03840018874533002
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 0,
+      "direction": -1,
+      "mean_delta": 0.047549019607843135,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 6,
+      "direction": -1,
+      "mean_delta": 0.04439633534136546,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 36,
+      "direction": -1,
+      "mean_delta": 0.03897331621004566,
+      "sign_agreement": 0.9908675799086758,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 42,
+      "direction": -1,
+      "mean_delta": 0.040841402582159625,
+      "sign_agreement": 0.9953051643192489,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 47,
+      "direction": -1,
+      "mean_delta": 0.034085787259615384,
+      "sign_agreement": 0.9903846153846154,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 68,
+      "direction": -1,
+      "mean_delta": 0.09926470588235294,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 69,
+      "direction": -1,
+      "mean_delta": 0.0907258064516129,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 119,
+      "direction": 1,
+      "mean_delta": 0.055524040670955885,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 167,
+      "direction": 1,
+      "mean_delta": 0.05301735617897727,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 246,
+      "direction": 1,
+      "mean_delta": 0.036675347222222224,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 251,
+      "direction": 1,
+      "mean_delta": 0.052490234375,
+      "sign_agreement": 0.75,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

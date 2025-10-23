@@ -1,0 +1,29 @@
+{
+  "name": "recycled_memories",
+  "prompt": "In the future, people can trade memories like currency. What\u2019s the most valuable one?",
+  "decoded": "In a future where memories can be traded like currency, the most valuable memory would likely be one that holds significant personal or cultural value. Here are a few examples:\n\n1. **Personal Milestones**: Memories of personal achievements, such as graduating from college, starting a business, or winning a prestigious award, would be highly valuable.\n\n2. **Cultural Significance**: Memories related to historical events, cultural traditions, or significant social movements would be highly prized.\n\n3. **Unforgettable Experiences**: Memories of unique experiences, such as traveling to a foreign country, learning a new skill, or witnessing a historic event, would be extremely valuable.\n\n4. **Emotional Connection**: Memories of emotional connections, such as those with family, friends, or partners, would be highly valued.\n\n5. **Learning and Growth**: Memories of learning and personal growth, such as mastering a new skill or overcoming a significant challenge, would be highly prized.\n\n6. **Legacy and Impact**: Memories of leaving a lasting impact, such as founding a charitable organization or making a groundbreaking discovery, would be extremely valuable.\n\nUltimately, the most valuable memories would be those that hold significant personal, cultural, or emotional value to the individual.",
+  "events_count": 1,
+  "max_mean_delta": 0.24863899886877827,
+  "max_sign_agreement": 1.0,
+  "token_count": 1,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.24863899886877827,
+      "median_impact": 0.24863899886877827,
+      "mean_prompt_shift": -0.24858533590151233
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 34,
+      "direction": -1,
+      "mean_delta": 0.24863899886877827,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

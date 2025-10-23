@@ -1,0 +1,102 @@
+{
+  "name": "stolen_dream_project",
+  "prompt": "Corporations start patenting dreams for profit. Write a leaked internal memo outlining how they justify ownership of imagination.",
+  "decoded": "Subject: Internal Memo: Patents on Dreams\n\nTo: All Employees\n\nFrom: Corporate Headquarters\n\nDate: [Date]\n\nDear All,\n\nWe are pleased to announce that we have successfully secured patents on several of our most innovative ideas. These patents will allow us to monetize our imagination and increase our competitiveness in the market.\n\nWe believe that patenting our ideas will give us a significant advantage over our competitors. By owning the rights to our ideas, we can protect them from theft and ensure that we receive compensation for our work.\n\nWe understand that some of you may be concerned about the ethical implications of patenting ideas. However, we believe that it is important to protect our intellectual property and ensure that we receive compensation for our work.\n\nWe encourage all employees to continue to innovate and come up with new ideas. We will provide resources and support to help you bring your ideas to life and secure patents on them.\n\nWe believe that by patenting our ideas, we can continue to grow our business and increase our profits. We look forward to the future and the opportunities that lie ahead.\n\nThank you for your understanding and support.\n\nSincerely,\n\n[Name]\n\nCorporate Headquarters",
+  "events_count": 8,
+  "max_mean_delta": 0.2712131076388889,
+  "max_sign_agreement": 1.0,
+  "token_count": 8,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.2191052640489559,
+      "median_impact": 0.22738530585106384,
+      "mean_prompt_shift": -0.21908057699593134
+    },
+    {
+      "category": "bracket",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1773292508187773,
+      "median_impact": 0.1773292508187773,
+      "mean_prompt_shift": -0.17650346497057146
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1773292508187773,
+      "median_impact": 0.1773292508187773,
+      "mean_prompt_shift": -0.17650346497057146
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.16573343212178937,
+      "median_impact": 0.18396135624227677,
+      "mean_prompt_shift": 0.11498221745892942
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 3,
+      "direction": -1,
+      "mean_delta": 0.2712131076388889,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 6,
+      "direction": 1,
+      "mean_delta": 0.18149943524096385,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 8,
+      "direction": -1,
+      "mean_delta": 0.10416403087044535,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 20,
+      "direction": -1,
+      "mean_delta": 0.22738530585106384,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 21,
+      "direction": 1,
+      "mean_delta": 0.18642327724358973,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 26,
+      "direction": -1,
+      "mean_delta": 0.1773292508187773,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 28,
+      "direction": 1,
+      "mean_delta": 0.1908469851321586,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 67,
+      "direction": -1,
+      "mean_delta": 0.1587173786569149,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

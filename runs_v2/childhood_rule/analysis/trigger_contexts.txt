@@ -1,0 +1,9 @@
+step_decoded=23 pos=52 dir=- impact=0.040056 shift=-0.039209 cats=content_heavy earlier=15 later=17 same=0
+ sense^(-16) only^(-15) to^(-14) adults^(-13) was^(-11) the^(-10) rule^(-9) that^(-8) I^(-7) had^(-6) to^(-5) wear^(-4) a^(-3) special^(-2) pair^(+1) of^(-1) [Ġsocks^(+0)]  every^(+2) night^(+4).^(+3) My^(+5) parents^(+6) would^(+7) make^(+8) me^(+9) wear^(+10) a^(+11) specific^(+15) pair^(+14) of^(+13) socks^(+12) to^(+16) bed^(+17)
+
+step_decoded=53 pos=81 dir=+ impact=0.036578 shift=0.035890 cats=content_heavy earlier=16 later=16 same=0
+ of^(-17) socks^(-18) to^(-14) bed^(-13),^(-12) and^(-11) I^(-10) would^(-9) have^(-8) to^(-7) change^(-6) them^(-5) in^(-3) the^(-4) morning^(-2).^(-1) [ĠAt^(+0)]  the^(+3) time^(+2),^(+1) I^(+4) didn^(+5)'t^(+6) understand^(+7) why^(+8) I^(+10) had^(+9) to^(+11) wear^(+12) those^(+14) socks^(+13),^(+15) but^(+16)
+
+step_decoded=87 pos=113 dir=- impact=0.032819 shift=-0.033196 cats=content_heavy earlier=18 later=14 same=0
+ but^(-18) now^(-17) I^(-16) realize^(-15) that^(-14) it^(-13) was^(-12) a^(-11) way^(-10) for^(-9) my^(-8) parents^(-6) to^(-7) teach^(-4) me^(-5) about^(-3) [Ġresponsibility^(+0)]  and^(-2) organization^(+3).^(-1)Ċ^(+2)Ċ^(+1)As^(+4) a^(+5) child^(+7),^(+6) I^(+8) didn^(+9)'t^(+10) understand^(+13) the^(+11) concept^(+14) of^(+12)
+

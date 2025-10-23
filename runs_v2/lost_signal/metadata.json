@@ -1,0 +1,66 @@
+{
+  "name": "lost_signal",
+  "prompt": "You receive a radio signal from your own future. Write the first message it contains.",
+  "decoded": "**Message from the Future:**\n\n\"Greetings, inhabitants of Earth. This message is sent from the year 2150. We have reached a point of unprecedented technological advancement and environmental stewardship. Our civilization has evolved to coexist with nature, and we have developed sustainable practices that ensure the longevity of our planet.\n\nWe have achieved global energy independence, and our reliance on fossil fuels has been virtually eliminated. Our cities are self-sustaining, powered by renewable energy sources, and our transportation systems are fully electric and autonomous.\n\nWe have also achieved a level of medical technology that is beyond your imagination. Genetic engineering has eradicated most diseases, and our populations are healthier and more resilient than ever before.\n\nWe have also developed advanced AI systems that assist us in every aspect of life, from education to healthcare to entertainment. These systems have enabled us to solve complex problems more efficiently and effectively.\n\nWe hope that this message will inspire you to continue your journey towards a better future. Remember, the power of knowledge and the importance of sustainability are the keys to your success.\n\nStay curious, stay innovative, and always strive to make a positive impact on the world.\n\nYour future from the year 2150\"",
+  "events_count": 4,
+  "max_mean_delta": 0.27324924698795183,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "bracket",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.22132780870445345,
+      "median_impact": 0.22132780870445345,
+      "mean_prompt_shift": 0.22212910138394615
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.22132780870445345,
+      "median_impact": 0.22132780870445345,
+      "mean_prompt_shift": 0.22212910138394615
+    },
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.18430039889547223,
+      "median_impact": 0.20742701480263157,
+      "mean_prompt_shift": -0.13589465986328786
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 6,
+      "direction": -1,
+      "mean_delta": 0.27324924698795183,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 8,
+      "direction": 1,
+      "mean_delta": 0.22132780870445345,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 65,
+      "direction": -1,
+      "mean_delta": 0.20742701480263157,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 105,
+      "direction": 1,
+      "mean_delta": 0.07222493489583333,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

@@ -1,0 +1,145 @@
+{
+  "name": "urban_myth_catalog",
+  "prompt": "Compile entries for a fictional government catalog that classifies and regulates urban legends as if they were endangered species.",
+  "decoded": "1. The Invisible Man: Endangered\n2. The Mummy: Endangered\n3. The Wolfman: Endangered\n4. The Ghost of the White House: Endangered\n5. The Bigfoot: Endangered\n6. The Lake Monster: Endangered\n7. The Invisible Man: Endangered\n8. The Mummy: Endangered\n9. The Wolfman: Endangered\n10. The Ghost of the White House: Endangered\n11. The Bigfoot: Endangered\n12. The Lake Monster: Endangered\n13. The Invisible Man: Endangered\n14. The Mummy: Endangered\n15. The Wolfman: Endangered\n16. The Ghost of the White House: Endangered\n17. The Bigfoot: Endangered\n18. The Lake Monster: Endangered\n19. The Invisible Man: Endangered\n20. The Mummy: Endangered\n21. The Wolfman: Endangered\n22. The Ghost of the White House: Endangered\n23. The Bigfoot: Endangered\n24. The Lake Monster: Endangered\n25. The Real Loch Ness Monster: Endangered",
+  "events_count": 13,
+  "max_mean_delta": 0.08303444602272728,
+  "max_sign_agreement": 1.0,
+  "token_count": 13,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.057987070777469896,
+      "median_impact": 0.05541424418604651,
+      "mean_prompt_shift": 0.023710699748835367
+    },
+    {
+      "category": "special_token",
+      "triggers": 6,
+      "samples": 6,
+      "mean_impact": 0.05655137250425605,
+      "median_impact": 0.051534326239361314,
+      "mean_prompt_shift": -0.06219223669107702
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.0501704467434667,
+      "median_impact": 0.0501704467434667,
+      "mean_prompt_shift": -0.049756785508399154
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.0501704467434667,
+      "median_impact": 0.0501704467434667,
+      "mean_prompt_shift": -0.049756785508399154
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04810444528863959,
+      "median_impact": 0.04810444528863959,
+      "mean_prompt_shift": 0.0018437946845926978
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 6,
+      "direction": -1,
+      "mean_delta": 0.04670243473895582,
+      "sign_agreement": 0.9839357429718876,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 18,
+      "direction": -1,
+      "mean_delta": 0.051836102320675106,
+      "sign_agreement": 0.9957805907172996,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 19,
+      "direction": -1,
+      "mean_delta": 0.051641949152542374,
+      "sign_agreement": 0.9788135593220338,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 22,
+      "direction": -1,
+      "mean_delta": 0.05142670332618026,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 71,
+      "direction": -1,
+      "mean_delta": 0.04512355638586957,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 83,
+      "direction": -1,
+      "mean_delta": 0.057083484738372096,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 88,
+      "direction": 1,
+      "mean_delta": 0.04950645583832335,
+      "sign_agreement": 0.9880239520958084,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 145,
+      "direction": -1,
+      "mean_delta": 0.08303444602272728,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 146,
+      "direction": 1,
+      "mean_delta": 0.06671086582568807,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 159,
+      "direction": -1,
+      "mean_delta": 0.048828125,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 161,
+      "direction": -1,
+      "mean_delta": 0.05521733710106383,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 169,
+      "direction": 1,
+      "mean_delta": 0.05541424418604651,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 248,
+      "direction": -1,
+      "mean_delta": 0.04729352678571429,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

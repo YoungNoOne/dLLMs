@@ -1,0 +1,96 @@
+{
+  "name": "world_without_sleep",
+  "prompt": "Imagine a world where no one needs to sleep. How does society change?",
+  "decoded": "In a world where no one needs to sleep, society would undergo significant changes. People would have more time to pursue their passions, interests, and hobbies. This would lead to a surge in productivity, creativity, and innovation. Businesses would be able to operate 24/7, leading to increased profits and economic growth.\n\nHowever, there would also be challenges. Without sleep, people would experience extreme fatigue, irritability, and mood swings. This would lead to a decline in mental health and well-being. Relationships would suffer, as people would be too tired to engage in meaningful conversations and activities.\n\nEducation would also be impacted. Students would struggle to concentrate and perform well in school, leading to lower grades and higher dropout rates. Teachers would have to adjust their teaching methods to accommodate students' lack of sleep.\n\nTransportation would also be affected. People would need to find alternative ways to get around, such as using public transportation or walking. This would lead to a decrease in car usage and an increase in physical activity.\n\nOverall, society would need to adapt to the new reality of not needing to sleep. People would need to find ways to balance their work and personal lives, and take steps to maintain their mental health and well-being.",
+  "events_count": 6,
+  "max_mean_delta": 0.15601870888157895,
+  "max_sign_agreement": 1.0,
+  "token_count": 6,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.15601870888157895,
+      "median_impact": 0.15601870888157895,
+      "mean_prompt_shift": -0.15592952926942683
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05512745859213251,
+      "median_impact": 0.05512745859213251,
+      "mean_prompt_shift": -0.020381585063767194
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04893469609935237,
+      "median_impact": 0.04893469609935237,
+      "mean_prompt_shift": -0.04925603789940708
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04893469609935237,
+      "median_impact": 0.04893469609935237,
+      "mean_prompt_shift": -0.04925603789940708
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04405381944444445,
+      "median_impact": 0.04405381944444445,
+      "mean_prompt_shift": 0.039154341846257656
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 2,
+      "direction": -1,
+      "mean_delta": 0.07591711956521739,
+      "sign_agreement": 0.9960474308300395,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 3,
+      "direction": 1,
+      "mean_delta": 0.04405381944444445,
+      "sign_agreement": 0.8015873015873016,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 44,
+      "direction": -1,
+      "mean_delta": 0.052456679502369666,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 45,
+      "direction": 1,
+      "mean_delta": 0.03433779761904762,
+      "sign_agreement": 0.9952380952380953,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 64,
+      "direction": -1,
+      "mean_delta": 0.04541271269633508,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 65,
+      "direction": -1,
+      "mean_delta": 0.15601870888157895,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

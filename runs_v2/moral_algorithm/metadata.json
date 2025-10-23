@@ -1,0 +1,44 @@
+{
+  "name": "moral_algorithm",
+  "prompt": "Governments release an algorithm that decides right from wrong. Write the public backlash from people who refuse to follow it.",
+  "decoded": "The release of an algorithm that decides right from wrong has sparked widespread outrage and resistance from those who refuse to adhere to its dictates. Many people argue that the algorithm is biased and unfair, and that it undermines individual freedom and autonomy.\n\nCritics of the algorithm claim that it is a violation of human rights and that it is a form of government control. They argue that the algorithm is not transparent and that it is difficult to understand how it makes its decisions.\n\nSome people have taken to social media to express their opposition to the algorithm, using hashtags such as #NoToAlgorithm and #FreeFromAlgorithm. Others have organized protests and rallies to demand that the algorithm be scrapped and that individuals be given the right to make their own decisions about right and wrong.\n\nThe backlash against the algorithm has also led to the formation of advocacy groups and organizations dedicated to protecting individual rights and freedoms. These groups are working to raise awareness about the dangers of the algorithm and to push for its removal.\n\nOverall, the release of the algorithm has sparked a heated debate about the role of technology in society and the importance of individual freedom and autonomy. The public backlash against the algorithm has shown that many people are willing to stand up for their rights and values.",
+  "events_count": 2,
+  "max_mean_delta": 0.20189490685096154,
+  "max_sign_agreement": 1.0,
+  "token_count": 2,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.20189490685096154,
+      "median_impact": 0.20189490685096154,
+      "mean_prompt_shift": -0.20160484945769697
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.035853794642857144,
+      "median_impact": 0.035853794642857144,
+      "mean_prompt_shift": -0.035237982503607435
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 3,
+      "direction": -1,
+      "mean_delta": 0.035853794642857144,
+      "sign_agreement": 0.996031746031746,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 47,
+      "direction": -1,
+      "mean_delta": 0.20189490685096154,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

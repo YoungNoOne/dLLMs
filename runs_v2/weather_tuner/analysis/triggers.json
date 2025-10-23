@@ -1,0 +1,90 @@
+[
+  {
+    "step_decoded": 4,
+    "direction": -1,
+    "mean_delta": 0.20215232818725098,
+    "median_delta": 0.203125,
+    "sign_agreement": 1.0,
+    "valid_positions": 251,
+    "prompt_mean": 0.735394360059761,
+    "prompt_shift": -0.20171811513865168,
+    "tokens": [
+      {
+        "step_decoded": 4,
+        "token_pos": 39,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.3125,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 5,
+    "direction": 1,
+    "mean_delta": 0.1739140625,
+    "median_delta": 0.177734375,
+    "sign_agreement": 1.0,
+    "valid_positions": 250,
+    "prompt_mean": 0.91025,
+    "prompt_shift": 0.174855639940239,
+    "tokens": [
+      {
+        "step_decoded": 5,
+        "token_pos": 40,
+        "token_id": 14722,
+        "token_str": "Today",
+        "conf_decoded": 0.283203125,
+        "categories": [
+          "content_heavy"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 55,
+    "direction": -1,
+    "mean_delta": 0.10689453125,
+    "median_delta": 0.11328125,
+    "sign_agreement": 1.0,
+    "valid_positions": 200,
+    "prompt_mean": 0.3885546875,
+    "prompt_shift": -0.10726698538557217,
+    "tokens": [
+      {
+        "step_decoded": 55,
+        "token_pos": 89,
+        "token_id": 198,
+        "token_str": "\u010a",
+        "conf_decoded": 0.99609375,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  },
+  {
+    "step_decoded": 146,
+    "direction": -1,
+    "mean_delta": 0.09899566370412843,
+    "median_delta": 0.091796875,
+    "sign_agreement": 0.8899082568807339,
+    "valid_positions": 109,
+    "prompt_mean": 0.1758170871559633,
+    "prompt_shift": -0.08673174096903671,
+    "tokens": [
+      {
+        "step_decoded": 146,
+        "token_pos": 182,
+        "token_id": 126081,
+        "token_str": "<|endoftext|>",
+        "conf_decoded": 1.0,
+        "categories": [
+          "special_token"
+        ]
+      }
+    ]
+  }
+]

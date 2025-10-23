@@ -1,0 +1,124 @@
+{
+  "name": "childhood_rule",
+  "prompt": "Write about a strange rule from your childhood that made sense only to adults.",
+  "decoded": "One strange rule from my childhood that made sense only to adults was the rule that I had to wear a special pair of socks every night. My parents would make me wear a specific pair of socks to bed, and I would have to change them in the morning. At the time, I didn't understand why I had to wear those socks, but now I realize that it was a way for my parents to teach me about responsibility and organization.\n\nAs a child, I didn't understand the concept of taking care of my belongings and keeping things tidy. However, as I grew older, I realized that this rule was a way for my parents to teach me the importance of taking care of my belongings and being responsible for my actions. It was a simple yet effective way for them to teach me important life skills that would benefit me for the rest of my life.\n\nThis rule may seem strange to some, but it makes sense to adults who understand the importance of responsibility and organization. It's a reminder that taking care of our belongings and being responsible for our actions is essential for our personal and professional well-being. It's a simple yet effective way for parents to teach their children important life skills that will benefit them not just in childhood but throughout their lives.",
+  "events_count": 10,
+  "max_mean_delta": 0.1043489193488024,
+  "max_sign_agreement": 1.0,
+  "token_count": 10,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.06448907430674365,
+      "median_impact": 0.04478236607142857,
+      "mean_prompt_shift": -0.04907333516813775
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04062203390525257,
+      "median_impact": 0.04062203390525257,
+      "mean_prompt_shift": -0.04048106071089039
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04062203390525257,
+      "median_impact": 0.04062203390525257,
+      "mean_prompt_shift": -0.04048106071089039
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.03648431959017176,
+      "median_impact": 0.03657758353960396,
+      "mean_prompt_shift": -0.012171439795214734
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.033287675173895255,
+      "median_impact": 0.033287675173895255,
+      "mean_prompt_shift": -0.0006598270384952226
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 20,
+      "direction": -1,
+      "mean_delta": 0.03269614361702128,
+      "sign_agreement": 0.9957446808510638,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 23,
+      "direction": -1,
+      "mean_delta": 0.040055899784482756,
+      "sign_agreement": 0.9956896551724138,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 52,
+      "direction": -1,
+      "mean_delta": 0.04429649014778325,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 53,
+      "direction": 1,
+      "mean_delta": 0.03657758353960396,
+      "sign_agreement": 0.9504950495049505,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 86,
+      "direction": -1,
+      "mean_delta": 0.036947577662721894,
+      "sign_agreement": 0.9881656804733728,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 87,
+      "direction": -1,
+      "mean_delta": 0.03281947544642857,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 88,
+      "direction": -1,
+      "mean_delta": 0.1043489193488024,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 241,
+      "direction": 1,
+      "mean_delta": 0.04478236607142857,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 242,
+      "direction": 1,
+      "mean_delta": 0.03387920673076923,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 245,
+      "direction": -1,
+      "mean_delta": 0.0443359375,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

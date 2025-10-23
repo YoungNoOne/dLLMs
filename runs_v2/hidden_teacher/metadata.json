@@ -1,0 +1,66 @@
+{
+  "name": "hidden_teacher",
+  "prompt": "Write about the person who unknowingly taught you the most important lesson in life.",
+  "decoded": "The person who unknowingly taught me the most important lesson in life was my grandmother. She was a quiet, reserved woman who rarely spoke, but her actions and words had a profound impact on my life.\n\nGrowing up, I often saw her working in the garden, tending to the plants with care and attention. She would tell me stories of her own childhood, emphasizing the importance of perseverance and resilience. Her stories were filled with struggles and hardships, but she never gave up.\n\nOne day, when I was struggling with a difficult project at work, I asked her for advice. She listened patiently and said, \"Remember, every challenge is a chance to learn and grow. Don't give up until you've tried everything you can.\"\n\nHer words stuck with me, and I began to understand the value of perseverance. I realized that it's not just about overcoming obstacles, but also about learning from the experience and growing stronger.\n\nMy grandmother's lesson of perseverance has stayed with me throughout my life. It has taught me to approach challenges with courage and determination, and to never give up, even when things get tough. I am grateful for her wisdom and guidance, and I strive to apply her lessons in all the areas of my life.",
+  "events_count": 4,
+  "max_mean_delta": 0.2499500363372093,
+  "max_sign_agreement": 1.0,
+  "token_count": 4,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.2499500363372093,
+      "median_impact": 0.2499500363372093,
+      "mean_prompt_shift": -0.2495933092431094
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05683243672836882,
+      "median_impact": 0.05683243672836882,
+      "mean_prompt_shift": -0.05610638294857945
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04319380144032922,
+      "median_impact": 0.04319380144032922,
+      "mean_prompt_shift": 0.04293837859660665
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 11,
+      "direction": -1,
+      "mean_delta": 0.06683849897540983,
+      "sign_agreement": 0.9959016393442623,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 12,
+      "direction": 1,
+      "mean_delta": 0.04319380144032922,
+      "sign_agreement": 0.9423868312757202,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 14,
+      "direction": -1,
+      "mean_delta": 0.0468263744813278,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 40,
+      "direction": -1,
+      "mean_delta": 0.2499500363372093,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

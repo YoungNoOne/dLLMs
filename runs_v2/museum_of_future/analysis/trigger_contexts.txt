@@ -1,0 +1,3 @@
+step_decoded=23 pos=56 dir=- impact=0.031503 shift=-0.031229 cats=content_heavy earlier=15 later=17 same=0
+ and^(-15) intriguing^(-12) attraction^(-13) that^(-14) offers^(-10) visitors^(-8) a^(-9) glimpse^(-11) into^(-7) the^(-6) future^(-5),^(-4) showcasing^(-3) exhibits^(-1) of^(-2) potential^(+1) [Ġdisasters^(+0)]  that^(+2) have^(+7) yet^(+3) to^(+4) occur^(+6).^(+5) This^(+8) museum^(+9) serves^(+11) as^(+10) a^(+12) caution^(+14)ary^(+13) tale^(+16),^(+15) urging^(+19)
+

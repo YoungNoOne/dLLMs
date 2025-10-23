@@ -1,0 +1,102 @@
+{
+  "name": "child_of_chaos",
+  "prompt": "A child is born with the ability to physically manifest random possibilities. Capture a day in the life of their exhausted parents.",
+  "decoded": "The parents wake up to the sound of their child's laughter, but they are exhausted from the night's events. They try to get out of bed, but their child has created a pile of toys on the floor, making it difficult to move. They try to brush their teeth, but their child has created a pile of clothes in the sink, making it impossible to clean. They try to eat breakfast, but their child has created a pile of food on the table, making it impossible to eat. They try to go to work, but their child has created a pile of cars on the road, making it impossible to drive. They try to focus at work, but their child has created a pile of papers on their desk, making it impossible to concentrate. They try to go home, but their child has created a pile of toys on the floor, making it impossible to walk. They try to cook dinner, but their child has created a pile of food on the table, making it impossible to eat. They try to relax, but their child has created a pile of toys on the floor, making it impossible to sleep. They try to get back to bed, but their child has created a pile of toys on the floor, making it impossible to rest.",
+  "events_count": 8,
+  "max_mean_delta": 0.13883150540865385,
+  "max_sign_agreement": 1.0,
+  "token_count": 8,
+  "categories": [
+    {
+      "category": "sentence_boundary",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.10231567076062986,
+      "median_impact": 0.09250176221804511,
+      "mean_prompt_shift": -0.10232045988932054
+    },
+    {
+      "category": "punctuation",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.10231567076062986,
+      "median_impact": 0.09250176221804511,
+      "mean_prompt_shift": -0.10232045988932054
+    },
+    {
+      "category": "other",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.08667415958065372,
+      "median_impact": 0.07931558187905843,
+      "mean_prompt_shift": 0.052174048726899167
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.0555419921875,
+      "median_impact": 0.0555419921875,
+      "mean_prompt_shift": -0.056105863131009626
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 98,
+      "direction": -1,
+      "mean_delta": 0.08575089570063694,
+      "sign_agreement": 0.9936305732484076,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 101,
+      "direction": 1,
+      "mean_delta": 0.04923396915584415,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 122,
+      "direction": -1,
+      "mean_delta": 0.09250176221804511,
+      "sign_agreement": 0.9924812030075187,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 123,
+      "direction": 1,
+      "mean_delta": 0.08988813920454546,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 149,
+      "direction": -1,
+      "mean_delta": 0.12869435436320756,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 151,
+      "direction": 1,
+      "mean_delta": 0.13883150540865385,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 191,
+      "direction": -1,
+      "mean_delta": 0.0555419921875,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 199,
+      "direction": -1,
+      "mean_delta": 0.06874302455357142,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

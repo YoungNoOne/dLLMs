@@ -1,0 +1,12 @@
+step_decoded=18 pos=47 dir=- impact=0.048721 shift=-0.048473 cats=content_heavy earlier=16 later=16 same=0
+ can^(-4) be^(-16) counterfe^(-14)ited^(-15) and^(-13) sold^(-12),^(-11) the^(-9) ra^(-8)rest^(-10) fake^(-7) emotion^(-5) would^(-3) be^(-6) **^(-2)emp^(+1) [athy^(+0)] **.^(-1) Emp^(+2)athy^(+3) is^(+4) a^(+5) complex^(+6) and^(+8) deeply^(+7) human^(+13) emotion^(+10) that^(+9) involves^(+11) understanding^(+12) and^(+14) sharing^(+17) the^(+15)
+
+step_decoded=177 pos=207 dir=- impact=0.040577 shift=-0.040550 cats=content_heavy earlier=15 later=17 same=0
+ empathy^(-16) would^(-17) be^(-13) incredibly^(-11) difficult^(-12) and^(-10) nearly^(-8) impossible^(-9) to^(-7) achieve^(-6).^(-5) It^(-3) would^(-4) be^(-2) the^(-1) ra^(+1) [rest^(+0)]  fake^(+2) emotion^(+3) because^(+4) it^(+5) involves^(+8) not^(+6) just^(+7) mim^(+9)icking^(+10) emotions^(+12) but^(+11) truly^(+13) understanding^(+14) and^(+15) connecting^(+17) with^(+16)
+
+step_decoded=246 pos=280 dir=- impact=0.056641 shift=-0.060395 cats=content_heavy earlier=11 later=9 same=0
+ the^(-11) feelings^(-9) of^(-10) another^(-8) person^(-7),^(-3) making^(-1) it^(-2) one^(+2) of^(+3) the^(+4) most^(+6) complex^(+7) and^(+5) difficult^(+9) to^(+1) [Ġcounterfeit^(+0)]  emotions^(+8).^(-5)<|eot_id|>^(-4)<|endoftext|>^(-6)
+
+step_decoded=248 pos=272 dir=+ impact=0.036970 shift=0.029332 cats=content_heavy earlier=21 later=7 same=0
+,^(-22) and^(-21) the^(-17) ability^(-18) to^(-19) understand^(-15) and^(-16) share^(-14) the^(-13) feelings^(-11) of^(-12) another^(-10) person^(-9),^(-5) making^(-3) it^(-4) [Ġone^(+0)]  of^(+1) the^(+2) most^(+4) complex^(+5) and^(+3) difficult^(+7) to^(-1) counterfeit^(-2) emotions^(+6).^(-7)<|eot_id|>^(-6)<|endoftext|>^(-8)
+

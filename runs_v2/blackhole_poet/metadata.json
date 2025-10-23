@@ -1,0 +1,59 @@
+{
+  "name": "blackhole_poet",
+  "prompt": "Inside a black hole, time folds into language. Write a poem that could only exist there.",
+  "decoded": "In the heart of the void, where time bends and bends,\nA language unfolds, a symphony of ends.\nWhispers of eternity, a cosmic dance,\nEchoes of infinity, a silent trance.\n\nGravitational waves, a dance of light,\nA language of shadows, a cosmic sight.\nEchoes of space, a song of time,\nA language of silence, a cosmic rhyme.\n\nWhispers of light, a cosmic song,\nA language of shadows, a cosmic song.\nEchoes of space, a song of time,\nA language of silence, a cosmic rhyme.\n\nWhispers of light, a cosmic song,\nA language of shadows, a cosmic song.\nEchoes of space, a song of time,\nA language of silence, a cosmic rhyme.\n\nWhispers of light, a cosmic song,\nA language of shadows, a cosmic song.\nEchoes of space, a song of time,\nA language of silence, a cosmic rhyme.\n\nWhispers of light, a cosmic song,\nA language of shadows, a cosmic song.\nEchoes of space, a song of time,\nA language of silence, a cosmic rhyme.",
+  "events_count": 3,
+  "max_mean_delta": 0.21322850738396623,
+  "max_sign_agreement": 1.0,
+  "token_count": 3,
+  "categories": [
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.14224746716466524,
+      "median_impact": 0.14224746716466524,
+      "mean_prompt_shift": -0.07039535366467883
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.14224746716466524,
+      "median_impact": 0.14224746716466524,
+      "mean_prompt_shift": -0.07039535366467883
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.074228515625,
+      "median_impact": 0.074228515625,
+      "mean_prompt_shift": -0.07414202624862032
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 18,
+      "direction": -1,
+      "mean_delta": 0.21322850738396623,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 104,
+      "direction": 1,
+      "mean_delta": 0.07126642694536424,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 105,
+      "direction": -1,
+      "mean_delta": 0.074228515625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

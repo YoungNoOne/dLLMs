@@ -1,0 +1,3 @@
+step_decoded=244 pos=283 dir=- impact=0.038619 shift=-0.034890 cats=content_heavy earlier=16 later=11 same=0
+,^(-17) a^(-16) place^(-14) where^(-15) memories^(-13) of^(-10) the^(-11) past^(-12) could^(-9) be^(-8) preserved^(-5) and^(-6) shared^(+11),^(-1) allowing^(+1) us^(+5) [Ġto^(+0)]  rel^(+3)ive^(+2) the^(+4) cherished^(+10) moments^(+6) of^(+7) our^(+8) lives^(+9).^(-3)<|eot_id|>^(-2)<|endoftext|>^(-4)
+

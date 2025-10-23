@@ -1,0 +1,3 @@
+step_decoded=0 pos=32 dir=- impact=0.068229 shift=-0.068229 cats=content_heavy earlier=0 later=16 same=0
+ [Article^(+0)]  ^(+1)1^(+2):^(+3) The^(+4) Purpose^(+7) of^(+5) the^(+6) Treaty^(+9)Ċ^(+8)The^(+10) purpose^(+13) of^(+11) this^(+15) treaty^(+14) is^(+12) to^(+16)
+

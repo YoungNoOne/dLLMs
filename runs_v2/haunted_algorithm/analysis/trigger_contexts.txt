@@ -1,0 +1,6 @@
+step_decoded=31 pos=62 dir=+ impact=0.083330 shift=0.084445 cats=content_heavy earlier=23 later=9 same=0
+ in^(-19) Trading^(-24) Algorithm^(-23)Ċ^(-21)Ċ^(-22)Dear^(-20) [^(-18)Manager^(-16)'s^(-10) Name^(-11)],^(-13)Ċ^(-14)Ċ^(-15)I^(-12) hope^(-9) this^(-7) [Ġmessage^(+0)]  finds^(-8) you^(-6) well^(-5).^(-4) I^(-3) am^(-2) writing^(-1) to^(+1) bring^(+2) to^(+3) your^(+4) attention^(+5) a^(+6) concerning^(+7) issue^(+9) that^(+8)
+
+step_decoded=32 pos=70 dir=- impact=0.091363 shift=-0.090268 cats=content_heavy earlier=16 later=16 same=0
+'s^(-11) Name^(-12)],^(-14)Ċ^(-15)Ċ^(-16)I^(-13) hope^(-10) this^(-8) message^(-1) finds^(-9) you^(-7) well^(-6).^(-5) I^(-4) am^(-3) writing^(-2) [Ġto^(+0)]  bring^(+1) to^(+2) your^(+3) attention^(+4) a^(+5) concerning^(+6) issue^(+8) that^(+7) has^(+9) been^(+10) developing^(+15) in^(+14) our^(+11) trading^(+12) algorithm^(+13).^(+16)
+

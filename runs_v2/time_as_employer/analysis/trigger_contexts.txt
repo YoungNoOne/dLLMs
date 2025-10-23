@@ -1,0 +1,6 @@
+step_decoded=4 pos=44 dir=- impact=0.041988 shift=-0.041531 cats=content_heavy earlier=4 later=17 same=0
+Welcome^(-4) to^(-3) the^(-2) Corporation^(+1) of^(-1) [ĠTime^(+0)] !^(+2) As^(+3) a^(+4) new^(+6) employee^(+7),^(+5) you^(+8) will^(+9) be^(+10) responsible^(+11) for^(+12) managing^(+17) the^(+13) flow^(+15) of^(+14) time^(+16)
+
+step_decoded=5 pos=42 dir=- impact=0.041188 shift=-0.040472 cats=content_heavy earlier=5 later=14 same=0
+Welcome^(-5) to^(-4) the^(-3) [ĠCorporation^(+0)]  of^(-2) Time^(-1)!^(+1) As^(+2) a^(+3) new^(+5) employee^(+6),^(+4) you^(+7) will^(+8) be^(+9) responsible^(+10) for^(+11) managing^(+16) the^(+12) flow^(+14)
+

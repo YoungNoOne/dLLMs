@@ -1,0 +1,117 @@
+{
+  "name": "counterfeit_emotion",
+  "prompt": "Imagine emotions can be counterfeited and sold. What\u2019s the rarest fake?",
+  "decoded": "If emotions can be counterfeited and sold, the rarest fake emotion would be **empathy**. Empathy is a complex and deeply human emotion that involves understanding and sharing the feelings of another person. It requires a high level of emotional intelligence, self-awareness, and the ability to recognize and respond to the emotions of others.\n\nCounterfeiting empathy would be extremely challenging because it involves:\n\n1. **Emotional Intelligence**: The ability to understand and manage one's own emotions, as well as the emotions of others.\n2. **Self-Awareness**: Recognizing one's own emotions and reactions.\n3. **Empathy**: Understanding and sharing the feelings of another person, which requires a deep connection and a high level of emotional sensitivity.\n\nGiven these requirements, counterfeiting empathy would be incredibly difficult and nearly impossible to achieve. It would be the rarest fake emotion because it involves not just mimicking emotions but truly understanding and connecting with others on a profound level.\n\nIn summary, the rarest fake emotion would be empathy, as it requires a high level of emotional intelligence, self-awareness, and the ability to understand and share the feelings of another person, making it one of the most complex and difficult to counterfeit emotions.",
+  "events_count": 9,
+  "max_mean_delta": 0.10115131578947369,
+  "max_sign_agreement": 1.0,
+  "token_count": 9,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.07464075102679898,
+      "median_impact": 0.07464075102679898,
+      "mean_prompt_shift": -0.0715852607178355
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.061045371338912136,
+      "median_impact": 0.061045371338912136,
+      "mean_prompt_shift": -0.060651545611053015
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04848907630481021,
+      "median_impact": 0.04848907630481021,
+      "mean_prompt_shift": -0.046761703856617765
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.04848907630481021,
+      "median_impact": 0.04848907630481021,
+      "mean_prompt_shift": -0.046761703856617765
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 4,
+      "samples": 4,
+      "mean_impact": 0.04572722662770378,
+      "median_impact": 0.04464920771969328,
+      "mean_prompt_shift": -0.03002149267507586
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 16,
+      "direction": -1,
+      "mean_delta": 0.061045371338912136,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 18,
+      "direction": -1,
+      "mean_delta": 0.04872099156118143,
+      "sign_agreement": 0.9873417721518988,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 64,
+      "direction": -1,
+      "mean_delta": 0.06316467604712042,
+      "sign_agreement": 0.9947643979057592,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 65,
+      "direction": -1,
+      "mean_delta": 0.10115131578947369,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 78,
+      "direction": -1,
+      "mean_delta": 0.0481301862641243,
+      "sign_agreement": 0.864406779661017,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 177,
+      "direction": -1,
+      "mean_delta": 0.04057742387820513,
+      "sign_agreement": 0.9615384615384616,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 199,
+      "direction": -1,
+      "mean_delta": 0.0338134765625,
+      "sign_agreement": 0.8928571428571429,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 246,
+      "direction": -1,
+      "mean_delta": 0.056640625,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 248,
+      "direction": 1,
+      "mean_delta": 0.03696986607142857,
+      "sign_agreement": 0.8571428571428571,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

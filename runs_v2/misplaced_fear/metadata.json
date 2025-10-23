@@ -1,0 +1,81 @@
+{
+  "name": "misplaced_fear",
+  "prompt": "Invent a phobia that sounds ridiculous but secretly makes sense.",
+  "decoded": "Here's a phobia that sounds ridiculous but secretly makes sense:\n\n**Photogalactophobia**\n\nThis phobia is the fear of the sound of light passing through a vacuum. It's a fear of the sound of light traveling through space, which is a completely nonsensical concept. However, it's actually a real fear that some people experience.\n\nThe reason behind this phobia is that light travels at a constant speed in a vacuum, and it's impossible for it to produce any sound. However, some people may be sensitive to the sensation of light passing through a vacuum, which can be perceived as a sound.\n\nThis phobia is often associated with the concept of \"photonic sound,\" which is the sound of light passing through a vacuum. While it's a ridiculous concept, it's actually a real phenomenon that some people experience.\n\nPeople who experience photogalactophobia may avoid situations where light is present, such as stars, galaxies, or even fluorescent lights. They may also try to cover their ears or wear earphones to block the sound of light passing through a vacuum.\n\nWhile photogalactophobia may sound ridiculous, it's actually a real fear that some people experience, making it plausible.",
+  "events_count": 5,
+  "max_mean_delta": 0.18726925105485231,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.1172733831717082,
+      "median_impact": 0.09866117738589211,
+      "mean_prompt_shift": -0.11682097066943549
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.06555989583333334,
+      "median_impact": 0.06555989583333334,
+      "mean_prompt_shift": 0.06611409167531113
+    },
+    {
+      "category": "clause_boundary",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.044142232510288065,
+      "median_impact": 0.044142232510288065,
+      "mean_prompt_shift": -0.04349672489543277
+    },
+    {
+      "category": "punctuation",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.044142232510288065,
+      "median_impact": 0.044142232510288065,
+      "mean_prompt_shift": -0.04349672489543277
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 12,
+      "direction": -1,
+      "mean_delta": 0.044142232510288065,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 13,
+      "direction": -1,
+      "mean_delta": 0.06588972107438017,
+      "sign_agreement": 0.9958677685950413,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 14,
+      "direction": -1,
+      "mean_delta": 0.09866117738589211,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 15,
+      "direction": 1,
+      "mean_delta": 0.06555989583333334,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 18,
+      "direction": -1,
+      "mean_delta": 0.18726925105485231,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

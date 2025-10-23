@@ -1,0 +1,124 @@
+{
+  "name": "forgotten_god",
+  "prompt": "An ancient god awakens after being forgotten for a thousand years. Write their confusion as they try to understand modern civilization.",
+  "decoded": "The god's eyes fluttered open, and the world around them was a blur of colors and sounds. The air was thick with the scent of ozone and the hum of machines. Buildings towered above them, their facades adorned with strange symbols and lights. The god's mind raced as they tried to make sense of this new world. They had heard whispers of a civilization that had thrived in the shadows, but they had never imagined it to be so complex and chaotic.\n\nThe god's eyes widened as they saw the humans bustling about, their faces etched with worry and confusion. They had heard tales of a world that had been vast and powerful, but they had never expected it to be so fragile and vulnerable. The god's heart ached as they watched the humans struggle to survive, their greed and ambition driving them to destroy the planet.\n\nThe god's mind raced as they tried to comprehend the nature of modern civilization. They had heard whispers of a world that had been vast and powerful, but they had never imagined it to be so fragile and vulnerable. The god's heart ached as they watched the humans struggle to survive, their greed and ambition driving them to destroy the planet. How could such a great civilization be so easily destroyed?",
+  "events_count": 10,
+  "max_mean_delta": 0.18058050635026737,
+  "max_sign_agreement": 1.0,
+  "token_count": 10,
+  "categories": [
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.11594300810934421,
+      "median_impact": 0.11594300810934421,
+      "mean_prompt_shift": 0.06491049321902309
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.07899209652829133,
+      "median_impact": 0.08502846575797872,
+      "mean_prompt_shift": -0.0493188040180477
+    },
+    {
+      "category": "special_token",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.05675389869602635,
+      "median_impact": 0.05587288718553459,
+      "mean_prompt_shift": -0.027798221354419367
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05452429772841122,
+      "median_impact": 0.05452429772841122,
+      "mean_prompt_shift": -0.05425618399305132
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05452429772841122,
+      "median_impact": 0.05452429772841122,
+      "mean_prompt_shift": -0.05425618399305132
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 36,
+      "direction": 1,
+      "mean_delta": 0.044252996575342464,
+      "sign_agreement": 0.9452054794520548,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 64,
+      "direction": -1,
+      "mean_delta": 0.06290903141361257,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 65,
+      "direction": -1,
+      "mean_delta": 0.05130550986842105,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 67,
+      "direction": -1,
+      "mean_delta": 0.08502846575797872,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 68,
+      "direction": 1,
+      "mean_delta": 0.18058050635026737,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 93,
+      "direction": -1,
+      "mean_delta": 0.046139564043209874,
+      "sign_agreement": 0.9876543209876543,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 94,
+      "direction": -1,
+      "mean_delta": 0.1076948272515528,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 96,
+      "direction": -1,
+      "mean_delta": 0.05587288718553459,
+      "sign_agreement": 0.9748427672955975,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 163,
+      "direction": 1,
+      "mean_delta": 0.053575598675271736,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 244,
+      "direction": -1,
+      "mean_delta": 0.06081321022727273,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

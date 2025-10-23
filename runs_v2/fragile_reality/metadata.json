@@ -1,0 +1,81 @@
+{
+  "name": "fragile_reality",
+  "prompt": "Reality begins to glitch like a bad video. Write one scene before it resets.",
+  "decoded": "The world around you starts to blur, and the colors begin to shift. The sounds of the city become distorted, and the lights of the buildings start to flicker. You can hear the hum of the city, but it sounds like it's being played in reverse. The air is thick with the smell of ozone, and you can feel the heat of the sun on your skin, but it's not quite right.\n\nAs you look around, you notice that the people on the street seem to be moving in slow motion, their faces contorted in unnatural ways. You can hear the sound of their footsteps, but they're not moving. The lights of the buildings start to flicker and dim, and you can hear the sound of the city's power grid shutting down.\n\nSuddenly, the world around you starts to glitch, and the colors begin to shift and distort. You can hear the sound of the city's power grid shutting down, and the lights of the buildings start to flicker and dim. The air is thick with the smell of ozone, and you can feel the heat of the sun on your skin, but it's not quite right.\n\nAnd then, without warning, the world around you resets, and everything goes black.",
+  "events_count": 5,
+  "max_mean_delta": 0.2228389985380117,
+  "max_sign_agreement": 1.0,
+  "token_count": 5,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.14196149145650586,
+      "median_impact": 0.14196149145650586,
+      "mean_prompt_shift": -0.07970795770464192
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.07798723163952956,
+      "median_impact": 0.07798723163952956,
+      "mean_prompt_shift": -0.07699223959223167
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.07798723163952956,
+      "median_impact": 0.07798723163952956,
+      "mean_prompt_shift": -0.07699223959223167
+    },
+    {
+      "category": "other",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.061567164179104475,
+      "median_impact": 0.061567164179104475,
+      "mean_prompt_shift": 0.06172749533582089
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 53,
+      "direction": -1,
+      "mean_delta": 0.07976871905940594,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 54,
+      "direction": 1,
+      "mean_delta": 0.061567164179104475,
+      "sign_agreement": 0.9900497512437811,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 82,
+      "direction": -1,
+      "mean_delta": 0.07620574421965318,
+      "sign_agreement": 0.9884393063583815,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 84,
+      "direction": -1,
+      "mean_delta": 0.2228389985380117,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 235,
+      "direction": 1,
+      "mean_delta": 0.061083984375,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}

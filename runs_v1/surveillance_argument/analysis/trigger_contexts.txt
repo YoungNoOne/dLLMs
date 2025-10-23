@@ -1,0 +1,3 @@
+step_decoded=251 pos=300 dir=+ impact=0.041748 shift=0.043994 cats=content_heavy earlier=19 later=4 same=0
+.^(-20) By^(-15) doing^(-18) so^(-17),^(-16) we^(-13) can^(-14) create^(-12) a^(-10) society^(-7) where^(-6) safety^(-5) is^(-3) achieved^(-2) through^(-1) trust^(+4) [Ġrather^(+0)]  than^(+1) obedience^(+2) under^(+3) fear^(-4).^(-9)<|eot_id|>^(-8)<|endoftext|>^(-11)
+

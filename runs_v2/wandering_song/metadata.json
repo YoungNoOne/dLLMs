@@ -1,0 +1,125 @@
+{
+  "name": "wandering_song",
+  "prompt": "A melody that once existed in your head begins playing everywhere you go.",
+  "decoded": "The melody that once existed in your head begins playing everywhere you go. It's as if the tune has become a part of your very being, a constant companion that follows you through every moment. You can hear it in the silence, in the whispers of the wind, and in the gentle rhythm of your own heartbeat. The melody is a symphony of emotions, a dance of memories, and a song of the soul. It's a reminder of the beauty in life, the joy in the simple moments, and the magic that resides within each of us.\n\nAs you walk through the city, the melody echoes off the buildings, creating a sense of harmony and peace. It's as if the city itself is responding to the tune, creating a tapestry of sound and light. You can hear the melody in the laughter of strangers, in the whispers of loved ones, and in the quiet hum of the world around you. It's a melody that transcends time and space, a tune that speaks to the essence of the human experience.\n\nThe melody has become a part of you, a reflection of your own thoughts and emotions. It's a melody that will stay with you, a tune that will continue to play in your heart for years to come.",
+  "events_count": 9,
+  "max_mean_delta": 0.1831393771701389,
+  "max_sign_agreement": 1.0,
+  "token_count": 9,
+  "categories": [
+    {
+      "category": "special_token",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.1831393771701389,
+      "median_impact": 0.1831393771701389,
+      "mean_prompt_shift": -0.18410602438038792
+    },
+    {
+      "category": "other",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.05308966287901547,
+      "median_impact": 0.05308966287901547,
+      "mean_prompt_shift": 0.052454744221971605
+    },
+    {
+      "category": "condition_marker",
+      "triggers": 1,
+      "samples": 1,
+      "mean_impact": 0.04581263075313807,
+      "median_impact": 0.04581263075313807,
+      "mean_prompt_shift": -0.04524746393392609
+    },
+    {
+      "category": "content_heavy",
+      "triggers": 3,
+      "samples": 3,
+      "mean_impact": 0.04411218914649193,
+      "median_impact": 0.04286151960784314,
+      "mean_prompt_shift": -0.04178008883029561
+    },
+    {
+      "category": "punctuation",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.0432802310286053,
+      "median_impact": 0.0432802310286053,
+      "mean_prompt_shift": -0.043278412358644186
+    },
+    {
+      "category": "sentence_boundary",
+      "triggers": 2,
+      "samples": 2,
+      "mean_impact": 0.0432802310286053,
+      "median_impact": 0.0432802310286053,
+      "mean_prompt_shift": -0.043278412358644186
+    }
+  ],
+  "events": [
+    {
+      "step_decoded": 0,
+      "direction": -1,
+      "mean_delta": 0.04286151960784314,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 16,
+      "direction": -1,
+      "mean_delta": 0.04581263075313807,
+      "sign_agreement": 0.9916317991631799,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 60,
+      "direction": -1,
+      "mean_delta": 0.04321915064102564,
+      "sign_agreement": 0.9846153846153847,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 82,
+      "direction": -1,
+      "mean_delta": 0.04334131141618497,
+      "sign_agreement": 0.9942196531791907,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 84,
+      "direction": 1,
+      "mean_delta": 0.05038148757309942,
+      "sign_agreement": 0.9883040935672515,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 108,
+      "direction": -1,
+      "mean_delta": 0.048947704081632654,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 109,
+      "direction": 1,
+      "mean_delta": 0.05579783818493151,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 111,
+      "direction": -1,
+      "mean_delta": 0.1831393771701389,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    },
+    {
+      "step_decoded": 251,
+      "direction": -1,
+      "mean_delta": 0.04052734375,
+      "sign_agreement": 1.0,
+      "tokens": 1
+    }
+  ],
+  "extra": {}
+}
